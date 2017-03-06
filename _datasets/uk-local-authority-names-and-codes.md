@@ -11,7 +11,7 @@ resources:
   - name: Messy Names Lookup
     url: >-
       https://raw.githubusercontent.com/ajparsons/uk_local_authority_names_and_codes/master/uk_local_authority_messy_lookup.csv
-    format: ''
+    format: csv
 license: ''
 category:
   - Groups & Bodies
