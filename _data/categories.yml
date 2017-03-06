@@ -1,19 +1,19 @@
 - name: People
-  logo: ''
-  logo_credit: ''
+  logo: /img/categories/person.svg
+  logo_credit: Miroku Sama
   featured: true
 - name: Groups & Bodies
-  logo: ''
-  logo_credit: ''
+  logo: /img/categories/group.svg
+  logo_credit: Role Play from the Noun Project
   featured: true
 - name: APIs
-  logo: ''
-  logo_credit: ''
+  logo: /img/categories/api.svg
+  logo_credit: mikicon from the Noun Project
   featured: true
 - name: Geodata
-  logo: ''
-  logo_credit: ''
+  logo: /img/categories/geo.svg
+  logo_credit: Role Play from the Noun Project
   featured: true
 - name: United Kingdom
-  logo: ''
-  logo_credit: ''
+  logo: /img/categories/uk.svg
+  logo_credit: Nikita Kozin from the Noun Project
