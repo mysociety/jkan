@@ -2,13 +2,18 @@
   logo: ''
   logo_credit: ''
   featured: true
-- name: Uncategorized
-  logo: ''
-  logo_credit: ''
 - name: Groups & Bodies
   logo: ''
   logo_credit: ''
   featured: true
 - name: APIs
+  logo: ''
+  logo_credit: ''
+  featured: true
+- name: Geodata
+  logo: ''
+  logo_credit: ''
+  featured: true
+- name: United Kingdom
   logo: ''
   logo_credit: ''
