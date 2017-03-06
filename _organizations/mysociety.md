@@ -2,5 +2,6 @@
 schema: default
 title: mySociety
 description: ''
-logo: ''
+logo: >-
+  https://www.mysociety.org/wp-content/themes/mysociety-new/assets/img/mysociety-circles-logo-for-social.png
 ---
