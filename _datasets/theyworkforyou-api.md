@@ -10,6 +10,7 @@ resources:
 license: ''
 category:
   - People
+  - APIs
 maintainer: ''
 maintainer_email: ''
 ---
