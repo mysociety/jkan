@@ -2,7 +2,9 @@
 schema: default
 title: UK Local Authority Names and Codes
 organization: mySociety
-notes: ''
+notes: >-
+  A list of all Local Authorities in the UK, along with the codes which refer to
+  them under various coding systems.
 resources:
   - name: Local Authority Names and Codes
     url: >-
@@ -11,7 +13,7 @@ resources:
   - name: Messy Names Lookup
     url: >-
       https://raw.githubusercontent.com/ajparsons/uk_local_authority_names_and_codes/master/uk_local_authority_messy_lookup.csv
-    format: csv
+    format: ''
 license: ''
 category:
   - Groups & Bodies
