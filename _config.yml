@@ -8,7 +8,7 @@ logo: /img/jkan.png
 jkan_theme: Superhero
 
 # Authentication
-github_client_id: 004ea01e354e7edc1ee9
+github_client_id: 6adbccde067603821507
 gatekeeper_host: https://mysociety-jkan-gatekeeper.herokuapp.com
 
 # Dataset schema
