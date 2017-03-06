@@ -8,6 +8,10 @@ resources:
     url: 'https://mapit.mysociety.org/'
     format: api
 license: ''
+category:
+  - APIs
+  - Geodata
+  - United Kingdom
 maintainer: ''
 maintainer_email: ''
 ---
