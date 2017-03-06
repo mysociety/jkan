@@ -17,3 +17,4 @@
 - name: United Kingdom
   logo: /img/categories/uk.svg
   logo_credit: Nikita Kozin from the Noun Project
+  featured: true
