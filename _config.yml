@@ -1,6 +1,6 @@
-title: data.mySociety.org
-greeting: Civic data from mySociety, for good and awesome.
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: mySociety Data
+greeting: Welcome to mySociety Data
+description: Civic data for good and awesome.
 baseurl: /jkan
 logo: /img/jkan.png
 
