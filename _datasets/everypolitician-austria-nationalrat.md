@@ -2,8 +2,7 @@
 schema: default
 title: Austria — Nationalrat
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Nationalrat legislature of Austria.
+notes: Data on the people within the Nationalrat legislature of Austria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T19:37:10
 license: ''
 category:
-  - Groups & Bodies
+  - Austria
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

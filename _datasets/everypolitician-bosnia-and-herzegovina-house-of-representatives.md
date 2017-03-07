@@ -2,8 +2,7 @@
 schema: default
 title: Bosnia and Herzegovina — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Bosnia and Herzegovina.
+notes: Data on the people within the House of Representatives legislature of Bosnia and Herzegovina.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T20:50:01
 license: ''
 category:
-  - Groups & Bodies
+  - Bosnia and Herzegovina
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

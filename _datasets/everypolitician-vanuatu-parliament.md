@@ -2,8 +2,7 @@
 schema: default
 title: Vanuatu — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Vanuatu.
+notes: Data on the people within the Parliament legislature of Vanuatu.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-26T21:04:59
 license: ''
 category:
-  - Groups & Bodies
+  - Vanuatu
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

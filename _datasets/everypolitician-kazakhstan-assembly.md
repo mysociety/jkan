@@ -2,8 +2,7 @@
 schema: default
 title: Kazakhstan — Mazhilis
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Mazhilis legislature of Kazakhstan.
+notes: Data on the people within the Mazhilis legislature of Kazakhstan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-22T06:52:00
 license: ''
 category:
-  - Groups & Bodies
+  - Kazakhstan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Czech Republic — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Czech Republic.
+notes: Data on the people within the Chamber of Deputies legislature of Czech Republic.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -40,8 +39,9 @@ resources:
 last_modified: 2017-02-26T16:23:44
 license: ''
 category:
-  - Groups & Bodies
+  - Czech Republic
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

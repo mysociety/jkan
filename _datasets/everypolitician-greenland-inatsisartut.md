@@ -2,8 +2,7 @@
 schema: default
 title: Greenland — Inatsisartut
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Inatsisartut legislature of Greenland.
+notes: Data on the people within the Inatsisartut legislature of Greenland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -60,8 +59,9 @@ resources:
 last_modified: 2017-02-26T20:26:47
 license: ''
 category:
-  - Groups & Bodies
+  - Greenland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

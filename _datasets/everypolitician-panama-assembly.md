@@ -2,8 +2,7 @@
 schema: default
 title: Panama — Asamblea Nacional
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Asamblea Nacional legislature of Panama.
+notes: Data on the people within the Asamblea Nacional legislature of Panama.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T22:40:22
 license: ''
 category:
-  - Groups & Bodies
+  - Panama
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Italy — Senate
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Senate legislature of Italy.
+notes: Data on the people within the Senate legislature of Italy.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T14:51:06
 license: ''
 category:
-  - Groups & Bodies
+  - Italy
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

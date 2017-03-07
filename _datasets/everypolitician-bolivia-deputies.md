@@ -2,8 +2,7 @@
 schema: default
 title: Bolivia — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Bolivia.
+notes: Data on the people within the Chamber of Deputies legislature of Bolivia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-24T17:32:20
 license: ''
 category:
-  - Groups & Bodies
+  - Bolivia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

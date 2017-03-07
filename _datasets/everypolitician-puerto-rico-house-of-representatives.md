@@ -2,8 +2,7 @@
 schema: default
 title: Puerto Rico — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Puerto Rico.
+notes: Data on the people within the House of Representatives legislature of Puerto Rico.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-15T22:43:55
 license: ''
 category:
-  - Groups & Bodies
+  - Puerto Rico
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

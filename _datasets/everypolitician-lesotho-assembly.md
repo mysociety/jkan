@@ -2,8 +2,7 @@
 schema: default
 title: Lesotho — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Lesotho.
+notes: Data on the people within the National Assembly legislature of Lesotho.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-15T10:42:58
 license: ''
 category:
-  - Groups & Bodies
+  - Lesotho
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Uzbekistan — Legislative Chamber
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Chamber legislature of Uzbekistan.
+notes: Data on the people within the Legislative Chamber legislature of Uzbekistan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:57
 license: ''
 category:
-  - Groups & Bodies
+  - Uzbekistan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

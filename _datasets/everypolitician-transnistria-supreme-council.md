@@ -2,8 +2,7 @@
 schema: default
 title: Transnistria — Supreme Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Supreme Council legislature of Transnistria.
+notes: Data on the people within the Supreme Council legislature of Transnistria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-03-05T14:09:02
 license: ''
 category:
-  - Groups & Bodies
+  - Transnistria
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

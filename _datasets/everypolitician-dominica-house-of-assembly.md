@@ -2,8 +2,7 @@
 schema: default
 title: Dominica — House of Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Assembly legislature of Dominica.
+notes: Data on the people within the House of Assembly legislature of Dominica.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T21:53:07
 license: ''
 category:
-  - Groups & Bodies
+  - Dominica
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

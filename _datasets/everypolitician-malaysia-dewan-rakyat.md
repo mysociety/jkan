@@ -2,8 +2,7 @@
 schema: default
 title: Malaysia — Dewan Rakyat
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Dewan Rakyat legislature of Malaysia.
+notes: Data on the people within the Dewan Rakyat legislature of Malaysia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -64,8 +63,9 @@ resources:
 last_modified: 2017-02-11T07:35:19
 license: ''
 category:
-  - Groups & Bodies
+  - Malaysia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

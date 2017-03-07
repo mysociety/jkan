@@ -2,8 +2,7 @@
 schema: default
 title: Libya — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Libya.
+notes: Data on the people within the House of Representatives legislature of Libya.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:05
 license: ''
 category:
-  - Groups & Bodies
+  - Libya
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

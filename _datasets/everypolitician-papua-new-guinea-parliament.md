@@ -2,8 +2,7 @@
 schema: default
 title: Papua New Guinea — National Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Parliament legislature of Papua New Guinea.
+notes: Data on the people within the National Parliament legislature of Papua New Guinea.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-04T12:01:59
 license: ''
 category:
-  - Groups & Bodies
+  - Papua New Guinea
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

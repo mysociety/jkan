@@ -2,8 +2,7 @@
 schema: default
 title: Vatican City — Pontifical Commission
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Pontifical Commission legislature of Vatican City.
+notes: Data on the people within the Pontifical Commission legislature of Vatican City.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-04T12:53:14
 license: ''
 category:
-  - Groups & Bodies
+  - Vatican City
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

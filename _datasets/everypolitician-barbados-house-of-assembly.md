@@ -2,8 +2,7 @@
 schema: default
 title: Barbados — House of Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Assembly legislature of Barbados.
+notes: Data on the people within the House of Assembly legislature of Barbados.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:50:57
 license: ''
 category:
-  - Groups & Bodies
+  - Barbados
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

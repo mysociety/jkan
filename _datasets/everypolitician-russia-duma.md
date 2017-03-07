@@ -2,8 +2,7 @@
 schema: default
 title: Russia — Duma
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Duma legislature of Russia.
+notes: Data on the people within the Duma legislature of Russia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-11T10:06:27
 license: ''
 category:
-  - Groups & Bodies
+  - Russia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

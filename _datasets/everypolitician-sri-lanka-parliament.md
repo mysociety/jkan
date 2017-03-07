@@ -2,8 +2,7 @@
 schema: default
 title: Sri Lanka — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Sri Lanka.
+notes: Data on the people within the Parliament legislature of Sri Lanka.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-03T20:56:33
 license: ''
 category:
-  - Groups & Bodies
+  - Sri Lanka
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

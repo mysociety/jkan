@@ -12,11 +12,12 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4efd9c6d188edfe779cd0e0d42fff99ba59b80f4/data/Colombia/Senate/term-2014.csv
     format: csv
+last_modified: 2017-02-20T05:57:08
 license: ''
 category:
+  - Colombia
   - People
   - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
-last_modified: '2017-02-20 05:57:08 +0000'
 ---

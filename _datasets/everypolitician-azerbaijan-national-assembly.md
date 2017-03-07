@@ -2,8 +2,7 @@
 schema: default
 title: Azerbaijan — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Azerbaijan.
+notes: Data on the people within the National Assembly legislature of Azerbaijan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-26T17:13:02
 license: ''
 category:
-  - Groups & Bodies
+  - Azerbaijan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

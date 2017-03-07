@@ -2,8 +2,7 @@
 schema: default
 title: Åland — Lagting
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Lagting legislature of Åland.
+notes: Data on the people within the Lagting legislature of Åland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-03-03T02:46:25
 license: ''
 category:
-  - Groups & Bodies
+  - Åland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

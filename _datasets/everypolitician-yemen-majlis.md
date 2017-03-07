@@ -2,8 +2,7 @@
 schema: default
 title: Yemen — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Yemen.
+notes: Data on the people within the House of Representatives legislature of Yemen.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:58
 license: ''
 category:
-  - Groups & Bodies
+  - Yemen
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

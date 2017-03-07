@@ -2,8 +2,7 @@
 schema: default
 title: Canada — House of Commons
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Commons legislature of Canada.
+notes: Data on the people within the House of Commons legislature of Canada.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-26T02:09:54
 license: ''
 category:
-  - Groups & Bodies
+  - Canada
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

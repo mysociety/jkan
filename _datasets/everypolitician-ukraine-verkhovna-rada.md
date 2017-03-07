@@ -2,8 +2,7 @@
 schema: default
 title: Ukraine — Verkhovna Rada
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Verkhovna Rada legislature of Ukraine.
+notes: Data on the people within the Verkhovna Rada legislature of Ukraine.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-06T15:35:39
 license: ''
 category:
-  - Groups & Bodies
+  - Ukraine
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

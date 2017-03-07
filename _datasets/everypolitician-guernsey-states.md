@@ -2,8 +2,7 @@
 schema: default
 title: Guernsey — States
 organization: EveryPolitician
-notes: >-
-  Data on the people within the States legislature of Guernsey.
+notes: Data on the people within the States legislature of Guernsey.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-22T06:51:44
 license: ''
 category:
-  - Groups & Bodies
+  - Guernsey
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

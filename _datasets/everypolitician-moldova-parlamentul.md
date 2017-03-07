@@ -2,8 +2,7 @@
 schema: default
 title: Moldova — Parlament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parlament legislature of Moldova.
+notes: Data on the people within the Parlament legislature of Moldova.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T08:19:01
 license: ''
 category:
-  - Groups & Bodies
+  - Moldova
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

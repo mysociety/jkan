@@ -2,8 +2,7 @@
 schema: default
 title: Portugal — Assembleia da República
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembleia da República legislature of Portugal.
+notes: Data on the people within the Assembleia da República legislature of Portugal.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -64,8 +63,9 @@ resources:
 last_modified: 2017-02-27T07:14:58
 license: ''
 category:
-  - Groups & Bodies
+  - Portugal
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

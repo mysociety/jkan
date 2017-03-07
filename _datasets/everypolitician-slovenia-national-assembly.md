@@ -2,8 +2,7 @@
 schema: default
 title: Slovenia — Državni zbor
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Državni zbor legislature of Slovenia.
+notes: Data on the people within the Državni zbor legislature of Slovenia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T01:17:27
 license: ''
 category:
-  - Groups & Bodies
+  - Slovenia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

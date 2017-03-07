@@ -2,8 +2,7 @@
 schema: default
 title: India — Lok Sabha
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Lok Sabha legislature of India.
+notes: Data on the people within the Lok Sabha legislature of India.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-02T05:38:40
 license: ''
 category:
-  - Groups & Bodies
+  - India
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

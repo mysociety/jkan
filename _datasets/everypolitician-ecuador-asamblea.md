@@ -2,8 +2,7 @@
 schema: default
 title: Ecuador — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Ecuador.
+notes: Data on the people within the National Assembly legislature of Ecuador.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T14:13:45
 license: ''
 category:
-  - Groups & Bodies
+  - Ecuador
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

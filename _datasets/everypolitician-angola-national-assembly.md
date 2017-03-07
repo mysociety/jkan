@@ -2,8 +2,7 @@
 schema: default
 title: Angola — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Angola.
+notes: Data on the people within the National Assembly legislature of Angola.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-11T09:52:10
 license: ''
 category:
-  - Groups & Bodies
+  - Angola
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

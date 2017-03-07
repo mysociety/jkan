@@ -2,8 +2,7 @@
 schema: default
 title: Egypt — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Egypt.
+notes: Data on the people within the Parliament legislature of Egypt.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-24T06:27:36
 license: ''
 category:
-  - Groups & Bodies
+  - Egypt
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

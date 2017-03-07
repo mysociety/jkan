@@ -2,8 +2,7 @@
 schema: default
 title: Antigua and Barbuda — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Antigua and Barbuda.
+notes: Data on the people within the House of Representatives legislature of Antigua and Barbuda.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -52,8 +51,9 @@ resources:
 last_modified: 2017-01-22T06:50:49
 license: ''
 category:
-  - Groups & Bodies
+  - Antigua and Barbuda
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

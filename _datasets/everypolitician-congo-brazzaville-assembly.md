@@ -2,8 +2,7 @@
 schema: default
 title: Congo-Brazzaville — Assemblee Nationale
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assemblee Nationale legislature of Congo-Brazzaville.
+notes: Data on the people within the Assemblee Nationale legislature of Congo-Brazzaville.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:15
 license: ''
 category:
-  - Groups & Bodies
+  - Congo-Brazzaville
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

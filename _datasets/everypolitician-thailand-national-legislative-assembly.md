@@ -2,8 +2,7 @@
 schema: default
 title: Thailand — National Legislative Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Legislative Assembly legislature of Thailand.
+notes: Data on the people within the National Legislative Assembly legislature of Thailand.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T23:14:12
 license: ''
 category:
-  - Groups & Bodies
+  - Thailand
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

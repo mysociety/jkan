@@ -2,8 +2,7 @@
 schema: default
 title: Spain — Congreso de los Diputados
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Congreso de los Diputados legislature of Spain.
+notes: Data on the people within the Congreso de los Diputados legislature of Spain.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-03-02T11:23:51
 license: ''
 category:
-  - Groups & Bodies
+  - Spain
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

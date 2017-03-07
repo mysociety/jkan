@@ -2,8 +2,7 @@
 schema: default
 title: Switzerland — National Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Council legislature of Switzerland.
+notes: Data on the people within the National Council legislature of Switzerland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -68,8 +67,9 @@ resources:
 last_modified: 2017-02-27T10:23:33
 license: ''
 category:
-  - Groups & Bodies
+  - Switzerland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

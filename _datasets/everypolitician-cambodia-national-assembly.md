@@ -2,8 +2,7 @@
 schema: default
 title: Cambodia — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Cambodia.
+notes: Data on the people within the National Assembly legislature of Cambodia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-24T04:19:40
 license: ''
 category:
-  - Groups & Bodies
+  - Cambodia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Japan — Shūgiin
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Shūgiin legislature of Japan.
+notes: Data on the people within the Shūgiin legislature of Japan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-29T20:50:51
 license: ''
 category:
-  - Groups & Bodies
+  - Japan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

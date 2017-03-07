@@ -2,8 +2,7 @@
 schema: default
 title: Kenya — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Kenya.
+notes: Data on the people within the National Assembly legislature of Kenya.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-15T03:49:20
 license: ''
 category:
-  - Groups & Bodies
+  - Kenya
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

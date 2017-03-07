@@ -2,8 +2,7 @@
 schema: default
 title: Tajikistan — Assembly of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembly of Representatives legislature of Tajikistan.
+notes: Data on the people within the Assembly of Representatives legislature of Tajikistan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:44
 license: ''
 category:
-  - Groups & Bodies
+  - Tajikistan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

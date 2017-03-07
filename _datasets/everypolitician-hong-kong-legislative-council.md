@@ -2,8 +2,7 @@
 schema: default
 title: Hong Kong — Legislative Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Council legislature of Hong Kong.
+notes: Data on the people within the Legislative Council legislature of Hong Kong.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-24T02:42:41
 license: ''
 category:
-  - Groups & Bodies
+  - Hong Kong
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

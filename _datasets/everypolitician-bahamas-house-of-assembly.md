@@ -2,8 +2,7 @@
 schema: default
 title: Bahamas — House of Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Assembly legislature of Bahamas.
+notes: Data on the people within the House of Assembly legislature of Bahamas.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:50:55
 license: ''
 category:
-  - Groups & Bodies
+  - Bahamas
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

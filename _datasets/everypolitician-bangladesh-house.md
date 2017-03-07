@@ -2,8 +2,7 @@
 schema: default
 title: Bangladesh — Jatiyo Sangshad
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Jatiyo Sangshad legislature of Bangladesh.
+notes: Data on the people within the Jatiyo Sangshad legislature of Bangladesh.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-10T03:38:24
 license: ''
 category:
-  - Groups & Bodies
+  - Bangladesh
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

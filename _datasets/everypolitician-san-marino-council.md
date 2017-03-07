@@ -2,8 +2,7 @@
 schema: default
 title: San Marino — Grand and General Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Grand and General Council legislature of San Marino.
+notes: Data on the people within the Grand and General Council legislature of San Marino.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-30T11:43:20
 license: ''
 category:
-  - Groups & Bodies
+  - San Marino
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

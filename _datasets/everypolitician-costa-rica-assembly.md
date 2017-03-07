@@ -2,8 +2,7 @@
 schema: default
 title: Costa Rica — Legislative Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Assembly legislature of Costa Rica.
+notes: Data on the people within the Legislative Assembly legislature of Costa Rica.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T21:13:19
 license: ''
 category:
-  - Groups & Bodies
+  - Costa Rica
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

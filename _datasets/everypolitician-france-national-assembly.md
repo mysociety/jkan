@@ -2,8 +2,7 @@
 schema: default
 title: France — Assemblée nationale
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assemblée nationale legislature of France.
+notes: Data on the people within the Assemblée nationale legislature of France.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-03-02T01:19:13
 license: ''
 category:
-  - Groups & Bodies
+  - France
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

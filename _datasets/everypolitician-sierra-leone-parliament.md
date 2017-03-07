@@ -2,8 +2,7 @@
 schema: default
 title: Sierra Leone — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Sierra Leone.
+notes: Data on the people within the Parliament legislature of Sierra Leone.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:36
 license: ''
 category:
-  - Groups & Bodies
+  - Sierra Leone
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

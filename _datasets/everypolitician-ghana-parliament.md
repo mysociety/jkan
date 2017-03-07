@@ -2,8 +2,7 @@
 schema: default
 title: Ghana — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Ghana.
+notes: Data on the people within the Parliament legislature of Ghana.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:39
 license: ''
 category:
-  - Groups & Bodies
+  - Ghana
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

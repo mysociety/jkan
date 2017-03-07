@@ -2,8 +2,7 @@
 schema: default
 title: Jordan — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Jordan.
+notes: Data on the people within the House of Representatives legislature of Jordan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-25T10:37:12
 license: ''
 category:
-  - Groups & Bodies
+  - Jordan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

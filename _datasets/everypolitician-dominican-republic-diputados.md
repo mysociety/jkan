@@ -2,8 +2,7 @@
 schema: default
 title: Dominican Republic — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Dominican Republic.
+notes: Data on the people within the Chamber of Deputies legislature of Dominican Republic.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T11:42:26
 license: ''
 category:
-  - Groups & Bodies
+  - Dominican Republic
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

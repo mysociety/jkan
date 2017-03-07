@@ -2,8 +2,7 @@
 schema: default
 title: Saudi Arabia — Shura Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Shura Council legislature of Saudi Arabia.
+notes: Data on the people within the Shura Council legislature of Saudi Arabia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:34
 license: ''
 category:
-  - Groups & Bodies
+  - Saudi Arabia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

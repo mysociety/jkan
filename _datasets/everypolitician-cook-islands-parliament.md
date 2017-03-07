@@ -2,8 +2,7 @@
 schema: default
 title: Cook Islands — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Cook Islands.
+notes: Data on the people within the Parliament legislature of Cook Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-02-23T17:05:12
 license: ''
 category:
-  - Groups & Bodies
+  - Cook Islands
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

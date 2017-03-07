@@ -2,8 +2,7 @@
 schema: default
 title: Uruguay — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Uruguay.
+notes: Data on the people within the Chamber of Deputies legislature of Uruguay.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-04T10:02:13
 license: ''
 category:
-  - Groups & Bodies
+  - Uruguay
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

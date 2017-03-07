@@ -2,8 +2,7 @@
 schema: default
 title: Gabon — Assemblée nationale
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assemblée nationale legislature of Gabon.
+notes: Data on the people within the Assemblée nationale legislature of Gabon.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:33
 license: ''
 category:
-  - Groups & Bodies
+  - Gabon
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

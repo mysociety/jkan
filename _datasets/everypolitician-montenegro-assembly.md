@@ -2,8 +2,7 @@
 schema: default
 title: Montenegro — Skupština
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Skupština legislature of Montenegro.
+notes: Data on the people within the Skupština legislature of Montenegro.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-28T17:16:05
 license: ''
 category:
-  - Groups & Bodies
+  - Montenegro
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

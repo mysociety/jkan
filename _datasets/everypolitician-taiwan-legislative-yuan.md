@@ -2,8 +2,7 @@
 schema: default
 title: Taiwan — Legislative Yuan
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Yuan legislature of Taiwan.
+notes: Data on the people within the Legislative Yuan legislature of Taiwan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-27T06:20:42
 license: ''
 category:
-  - Groups & Bodies
+  - Taiwan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

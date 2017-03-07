@@ -2,8 +2,7 @@
 schema: default
 title: Oman — Majlis al-Shura
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Majlis al-Shura legislature of Oman.
+notes: Data on the people within the Majlis al-Shura legislature of Oman.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T22:10:07
 license: ''
 category:
-  - Groups & Bodies
+  - Oman
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

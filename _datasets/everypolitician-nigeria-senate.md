@@ -2,8 +2,7 @@
 schema: default
 title: Nigeria — Senate
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Senate legislature of Nigeria.
+notes: Data on the people within the Senate legislature of Nigeria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-25T19:51:21
 license: ''
 category:
-  - Groups & Bodies
+  - Nigeria
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

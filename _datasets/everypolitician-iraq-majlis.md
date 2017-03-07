@@ -2,8 +2,7 @@
 schema: default
 title: Iraq — Council of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Council of Representatives legislature of Iraq.
+notes: Data on the people within the Council of Representatives legislature of Iraq.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:53
 license: ''
 category:
-  - Groups & Bodies
+  - Iraq
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Sweden — Riksdag
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Riksdag legislature of Sweden.
+notes: Data on the people within the Riksdag legislature of Sweden.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -60,8 +59,9 @@ resources:
 last_modified: 2017-02-27T23:19:10
 license: ''
 category:
-  - Groups & Bodies
+  - Sweden
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

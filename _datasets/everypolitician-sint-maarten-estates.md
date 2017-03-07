@@ -2,8 +2,7 @@
 schema: default
 title: Sint Maarten — Estates
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Estates legislature of Sint Maarten.
+notes: Data on the people within the Estates legislature of Sint Maarten.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-21T14:28:26
 license: ''
 category:
-  - Groups & Bodies
+  - Sint Maarten
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

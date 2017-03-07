@@ -2,8 +2,7 @@
 schema: default
 title: Macao — Legislative Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Assembly legislature of Macao.
+notes: Data on the people within the Legislative Assembly legislature of Macao.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-25T11:43:11
 license: ''
 category:
-  - Groups & Bodies
+  - Macao
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

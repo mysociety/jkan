@@ -2,8 +2,7 @@
 schema: default
 title: Faroe Islands — Løgting
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Løgting legislature of Faroe Islands.
+notes: Data on the people within the Løgting legislature of Faroe Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -44,8 +43,9 @@ resources:
 last_modified: 2017-02-23T12:29:28
 license: ''
 category:
-  - Groups & Bodies
+  - Faroe Islands
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

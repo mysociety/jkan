@@ -2,8 +2,7 @@
 schema: default
 title: Maldives — Majlis
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Majlis legislature of Maldives.
+notes: Data on the people within the Majlis legislature of Maldives.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T22:26:25
 license: ''
 category:
-  - Groups & Bodies
+  - Maldives
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

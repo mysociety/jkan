@@ -2,8 +2,7 @@
 schema: default
 title: Liechtenstein — Landtag
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Landtag legislature of Liechtenstein.
+notes: Data on the people within the Landtag legislature of Liechtenstein.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-02-12T01:21:48
 license: ''
 category:
-  - Groups & Bodies
+  - Liechtenstein
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

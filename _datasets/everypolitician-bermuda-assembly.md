@@ -2,8 +2,7 @@
 schema: default
 title: Bermuda — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Bermuda.
+notes: Data on the people within the Parliament legislature of Bermuda.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-06T13:12:46
 license: ''
 category:
-  - Groups & Bodies
+  - Bermuda
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

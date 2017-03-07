@@ -2,8 +2,7 @@
 schema: default
 title: Saint Vincent and the Grenadines — House of Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Assembly legislature of Saint Vincent and the Grenadines.
+notes: Data on the people within the House of Assembly legislature of Saint Vincent and the Grenadines.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-22T06:52:33
 license: ''
 category:
-  - Groups & Bodies
+  - Saint Vincent and the Grenadines
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

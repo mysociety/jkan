@@ -2,8 +2,7 @@
 schema: default
 title: Niger — Assemblée nationale
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assemblée nationale legislature of Niger.
+notes: Data on the people within the Assemblée nationale legislature of Niger.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:19
 license: ''
 category:
-  - Groups & Bodies
+  - Niger
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

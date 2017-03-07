@@ -2,8 +2,7 @@
 schema: default
 title: Nepal — Constituent Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Constituent Assembly legislature of Nepal.
+notes: Data on the people within the Constituent Assembly legislature of Nepal.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-28T03:39:56
 license: ''
 category:
-  - Groups & Bodies
+  - Nepal
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

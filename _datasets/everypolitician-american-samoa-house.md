@@ -2,8 +2,7 @@
 schema: default
 title: American Samoa — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of American Samoa.
+notes: Data on the people within the House of Representatives legislature of American Samoa.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-30T12:24:06
 license: ''
 category:
-  - Groups & Bodies
+  - American Samoa
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

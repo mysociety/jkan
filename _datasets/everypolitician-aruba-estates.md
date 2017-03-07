@@ -2,8 +2,7 @@
 schema: default
 title: Aruba — Estates of Aruba
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Estates of Aruba legislature of Aruba.
+notes: Data on the people within the Estates of Aruba legislature of Aruba.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:50:51
 license: ''
 category:
-  - Groups & Bodies
+  - Aruba
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

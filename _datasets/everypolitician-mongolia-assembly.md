@@ -2,8 +2,7 @@
 schema: default
 title: Mongolia — State Great Khural
 organization: EveryPolitician
-notes: >-
-  Data on the people within the State Great Khural legislature of Mongolia.
+notes: Data on the people within the State Great Khural legislature of Mongolia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-02-26T17:01:23
 license: ''
 category:
-  - Groups & Bodies
+  - Mongolia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

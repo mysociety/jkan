@@ -2,8 +2,7 @@
 schema: default
 title: Slovakia — National Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Council legislature of Slovakia.
+notes: Data on the people within the National Council legislature of Slovakia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -36,8 +35,9 @@ resources:
 last_modified: 2017-02-15T07:24:17
 license: ''
 category:
-  - Groups & Bodies
+  - Slovakia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

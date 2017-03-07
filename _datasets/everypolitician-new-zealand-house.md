@@ -2,8 +2,7 @@
 schema: default
 title: New Zealand — New Zealand Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the New Zealand Parliament legislature of New Zealand.
+notes: Data on the people within the New Zealand Parliament legislature of New Zealand.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -28,8 +27,9 @@ resources:
 last_modified: 2017-03-01T13:23:13
 license: ''
 category:
-  - Groups & Bodies
+  - New Zealand
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

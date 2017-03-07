@@ -2,8 +2,7 @@
 schema: default
 title: Micronesia — Congress
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Congress legislature of Micronesia.
+notes: Data on the people within the Congress legislature of Micronesia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-01-22T06:52:12
 license: ''
 category:
-  - Groups & Bodies
+  - Micronesia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

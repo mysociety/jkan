@@ -2,8 +2,7 @@
 schema: default
 title: Paraguay — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Paraguay.
+notes: Data on the people within the Chamber of Deputies legislature of Paraguay.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-04T11:23:47
 license: ''
 category:
-  - Groups & Bodies
+  - Paraguay
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

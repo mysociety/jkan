@@ -2,8 +2,7 @@
 schema: default
 title: Northern Mariana Islands — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Northern Mariana Islands.
+notes: Data on the people within the House of Representatives legislature of Northern Mariana Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T14:08:17
 license: ''
 category:
-  - Groups & Bodies
+  - Northern Mariana Islands
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

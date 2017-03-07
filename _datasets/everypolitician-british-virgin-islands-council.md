@@ -2,8 +2,7 @@
 schema: default
 title: British Virgin Islands — Legislative Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Council legislature of British Virgin Islands.
+notes: Data on the people within the Legislative Council legislature of British Virgin Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -48,8 +47,9 @@ resources:
 last_modified: 2017-01-22T06:51:05
 license: ''
 category:
-  - Groups & Bodies
+  - British Virgin Islands
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

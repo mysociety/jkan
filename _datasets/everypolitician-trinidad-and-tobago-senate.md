@@ -2,8 +2,7 @@
 schema: default
 title: Trinidad and Tobago — Senate
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Senate legislature of Trinidad and Tobago.
+notes: Data on the people within the Senate legislature of Trinidad and Tobago.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:46
 license: ''
 category:
-  - Groups & Bodies
+  - Trinidad and Tobago
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

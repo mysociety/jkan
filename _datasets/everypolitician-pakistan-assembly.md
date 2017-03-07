@@ -2,8 +2,7 @@
 schema: default
 title: Pakistan — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Pakistan.
+notes: Data on the people within the National Assembly legislature of Pakistan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-09T08:47:55
 license: ''
 category:
-  - Groups & Bodies
+  - Pakistan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

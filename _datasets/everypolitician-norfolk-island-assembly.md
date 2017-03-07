@@ -2,8 +2,7 @@
 schema: default
 title: Norfolk Island — Legislative Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Assembly legislature of Norfolk Island.
+notes: Data on the people within the Legislative Assembly legislature of Norfolk Island.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:20
 license: ''
 category:
-  - Groups & Bodies
+  - Norfolk Island
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

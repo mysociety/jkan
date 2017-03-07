@@ -2,8 +2,7 @@
 schema: default
 title: Tuvalu — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Tuvalu.
+notes: Data on the people within the Parliament legislature of Tuvalu.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-02-20T00:55:36
 license: ''
 category:
-  - Groups & Bodies
+  - Tuvalu
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

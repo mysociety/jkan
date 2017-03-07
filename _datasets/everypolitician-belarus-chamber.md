@@ -2,8 +2,7 @@
 schema: default
 title: Belarus — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Belarus.
+notes: Data on the people within the House of Representatives legislature of Belarus.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T22:24:30
 license: ''
 category:
-  - Groups & Bodies
+  - Belarus
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

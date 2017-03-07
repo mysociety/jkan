@@ -2,8 +2,7 @@
 schema: default
 title: Latvia — Saeima
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Saeima legislature of Latvia.
+notes: Data on the people within the Saeima legislature of Latvia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -24,8 +23,9 @@ resources:
 last_modified: 2017-03-03T02:25:01
 license: ''
 category:
-  - Groups & Bodies
+  - Latvia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

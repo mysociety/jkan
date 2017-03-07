@@ -2,8 +2,7 @@
 schema: default
 title: Laos — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Laos.
+notes: Data on the people within the National Assembly legislature of Laos.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-25T07:36:54
 license: ''
 category:
-  - Groups & Bodies
+  - Laos
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

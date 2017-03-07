@@ -2,8 +2,7 @@
 schema: default
 title: Falkland Islands — Legislative Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Assembly legislature of Falkland Islands.
+notes: Data on the people within the Legislative Assembly legislature of Falkland Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -52,8 +51,9 @@ resources:
 last_modified: 2017-02-05T22:47:27
 license: ''
 category:
-  - Groups & Bodies
+  - Falkland Islands
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

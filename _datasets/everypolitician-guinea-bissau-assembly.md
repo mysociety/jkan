@@ -2,8 +2,7 @@
 schema: default
 title: Guinea-Bissau — National People's Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National People's Assembly legislature of Guinea-Bissau.
+notes: Data on the people within the National People's Assembly legislature of Guinea-Bissau.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:45
 license: ''
 category:
-  - Groups & Bodies
+  - Guinea-Bissau
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

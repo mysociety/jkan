@@ -2,8 +2,7 @@
 schema: default
 title: Serbia — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Serbia.
+notes: Data on the people within the National Assembly legislature of Serbia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-03-03T12:06:58
 license: ''
 category:
-  - Groups & Bodies
+  - Serbia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

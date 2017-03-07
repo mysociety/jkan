@@ -2,8 +2,7 @@
 schema: default
 title: Namibia — National Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Council legislature of Namibia.
+notes: Data on the people within the National Council legislature of Namibia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -32,8 +31,9 @@ resources:
 last_modified: 2017-01-22T06:52:16
 license: ''
 category:
-  - Groups & Bodies
+  - Namibia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

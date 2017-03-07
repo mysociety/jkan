@@ -2,8 +2,7 @@
 schema: default
 title: Curaçao — Estates of Curaçao
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Estates of Curaçao legislature of Curaçao.
+notes: Data on the people within the Estates of Curaçao legislature of Curaçao.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-23T15:15:29
 license: ''
 category:
-  - Groups & Bodies
+  - Curaçao
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

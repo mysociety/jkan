@@ -2,8 +2,7 @@
 schema: default
 title: Uganda — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Uganda.
+notes: Data on the people within the Parliament legislature of Uganda.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-22T06:52:52
 license: ''
 category:
-  - Groups & Bodies
+  - Uganda
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

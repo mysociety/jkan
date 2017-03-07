@@ -2,8 +2,7 @@
 schema: default
 title: Argentina — Cámara de Senadores
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Cámara de Senadores legislature of Argentina.
+notes: Data on the people within the Cámara de Senadores legislature of Argentina.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:50:50
 license: ''
 category:
-  - Groups & Bodies
+  - Argentina
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

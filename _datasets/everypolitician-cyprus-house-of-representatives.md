@@ -2,8 +2,7 @@
 schema: default
 title: Cyprus — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Cyprus.
+notes: Data on the people within the House of Representatives legislature of Cyprus.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-04T11:47:33
 license: ''
 category:
-  - Groups & Bodies
+  - Cyprus
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

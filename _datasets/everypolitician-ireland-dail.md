@@ -2,8 +2,7 @@
 schema: default
 title: Ireland — Dáil Éireann
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Dáil Éireann legislature of Ireland.
+notes: Data on the people within the Dáil Éireann legislature of Ireland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-26T18:13:45
 license: ''
 category:
-  - Groups & Bodies
+  - Ireland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

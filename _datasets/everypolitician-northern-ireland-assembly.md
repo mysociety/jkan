@@ -2,8 +2,7 @@
 schema: default
 title: Northern Ireland — Northern Ireland Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Northern Ireland Assembly legislature of Northern Ireland.
+notes: Data on the people within the Northern Ireland Assembly legislature of Northern Ireland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -36,8 +35,9 @@ resources:
 last_modified: 2017-03-06T17:09:12
 license: ''
 category:
-  - Groups & Bodies
+  - Northern Ireland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Swaziland — House of Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Assembly legislature of Swaziland.
+notes: Data on the people within the House of Assembly legislature of Swaziland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-22T06:52:41
 license: ''
 category:
-  - Groups & Bodies
+  - Swaziland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

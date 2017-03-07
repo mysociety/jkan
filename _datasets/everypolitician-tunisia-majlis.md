@@ -2,8 +2,7 @@
 schema: default
 title: Tunisia — Assembly of the Representatives of the People
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembly of the Representatives of the People legislature of Tunisia.
+notes: Data on the people within the Assembly of the Representatives of the People legislature of Tunisia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T23:32:25
 license: ''
 category:
-  - Groups & Bodies
+  - Tunisia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

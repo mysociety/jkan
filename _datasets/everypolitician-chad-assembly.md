@@ -2,8 +2,7 @@
 schema: default
 title: Chad — Assemblée Nationale
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assemblée Nationale legislature of Chad.
+notes: Data on the people within the Assemblée Nationale legislature of Chad.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-04T10:47:59
 license: ''
 category:
-  - Groups & Bodies
+  - Chad
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

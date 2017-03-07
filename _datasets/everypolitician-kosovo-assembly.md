@@ -2,8 +2,7 @@
 schema: default
 title: Kosovo — Kuvendit
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Kuvendit legislature of Kosovo.
+notes: Data on the people within the Kuvendit legislature of Kosovo.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -32,8 +31,9 @@ resources:
 last_modified: 2017-02-24T08:55:18
 license: ''
 category:
-  - Groups & Bodies
+  - Kosovo
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

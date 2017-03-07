@@ -2,8 +2,7 @@
 schema: default
 title: Senegal — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Senegal.
+notes: Data on the people within the National Assembly legislature of Senegal.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-23T15:19:13
 license: ''
 category:
-  - Groups & Bodies
+  - Senegal
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

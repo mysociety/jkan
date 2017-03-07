@@ -2,8 +2,7 @@
 schema: default
 title: Belgium — Chamber of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Representatives legislature of Belgium.
+notes: Data on the people within the Chamber of Representatives legislature of Belgium.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-24T09:40:48
 license: ''
 category:
-  - Groups & Bodies
+  - Belgium
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

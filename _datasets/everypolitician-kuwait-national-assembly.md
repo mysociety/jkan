@@ -2,8 +2,7 @@
 schema: default
 title: Kuwait — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Kuwait.
+notes: Data on the people within the National Assembly legislature of Kuwait.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-09T07:02:06
 license: ''
 category:
-  - Groups & Bodies
+  - Kuwait
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

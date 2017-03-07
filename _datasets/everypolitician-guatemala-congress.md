@@ -2,8 +2,7 @@
 schema: default
 title: Guatemala — Congress
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Congress legislature of Guatemala.
+notes: Data on the people within the Congress legislature of Guatemala.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-28T20:19:10
 license: ''
 category:
-  - Groups & Bodies
+  - Guatemala
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

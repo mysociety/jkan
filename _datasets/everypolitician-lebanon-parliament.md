@@ -2,8 +2,7 @@
 schema: default
 title: Lebanon — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Lebanon.
+notes: Data on the people within the Parliament legislature of Lebanon.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-28T11:43:01
 license: ''
 category:
-  - Groups & Bodies
+  - Lebanon
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

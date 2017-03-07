@@ -2,8 +2,7 @@
 schema: default
 title: El Salvador — Legislative Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislative Assembly legislature of El Salvador.
+notes: Data on the people within the Legislative Assembly legislature of El Salvador.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:26
 license: ''
 category:
-  - Groups & Bodies
+  - El Salvador
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

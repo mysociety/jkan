@@ -2,8 +2,7 @@
 schema: default
 title: US Virgin Islands — Legislature
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Legislature legislature of US Virgin Islands.
+notes: Data on the people within the Legislature legislature of US Virgin Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T23:21:08
 license: ''
 category:
-  - Groups & Bodies
+  - US Virgin Islands
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

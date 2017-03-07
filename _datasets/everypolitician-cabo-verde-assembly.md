@@ -2,8 +2,7 @@
 schema: default
 title: Cabo Verde — Assembleia Nacional
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembleia Nacional legislature of Cabo Verde.
+notes: Data on the people within the Assembleia Nacional legislature of Cabo Verde.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-22T06:51:08
 license: ''
 category:
-  - Groups & Bodies
+  - Cabo Verde
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

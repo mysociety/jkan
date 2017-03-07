@@ -2,8 +2,7 @@
 schema: default
 title: Alderney — States
 organization: EveryPolitician
-notes: >-
-  Data on the people within the States legislature of Alderney.
+notes: Data on the people within the States legislature of Alderney.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-26T09:53:11
 license: ''
 category:
-  - Groups & Bodies
+  - Alderney
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

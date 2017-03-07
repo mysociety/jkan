@@ -2,8 +2,7 @@
 schema: default
 title: Vietnam — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Vietnam.
+notes: Data on the people within the National Assembly legislature of Vietnam.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-05T00:06:01
 license: ''
 category:
-  - Groups & Bodies
+  - Vietnam
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Northern Cyprus — Assembly of the Republic
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembly of the Republic legislature of Northern Cyprus.
+notes: Data on the people within the Assembly of the Republic legislature of Northern Cyprus.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-04T14:21:53
 license: ''
 category:
-  - Groups & Bodies
+  - Northern Cyprus
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

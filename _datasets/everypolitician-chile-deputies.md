@@ -2,8 +2,7 @@
 schema: default
 title: Chile — National Congress
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Congress legislature of Chile.
+notes: Data on the people within the National Congress legislature of Chile.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -40,8 +39,9 @@ resources:
 last_modified: 2017-02-28T01:30:28
 license: ''
 category:
-  - Groups & Bodies
+  - Chile
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

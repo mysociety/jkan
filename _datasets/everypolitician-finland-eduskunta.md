@@ -2,8 +2,7 @@
 schema: default
 title: Finland — Eduskunta
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Eduskunta legislature of Finland.
+notes: Data on the people within the Eduskunta legislature of Finland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -64,8 +63,9 @@ resources:
 last_modified: 2017-02-27T23:27:45
 license: ''
 category:
-  - Groups & Bodies
+  - Finland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Jamaica — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Jamaica.
+notes: Data on the people within the House of Representatives legislature of Jamaica.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-20T09:50:00
 license: ''
 category:
-  - Groups & Bodies
+  - Jamaica
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

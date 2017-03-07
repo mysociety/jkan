@@ -2,8 +2,7 @@
 schema: default
 title: French Polynesia — Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembly legislature of French Polynesia.
+notes: Data on the people within the Assembly legislature of French Polynesia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-05T10:05:25
 license: ''
 category:
-  - Groups & Bodies
+  - French Polynesia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

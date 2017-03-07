@@ -2,8 +2,7 @@
 schema: default
 title: Cameroon — Sénat
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Sénat legislature of Cameroon.
+notes: Data on the people within the Sénat legislature of Cameroon.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:10
 license: ''
 category:
-  - Groups & Bodies
+  - Cameroon
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

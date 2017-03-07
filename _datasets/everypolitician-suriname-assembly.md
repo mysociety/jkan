@@ -2,8 +2,7 @@
 schema: default
 title: Suriname — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Suriname.
+notes: Data on the people within the National Assembly legislature of Suriname.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-05T07:26:15
 license: ''
 category:
-  - Groups & Bodies
+  - Suriname
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

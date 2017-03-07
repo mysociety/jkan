@@ -2,8 +2,7 @@
 schema: default
 title: Nauru — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Nauru.
+notes: Data on the people within the Parliament legislature of Nauru.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -28,8 +27,9 @@ resources:
 last_modified: 2017-02-24T10:22:16
 license: ''
 category:
-  - Groups & Bodies
+  - Nauru
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

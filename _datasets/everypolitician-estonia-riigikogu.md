@@ -2,8 +2,7 @@
 schema: default
 title: Estonia — Riigikogu
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Riigikogu legislature of Estonia.
+notes: Data on the people within the Riigikogu legislature of Estonia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-28T08:57:34
 license: ''
 category:
-  - Groups & Bodies
+  - Estonia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Germany — Bundestag
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Bundestag legislature of Germany.
+notes: Data on the people within the Bundestag legislature of Germany.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -84,8 +83,9 @@ resources:
 last_modified: 2017-02-27T10:19:37
 license: ''
 category:
-  - Groups & Bodies
+  - Germany
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Hungary — Országgyűlés
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Országgyűlés legislature of Hungary.
+notes: Data on the people within the Országgyűlés legislature of Hungary.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-28T04:32:28
 license: ''
 category:
-  - Groups & Bodies
+  - Hungary
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

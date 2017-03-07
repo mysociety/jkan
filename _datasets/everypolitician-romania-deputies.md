@@ -2,8 +2,7 @@
 schema: default
 title: Romania — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Romania.
+notes: Data on the people within the Chamber of Deputies legislature of Romania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T19:33:21
 license: ''
 category:
-  - Groups & Bodies
+  - Romania
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

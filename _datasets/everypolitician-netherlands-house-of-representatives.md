@@ -2,8 +2,7 @@
 schema: default
 title: Netherlands — Tweede Kamer
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Tweede Kamer legislature of Netherlands.
+notes: Data on the people within the Tweede Kamer legislature of Netherlands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T02:58:33
 license: ''
 category:
-  - Groups & Bodies
+  - Netherlands
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

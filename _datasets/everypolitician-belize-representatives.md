@@ -2,8 +2,7 @@
 schema: default
 title: Belize — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Belize.
+notes: Data on the people within the House of Representatives legislature of Belize.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-11T07:12:30
 license: ''
 category:
-  - Groups & Bodies
+  - Belize
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

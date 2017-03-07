@@ -2,8 +2,7 @@
 schema: default
 title: Saint Barthélemy — Territorial Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Territorial Council legislature of Saint Barthélemy.
+notes: Data on the people within the Territorial Council legislature of Saint Barthélemy.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:31
 license: ''
 category:
-  - Groups & Bodies
+  - Saint Barthélemy
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

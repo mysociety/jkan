@@ -2,8 +2,7 @@
 schema: default
 title: Mali — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Mali.
+notes: Data on the people within the National Assembly legislature of Mali.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T22:06:04
 license: ''
 category:
-  - Groups & Bodies
+  - Mali
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

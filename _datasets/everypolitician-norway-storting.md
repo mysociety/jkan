@@ -2,8 +2,7 @@
 schema: default
 title: Norway — Storting
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Storting legislature of Norway.
+notes: Data on the people within the Storting legislature of Norway.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -84,8 +83,9 @@ resources:
 last_modified: 2017-02-27T22:34:17
 license: ''
 category:
-  - Groups & Bodies
+  - Norway
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

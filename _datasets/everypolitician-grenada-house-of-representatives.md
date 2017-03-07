@@ -2,8 +2,7 @@
 schema: default
 title: Grenada — House of Representatives
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Representatives legislature of Grenada.
+notes: Data on the people within the House of Representatives legislature of Grenada.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:42
 license: ''
 category:
-  - Groups & Bodies
+  - Grenada
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

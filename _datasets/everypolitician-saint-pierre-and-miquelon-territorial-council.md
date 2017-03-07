@@ -2,8 +2,7 @@
 schema: default
 title: Saint Pierre and Miquelon — Territorial Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Territorial Council legislature of Saint Pierre and Miquelon.
+notes: Data on the people within the Territorial Council legislature of Saint Pierre and Miquelon.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-01-22T06:52:33
 license: ''
 category:
-  - Groups & Bodies
+  - Saint Pierre and Miquelon
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

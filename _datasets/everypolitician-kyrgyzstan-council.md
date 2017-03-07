@@ -2,8 +2,7 @@
 schema: default
 title: Kyrgyzstan — Supreme Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Supreme Council legislature of Kyrgyzstan.
+notes: Data on the people within the Supreme Council legislature of Kyrgyzstan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-26T00:22:29
 license: ''
 category:
-  - Groups & Bodies
+  - Kyrgyzstan
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

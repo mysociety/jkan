@@ -2,8 +2,7 @@
 schema: default
 title: Armenia — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Armenia.
+notes: Data on the people within the National Assembly legislature of Armenia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T20:31:15
 license: ''
 category:
-  - Groups & Bodies
+  - Armenia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

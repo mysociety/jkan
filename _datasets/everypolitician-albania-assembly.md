@@ -2,8 +2,7 @@
 schema: default
 title: Albania — Kuvendi
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Kuvendi legislature of Albania.
+notes: Data on the people within the Kuvendi legislature of Albania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-13T09:48:52
 license: ''
 category:
-  - Groups & Bodies
+  - Albania
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

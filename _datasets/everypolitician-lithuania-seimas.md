@@ -2,8 +2,7 @@
 schema: default
 title: Lithuania — Seimas
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Seimas legislature of Lithuania.
+notes: Data on the people within the Seimas legislature of Lithuania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-15T04:05:37
 license: ''
 category:
-  - Groups & Bodies
+  - Lithuania
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

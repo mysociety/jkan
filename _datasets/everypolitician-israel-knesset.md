@@ -2,8 +2,7 @@
 schema: default
 title: Israel — Knesset
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Knesset legislature of Israel.
+notes: Data on the people within the Knesset legislature of Israel.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -92,8 +91,9 @@ resources:
 last_modified: 2017-02-28T06:58:03
 license: ''
 category:
-  - Groups & Bodies
+  - Israel
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

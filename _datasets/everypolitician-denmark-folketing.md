@@ -2,8 +2,7 @@
 schema: default
 title: Denmark — Folketing
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Folketing legislature of Denmark.
+notes: Data on the people within the Folketing legislature of Denmark.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -44,8 +43,9 @@ resources:
 last_modified: 2017-02-07T08:48:27
 license: ''
 category:
-  - Groups & Bodies
+  - Denmark
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

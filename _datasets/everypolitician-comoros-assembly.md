@@ -2,8 +2,7 @@
 schema: default
 title: Comoros — Assembly of the Union
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembly of the Union legislature of Comoros.
+notes: Data on the people within the Assembly of the Union legislature of Comoros.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:15
 license: ''
 category:
-  - Groups & Bodies
+  - Comoros
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

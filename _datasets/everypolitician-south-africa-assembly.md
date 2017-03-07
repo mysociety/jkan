@@ -2,8 +2,7 @@
 schema: default
 title: South Africa — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of South Africa.
+notes: Data on the people within the National Assembly legislature of South Africa.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T23:11:34
 license: ''
 category:
-  - Groups & Bodies
+  - South Africa
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

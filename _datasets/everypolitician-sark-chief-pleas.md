@@ -2,8 +2,7 @@
 schema: default
 title: Sark — Chief Pleas
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chief Pleas legislature of Sark.
+notes: Data on the people within the Chief Pleas legislature of Sark.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -28,8 +27,9 @@ resources:
 last_modified: 2017-01-22T06:52:34
 license: ''
 category:
-  - Groups & Bodies
+  - Sark
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Luxembourg — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Luxembourg.
+notes: Data on the people within the Chamber of Deputies legislature of Luxembourg.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-23T12:09:54
 license: ''
 category:
-  - Groups & Bodies
+  - Luxembourg
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

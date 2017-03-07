@@ -2,8 +2,7 @@
 schema: default
 title: Niue — Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assembly legislature of Niue.
+notes: Data on the people within the Assembly legislature of Niue.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:20
 license: ''
 category:
-  - Groups & Bodies
+  - Niue
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Nicaragua — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Nicaragua.
+notes: Data on the people within the National Assembly legislature of Nicaragua.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:19
 license: ''
 category:
-  - Groups & Bodies
+  - Nicaragua
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Tanzania — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Tanzania.
+notes: Data on the people within the National Assembly legislature of Tanzania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -28,8 +27,9 @@ resources:
 last_modified: 2017-02-11T01:40:03
 license: ''
 category:
-  - Groups & Bodies
+  - Tanzania
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

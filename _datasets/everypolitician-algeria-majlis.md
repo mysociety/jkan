@@ -2,8 +2,7 @@
 schema: default
 title: Algeria — People's National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the People's National Assembly legislature of Algeria.
+notes: Data on the people within the People's National Assembly legislature of Algeria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-29T07:15:58
 license: ''
 category:
-  - Groups & Bodies
+  - Algeria
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

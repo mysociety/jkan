@@ -2,8 +2,7 @@
 schema: default
 title: Jersey — States
 organization: EveryPolitician
-notes: >-
-  Data on the people within the States legislature of Jersey.
+notes: Data on the people within the States legislature of Jersey.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:59
 license: ''
 category:
-  - Groups & Bodies
+  - Jersey
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

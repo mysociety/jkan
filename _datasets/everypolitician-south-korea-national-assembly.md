@@ -2,8 +2,7 @@
 schema: default
 title: South Korea — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of South Korea.
+notes: Data on the people within the National Assembly legislature of South Korea.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-27T06:41:53
 license: ''
 category:
-  - Groups & Bodies
+  - South Korea
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

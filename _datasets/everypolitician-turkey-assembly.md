@@ -2,8 +2,7 @@
 schema: default
 title: Turkey — Grand National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Grand National Assembly legislature of Turkey.
+notes: Data on the people within the Grand National Assembly legislature of Turkey.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -116,8 +115,9 @@ resources:
 last_modified: 2017-01-27T10:54:36
 license: ''
 category:
-  - Groups & Bodies
+  - Turkey
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

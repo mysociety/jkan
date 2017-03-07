@@ -2,8 +2,7 @@
 schema: default
 title: Honduras — National Congress
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Congress legislature of Honduras.
+notes: Data on the people within the National Congress legislature of Honduras.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-04T23:03:31
 license: ''
 category:
-  - Groups & Bodies
+  - Honduras
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

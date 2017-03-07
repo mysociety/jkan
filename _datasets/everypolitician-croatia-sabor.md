@@ -2,8 +2,7 @@
 schema: default
 title: Croatia — Sabor
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Sabor legislature of Croatia.
+notes: Data on the people within the Sabor legislature of Croatia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-03-03T21:19:21
 license: ''
 category:
-  - Groups & Bodies
+  - Croatia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

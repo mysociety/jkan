@@ -2,8 +2,7 @@
 schema: default
 title: China — National People’s Congress
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National People’s Congress legislature of China.
+notes: Data on the people within the National People’s Congress legislature of China.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-23T07:06:34
 license: ''
 category:
-  - Groups & Bodies
+  - China
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

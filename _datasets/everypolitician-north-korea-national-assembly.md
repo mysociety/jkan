@@ -2,8 +2,7 @@
 schema: default
 title: North Korea — Supreme People’s Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Supreme People’s Assembly legislature of North Korea.
+notes: Data on the people within the Supreme People’s Assembly legislature of North Korea.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T11:00:28
 license: ''
 category:
-  - Groups & Bodies
+  - North Korea
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

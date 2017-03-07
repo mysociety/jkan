@@ -2,8 +2,7 @@
 schema: default
 title: New Caledonia — Congress
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Congress legislature of New Caledonia.
+notes: Data on the people within the Congress legislature of New Caledonia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-27T03:06:30
 license: ''
 category:
-  - Groups & Bodies
+  - New Caledonia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

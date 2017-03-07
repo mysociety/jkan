@@ -2,8 +2,7 @@
 schema: default
 title: Peru — Congress
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Congress legislature of Peru.
+notes: Data on the people within the Congress legislature of Peru.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T10:29:51
 license: ''
 category:
-  - Groups & Bodies
+  - Peru
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Australia — Senate
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Senate legislature of Australia.
+notes: Data on the people within the Senate legislature of Australia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -56,8 +55,9 @@ resources:
 last_modified: 2017-03-03T00:12:12
 license: ''
 category:
-  - Groups & Bodies
+  - Australia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

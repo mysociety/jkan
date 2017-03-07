@@ -2,8 +2,7 @@
 schema: default
 title: Somalia — House of the People
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of the People legislature of Somalia.
+notes: Data on the people within the House of the People legislature of Somalia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-03-03T23:02:39
 license: ''
 category:
-  - Groups & Bodies
+  - Somalia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

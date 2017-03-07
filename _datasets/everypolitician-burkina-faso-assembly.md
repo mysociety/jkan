@@ -2,8 +2,7 @@
 schema: default
 title: Burkina Faso — Assemblée Nationale
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Assemblée Nationale legislature of Burkina Faso.
+notes: Data on the people within the Assemblée Nationale legislature of Burkina Faso.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -32,8 +31,9 @@ resources:
 last_modified: 2017-01-22T06:51:07
 license: ''
 category:
-  - Groups & Bodies
+  - Burkina Faso
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

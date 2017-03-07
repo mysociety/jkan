@@ -2,8 +2,7 @@
 schema: default
 title: Kiribati — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Kiribati.
+notes: Data on the people within the Parliament legislature of Kiribati.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-26T09:07:31
 license: ''
 category:
-  - Groups & Bodies
+  - Kiribati
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

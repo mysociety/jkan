@@ -2,8 +2,7 @@
 schema: default
 title: Zambia — National Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the National Assembly legislature of Zambia.
+notes: Data on the people within the National Assembly legislature of Zambia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-02-26T13:36:34
 license: ''
 category:
-  - Groups & Bodies
+  - Zambia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

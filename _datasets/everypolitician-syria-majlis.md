@@ -2,8 +2,7 @@
 schema: default
 title: Syria — People’s Council
 organization: EveryPolitician
-notes: >-
-  Data on the people within the People’s Council legislature of Syria.
+notes: Data on the people within the People’s Council legislature of Syria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:43
 license: ''
 category:
-  - Groups & Bodies
+  - Syria
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

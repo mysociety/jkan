@@ -2,8 +2,7 @@
 schema: default
 title: Brazil — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Brazil.
+notes: Data on the people within the Chamber of Deputies legislature of Brazil.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -20,8 +19,9 @@ resources:
 last_modified: 2017-02-15T13:47:00
 license: ''
 category:
-  - Groups & Bodies
+  - Brazil
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

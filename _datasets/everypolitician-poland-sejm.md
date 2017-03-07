@@ -2,8 +2,7 @@
 schema: default
 title: Poland — Sejm
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Sejm legislature of Poland.
+notes: Data on the people within the Sejm legislature of Poland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -44,8 +43,9 @@ resources:
 last_modified: 2017-03-03T10:16:39
 license: ''
 category:
-  - Groups & Bodies
+  - Poland
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

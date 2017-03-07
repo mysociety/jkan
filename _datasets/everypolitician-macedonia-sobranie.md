@@ -2,8 +2,7 @@
 schema: default
 title: Macedonia — Sobranie
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Sobranie legislature of Macedonia.
+notes: Data on the people within the Sobranie legislature of Macedonia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:07
 license: ''
 category:
-  - Groups & Bodies
+  - Macedonia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

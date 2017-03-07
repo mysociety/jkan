@@ -2,8 +2,7 @@
 schema: default
 title: Gibraltar — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Gibraltar.
+notes: Data on the people within the Parliament legislature of Gibraltar.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -60,8 +59,9 @@ resources:
 last_modified: 2017-01-22T06:51:40
 license: ''
 category:
-  - Groups & Bodies
+  - Gibraltar
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

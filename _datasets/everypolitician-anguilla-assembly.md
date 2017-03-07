@@ -2,8 +2,7 @@
 schema: default
 title: Anguilla — House of Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Assembly legislature of Anguilla.
+notes: Data on the people within the House of Assembly legislature of Anguilla.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -40,8 +39,9 @@ resources:
 last_modified: 2017-01-22T06:50:48
 license: ''
 category:
-  - Groups & Bodies
+  - Anguilla
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Singapore — Parliament
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Parliament legislature of Singapore.
+notes: Data on the people within the Parliament legislature of Singapore.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -64,8 +63,9 @@ resources:
 last_modified: 2017-02-27T02:30:10
 license: ''
 category:
-  - Groups & Bodies
+  - Singapore
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

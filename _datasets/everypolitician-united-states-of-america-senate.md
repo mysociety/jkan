@@ -2,8 +2,7 @@
 schema: default
 title: United States of America — Senate
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Senate legislature of United States of America.
+notes: Data on the people within the Senate legislature of United States of America.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -88,8 +87,9 @@ resources:
 last_modified: 2017-02-27T06:08:40
 license: ''
 category:
-  - Groups & Bodies
+  - United States of America
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

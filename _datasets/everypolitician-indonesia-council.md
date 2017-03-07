@@ -2,8 +2,7 @@
 schema: default
 title: Indonesia — Dewan Perwakilan Rakyat
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Dewan Perwakilan Rakyat legislature of Indonesia.
+notes: Data on the people within the Dewan Perwakilan Rakyat legislature of Indonesia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:51:52
 license: ''
 category:
-  - Groups & Bodies
+  - Indonesia
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---

@@ -2,8 +2,7 @@
 schema: default
 title: Rwanda — Chamber of Deputies
 organization: EveryPolitician
-notes: >-
-  Data on the people within the Chamber of Deputies legislature of Rwanda.
+notes: Data on the people within the Chamber of Deputies legislature of Rwanda.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -16,8 +15,9 @@ resources:
 last_modified: 2017-01-22T06:52:30
 license: ''
 category:
-  - Groups & Bodies
+  - Rwanda
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---
