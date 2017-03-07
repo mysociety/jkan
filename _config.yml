@@ -67,8 +67,8 @@ hypothesis:
 
 # Twitter
 twittercard:
-  enabled: false
-  username: "@"
+  enabled: true
+  username: "@mysociety"
 
 # Open Graph
 opengraph:
