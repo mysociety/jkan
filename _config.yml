@@ -12,7 +12,7 @@ github_client_id: 6adbccde067603821507
 gatekeeper_host: https://mysociety-jkan-gatekeeper.herokuapp.com
 
 # Dataset schema
-schema: mysociety
+schema: default
 
 # Nav bar
 navigation:
