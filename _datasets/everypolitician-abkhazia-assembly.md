@@ -14,6 +14,7 @@ resources:
     format: csv
 license: ''
 category:
+  - Abkhazia
   - People
   - Groups & Bodies
 maintainer: EveryPolitician
