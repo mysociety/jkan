@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Djibouti: National Assembly
+title: Djibouti — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Djibouti.

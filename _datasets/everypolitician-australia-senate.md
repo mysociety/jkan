@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Australia: Senate
+title: Australia — Senate
 organization: EveryPolitician
 notes: >-
   Data on the people within the Senate legislature of Australia.

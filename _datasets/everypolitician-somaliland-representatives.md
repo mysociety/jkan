@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Somaliland: House of Representatives
+title: Somaliland — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Somaliland.

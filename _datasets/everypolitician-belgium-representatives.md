@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Belgium: Chamber of Representatives
+title: Belgium — Chamber of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Representatives legislature of Belgium.

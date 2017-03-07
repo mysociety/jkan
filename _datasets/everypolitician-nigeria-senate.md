@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Nigeria: Senate
+title: Nigeria — Senate
 organization: EveryPolitician
 notes: >-
   Data on the people within the Senate legislature of Nigeria.

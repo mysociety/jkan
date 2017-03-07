@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Paraguay: Chamber of Deputies
+title: Paraguay — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Paraguay.

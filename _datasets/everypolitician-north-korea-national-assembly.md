@@ -1,6 +1,6 @@
 ---
 schema: default
-title: North Korea: Supreme People’s Assembly
+title: North Korea — Supreme People’s Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Supreme People’s Assembly legislature of North Korea.

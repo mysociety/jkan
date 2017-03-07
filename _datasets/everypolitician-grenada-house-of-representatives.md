@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Grenada: House of Representatives
+title: Grenada — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Grenada.

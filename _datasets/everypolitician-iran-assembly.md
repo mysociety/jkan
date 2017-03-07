@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Iran: Majles
+title: Iran — Majles
 organization: EveryPolitician
 notes: >-
   Data on the people within the Majles legislature of Iran.

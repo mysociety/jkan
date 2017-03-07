@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Alderney: States
+title: Alderney — States
 organization: EveryPolitician
 notes: >-
   Data on the people within the States legislature of Alderney.

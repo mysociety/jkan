@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Malta: Parliament
+title: Malta — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Malta.

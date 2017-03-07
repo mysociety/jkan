@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Vietnam: National Assembly
+title: Vietnam — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Vietnam.

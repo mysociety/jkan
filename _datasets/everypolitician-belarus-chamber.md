@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Belarus: House of Representatives
+title: Belarus — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Belarus.

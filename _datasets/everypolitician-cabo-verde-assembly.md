@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Cabo Verde: Assembleia Nacional
+title: Cabo Verde — Assembleia Nacional
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assembleia Nacional legislature of Cabo Verde.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Armenia: National Assembly
+title: Armenia — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Armenia.

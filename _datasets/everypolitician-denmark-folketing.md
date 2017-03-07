@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Denmark: Folketing
+title: Denmark — Folketing
 organization: EveryPolitician
 notes: >-
   Data on the people within the Folketing legislature of Denmark.

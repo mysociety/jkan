@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Brunei: Legislative Council of Brunei
+title: Brunei — Legislative Council of Brunei
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Council of Brunei legislature of Brunei.

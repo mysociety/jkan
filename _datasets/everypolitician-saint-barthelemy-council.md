@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Saint Barthélemy: Territorial Council
+title: Saint Barthélemy — Territorial Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the Territorial Council legislature of Saint Barthélemy.

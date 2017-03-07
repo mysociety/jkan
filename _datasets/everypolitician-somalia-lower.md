@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Somalia: House of the People
+title: Somalia — House of the People
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of the People legislature of Somalia.

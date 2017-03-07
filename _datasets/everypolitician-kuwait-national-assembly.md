@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Kuwait: National Assembly
+title: Kuwait — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Kuwait.

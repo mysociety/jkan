@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Luxembourg: Chamber of Deputies
+title: Luxembourg — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Luxembourg.

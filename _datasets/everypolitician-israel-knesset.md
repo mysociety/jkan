@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Israel: Knesset
+title: Israel — Knesset
 organization: EveryPolitician
 notes: >-
   Data on the people within the Knesset legislature of Israel.

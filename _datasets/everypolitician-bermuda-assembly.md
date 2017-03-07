@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Bermuda: Parliament
+title: Bermuda — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Bermuda.

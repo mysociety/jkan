@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Egypt: Parliament
+title: Egypt — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Egypt.

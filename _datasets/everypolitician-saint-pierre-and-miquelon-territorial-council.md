@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Saint Pierre and Miquelon: Territorial Council
+title: Saint Pierre and Miquelon — Territorial Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the Territorial Council legislature of Saint Pierre and Miquelon.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Netherlands: Tweede Kamer
+title: Netherlands — Tweede Kamer
 organization: EveryPolitician
 notes: >-
   Data on the people within the Tweede Kamer legislature of Netherlands.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Mongolia: State Great Khural
+title: Mongolia — State Great Khural
 organization: EveryPolitician
 notes: >-
   Data on the people within the State Great Khural legislature of Mongolia.

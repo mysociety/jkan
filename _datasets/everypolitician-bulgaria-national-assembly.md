@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Bulgaria: National Assembly
+title: Bulgaria — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Bulgaria.

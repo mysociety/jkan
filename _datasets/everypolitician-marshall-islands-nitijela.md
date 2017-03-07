@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Marshall Islands: Nitijela
+title: Marshall Islands — Nitijela
 organization: EveryPolitician
 notes: >-
   Data on the people within the Nitijela legislature of Marshall Islands.

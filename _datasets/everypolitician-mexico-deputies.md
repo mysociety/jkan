@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Mexico: Chamber of Deputies
+title: Mexico — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Mexico.

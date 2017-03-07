@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Moldova: Parlament
+title: Moldova — Parlament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parlament legislature of Moldova.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Mali: National Assembly
+title: Mali — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Mali.

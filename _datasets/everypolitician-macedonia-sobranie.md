@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Macedonia: Sobranie
+title: Macedonia — Sobranie
 organization: EveryPolitician
 notes: >-
   Data on the people within the Sobranie legislature of Macedonia.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: United States of America: Senate
+title: United States of America — Senate
 organization: EveryPolitician
 notes: >-
   Data on the people within the Senate legislature of United States of America.

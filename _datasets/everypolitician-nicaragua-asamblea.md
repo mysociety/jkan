@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Nicaragua: National Assembly
+title: Nicaragua — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Nicaragua.

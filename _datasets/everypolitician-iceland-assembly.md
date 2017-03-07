@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Iceland: Alþingi
+title: Iceland — Alþingi
 organization: EveryPolitician
 notes: >-
   Data on the people within the Alþingi legislature of Iceland.

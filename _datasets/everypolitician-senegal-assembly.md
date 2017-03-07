@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Senegal: National Assembly
+title: Senegal — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Senegal.

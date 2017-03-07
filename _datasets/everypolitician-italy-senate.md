@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Italy: Senate
+title: Italy — Senate
 organization: EveryPolitician
 notes: >-
   Data on the people within the Senate legislature of Italy.

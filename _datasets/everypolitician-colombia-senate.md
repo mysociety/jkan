@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Colombia: Senado
+title: Colombia — Senado
 organization: EveryPolitician
 notes: >-
   Data on the people within the Senado legislature of Colombia.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Burkina Faso: Assemblée Nationale
+title: Burkina Faso — Assemblée Nationale
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assemblée Nationale legislature of Burkina Faso.

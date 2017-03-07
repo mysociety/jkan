@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Nepal: Constituent Assembly
+title: Nepal — Constituent Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Constituent Assembly legislature of Nepal.

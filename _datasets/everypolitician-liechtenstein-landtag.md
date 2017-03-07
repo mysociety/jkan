@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Liechtenstein: Landtag
+title: Liechtenstein — Landtag
 organization: EveryPolitician
 notes: >-
   Data on the people within the Landtag legislature of Liechtenstein.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Guatemala: Congress
+title: Guatemala — Congress
 organization: EveryPolitician
 notes: >-
   Data on the people within the Congress legislature of Guatemala.

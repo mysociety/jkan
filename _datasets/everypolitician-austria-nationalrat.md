@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Austria: Nationalrat
+title: Austria — Nationalrat
 organization: EveryPolitician
 notes: >-
   Data on the people within the Nationalrat legislature of Austria.

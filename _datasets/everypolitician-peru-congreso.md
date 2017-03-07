@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Peru: Congress
+title: Peru — Congress
 organization: EveryPolitician
 notes: >-
   Data on the people within the Congress legislature of Peru.

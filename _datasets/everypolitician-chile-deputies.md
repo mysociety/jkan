@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Chile: National Congress
+title: Chile — National Congress
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Congress legislature of Chile.

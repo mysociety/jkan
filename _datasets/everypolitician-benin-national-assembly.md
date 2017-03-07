@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Benin: Assemblée Nationale
+title: Benin — Assemblée Nationale
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assemblée Nationale legislature of Benin.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Uzbekistan: Legislative Chamber
+title: Uzbekistan — Legislative Chamber
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Chamber legislature of Uzbekistan.

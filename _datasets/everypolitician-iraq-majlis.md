@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Iraq: Council of Representatives
+title: Iraq — Council of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the Council of Representatives legislature of Iraq.

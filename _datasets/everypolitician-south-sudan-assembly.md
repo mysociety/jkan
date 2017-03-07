@@ -1,6 +1,6 @@
 ---
 schema: default
-title: South Sudan: National Legislative Assembly
+title: South Sudan — National Legislative Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Legislative Assembly legislature of South Sudan.

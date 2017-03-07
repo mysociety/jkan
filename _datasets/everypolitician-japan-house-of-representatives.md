@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Japan: Shūgiin
+title: Japan — Shūgiin
 organization: EveryPolitician
 notes: >-
   Data on the people within the Shūgiin legislature of Japan.

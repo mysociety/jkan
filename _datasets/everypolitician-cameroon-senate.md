@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Cameroon: Sénat
+title: Cameroon — Sénat
 organization: EveryPolitician
 notes: >-
   Data on the people within the Sénat legislature of Cameroon.

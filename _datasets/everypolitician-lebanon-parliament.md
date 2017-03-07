@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Lebanon: Parliament
+title: Lebanon — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Lebanon.

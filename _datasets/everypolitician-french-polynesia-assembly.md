@@ -1,6 +1,6 @@
 ---
 schema: default
-title: French Polynesia: Assembly
+title: French Polynesia — Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assembly legislature of French Polynesia.

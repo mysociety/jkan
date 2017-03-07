@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Puerto Rico: House of Representatives
+title: Puerto Rico — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Puerto Rico.

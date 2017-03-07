@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Curaçao: Estates of Curaçao
+title: Curaçao — Estates of Curaçao
 organization: EveryPolitician
 notes: >-
   Data on the people within the Estates of Curaçao legislature of Curaçao.

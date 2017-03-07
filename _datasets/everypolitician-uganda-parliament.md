@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Uganda: Parliament
+title: Uganda — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Uganda.

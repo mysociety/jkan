@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Micronesia: Congress
+title: Micronesia — Congress
 organization: EveryPolitician
 notes: >-
   Data on the people within the Congress legislature of Micronesia.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Myanmar: House of Representatives
+title: Myanmar — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Myanmar.

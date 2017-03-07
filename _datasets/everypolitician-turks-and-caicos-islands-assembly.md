@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Turks and Caicos Islands: House of Assembly
+title: Turks and Caicos Islands — House of Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Assembly legislature of Turks and Caicos Islands.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Bosnia and Herzegovina: House of Representatives
+title: Bosnia and Herzegovina — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Bosnia and Herzegovina.

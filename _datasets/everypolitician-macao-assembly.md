@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Macao: Legislative Assembly
+title: Macao — Legislative Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Assembly legislature of Macao.

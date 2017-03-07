@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Singapore: Parliament
+title: Singapore — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Singapore.

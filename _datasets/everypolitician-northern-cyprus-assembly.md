@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Northern Cyprus: Assembly of the Republic
+title: Northern Cyprus — Assembly of the Republic
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assembly of the Republic legislature of Northern Cyprus.

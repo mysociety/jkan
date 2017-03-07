@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Swaziland: House of Assembly
+title: Swaziland — House of Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Assembly legislature of Swaziland.

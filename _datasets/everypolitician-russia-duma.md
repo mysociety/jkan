@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Russia: Duma
+title: Russia — Duma
 organization: EveryPolitician
 notes: >-
   Data on the people within the Duma legislature of Russia.

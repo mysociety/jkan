@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Tajikistan: Assembly of Representatives
+title: Tajikistan — Assembly of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assembly of Representatives legislature of Tajikistan.

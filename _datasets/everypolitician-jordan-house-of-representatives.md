@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Jordan: House of Representatives
+title: Jordan — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Jordan.

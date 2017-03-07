@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Anguilla: House of Assembly
+title: Anguilla — House of Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Assembly legislature of Anguilla.

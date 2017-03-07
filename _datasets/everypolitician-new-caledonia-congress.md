@@ -1,6 +1,6 @@
 ---
 schema: default
-title: New Caledonia: Congress
+title: New Caledonia — Congress
 organization: EveryPolitician
 notes: >-
   Data on the people within the Congress legislature of New Caledonia.

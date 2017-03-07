@@ -1,6 +1,6 @@
 ---
 schema: default
-title: San Marino: Grand and General Council
+title: San Marino — Grand and General Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the Grand and General Council legislature of San Marino.

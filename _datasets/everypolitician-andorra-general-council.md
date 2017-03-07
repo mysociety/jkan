@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Andorra: Consell General
+title: Andorra — Consell General
 organization: EveryPolitician
 notes: >-
   Data on the people within the Consell General legislature of Andorra.

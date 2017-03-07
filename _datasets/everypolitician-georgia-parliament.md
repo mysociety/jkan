@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Georgia: Parliament of Georgia
+title: Georgia — Parliament of Georgia
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament of Georgia legislature of Georgia.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Ireland: Dáil Éireann
+title: Ireland — Dáil Éireann
 organization: EveryPolitician
 notes: >-
   Data on the people within the Dáil Éireann legislature of Ireland.

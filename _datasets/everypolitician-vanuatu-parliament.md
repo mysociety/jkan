@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Vanuatu: Parliament
+title: Vanuatu — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Vanuatu.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Kazakhstan: Mazhilis
+title: Kazakhstan — Mazhilis
 organization: EveryPolitician
 notes: >-
   Data on the people within the Mazhilis legislature of Kazakhstan.

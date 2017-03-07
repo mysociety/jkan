@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Sark: Chief Pleas
+title: Sark — Chief Pleas
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chief Pleas legislature of Sark.

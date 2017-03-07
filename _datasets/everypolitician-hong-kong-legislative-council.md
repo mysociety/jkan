@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Hong Kong: Legislative Council
+title: Hong Kong — Legislative Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Council legislature of Hong Kong.

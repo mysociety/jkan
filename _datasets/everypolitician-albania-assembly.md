@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Albania: Kuvendi
+title: Albania — Kuvendi
 organization: EveryPolitician
 notes: >-
   Data on the people within the Kuvendi legislature of Albania.

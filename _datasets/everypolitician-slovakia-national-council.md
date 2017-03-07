@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Slovakia: National Council
+title: Slovakia — National Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Council legislature of Slovakia.

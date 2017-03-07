@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Thailand: National Legislative Assembly
+title: Thailand — National Legislative Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Legislative Assembly legislature of Thailand.

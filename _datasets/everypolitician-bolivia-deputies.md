@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Bolivia: Chamber of Deputies
+title: Bolivia — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Bolivia.

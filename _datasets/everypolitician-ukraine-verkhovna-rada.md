@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Ukraine: Verkhovna Rada
+title: Ukraine — Verkhovna Rada
 organization: EveryPolitician
 notes: >-
   Data on the people within the Verkhovna Rada legislature of Ukraine.

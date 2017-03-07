@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Turkey: Grand National Assembly
+title: Turkey — Grand National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Grand National Assembly legislature of Turkey.

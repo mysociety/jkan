@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Kosovo: Kuvendit
+title: Kosovo — Kuvendit
 organization: EveryPolitician
 notes: >-
   Data on the people within the Kuvendit legislature of Kosovo.

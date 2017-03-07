@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Estonia: Riigikogu
+title: Estonia — Riigikogu
 organization: EveryPolitician
 notes: >-
   Data on the people within the Riigikogu legislature of Estonia.

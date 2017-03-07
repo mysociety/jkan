@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Croatia: Sabor
+title: Croatia — Sabor
 organization: EveryPolitician
 notes: >-
   Data on the people within the Sabor legislature of Croatia.

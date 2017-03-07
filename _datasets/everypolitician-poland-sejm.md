@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Poland: Sejm
+title: Poland — Sejm
 organization: EveryPolitician
 notes: >-
   Data on the people within the Sejm legislature of Poland.

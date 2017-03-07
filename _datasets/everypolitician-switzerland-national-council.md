@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Switzerland: National Council
+title: Switzerland — National Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Council legislature of Switzerland.

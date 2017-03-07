@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Yemen: House of Representatives
+title: Yemen — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Yemen.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Antigua and Barbuda: House of Representatives
+title: Antigua and Barbuda — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Antigua and Barbuda.

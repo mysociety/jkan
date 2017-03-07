@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Mozambique: Assembleia da República
+title: Mozambique — Assembleia da República
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assembleia da República legislature of Mozambique.

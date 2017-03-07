@@ -1,6 +1,6 @@
 ---
 schema: default
-title: South Africa: National Assembly
+title: South Africa — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of South Africa.

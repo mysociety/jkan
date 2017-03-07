@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Gabon: Assemblée nationale
+title: Gabon — Assemblée nationale
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assemblée nationale legislature of Gabon.

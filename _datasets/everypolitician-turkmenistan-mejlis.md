@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Turkmenistan: Mejlis
+title: Turkmenistan — Mejlis
 organization: EveryPolitician
 notes: >-
   Data on the people within the Mejlis legislature of Turkmenistan.

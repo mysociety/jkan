@@ -1,6 +1,6 @@
 ---
 schema: default
-title: France: Assemblée nationale
+title: France — Assemblée nationale
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assemblée nationale legislature of France.

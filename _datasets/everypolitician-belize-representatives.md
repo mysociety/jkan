@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Belize: House of Representatives
+title: Belize — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Belize.

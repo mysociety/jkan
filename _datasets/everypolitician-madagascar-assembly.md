@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Madagascar: National Assembly
+title: Madagascar — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Madagascar.

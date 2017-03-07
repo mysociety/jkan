@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Guernsey: States
+title: Guernsey — States
 organization: EveryPolitician
 notes: >-
   Data on the people within the States legislature of Guernsey.

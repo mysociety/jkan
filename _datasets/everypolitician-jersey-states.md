@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Jersey: States
+title: Jersey — States
 organization: EveryPolitician
 notes: >-
   Data on the people within the States legislature of Jersey.

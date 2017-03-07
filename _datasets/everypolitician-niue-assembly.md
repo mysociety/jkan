@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Niue: Assembly
+title: Niue — Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assembly legislature of Niue.

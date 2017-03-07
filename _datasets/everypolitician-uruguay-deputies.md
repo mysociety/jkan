@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Uruguay: Chamber of Deputies
+title: Uruguay — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Uruguay.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Czech Republic: Chamber of Deputies
+title: Czech Republic — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Czech Republic.

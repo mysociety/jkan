@@ -1,6 +1,6 @@
 ---
 schema: default
-title: El Salvador: Legislative Assembly
+title: El Salvador — Legislative Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Assembly legislature of El Salvador.

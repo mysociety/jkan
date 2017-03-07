@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Saint Martin: Territorial Council
+title: Saint Martin — Territorial Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the Territorial Council legislature of Saint Martin.

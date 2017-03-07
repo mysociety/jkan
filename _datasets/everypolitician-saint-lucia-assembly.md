@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Saint Lucia: House of Assembly
+title: Saint Lucia — House of Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Assembly legislature of Saint Lucia.

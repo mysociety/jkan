@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Northern Ireland: Northern Ireland Assembly
+title: Northern Ireland — Northern Ireland Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Northern Ireland Assembly legislature of Northern Ireland.

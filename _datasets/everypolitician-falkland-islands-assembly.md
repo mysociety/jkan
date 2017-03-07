@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Falkland Islands: Legislative Assembly
+title: Falkland Islands — Legislative Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Assembly legislature of Falkland Islands.

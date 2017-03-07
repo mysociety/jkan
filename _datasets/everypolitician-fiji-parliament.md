@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Fiji: Parliament
+title: Fiji — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Fiji.

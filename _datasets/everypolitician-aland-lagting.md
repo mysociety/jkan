@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Åland: Lagting
+title: Åland — Lagting
 organization: EveryPolitician
 notes: >-
   Data on the people within the Lagting legislature of Åland.

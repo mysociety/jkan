@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Malaysia: Dewan Rakyat
+title: Malaysia — Dewan Rakyat
 organization: EveryPolitician
 notes: >-
   Data on the people within the Dewan Rakyat legislature of Malaysia.

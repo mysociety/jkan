@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Cayman Islands: Legislative Assembly
+title: Cayman Islands — Legislative Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Assembly legislature of Cayman Islands.

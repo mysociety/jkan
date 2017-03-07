@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Guinea-Bissau: National People's Assembly
+title: Guinea-Bissau — National People's Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National People's Assembly legislature of Guinea-Bissau.

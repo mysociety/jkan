@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Rwanda: Chamber of Deputies
+title: Rwanda — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Rwanda.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Sweden: Riksdag
+title: Sweden — Riksdag
 organization: EveryPolitician
 notes: >-
   Data on the people within the Riksdag legislature of Sweden.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Philippines: House of Representatives
+title: Philippines — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Philippines.

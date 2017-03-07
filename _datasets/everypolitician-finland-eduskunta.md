@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Finland: Eduskunta
+title: Finland — Eduskunta
 organization: EveryPolitician
 notes: >-
   Data on the people within the Eduskunta legislature of Finland.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Saudi Arabia: Shura Council
+title: Saudi Arabia — Shura Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the Shura Council legislature of Saudi Arabia.

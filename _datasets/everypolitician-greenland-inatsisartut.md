@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Greenland: Inatsisartut
+title: Greenland — Inatsisartut
 organization: EveryPolitician
 notes: >-
   Data on the people within the Inatsisartut legislature of Greenland.

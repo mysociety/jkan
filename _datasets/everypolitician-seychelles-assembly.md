@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Seychelles: National Assembly
+title: Seychelles — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Seychelles.

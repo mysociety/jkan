@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Transnistria: Supreme Council
+title: Transnistria — Supreme Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the Supreme Council legislature of Transnistria.

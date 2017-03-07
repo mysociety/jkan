@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Dominican Republic: Chamber of Deputies
+title: Dominican Republic — Chamber of Deputies
 organization: EveryPolitician
 notes: >-
   Data on the people within the Chamber of Deputies legislature of Dominican Republic.

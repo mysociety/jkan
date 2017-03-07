@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Zimbabwe: Senate
+title: Zimbabwe — Senate
 organization: EveryPolitician
 notes: >-
   Data on the people within the Senate legislature of Zimbabwe.

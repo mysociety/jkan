@@ -1,6 +1,6 @@
 ---
 schema: default
-title: South Ossetia: Parliament
+title: South Ossetia — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of South Ossetia.

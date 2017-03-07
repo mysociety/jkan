@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Samoa: Fono
+title: Samoa — Fono
 organization: EveryPolitician
 notes: >-
   Data on the people within the Fono legislature of Samoa.

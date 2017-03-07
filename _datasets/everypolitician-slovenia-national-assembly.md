@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Slovenia: Državni zbor
+title: Slovenia — Državni zbor
 organization: EveryPolitician
 notes: >-
   Data on the people within the Državni zbor legislature of Slovenia.

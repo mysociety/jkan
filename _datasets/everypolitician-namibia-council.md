@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Namibia: National Council
+title: Namibia — National Council
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Council legislature of Namibia.

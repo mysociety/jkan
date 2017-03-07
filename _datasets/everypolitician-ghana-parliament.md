@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Ghana: Parliament
+title: Ghana — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Ghana.

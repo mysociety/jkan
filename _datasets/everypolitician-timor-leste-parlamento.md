@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Timor Leste: Parlamento
+title: Timor Leste — Parlamento
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parlamento legislature of Timor Leste.

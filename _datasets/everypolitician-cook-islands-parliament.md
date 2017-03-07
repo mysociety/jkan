@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Cook Islands: Parliament
+title: Cook Islands — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Cook Islands.

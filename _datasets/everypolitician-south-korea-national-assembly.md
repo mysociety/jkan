@@ -1,6 +1,6 @@
 ---
 schema: default
-title: South Korea: National Assembly
+title: South Korea — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of South Korea.

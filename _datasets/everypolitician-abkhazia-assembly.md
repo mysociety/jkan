@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Abkhazia: People's Assembly
+title: Abkhazia — People's Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the People's Assembly legislature of Abkhazia.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Serbia: National Assembly
+title: Serbia — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Serbia.

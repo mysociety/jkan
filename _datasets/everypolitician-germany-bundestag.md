@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Germany: Bundestag
+title: Germany — Bundestag
 organization: EveryPolitician
 notes: >-
   Data on the people within the Bundestag legislature of Germany.

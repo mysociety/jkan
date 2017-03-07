@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Guam: Parliament
+title: Guam — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Guam.

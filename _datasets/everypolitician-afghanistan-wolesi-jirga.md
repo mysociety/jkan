@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Afghanistan: Wolesi Jirga
+title: Afghanistan — Wolesi Jirga
 organization: EveryPolitician
 notes: >-
   Data on the people within the Wolesi Jirga legislature of Afghanistan.

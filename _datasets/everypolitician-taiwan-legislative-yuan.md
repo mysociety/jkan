@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Taiwan: Legislative Yuan
+title: Taiwan — Legislative Yuan
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Yuan legislature of Taiwan.

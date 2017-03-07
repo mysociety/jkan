@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Latvia: Saeima
+title: Latvia — Saeima
 organization: EveryPolitician
 notes: >-
   Data on the people within the Saeima legislature of Latvia.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Scotland: Scottish Parliament
+title: Scotland — Scottish Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Scottish Parliament legislature of Scotland.

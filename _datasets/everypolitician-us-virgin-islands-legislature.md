@@ -1,6 +1,6 @@
 ---
 schema: default
-title: US Virgin Islands: Legislature
+title: US Virgin Islands — Legislature
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislature legislature of US Virgin Islands.

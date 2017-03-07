@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Lithuania: Seimas
+title: Lithuania — Seimas
 organization: EveryPolitician
 notes: >-
   Data on the people within the Seimas legislature of Lithuania.

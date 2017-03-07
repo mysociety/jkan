@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Faroe Islands: Løgting
+title: Faroe Islands — Løgting
 organization: EveryPolitician
 notes: >-
   Data on the people within the Løgting legislature of Faroe Islands.

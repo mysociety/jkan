@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Morocco: House of Representatives
+title: Morocco — House of Representatives
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Representatives legislature of Morocco.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: India: Lok Sabha
+title: India — Lok Sabha
 organization: EveryPolitician
 notes: >-
   Data on the people within the Lok Sabha legislature of India.

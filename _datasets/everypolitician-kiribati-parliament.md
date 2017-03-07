@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Kiribati: Parliament
+title: Kiribati — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Kiribati.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Comoros: Assembly of the Union
+title: Comoros — Assembly of the Union
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assembly of the Union legislature of Comoros.

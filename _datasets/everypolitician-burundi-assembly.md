@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Burundi: Assemblée nationale
+title: Burundi — Assemblée nationale
 organization: EveryPolitician
 notes: >-
   Data on the people within the Assemblée nationale legislature of Burundi.

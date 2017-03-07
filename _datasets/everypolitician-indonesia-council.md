@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Indonesia: Dewan Perwakilan Rakyat
+title: Indonesia — Dewan Perwakilan Rakyat
 organization: EveryPolitician
 notes: >-
   Data on the people within the Dewan Perwakilan Rakyat legislature of Indonesia.

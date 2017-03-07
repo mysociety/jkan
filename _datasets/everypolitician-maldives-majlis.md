@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Maldives: Majlis
+title: Maldives — Majlis
 organization: EveryPolitician
 notes: >-
   Data on the people within the Majlis legislature of Maldives.

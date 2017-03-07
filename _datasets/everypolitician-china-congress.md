@@ -1,6 +1,6 @@
 ---
 schema: default
-title: China: National People’s Congress
+title: China — National People’s Congress
 organization: EveryPolitician
 notes: >-
   Data on the people within the National People’s Congress legislature of China.

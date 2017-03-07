@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Kenya: National Assembly
+title: Kenya — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Kenya.

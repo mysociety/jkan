@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Laos: National Assembly
+title: Laos — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Laos.

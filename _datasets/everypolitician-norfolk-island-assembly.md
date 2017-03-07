@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Norfolk Island: Legislative Assembly
+title: Norfolk Island — Legislative Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the Legislative Assembly legislature of Norfolk Island.

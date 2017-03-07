@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Mauritania: National Assembly
+title: Mauritania — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Mauritania.

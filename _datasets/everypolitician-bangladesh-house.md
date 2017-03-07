@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Bangladesh: Jatiyo Sangshad
+title: Bangladesh — Jatiyo Sangshad
 organization: EveryPolitician
 notes: >-
   Data on the people within the Jatiyo Sangshad legislature of Bangladesh.

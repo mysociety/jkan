@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Argentina: Cámara de Senadores
+title: Argentina — Cámara de Senadores
 organization: EveryPolitician
 notes: >-
   Data on the people within the Cámara de Senadores legislature of Argentina.

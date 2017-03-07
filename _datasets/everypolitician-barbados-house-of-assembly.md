@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Barbados: House of Assembly
+title: Barbados — House of Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Assembly legislature of Barbados.

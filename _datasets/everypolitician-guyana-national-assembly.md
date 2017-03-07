@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Guyana: National Assembly
+title: Guyana — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Guyana.

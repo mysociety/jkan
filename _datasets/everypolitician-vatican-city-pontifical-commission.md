@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Vatican City: Pontifical Commission
+title: Vatican City — Pontifical Commission
 organization: EveryPolitician
 notes: >-
   Data on the people within the Pontifical Commission legislature of Vatican City.

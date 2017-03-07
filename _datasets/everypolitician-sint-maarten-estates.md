@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Sint Maarten: Estates
+title: Sint Maarten — Estates
 organization: EveryPolitician
 notes: >-
   Data on the people within the Estates legislature of Sint Maarten.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: United Kingdom: House of Commons
+title: United Kingdom — House of Commons
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Commons legislature of United Kingdom.

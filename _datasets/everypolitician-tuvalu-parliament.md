@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Tuvalu: Parliament
+title: Tuvalu — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Tuvalu.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Gibraltar: Parliament
+title: Gibraltar — Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Parliament legislature of Gibraltar.

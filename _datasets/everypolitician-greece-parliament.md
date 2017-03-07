@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Greece: Hellenic Parliament
+title: Greece — Hellenic Parliament
 organization: EveryPolitician
 notes: >-
   Data on the people within the Hellenic Parliament legislature of Greece.

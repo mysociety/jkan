@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Saint Vincent and the Grenadines: House of Assembly
+title: Saint Vincent and the Grenadines — House of Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Assembly legislature of Saint Vincent and the Grenadines.

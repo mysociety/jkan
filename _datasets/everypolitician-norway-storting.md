@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Norway: Storting
+title: Norway — Storting
 organization: EveryPolitician
 notes: >-
   Data on the people within the Storting legislature of Norway.

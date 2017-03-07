@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Côte d'Ivoire: National Assembly
+title: Côte d'Ivoire — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Côte d'Ivoire.

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Wales: National Assembly for Wales
+title: Wales — National Assembly for Wales
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly for Wales legislature of Wales.

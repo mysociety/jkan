@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Hungary: Országgyűlés
+title: Hungary — Országgyűlés
 organization: EveryPolitician
 notes: >-
   Data on the people within the Országgyűlés legislature of Hungary.

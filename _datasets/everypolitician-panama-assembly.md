@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Panama: Asamblea Nacional
+title: Panama — Asamblea Nacional
 organization: EveryPolitician
 notes: >-
   Data on the people within the Asamblea Nacional legislature of Panama.

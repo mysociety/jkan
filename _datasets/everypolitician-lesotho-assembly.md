@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Lesotho: National Assembly
+title: Lesotho — National Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the National Assembly legislature of Lesotho.

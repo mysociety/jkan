@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Bahamas: House of Assembly
+title: Bahamas — House of Assembly
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Assembly legislature of Bahamas.
