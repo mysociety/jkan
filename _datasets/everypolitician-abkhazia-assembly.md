@@ -2,8 +2,7 @@
 schema: default
 title: Abkhazia — People's Assembly
 organization: EveryPolitician
-notes: >-
-  Data on the people within the People's Assembly legislature of Abkhazia.
+notes: Data on the people within the People's Assembly legislature of Abkhazia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -13,11 +12,10 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/58982266ae65446abe93beb812bf42e378338cb3/data/Abkhazia/Assembly/term-5.csv
     format: csv
-last_modified: 2017-02-08T07:31:46
 license: ''
 category:
-  - Groups & Bodies
   - People
+  - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 ---
