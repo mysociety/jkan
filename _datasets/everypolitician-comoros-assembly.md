@@ -1,0 +1,23 @@
+---
+schema: default
+title: Comoros — Assembly of the Union
+organization: EveryPolitician
+notes: Data on the people within the Assembly of the Union legislature of Comoros.
+resources:
+  - name: All Data as Popolo JSON
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e1b90077ef7d59642c26a041c3016bcd4966855d/data/Comoros/Assembly/ep-popolo-v1.0.json
+    format: json
+  - name: From 2015-04-03
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ed2db8bbaa9f9cf554757ca4d748d07a7c6790d/data/Comoros/Assembly/term-2015.csv
+    format: csv
+last_modified: 2017-01-22T06:51:15
+license: ''
+category:
+  - Comoros
+  - People
+  - Groups & Bodies
+maintainer: EveryPolitician
+maintainer_email: team@everypolitician.org
+---
