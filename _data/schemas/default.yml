@@ -30,6 +30,10 @@ dataset_fields:
   - field_name: last_modified
     label: Last Modified
     datajson: modified
+  - field_name: more_info
+    label: More Information
+    datajson: landingPage
+    display_template: display/more_info.html
 
 resource_fields:
   - field_name: name
