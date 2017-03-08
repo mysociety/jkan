@@ -16,4 +16,5 @@ category:
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 last_modified: ''
+more_info: 'https://github.com/everypolitician/everypolitician-names'
 ---
