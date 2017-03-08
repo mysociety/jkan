@@ -6,7 +6,7 @@ notes: Data on the people within the Legislature legislature of US Virgin Island
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e59c39ca851fc92034b01789510f04efa7d8a67/data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e896b15cce056999bfccbb18749716611001914/data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json
     format: json
   - name: 2015-01-12 to 2016-12-31
     url: >-
@@ -20,4 +20,5 @@ category:
   - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
+more_info: http://docs.everypolitician.org
 ---

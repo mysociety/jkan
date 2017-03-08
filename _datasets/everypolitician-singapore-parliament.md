@@ -6,15 +6,15 @@ notes: Data on the people within the Parliament legislature of Singapore.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/72c4fee99ca64473bc9df49e73f80adec6c3988c/data/Singapore/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a0f1c69c305eaf50f72e67d1901f3d52889bdec/data/Singapore/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2016-01-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/72c4fee99ca64473bc9df49e73f80adec6c3988c/data/Singapore/Parliament/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a0f1c69c305eaf50f72e67d1901f3d52889bdec/data/Singapore/Parliament/term-13.csv
     format: csv
   - name: 2011-10-10 to 2015-08-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/72c4fee99ca64473bc9df49e73f80adec6c3988c/data/Singapore/Parliament/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/af7fa3821a45aa2e21a9c59316e3c9ed9676e24c/data/Singapore/Parliament/term-12.csv
     format: csv
   - name: 2006-11-02 to 2011-04-19
     url: >-
@@ -60,7 +60,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8f7ea402d28dc0aa0ebf3dd44ca84f4c6b565e36/data/Singapore/Parliament/term-1.csv
     format: csv
-last_modified: 2017-02-27T02:30:10
+last_modified: 2017-03-08T11:18:08
 license: ''
 category:
   - Singapore
@@ -68,4 +68,5 @@ category:
   - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
+more_info: http://docs.everypolitician.org
 ---
