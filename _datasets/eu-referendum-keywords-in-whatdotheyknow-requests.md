@@ -1,0 +1,15 @@
+---
+schema: default
+title: EU Referendum Keywords in WhatDoTheyKnow Requests
+organization: mySociety Research
+notes: 'https://www.mysociety.org/2016/10/19/what-do-we-know-about-the-eu-referendum/'
+resources:
+  - name: Monthly Keyword Counts
+    url: 'https://drive.google.com/open?id=0B4_j_c_hzP89Nml1eDNXLUVDMDg'
+    format: csv
+license: 'http://www.opendefinition.org/licenses/odc-by'
+maintainer: Nick Jackson
+maintainer_email: nick@mysociety.org
+last_modified: '2016-09-29 13:55 +0100'
+more_info: ''
+---
