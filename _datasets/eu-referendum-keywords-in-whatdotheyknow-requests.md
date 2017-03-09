@@ -8,6 +8,9 @@ resources:
     url: 'https://drive.google.com/open?id=0B4_j_c_hzP89Nml1eDNXLUVDMDg'
     format: csv
 license: 'http://www.opendefinition.org/licenses/odc-by'
+category:
+  - United Kingdom
+  - WhatDoTheyKnow
 maintainer: Nick Jackson
 maintainer_email: nick@mysociety.org
 last_modified: '2016-09-29 13:55 +0100'
