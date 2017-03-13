@@ -1,7 +1,7 @@
 title: mySociety Data
 greeting: Welcome to mySociety Data
 description: Civic data for good and awesome.
-baseurl: /jkan
+baseurl: ""
 logo: /img/jkan.png
 
 # Site theme
@@ -52,8 +52,8 @@ kramdown:
 
 # Google Analytics
 google_analytics:
-  enabled: false
-  code: "UA-XXXXXX-1"
+  enabled: true
+  code: "UA-660910-42"
 
 # US Digital Analytics Program - https://analytics.usa.gov
 digital_analytics_program:
