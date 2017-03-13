@@ -6,11 +6,11 @@ notes: Data on the people within the Assembleia da República legislature of Por
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/87ee6778a984b518890902a7dd925e10d6ed4f15/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1b1aeef9940a8a80a64b21e2059e1cd3ce1d5482/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-10-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/87ee6778a984b518890902a7dd925e10d6ed4f15/data/Portugal/Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/23991aeb84900851d61e7ed4d1a0739ea7fbccdb/data/Portugal/Assembly/term-13.csv
     format: csv
   - name: 2011-06-20 to 2015-10-22
     url: >-
@@ -34,15 +34,15 @@ resources:
     format: csv
   - name: 1995-10-27 to 1999-10-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/87ee6778a984b518890902a7dd925e10d6ed4f15/data/Portugal/Assembly/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/23991aeb84900851d61e7ed4d1a0739ea7fbccdb/data/Portugal/Assembly/term-7.csv
     format: csv
   - name: 1991-11-04 to 1995-10-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/87ee6778a984b518890902a7dd925e10d6ed4f15/data/Portugal/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/23991aeb84900851d61e7ed4d1a0739ea7fbccdb/data/Portugal/Assembly/term-6.csv
     format: csv
   - name: 1987-08-13 to 1991-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/87ee6778a984b518890902a7dd925e10d6ed4f15/data/Portugal/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/23991aeb84900851d61e7ed4d1a0739ea7fbccdb/data/Portugal/Assembly/term-5.csv
     format: csv
   - name: 1985-11-04 to 1987-08-12
     url: >-
@@ -60,7 +60,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/af1100eb4b050f753196e00e44123b8e3f9740e7/data/Portugal/Assembly/term-1.csv
     format: csv
-last_modified: 2017-02-27T07:14:58
+last_modified: 2017-03-09T08:41:12
 license: ''
 category:
   - Portugal
@@ -68,5 +68,4 @@ category:
   - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
-more_info: http://docs.everypolitician.org
 ---

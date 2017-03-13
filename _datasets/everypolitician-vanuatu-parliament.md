@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Vanuatu.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c9e1e5feb05cfcbba445a26e6cef067dfd1656d0/data/Vanuatu/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38360b5ab37d5379aef1861ea0e0ecf7b95b5b5a/data/Vanuatu/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2016-02-11
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6bed61296869c11c2e4945a0fcbf757405a937b5/data/Vanuatu/Parliament/term-10.csv
     format: csv
-last_modified: 2017-02-26T21:04:59
+last_modified: 2017-03-07T21:10:27
 license: ''
 category:
   - Vanuatu
@@ -24,5 +24,4 @@ category:
   - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
-more_info: http://docs.everypolitician.org
 ---
