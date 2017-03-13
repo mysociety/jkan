@@ -96,4 +96,5 @@ category:
   - Groups & Bodies
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
+more_info: http://docs.everypolitician.org
 ---
