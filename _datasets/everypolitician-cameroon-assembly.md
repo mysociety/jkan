@@ -6,7 +6,7 @@ notes: Data on the people within the Assemblée Nationale legislature of Cameroo
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/09c795c8cf65aa7556004a490d22a3080802cd87/data/Cameroon/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-29
     url: >-
@@ -18,7 +18,7 @@ resources:
     format: csv
   - name: 2002 to 2007
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f5872050a2cdef9def4270f2df08ebb9571747f/data/Cameroon/Assembly/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-7.csv
     format: csv
   - name: 1997 to 2002
     url: >-
@@ -26,7 +26,7 @@ resources:
     format: csv
   - name: 1992 to 1997
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f5872050a2cdef9def4270f2df08ebb9571747f/data/Cameroon/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-5.csv
     format: csv
   - name: 1988 to 1992
     url: >-
@@ -34,13 +34,13 @@ resources:
     format: csv
   - name: 1983 to 1988
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e6f70d61d07c5df4b965d5bb25888e2e7452a8c/data/Cameroon/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-3.csv
     format: csv
   - name: 1973 to 1978
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/328acb852c9c92b4a8aa94598376dfa248d97365/data/Cameroon/Assembly/term-1.csv
     format: csv
-last_modified: 2017-01-22T06:51:09
+last_modified: 2017-03-20T11:29:31
 license: ''
 category:
   - Cameroon

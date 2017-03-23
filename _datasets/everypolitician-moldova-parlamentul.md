@@ -6,13 +6,13 @@ notes: Data on the people within the Parlament legislature of Moldova.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/384eba9ea0ed4853cc11c380e853bf7329ecae8c/data/Moldova/Parlamentul/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31d1cbc9d9de4c51eeb9697371fc4357c9a12de6/data/Moldova/Parlamentul/ep-popolo-v1.0.json
     format: json
   - name: From 2014-12-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/384eba9ea0ed4853cc11c380e853bf7329ecae8c/data/Moldova/Parlamentul/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31d1cbc9d9de4c51eeb9697371fc4357c9a12de6/data/Moldova/Parlamentul/term-2014.csv
     format: csv
-last_modified: 2017-03-09T10:36:20
+last_modified: 2017-03-20T10:06:40
 license: ''
 category:
   - Moldova

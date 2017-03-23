@@ -6,11 +6,11 @@ notes: Data on the people within the State Great Khural legislature of Mongolia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f8fa4779c2a0f7d9047212f8601b4512f422686a/data/Mongolia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb95048888e7ff853ea96650ed93b094ea6d367/data/Mongolia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2016-07-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/11273409cb9b7e8f0f6c5e60a04c64d5c821ec89/data/Mongolia/Assembly/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb95048888e7ff853ea96650ed93b094ea6d367/data/Mongolia/Assembly/term-2016.csv
     format: csv
   - name: 2012-06-28 to 2016-06-28
     url: >-
@@ -18,9 +18,9 @@ resources:
     format: csv
   - name: 2008-07-23 to 2012-06-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/44e6b02f35571d0b4d93c334d7343e329b52d550/data/Mongolia/Assembly/term-2008.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb95048888e7ff853ea96650ed93b094ea6d367/data/Mongolia/Assembly/term-2008.csv
     format: csv
-last_modified: 2017-02-26T17:01:23
+last_modified: 2017-03-20T11:22:14
 license: ''
 category:
   - Mongolia

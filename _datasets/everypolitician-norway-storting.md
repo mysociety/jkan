@@ -6,7 +6,7 @@ notes: Data on the people within the Storting legislature of Norway.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e73cc1d200988bf6041fe57288966510761fd5e0/data/Norway/Storting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2781a342d8e672d7697eff5d9d8ec2b635fa0b9f/data/Norway/Storting/ep-popolo-v1.0.json
     format: json
   - name: 2013-10-01 to 2017-09-30
     url: >-
@@ -30,19 +30,19 @@ resources:
     format: csv
   - name: 1993-10-01 to 1997-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ae241bde7592b08f0100d780990c57e42c43951/data/Norway/Storting/term-1993-97.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2781a342d8e672d7697eff5d9d8ec2b635fa0b9f/data/Norway/Storting/term-1993-97.csv
     format: csv
   - name: 1989-10-01 to 1993-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8d090bcc97493bbb39d1d29d876ae17bf6a52da0/data/Norway/Storting/term-1989-93.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2781a342d8e672d7697eff5d9d8ec2b635fa0b9f/data/Norway/Storting/term-1989-93.csv
     format: csv
   - name: 1985-10-01 to 1989-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8d090bcc97493bbb39d1d29d876ae17bf6a52da0/data/Norway/Storting/term-1985-89.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2781a342d8e672d7697eff5d9d8ec2b635fa0b9f/data/Norway/Storting/term-1985-89.csv
     format: csv
   - name: 1981-10-01 to 1985-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ae241bde7592b08f0100d780990c57e42c43951/data/Norway/Storting/term-1981-85.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2781a342d8e672d7697eff5d9d8ec2b635fa0b9f/data/Norway/Storting/term-1981-85.csv
     format: csv
   - name: 1977-10-01 to 1981-09-30
     url: >-
@@ -80,7 +80,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/308b9d3f9cbf1141e402192f6c99ea4eb22dcdc5/data/Norway/Storting/term-1945-49.csv
     format: csv
-last_modified: 2017-02-27T22:34:17
+last_modified: 2017-03-20T07:41:40
 license: ''
 category:
   - Norway

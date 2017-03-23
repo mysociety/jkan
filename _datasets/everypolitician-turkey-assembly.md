@@ -6,7 +6,7 @@ notes: Data on the people within the Grand National Assembly legislature of Turk
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/96d421ae769fafd7e15facb48bef01f9b4079854/data/Turkey/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c24b92e77edb43199d85ed8487c0478d3015f732/data/Turkey/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-11-17
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e4a6836a58e4f53fe5248ac7f57b4f42cb4c026e/data/Turkey/Assembly/term-25.csv
     format: csv
-  - name: 2011-06-28 to 2015-06-07
+  - name: 2011-06-28 to 2015-06-23
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e4a6836a58e4f53fe5248ac7f57b4f42cb4c026e/data/Turkey/Assembly/term-24.csv
     format: csv
@@ -60,11 +60,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-14.csv
     format: csv
-  - name: 1965-10-22 to 1973-10-14
+  - name: 1965-10-22 to 1969-10-12
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-13.csv
     format: csv
-  - name: 1961-10-25 to 1973-10-14
+  - name: 1961-10-25 to 1965-10-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-12.csv
     format: csv
@@ -100,11 +100,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-4.csv
     format: csv
-  - name: 1927-05-01 to 1931-05-04
+  - name: 1927-08-02 to 1931-05-04
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-3.csv
     format: csv
-  - name: 1923-08-11 to 1927-11-01
+  - name: 1923-08-11 to 1927-08-02
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-2.csv
     format: csv
@@ -112,7 +112,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-1.csv
     format: csv
-last_modified: 2017-01-27T10:54:36
+last_modified: 2017-03-16T10:40:16
 license: ''
 category:
   - Turkey
