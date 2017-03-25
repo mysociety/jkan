@@ -6,7 +6,7 @@ notes: Data on the people within the Senate legislature of Australia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/190fea361e43a0bc6fbbaa23e9d92af8ba4ce517/data/Australia/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/26a46986484ea123ec45aaa0a1a018c833c15e05/data/Australia/Senate/ep-popolo-v1.0.json
     format: json
   - name: From 2016-07-02
     url: >-
