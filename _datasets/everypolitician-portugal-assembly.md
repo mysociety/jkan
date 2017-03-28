@@ -6,11 +6,11 @@ notes: Data on the people within the Assembleia da República legislature of Por
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1b1aeef9940a8a80a64b21e2059e1cd3ce1d5482/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/28e1214d5e1e6ac51024cb6b09b9adaa2a6d25c8/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-10-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/23991aeb84900851d61e7ed4d1a0739ea7fbccdb/data/Portugal/Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bc9707517f836ef37c6752278e681c57e715b866/data/Portugal/Assembly/term-13.csv
     format: csv
   - name: 2011-06-20 to 2015-10-22
     url: >-
@@ -60,7 +60,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/af1100eb4b050f753196e00e44123b8e3f9740e7/data/Portugal/Assembly/term-1.csv
     format: csv
-last_modified: 2017-03-09T08:41:12
+last_modified: 2017-03-27T17:25:05
 license: ''
 category:
   - Portugal
