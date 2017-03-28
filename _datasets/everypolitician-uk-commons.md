@@ -6,29 +6,29 @@ notes: Data on the people within the House of Commons legislature of United King
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/10ddea145ad2e1640e05715f8111685b0c65410b/data/UK/Commons/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b6af99acb83dcc56577e5a8442112775694d74d7/data/UK/Commons/ep-popolo-v1.0.json
     format: json
   - name: From 2015-05-08
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/10ddea145ad2e1640e05715f8111685b0c65410b/data/UK/Commons/term-56.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b6af99acb83dcc56577e5a8442112775694d74d7/data/UK/Commons/term-56.csv
     format: csv
   - name: 2010-05-06 to 2015-03-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/10ddea145ad2e1640e05715f8111685b0c65410b/data/UK/Commons/term-55.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b6af99acb83dcc56577e5a8442112775694d74d7/data/UK/Commons/term-55.csv
     format: csv
   - name: 2005-05-05 to 2010-04-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/10ddea145ad2e1640e05715f8111685b0c65410b/data/UK/Commons/term-54.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/287fb1bc5d70c5443fe1e4584bddf7554e78dd79/data/UK/Commons/term-54.csv
     format: csv
   - name: 2001-06-07 to 2005-04-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/10ddea145ad2e1640e05715f8111685b0c65410b/data/UK/Commons/term-53.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/287fb1bc5d70c5443fe1e4584bddf7554e78dd79/data/UK/Commons/term-53.csv
     format: csv
   - name: 1997-05-01 to 2001-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d87ca1f377cfc7b036795f0bcb5f21554fdce9b8/data/UK/Commons/term-52.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8870892b63b3f6e8b0142ebefd247b4ee850e0c6/data/UK/Commons/term-52.csv
     format: csv
-last_modified: 2017-03-22T06:50:51
+last_modified: 2017-03-28T02:57:23
 license: ''
 category:
   - United Kingdom

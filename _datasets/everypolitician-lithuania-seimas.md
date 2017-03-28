@@ -6,13 +6,13 @@ notes: Data on the people within the Seimas legislature of Lithuania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/669ff470f47556d3cd47e309e3ee196e840bf714/data/Lithuania/Seimas/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/629827a413a7c65e4bdc5b96c0e5f21c9d148d5b/data/Lithuania/Seimas/ep-popolo-v1.0.json
     format: json
   - name: 2012-11-17 to 2016-11-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6a52d7d9a1f033baa3ca349e37cd23292a69721d/data/Lithuania/Seimas/term-11.csv
     format: csv
-last_modified: 2017-02-15T04:05:37
+last_modified: 2017-03-28T04:25:26
 license: ''
 category:
   - Lithuania
