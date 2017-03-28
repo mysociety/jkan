@@ -6,11 +6,11 @@ notes: Data on the people within the House of Representatives legislature of Uni
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f3c7d922aa7794215f256e357f51eb4bbeb7e4eb/data/United_States_of_America/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bdbf7a5f5b38e57964bc7d6840f563728bff5d35/data/United_States_of_America/House/ep-popolo-v1.0.json
     format: json
   - name: 2017-01-03 to 2019-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/af9b12581ddb183fbb39626866cfb6b1aed76688/data/United_States_of_America/House/term-115.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bdbf7a5f5b38e57964bc7d6840f563728bff5d35/data/United_States_of_America/House/term-115.csv
     format: csv
   - name: 2015-01-06 to 2017-01-03
     url: >-
@@ -84,7 +84,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/af9b12581ddb183fbb39626866cfb6b1aed76688/data/United_States_of_America/House/term-97.csv
     format: csv
-last_modified: 2017-02-13T21:08:33
+last_modified: 2017-03-28T09:44:42
 license: ''
 category:
   - United States of America
