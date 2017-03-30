@@ -6,17 +6,17 @@ notes: Data on the people within the National Assembly legislature of Azerbaijan
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ff777803812ab94c018f048b9acd0792b563413/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c9d493ad0cf3d529bf38ce78ce9a8ee3786084c0/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-12-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ff777803812ab94c018f048b9acd0792b563413/data/Azerbaijan/National_Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7213a2be39768850209b1a75e6c4fac5206739c8/data/Azerbaijan/National_Assembly/term-5.csv
     format: csv
   - name: 2010 to 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ff777803812ab94c018f048b9acd0792b563413/data/Azerbaijan/National_Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7213a2be39768850209b1a75e6c4fac5206739c8/data/Azerbaijan/National_Assembly/term-4.csv
     format: csv
-last_modified: 2017-03-08T06:11:35
+last_modified: 2017-03-30T00:16:31
 license: ''
 category:
   - Azerbaijan
