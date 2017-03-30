@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Cyp
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/37c4162bf00f75f5d2b4cfd2a5802de495875e47/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7a2399e8e9faafd23cab9187706c3c9d2ef37ba1/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2016-06-02
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b895b511f4e2fd32c77935e8548497c991974766/data/Cyprus/House_of_Representatives/term-10.csv
     format: csv
-last_modified: 2017-03-15T17:07:16
+last_modified: 2017-03-30T08:45:10
 license: ''
 category:
   - Cyprus
