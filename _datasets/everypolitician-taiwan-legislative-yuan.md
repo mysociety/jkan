@@ -6,7 +6,7 @@ notes: Data on the people within the Legislative Yuan legislature of Taiwan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/280d61626469dfaf5702b8b322e9b2e2c750c602/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f4a38830faa901c5c2dbc5a0be095c88a5be824/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json
     format: json
   - name: From 2016-01-16
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/446a92ae221831e3d5ece1c8c3c84aa6eccc5b7d/data/Taiwan/Legislative_Yuan/term-8.csv
     format: csv
-last_modified: 2017-03-22T07:28:39
+last_modified: 2017-03-30T07:34:27
 license: ''
 category:
   - Taiwan
