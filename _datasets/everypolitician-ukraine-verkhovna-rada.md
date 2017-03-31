@@ -6,13 +6,13 @@ notes: Data on the people within the Verkhovna Rada legislature of Ukraine.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/48bf27da83d2d1ec8471f9ae009f5955e47f19ff/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/35738f8bb5a10f7aef8b62d660a2a6e1c3640b90/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json
     format: json
   - name: From 2014-11-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bf7c8bc733b7a1fa1c5b44f69b070c9f18e6311d/data/Ukraine/Verkhovna_Rada/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/35738f8bb5a10f7aef8b62d660a2a6e1c3640b90/data/Ukraine/Verkhovna_Rada/term-8.csv
     format: csv
-last_modified: 2017-03-06T15:35:39
+last_modified: 2017-03-31T09:06:45
 license: ''
 category:
   - Ukraine
