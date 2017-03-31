@@ -6,37 +6,37 @@ notes: Data on the people within the Chamber of Deputies legislature of Czech Re
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/745e9fbe29d628939d108ada5f4da58c8645377a/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/053e36bccc1a4296657f99b37a6fb3cf71802718/data/Czech_Republic/Deputies/term-7.csv
     format: csv
   - name: 2010-05-29 to 2013-08-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/053e36bccc1a4296657f99b37a6fb3cf71802718/data/Czech_Republic/Deputies/term-6.csv
     format: csv
   - name: 2006-06-03 to 2010-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/745e9fbe29d628939d108ada5f4da58c8645377a/data/Czech_Republic/Deputies/term-5.csv
     format: csv
   - name: 2002-06-15 to 2006-06-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/053e36bccc1a4296657f99b37a6fb3cf71802718/data/Czech_Republic/Deputies/term-4.csv
     format: csv
   - name: 1998-06-20 to 2002-06-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/053e36bccc1a4296657f99b37a6fb3cf71802718/data/Czech_Republic/Deputies/term-3.csv
     format: csv
   - name: 1996-06-01 to 1998-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/053e36bccc1a4296657f99b37a6fb3cf71802718/data/Czech_Republic/Deputies/term-2.csv
     format: csv
   - name: 1992-06-06 to 1996-06-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c40458885c467cf7e205fa1c09e9146dc0681d77/data/Czech_Republic/Deputies/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/053e36bccc1a4296657f99b37a6fb3cf71802718/data/Czech_Republic/Deputies/term-1.csv
     format: csv
-last_modified: 2017-03-30T01:45:19
+last_modified: 2017-03-31T02:55:47
 license: ''
 category:
   - Czech Republic
