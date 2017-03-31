@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Venezuela.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/761f6cb6760a5ca44dca6b11d37660694c4585e6/data/Venezuela/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a90f2ecf414d03e3b49c3878622cf5d1b53aad3d/data/Venezuela/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2016-01-05
     url: >-

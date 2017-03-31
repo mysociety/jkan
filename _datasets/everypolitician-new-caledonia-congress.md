@@ -6,7 +6,7 @@ notes: Data on the people within the Congress legislature of New Caledonia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a140be5697faf013f33932fa221fff079e510ff/data/New_Caledonia/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0914b0fec723597aff0297fb512ac17a53009d19/data/New_Caledonia/Congress/ep-popolo-v1.0.json
     format: json
   - name: From 2014
     url: >-

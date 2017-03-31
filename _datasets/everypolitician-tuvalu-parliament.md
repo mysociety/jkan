@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Tuvalu.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1364825aef6d6854fcdf84188b6d24b4e91e557/data/Tuvalu/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/147a726fa7b010a4ed9636cb3710f427ee110f0f/data/Tuvalu/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2015-03-31
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f861d17781a135488fe0c70311d2a7fe90ca849d/data/Tuvalu/Parliament/term-9.csv
     format: csv
-last_modified: 2017-02-20T00:55:36
+last_modified: 2017-03-31T04:18:21
 license: ''
 category:
   - Tuvalu

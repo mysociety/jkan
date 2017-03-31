@@ -6,13 +6,13 @@ notes: Data on the people within the House of Representatives legislature of Ame
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b994a64fca70909fda7e2b28f4765ec85f4bcaa1/data/American_Samoa/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a378ba74cb21ab40ed64931c23152ed53c126a1/data/American_Samoa/House/ep-popolo-v1.0.json
     format: json
   - name: From 2015-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b994a64fca70909fda7e2b28f4765ec85f4bcaa1/data/American_Samoa/House/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a378ba74cb21ab40ed64931c23152ed53c126a1/data/American_Samoa/House/term-2014.csv
     format: csv
-last_modified: 2017-01-30T12:24:06
+last_modified: 2017-03-31T04:38:30
 license: ''
 category:
   - American Samoa

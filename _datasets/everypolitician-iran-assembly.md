@@ -6,7 +6,7 @@ notes: Data on the people within the Majles legislature of Iran.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bb986e1c44f19802c57b4b4cad3e46d71f179e03/data/Iran/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b5ec8a56653aa774d8cdaa50dd6915fefec85a91/data/Iran/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2016-05-28
     url: >-

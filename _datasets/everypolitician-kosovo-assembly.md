@@ -6,7 +6,7 @@ notes: Data on the people within the Kuvendit legislature of Kosovo.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7e3af59106931ab001087b1cb850c3f27f53db54/data/Kosovo/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d86fc0bf620fad362d68ecf97dada481b04ec41a/data/Kosovo/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-07-17
     url: >-

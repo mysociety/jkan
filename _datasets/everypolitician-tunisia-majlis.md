@@ -6,11 +6,11 @@ notes: Data on the people within the Assembly of the Representatives of the Peop
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8317486cf87236bbe221e0e45f63c88aedd38d94/data/Tunisia/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e2f92a63cb3201cf4d770fbc67dc3cb98b7c613/data/Tunisia/Majlis/ep-popolo-v1.0.json
     format: json
   - name: From 2014-12-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8317486cf87236bbe221e0e45f63c88aedd38d94/data/Tunisia/Majlis/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e2f92a63cb3201cf4d770fbc67dc3cb98b7c613/data/Tunisia/Majlis/term-1.csv
     format: csv
 last_modified: 2017-03-20T10:33:34
 license: ''

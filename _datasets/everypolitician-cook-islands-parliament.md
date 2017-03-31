@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Cook Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/07f4995fdab89da0c891255be7d1bda6334fbe67/data/Cook_Islands/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaee2bcdbc9b6fdfcd82243416de4ab8e1464d4/data/Cook_Islands/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2014-10-08
     url: >-
@@ -14,11 +14,11 @@ resources:
     format: csv
   - name: 2011-02-18 to 2014-04-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/07f4995fdab89da0c891255be7d1bda6334fbe67/data/Cook_Islands/Parliament/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaee2bcdbc9b6fdfcd82243416de4ab8e1464d4/data/Cook_Islands/Parliament/term-13.csv
     format: csv
   - name: 2006-09-27 to 2010-09-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/07f4995fdab89da0c891255be7d1bda6334fbe67/data/Cook_Islands/Parliament/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaee2bcdbc9b6fdfcd82243416de4ab8e1464d4/data/Cook_Islands/Parliament/term-12.csv
     format: csv
 last_modified: 2017-02-23T17:05:12
 license: ''

@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Bos
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a7284c811c0239ddbe8a5c43e52243748e1fe880/data/Bosnia_and_Herzegovina/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fea0518cf3fa45db2b1dfa564f69cab977ea6c8b/data/Bosnia_and_Herzegovina/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2014-12-09
     url: >-

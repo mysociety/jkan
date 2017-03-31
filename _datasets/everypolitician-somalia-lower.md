@@ -6,7 +6,7 @@ notes: Data on the people within the House of the People legislature of Somalia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/70885f1d5f67c1c87c39ef1565fe780f24e69b59/data/Somalia/Lower/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ced86333cfdccb7e84005f68bd1c97b71a97f82/data/Somalia/Lower/ep-popolo-v1.0.json
     format: json
   - name: From 2012-08-20
     url: >-

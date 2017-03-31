@@ -6,15 +6,15 @@ notes: Data on the people within the National Assembly legislature of Serbia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8fdbcee4bb3818a8a31029b619e58895c71920c/data/Serbia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7c76ee419f4b7a87321ce6a290f21c2e1ec872ea/data/Serbia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2016-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8fdbcee4bb3818a8a31029b619e58895c71920c/data/Serbia/National_Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7c76ee419f4b7a87321ce6a290f21c2e1ec872ea/data/Serbia/National_Assembly/term-11.csv
     format: csv
   - name: 2014-05-16 to 2016-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8fdbcee4bb3818a8a31029b619e58895c71920c/data/Serbia/National_Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7c76ee419f4b7a87321ce6a290f21c2e1ec872ea/data/Serbia/National_Assembly/term-10.csv
     format: csv
 last_modified: 2017-03-03T12:06:58
 license: ''

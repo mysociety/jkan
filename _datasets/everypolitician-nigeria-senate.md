@@ -6,11 +6,11 @@ notes: Data on the people within the Senate legislature of Nigeria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e720cad7efba3f20779fcd5b68455004e49ebf0c/data/Nigeria/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4ad4ae5c681f604f48b726849daa848fd0e0bb90/data/Nigeria/Senate/ep-popolo-v1.0.json
     format: json
   - name: From 2015-06-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e720cad7efba3f20779fcd5b68455004e49ebf0c/data/Nigeria/Senate/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4ad4ae5c681f604f48b726849daa848fd0e0bb90/data/Nigeria/Senate/term-8.csv
     format: csv
 last_modified: 2017-03-30T02:57:09
 license: ''

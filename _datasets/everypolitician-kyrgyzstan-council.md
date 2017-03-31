@@ -6,7 +6,7 @@ notes: Data on the people within the Supreme Council legislature of Kyrgyzstan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8be39148c2ba0bcd84edad509a33ee601640db0/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c09a4f70e15dbf07763b8b4a5d8246389ab4b2e7/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
     format: json
   - name: From 2015-10-28
     url: >-

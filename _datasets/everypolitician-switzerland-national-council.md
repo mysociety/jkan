@@ -6,7 +6,7 @@ notes: Data on the people within the National Council legislature of Switzerland
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e0dbc820e5e80dbe4e9de46b8f4132a66270f7ec/data/Switzerland/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/aeac349fa4a9e9493d64bf652e94b9da53696ec8/data/Switzerland/National_Council/ep-popolo-v1.0.json
     format: json
   - name: 2015-11-30 to 2019-11-29
     url: >-

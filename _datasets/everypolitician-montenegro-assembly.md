@@ -6,7 +6,7 @@ notes: Data on the people within the Skupština legislature of Montenegro.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b93f59455bf2809bf9123300051edba358be6559/data/Montenegro/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/53395a894f1b8c010118c41c0a95b8b3bdbddcea/data/Montenegro/Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2012-11-06 to 2015
     url: >-

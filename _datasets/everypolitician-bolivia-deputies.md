@@ -6,11 +6,11 @@ notes: Data on the people within the Chamber of Deputies legislature of Bolivia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/35eaa6fbeb1d8084b388254e73cc312ef527d59f/data/Bolivia/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/86db4c06b5b5540fedde52bea39587945364fcd2/data/Bolivia/Deputies/ep-popolo-v1.0.json
     format: json
   - name: From 2015-01-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/35eaa6fbeb1d8084b388254e73cc312ef527d59f/data/Bolivia/Deputies/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/86db4c06b5b5540fedde52bea39587945364fcd2/data/Bolivia/Deputies/term-2015.csv
     format: csv
 last_modified: 2017-02-24T17:32:20
 license: ''

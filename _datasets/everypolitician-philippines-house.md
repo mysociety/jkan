@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Phi
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/04f9a67fa7db77a2c0702a5900fa76917f10dcca/data/Philippines/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/77b42d4fea492313b54bb62c03f0179669c966be/data/Philippines/House/ep-popolo-v1.0.json
     format: json
   - name: From 2016-07-25
     url: >-

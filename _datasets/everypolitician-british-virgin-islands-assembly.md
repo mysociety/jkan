@@ -6,15 +6,15 @@ notes: Data on the people within the House of Assembly legislature of British Vi
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9906d694897a23e6f7a0ab47b0bd7269e93d8454/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/336191ae786523bd81f9c5c0c6d7dca422eefb2e/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-06-08
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9906d694897a23e6f7a0ab47b0bd7269e93d8454/data/British_Virgin_Islands/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/336191ae786523bd81f9c5c0c6d7dca422eefb2e/data/British_Virgin_Islands/Assembly/term-2015.csv
     format: csv
   - name: 2011 to 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9906d694897a23e6f7a0ab47b0bd7269e93d8454/data/British_Virgin_Islands/Assembly/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/336191ae786523bd81f9c5c0c6d7dca422eefb2e/data/British_Virgin_Islands/Assembly/term-2011.csv
     format: csv
   - name: 2007 to 2011
     url: >-

@@ -6,7 +6,7 @@ notes: Data on the people within the Assemblée nationale legislature of Gabon.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3c372e32662ddcc86656dc890ca35551dce0b19a/data/Gabon/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8bdab3eb1b875d00c48e6da2e3d8ba8374a73a61/data/Gabon/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2012-02-27
     url: >-

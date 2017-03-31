@@ -6,7 +6,7 @@ notes: Data on the people within the House of Assembly legislature of Dominica.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2b0a3942c1a3577b255a24b5e45bbf00383e5629/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f938d0a770ae23371743a1e7b2575aa092c77cda/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014
     url: >-

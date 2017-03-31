@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Zambia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6875b64d9d2a9df2d1756758faa5491943f98187/data/Zambia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ec752243c4c859c64510300688e5641e7c5538e1/data/Zambia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2011-10-06 to 2016-05-11
     url: >-

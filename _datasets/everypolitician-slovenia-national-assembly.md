@@ -6,7 +6,7 @@ notes: Data on the people within the Državni zbor legislature of Slovenia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dcb2ae61fc4967749079a436f259d5f346285b77/data/Slovenia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/47312fd636a7fe94206d05fa8dd1ee42253788ff/data/Slovenia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-08-01
     url: >-

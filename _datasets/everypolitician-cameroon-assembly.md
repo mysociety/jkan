@@ -6,7 +6,7 @@ notes: Data on the people within the Assemblée Nationale legislature of Cameroo
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38896d29b28c8df8ed0b625ccc44567409c5f727/data/Cameroon/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-29
     url: >-
@@ -18,7 +18,7 @@ resources:
     format: csv
   - name: 2002 to 2007
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38896d29b28c8df8ed0b625ccc44567409c5f727/data/Cameroon/Assembly/term-7.csv
     format: csv
   - name: 1997 to 2002
     url: >-
@@ -26,7 +26,7 @@ resources:
     format: csv
   - name: 1992 to 1997
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38896d29b28c8df8ed0b625ccc44567409c5f727/data/Cameroon/Assembly/term-5.csv
     format: csv
   - name: 1988 to 1992
     url: >-
@@ -34,7 +34,7 @@ resources:
     format: csv
   - name: 1983 to 1988
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38896d29b28c8df8ed0b625ccc44567409c5f727/data/Cameroon/Assembly/term-3.csv
     format: csv
   - name: 1973 to 1978
     url: >-

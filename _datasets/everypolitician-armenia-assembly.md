@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Armenia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f88c70491e993bf1aa9b5520c414867bc405ca5c/data/Armenia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd1c23bcae827065b1ccf64c9425e91a1c5dd9b0/data/Armenia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2012-05-31
     url: >-

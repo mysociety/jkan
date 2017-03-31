@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Nor
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/06a5786ed46c5cb9d6f0d774ceea162877142b14/data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c1b8987072f6ffb1dfeaa617210df9909cecc548/data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json
     format: json
   - name: From 2014
     url: >-

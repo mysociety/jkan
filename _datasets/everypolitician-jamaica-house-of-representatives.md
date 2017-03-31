@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Jam
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9c36fe09a68a6880fc4e6dfa551e60d16477b96/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a45f7235801d832659598dad4a926a5f6f970a5e/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2016-03-10
     url: >-

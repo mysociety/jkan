@@ -6,7 +6,7 @@ notes: Data on the people within the Lok Sabha legislature of India.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/15d824e84d80d573ba9618a577495686e26634dc/data/India/Lok_Sabha/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0bfa88b9666d78c29386c880072302b3a1e75c06/data/India/Lok_Sabha/ep-popolo-v1.0.json
     format: json
   - name: From 2014-05-26
     url: >-

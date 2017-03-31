@@ -6,7 +6,7 @@ notes: Data on the people within the Grand National Assembly legislature of Turk
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c24b92e77edb43199d85ed8487c0478d3015f732/data/Turkey/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/15021fc1a7fe305f55ef115f65a008d2e73a75ca/data/Turkey/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-11-17
     url: >-

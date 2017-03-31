@@ -6,7 +6,7 @@ notes: Data on the people within the Chamber of Deputies legislature of Romania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1a0c8885cef51438433281399996f7eb29a392fd/data/Romania/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/265cc1008719551bb03b40f0223df4c36a3d4530/data/Romania/Deputies/ep-popolo-v1.0.json
     format: json
   - name: 2012-12-12 to 2016-12-10
     url: >-

@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Pue
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e0cd3714564ea552dbd464b4843c2aa0beb9d9ea/data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6617a017f608b20dbf6681927b2c81afd8817756/data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: 2017-01-02 to 2020-01-01
     url: >-

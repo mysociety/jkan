@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Ita
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cad2be940ef1a2c6b44d507e5723c84a5d15e9b8/data/Italy/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/12ca5c095dd3cdf944b699da56d0dc23c95b109c/data/Italy/House/ep-popolo-v1.0.json
     format: json
   - name: From 2013-03-15
     url: >-

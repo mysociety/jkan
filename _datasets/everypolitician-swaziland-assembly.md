@@ -6,7 +6,7 @@ notes: Data on the people within the House of Assembly legislature of Swaziland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/745b40390a3884b48b54332b8e2fe869943a08e5/data/Swaziland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8cc03e2600cde4113651f590690e7f23adffee5a/data/Swaziland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-17
     url: >-

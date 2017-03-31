@@ -6,7 +6,7 @@ notes: Data on the people within the Løgting legislature of Faroe Islands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5894b2ad6e1ecfe842063267dab74099c08a4b61/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dfa42555fc7cff215a5ea2f4c10a340636c7db0/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
     format: json
   - name: From 2015-09-01
     url: >-

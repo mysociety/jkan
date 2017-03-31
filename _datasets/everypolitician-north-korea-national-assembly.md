@@ -6,7 +6,7 @@ notes: Data on the people within the Supreme People’s Assembly legislature of 
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3e3d6251449d7cab274275c9d90b71e041d63dca/data/North_Korea/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bc39a7b510b6420390325452fa289dc0a424480a/data/North_Korea/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-03-09
     url: >-

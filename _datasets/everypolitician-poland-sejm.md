@@ -6,7 +6,7 @@ notes: Data on the people within the Sejm legislature of Poland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6ec5549e1d027cdec66d1467c695daafb7f51960/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d70d8a40d6b493f8f44b11466a54c6bd2176a6c/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: From 2015-11-12
     url: >-
@@ -26,15 +26,15 @@ resources:
     format: csv
   - name: 2001-10-19 to 2005-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6ec5549e1d027cdec66d1467c695daafb7f51960/data/Poland/Sejm/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d70d8a40d6b493f8f44b11466a54c6bd2176a6c/data/Poland/Sejm/term-4.csv
     format: csv
   - name: 1997-10-20 to 2001-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6ec5549e1d027cdec66d1467c695daafb7f51960/data/Poland/Sejm/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d70d8a40d6b493f8f44b11466a54c6bd2176a6c/data/Poland/Sejm/term-3.csv
     format: csv
   - name: 1993-09-19 to 1997-10-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6ec5549e1d027cdec66d1467c695daafb7f51960/data/Poland/Sejm/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d70d8a40d6b493f8f44b11466a54c6bd2176a6c/data/Poland/Sejm/term-2.csv
     format: csv
   - name: 1991-11-25 to 1993-09-18
     url: >-

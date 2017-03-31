@@ -6,7 +6,7 @@ notes: Data on the people within the National Legislative Assembly legislature o
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/539fe4ab4d5dd1e751f801fa520e458fb96fdde1/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a2b47171cc467474fef931c5bc1cd24ca0c5acb5/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-08-07
     url: >-

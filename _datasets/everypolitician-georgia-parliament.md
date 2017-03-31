@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament of Georgia legislature of Georgi
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9224bb6a8404611b19c45723264889e2e1c6c8fd/data/Georgia/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67bf39ea89eb843289340fd643c57fd2ce3c88f8/data/Georgia/Parliament/ep-popolo-v1.0.json
     format: json
   - name: 2012-10-20 to 2016-10-01
     url: >-

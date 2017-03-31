@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Lesotho.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b18b14be2f7beb4e9faafd84b2b29a515fe9d250/data/Lesotho/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eec36e7d4384fc2fafff2c92b232ebccf0d518fb/data/Lesotho/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-03-10
     url: >-

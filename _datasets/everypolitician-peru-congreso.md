@@ -6,7 +6,7 @@ notes: Data on the people within the Congress legislature of Peru.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c031973978fa298e35f2145c0167041e28f41093/data/Peru/Congreso/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5ebf54e96cfaf105c75d77874f525e5d2068c9/data/Peru/Congreso/ep-popolo-v1.0.json
     format: json
   - name: 2011-07-27 to 2016-07-26
     url: >-

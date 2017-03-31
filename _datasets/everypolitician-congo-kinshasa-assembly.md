@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Congo-Kins
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/906992a25773c1c8eb94d2491f84f07435da40fb/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/de6295af26e60420a490a23ae272fce81e1924a6/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2012-02-16
     url: >-

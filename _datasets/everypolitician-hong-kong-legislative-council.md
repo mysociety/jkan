@@ -6,7 +6,7 @@ notes: Data on the people within the Legislative Council legislature of Hong Kon
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e65c69c637feb7fbb2267f857cc1dbdea88ffd98/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1fbf156c918c0a0f5de478225ea016f3a11da607/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
     format: json
   - name: From 2016-10-01
     url: >-

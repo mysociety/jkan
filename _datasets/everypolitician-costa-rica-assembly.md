@@ -6,7 +6,7 @@ notes: Data on the people within the Legislative Assembly legislature of Costa R
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ade708f0972247b12120cbd147af07201e963e86/data/Costa_Rica/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6c35afddf2d44d3a231e9451627692f162d3d34f/data/Costa_Rica/Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2014-05-01 to 2018-04-30
     url: >-

@@ -6,7 +6,7 @@ notes: Data on the people within the Island Council legislature of Pitcairn.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/afbde736719327a82263fa44ec3cbcc25a4b75e9/data/Pitcairn/Island_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fe8df46d0899710a8688e9e199edef682e989dfe/data/Pitcairn/Island_Council/ep-popolo-v1.0.json
     format: json
   - name: From 2013-11-12
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/bda86b91d30febed094ad852df918f1787c34013/data/Pitcairn/Island_Council/term-2009.csv
     format: csv
-last_modified: 2017-01-22T06:52:26
+last_modified: 2017-03-31T01:41:08
 license: ''
 category:
   - Pitcairn

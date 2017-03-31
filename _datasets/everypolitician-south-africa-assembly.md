@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of South Afri
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d2164b76a702b8e1ae1a65d0a1b2c6e765247fc/data/South_Africa/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d13d98e42116d0e767731c6a8d01f53433f5858a/data/South_Africa/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-05-21
     url: >-

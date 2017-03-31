@@ -6,7 +6,7 @@ notes: Data on the people within the Assembleia da República legislature of Por
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/28e1214d5e1e6ac51024cb6b09b9adaa2a6d25c8/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd52bb023696af2e3fc6826f48bb1f52d43e1391/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-10-23
     url: >-

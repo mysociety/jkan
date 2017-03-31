@@ -6,7 +6,7 @@ notes: Data on the people within the Lagting legislature of Åland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ee73c1bd7eb245a3d1c2ab6605b793672caa120a/data/Aland/Lagting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad1b0b3cf7ca4ded47540d03c4058307e9a23b29/data/Aland/Lagting/ep-popolo-v1.0.json
     format: json
   - name: 2015-11-02 to 2019-10-31
     url: >-

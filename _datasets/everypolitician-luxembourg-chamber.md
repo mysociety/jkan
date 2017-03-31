@@ -6,7 +6,7 @@ notes: Data on the people within the Chamber of Deputies legislature of Luxembou
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/64550bef718e343a18daf1d5fb7d63f149c06863/data/Luxembourg/Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1df3da7bc4a2f849a25e16e2f37032f2d9ebd457/data/Luxembourg/Chamber/ep-popolo-v1.0.json
     format: json
   - name: From 2013-11-13
     url: >-

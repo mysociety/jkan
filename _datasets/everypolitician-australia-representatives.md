@@ -6,27 +6,27 @@ notes: Data on the people within the House of Representatives legislature of Aus
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f8147bd710caa03e7d15dd280e6d60915b9eb2/data/Australia/Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2016-07-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-45.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f8147bd710caa03e7d15dd280e6d60915b9eb2/data/Australia/Representatives/term-45.csv
     format: csv
   - name: 2013-09-07 to 2016-05-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-44.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f8147bd710caa03e7d15dd280e6d60915b9eb2/data/Australia/Representatives/term-44.csv
     format: csv
   - name: 2010-08-21 to 2013-09-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-43.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f8147bd710caa03e7d15dd280e6d60915b9eb2/data/Australia/Representatives/term-43.csv
     format: csv
   - name: 2007-11-24 to 2010-08-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-42.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f8147bd710caa03e7d15dd280e6d60915b9eb2/data/Australia/Representatives/term-42.csv
     format: csv
   - name: 2004-10-09 to 2007-11-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-41.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f8147bd710caa03e7d15dd280e6d60915b9eb2/data/Australia/Representatives/term-41.csv
     format: csv
   - name: 2001-11-10 to 2004-10-09
     url: >-

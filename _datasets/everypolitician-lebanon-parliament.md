@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Lebanon.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/64ea069c5eadecf20b7930ce1df9e6c9c9b12f3a/data/Lebanon/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/432d657414f3f31600508f58cc302ee4fbbcc57a/data/Lebanon/Parliament/ep-popolo-v1.0.json
     format: json
   - name: 2009-06-20 to 2017-06-20
     url: >-

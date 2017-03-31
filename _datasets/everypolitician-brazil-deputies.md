@@ -6,7 +6,7 @@ notes: Data on the people within the Chamber of Deputies legislature of Brazil.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3404ea54d5d7520ff5f3813ce6c90d938d206e33/data/Brazil/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9b338952841c4732a9338e62dd8205633b35590e/data/Brazil/Deputies/ep-popolo-v1.0.json
     format: json
   - name: From 2015-02-01
     url: >-

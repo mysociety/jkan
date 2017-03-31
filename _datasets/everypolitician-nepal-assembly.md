@@ -6,7 +6,7 @@ notes: Data on the people within the Constituent Assembly legislature of Nepal.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/56d1d17e5b77d2731a0057962d3086dce6b58584/data/Nepal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bd0be24c4dc57e962eede6ee5fe2ede8cc1fd388/data/Nepal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-01-22
     url: >-

@@ -6,7 +6,7 @@ notes: Data on the people within the National Council legislature of Namibia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4c4955c8c2cb121826ea8cab1013cbb36d562b58/data/Namibia/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8208fb18fb178607b18fe3d7e8205fe909a72d5/data/Namibia/Council/ep-popolo-v1.0.json
     format: json
   - name: From 2015-12-18
     url: >-

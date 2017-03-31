@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Bulgaria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/325aaee44c222497d95e84ab5639ce0c214cb34e/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/25d2fbaf15a447e369d0800bc53f5004aafd4aa6/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2014-10-27 to 2015-09-10
     url: >-
