@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Kiribati.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/60e7b9cfa916d2fd17774a6f68de0a85233dbbef/data/Kiribati/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4fbcfa43bdd725c44b772ecf69992fec66451899/data/Kiribati/Parliament/ep-popolo-v1.0.json
     format: json
   - name: 2011-11-25 to 2015-11-25
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e7c0f388786da8d3641a88f7fd26561f3bebdd69/data/Kiribati/Parliament/term-9.csv
     format: csv
-last_modified: 2017-02-26T09:07:31
+last_modified: 2017-03-31T00:08:37
 license: ''
 category:
   - Kiribati

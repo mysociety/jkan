@@ -6,13 +6,13 @@ notes: Data on the people within the Tweede Kamer legislature of Netherlands.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7094eca0e6adaa45ef61c5f5fd4ae32a78bd5921/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/94ca47e03d27efdaf4b461c8d5c78092b464b2c4/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2012-09-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7094eca0e6adaa45ef61c5f5fd4ae32a78bd5921/data/Netherlands/House_of_Representatives/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/94ca47e03d27efdaf4b461c8d5c78092b464b2c4/data/Netherlands/House_of_Representatives/term-2012.csv
     format: csv
-last_modified: 2017-03-15T17:33:07
+last_modified: 2017-04-01T12:10:18
 license: ''
 category:
   - Netherlands

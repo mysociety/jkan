@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Guam.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/aba004f23388f81897796d3da65b5a90f44ec2c0/data/Guam/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f95bb8ee1969199c79c3d56ab1e18699b658fee9/data/Guam/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2015-02-16
     url: >-
@@ -24,7 +24,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/75a93bcc3a714ebbd559f2abe79ccc332c66ff50/data/Guam/Parliament/term-30.csv
     format: csv
-last_modified: 2017-03-08T05:56:52
+last_modified: 2017-04-01T11:20:59
 license: ''
 category:
   - Guam
