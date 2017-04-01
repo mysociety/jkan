@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly for Wales legislature of 
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d5848adb7c3aeb8d2c2fa8b8719728a37320eca0/data/Wales/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b6b54909367872e0d5846d1de68a52aa7cfef10f/data/Wales/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2016-05-06
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1791e1be633e7f915ab65fcce51bd55395c1114b/data/Wales/Assembly/term-4.csv
     format: csv
-last_modified: 2017-03-23T10:42:21
+last_modified: 2017-04-01T16:16:59
 license: ''
 category:
   - Wales
