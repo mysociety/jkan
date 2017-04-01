@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Ant
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6e11a4f7ca88241f4a54789eabf2d84edfe54ae/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a40bc1170b87e56ecc15a3c9150b4a79a05ae97/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
     format: json
   - name: 2014-06-25 to 2019
     url: >-
@@ -22,19 +22,19 @@ resources:
     format: csv
   - name: 1999 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1e22e0b61be1190e18cf454b7f770c2218def85/data/Antigua_and_Barbuda/Representatives/term-1999.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a40bc1170b87e56ecc15a3c9150b4a79a05ae97/data/Antigua_and_Barbuda/Representatives/term-1999.csv
     format: csv
   - name: 1994 to 1999
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1e22e0b61be1190e18cf454b7f770c2218def85/data/Antigua_and_Barbuda/Representatives/term-1994.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a40bc1170b87e56ecc15a3c9150b4a79a05ae97/data/Antigua_and_Barbuda/Representatives/term-1994.csv
     format: csv
   - name: 1989 to 1994
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/65c71ec413528d0bfe25c64388954bb0e3d0daee/data/Antigua_and_Barbuda/Representatives/term-1989.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a40bc1170b87e56ecc15a3c9150b4a79a05ae97/data/Antigua_and_Barbuda/Representatives/term-1989.csv
     format: csv
   - name: 1984 to 1989
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/65c71ec413528d0bfe25c64388954bb0e3d0daee/data/Antigua_and_Barbuda/Representatives/term-1984.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a40bc1170b87e56ecc15a3c9150b4a79a05ae97/data/Antigua_and_Barbuda/Representatives/term-1984.csv
     format: csv
   - name: 1980 to 1984
     url: >-
@@ -48,7 +48,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d1e22e0b61be1190e18cf454b7f770c2218def85/data/Antigua_and_Barbuda/Representatives/term-1971.csv
     format: csv
-last_modified: 2017-01-22T06:50:49
+last_modified: 2017-03-31T00:55:10
 license: ''
 category:
   - Antigua and Barbuda

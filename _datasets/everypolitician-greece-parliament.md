@@ -6,7 +6,7 @@ notes: Data on the people within the Hellenic Parliament legislature of Greece.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c738af7da80cebccafc482b38c76ab0b096bba81/data/Greece/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ecb8d789da72f5d046001c1ead0e1bd5daa3a4fc/data/Greece/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2015-09-20
     url: >-
@@ -76,7 +76,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c738af7da80cebccafc482b38c76ab0b096bba81/data/Greece/Parliament/term-1.csv
     format: csv
-last_modified: 2017-03-31T10:14:47
+last_modified: 2017-04-01T07:31:17
 license: ''
 category:
   - Greece

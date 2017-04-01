@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Aus
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f8147bd710caa03e7d15dd280e6d60915b9eb2/data/Australia/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2f0a58736a9f2e72a20dc86170789d6910cec9e0/data/Australia/Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2016-07-02
     url: >-
@@ -52,7 +52,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b8fc6787d2f2f91ade979c784846d41209dca913/data/Australia/Representatives/term-35.csv
     format: csv
-last_modified: 2017-03-30T02:00:19
+last_modified: 2017-04-01T03:51:18
 license: ''
 category:
   - Australia

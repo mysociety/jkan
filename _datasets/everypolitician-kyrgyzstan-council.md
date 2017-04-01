@@ -6,17 +6,17 @@ notes: Data on the people within the Supreme Council legislature of Kyrgyzstan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c09a4f70e15dbf07763b8b4a5d8246389ab4b2e7/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0b2378e83394ddbb213469624764ce8ed2790b73/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
     format: json
   - name: From 2015-10-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/09a8a383e4d69d68bcf9fe881a954da09af6c805/data/Kyrgyzstan/Council/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0b2378e83394ddbb213469624764ce8ed2790b73/data/Kyrgyzstan/Council/term-6.csv
     format: csv
   - name: 2010 to 2015-10-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c1af7ade6b0a89b6a510f1c12603c3e91bffadc/data/Kyrgyzstan/Council/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0b2378e83394ddbb213469624764ce8ed2790b73/data/Kyrgyzstan/Council/term-5.csv
     format: csv
-last_modified: 2017-03-30T06:53:44
+last_modified: 2017-04-01T04:44:56
 license: ''
 category:
   - Kyrgyzstan

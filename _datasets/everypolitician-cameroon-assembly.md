@@ -6,11 +6,11 @@ notes: Data on the people within the Assemblée Nationale legislature of Cameroo
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/38896d29b28c8df8ed0b625ccc44567409c5f727/data/Cameroon/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4325d5e710ee2a88357919204873867873a64823/data/Cameroon/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/20bd8aa5c71e0a0ab6e8bde8098e963d5acb1c1a/data/Cameroon/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4325d5e710ee2a88357919204873867873a64823/data/Cameroon/Assembly/term-9.csv
     format: csv
   - name: 2007 to 2013-07-22
     url: >-
@@ -40,7 +40,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/328acb852c9c92b4a8aa94598376dfa248d97365/data/Cameroon/Assembly/term-1.csv
     format: csv
-last_modified: 2017-03-20T11:29:31
+last_modified: 2017-03-31T07:23:37
 license: ''
 category:
   - Cameroon

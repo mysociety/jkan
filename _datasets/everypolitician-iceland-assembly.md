@@ -6,7 +6,7 @@ notes: Data on the people within the Alþingi legislature of Iceland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eee6c8218a2bf6a1c850bdc98777b127440d02d9/data/Iceland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5dca6c0e30a715303939a91f4c0ca0e66067c65b/data/Iceland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2013-04-27 to 2016-10-29
     url: >-
@@ -32,7 +32,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/eee6c8218a2bf6a1c850bdc98777b127440d02d9/data/Iceland/Assembly/term-1995.csv
     format: csv
-last_modified: 2017-03-03T21:57:23
+last_modified: 2017-04-01T03:56:49
 license: ''
 category:
   - Iceland

@@ -6,7 +6,7 @@ notes: Data on the people within the House of Assembly legislature of British Vi
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/336191ae786523bd81f9c5c0c6d7dca422eefb2e/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/69e6512d191b1d8ab074d8b5fc24e3e207400a29/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-06-08
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a0206f16dab7f4bfbb29e7210d7fd2361cffa001/data/British_Virgin_Islands/Assembly/term-2007.csv
     format: csv
-last_modified: 2017-03-22T06:09:26
+last_modified: 2017-03-31T06:23:46
 license: ''
 category:
   - British Virgin Islands

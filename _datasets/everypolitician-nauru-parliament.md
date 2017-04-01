@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Nauru.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a51383dcaeb230def95187b68f5c177826e1ff83/data/Nauru/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/429620239952269442193f87a8db26d1a136b1ff/data/Nauru/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2016-07-11
     url: >-
@@ -24,7 +24,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8da20f0c2442ace9358e2544e429da0d7e8422dd/data/Nauru/Parliament/term-19.csv
     format: csv
-last_modified: 2017-02-24T10:22:16
+last_modified: 2017-04-01T08:01:55
 license: ''
 category:
   - Nauru

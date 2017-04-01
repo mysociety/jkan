@@ -6,7 +6,7 @@ notes: Data on the people within the Storting legislature of Norway.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ecc23f878650a724ea5f9e33c60e9cd73c4cf236/data/Norway/Storting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/75fbac68a39e5f20d9b24d04531c8d0996e5dc90/data/Norway/Storting/ep-popolo-v1.0.json
     format: json
   - name: 2013-10-01 to 2017-09-30
     url: >-
@@ -58,29 +58,29 @@ resources:
     format: csv
   - name: 1965-10-01 to 1969-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/285e7757ba52b78550917c805ce2705cec1d7913/data/Norway/Storting/term-1965-69.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/75fbac68a39e5f20d9b24d04531c8d0996e5dc90/data/Norway/Storting/term-1965-69.csv
     format: csv
   - name: 1961-10-01 to 1965-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/285e7757ba52b78550917c805ce2705cec1d7913/data/Norway/Storting/term-1961-65.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/75fbac68a39e5f20d9b24d04531c8d0996e5dc90/data/Norway/Storting/term-1961-65.csv
     format: csv
   - name: 1958-01-11 to 1961-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/308b9d3f9cbf1141e402192f6c99ea4eb22dcdc5/data/Norway/Storting/term-1958-61.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/75fbac68a39e5f20d9b24d04531c8d0996e5dc90/data/Norway/Storting/term-1958-61.csv
     format: csv
   - name: 1954-01-11 to 1958-01-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/308b9d3f9cbf1141e402192f6c99ea4eb22dcdc5/data/Norway/Storting/term-1954-57.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/75fbac68a39e5f20d9b24d04531c8d0996e5dc90/data/Norway/Storting/term-1954-57.csv
     format: csv
   - name: 1950-01-11 to 1954-01-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/285e7757ba52b78550917c805ce2705cec1d7913/data/Norway/Storting/term-1950-53.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/75fbac68a39e5f20d9b24d04531c8d0996e5dc90/data/Norway/Storting/term-1950-53.csv
     format: csv
   - name: 1945-12-04 to 1950-01-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/308b9d3f9cbf1141e402192f6c99ea4eb22dcdc5/data/Norway/Storting/term-1945-49.csv
     format: csv
-last_modified: 2017-03-20T07:41:40
+last_modified: 2017-04-01T05:51:09
 license: ''
 category:
   - Norway

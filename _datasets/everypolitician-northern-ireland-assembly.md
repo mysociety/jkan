@@ -6,15 +6,15 @@ notes: Data on the people within the Northern Ireland Assembly legislature of No
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b12459eb8f8fce196e81dc263c8f4d52d707c833/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ee601df54fbb092b0d50a988cc22e4091de7855/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2017-03-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b12459eb8f8fce196e81dc263c8f4d52d707c833/data/Northern_Ireland/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ee601df54fbb092b0d50a988cc22e4091de7855/data/Northern_Ireland/Assembly/term-6.csv
     format: csv
   - name: 2016-05-05 to 2017-01-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b12459eb8f8fce196e81dc263c8f4d52d707c833/data/Northern_Ireland/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ee601df54fbb092b0d50a988cc22e4091de7855/data/Northern_Ireland/Assembly/term-5.csv
     format: csv
   - name: 2011-05-06 to 2016-03-24
     url: >-
@@ -26,13 +26,13 @@ resources:
     format: csv
   - name: 2003-11-26 to 2007-01-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9d55dfb10b62edbbff5863dcec330f9663f3f7d0/data/Northern_Ireland/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ee601df54fbb092b0d50a988cc22e4091de7855/data/Northern_Ireland/Assembly/term-2.csv
     format: csv
   - name: 1998-06-25 to 2003-04-28
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9d55dfb10b62edbbff5863dcec330f9663f3f7d0/data/Northern_Ireland/Assembly/term-1.csv
     format: csv
-last_modified: 2017-03-24T14:22:43
+last_modified: 2017-04-01T04:29:08
 license: ''
 category:
   - Northern Ireland
