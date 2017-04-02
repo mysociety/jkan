@@ -6,23 +6,23 @@ notes: Data on the people within the Dewan Rakyat legislature of Malaysia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3c45fcf909bcf632b555d8682d7f008e7a615a64/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c8545640df99f654a6a8ebe13f9d113c8b3520d/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: From 2013-06-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e78788e9be00b6c07c2fb8a1a727637a22f648af/data/Malaysia/Dewan_Rakyat/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c8545640df99f654a6a8ebe13f9d113c8b3520d/data/Malaysia/Dewan_Rakyat/term-13.csv
     format: csv
   - name: 2008 to 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e78788e9be00b6c07c2fb8a1a727637a22f648af/data/Malaysia/Dewan_Rakyat/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c8545640df99f654a6a8ebe13f9d113c8b3520d/data/Malaysia/Dewan_Rakyat/term-12.csv
     format: csv
   - name: 2004 to 2008
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f00c5707e29e816117f3cbfdacc2d900726ddd43/data/Malaysia/Dewan_Rakyat/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c8545640df99f654a6a8ebe13f9d113c8b3520d/data/Malaysia/Dewan_Rakyat/term-11.csv
     format: csv
   - name: 1999 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f00c5707e29e816117f3cbfdacc2d900726ddd43/data/Malaysia/Dewan_Rakyat/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c8545640df99f654a6a8ebe13f9d113c8b3520d/data/Malaysia/Dewan_Rakyat/term-10.csv
     format: csv
   - name: 1995 to 1999
     url: >-
@@ -60,7 +60,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/152e44d59503d98fc58dc65c0a280da727ccdd17/data/Malaysia/Dewan_Rakyat/term-1.csv
     format: csv
-last_modified: 2017-02-11T07:35:19
+last_modified: 2017-04-02T15:26:59
 license: ''
 category:
   - Malaysia
