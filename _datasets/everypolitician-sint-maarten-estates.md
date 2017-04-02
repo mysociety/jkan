@@ -6,17 +6,17 @@ notes: Data on the people within the Estates legislature of Sint Maarten.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/861cc19d2d9808c832d00f9a6d0ae8e25310095b/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a47b7f496c1dd6ad3eed4685f295fd6ce18e477/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
     format: json
   - name: From 2016-11-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/861cc19d2d9808c832d00f9a6d0ae8e25310095b/data/Sint_Maarten/Estates/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a47b7f496c1dd6ad3eed4685f295fd6ce18e477/data/Sint_Maarten/Estates/term-3.csv
     format: csv
   - name: 2014-10-10 to 2016-10-31
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5f4e08ffce0efd1bebf41fd8a8edb3ddb034d771/data/Sint_Maarten/Estates/term-2.csv
     format: csv
-last_modified: 2017-03-31T01:00:51
+last_modified: 2017-04-01T13:17:26
 license: ''
 category:
   - Sint Maarten

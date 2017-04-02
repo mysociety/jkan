@@ -6,13 +6,13 @@ notes: Data on the people within the National Assembly legislature of Djibouti.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e4a6819ae2eb953c7f50c09882eadc0211e4212/data/Djibouti/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dba9e445890319dc54c9629db9d623ece30effe/data/Djibouti/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-03-05
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/dfe56e242be3f70e40d4ebb562e237f2bd80e97f/data/Djibouti/Assembly/term-6.csv
     format: csv
-last_modified: 2017-01-22T06:51:23
+last_modified: 2017-04-02T06:58:36
 license: ''
 category:
   - Djibouti

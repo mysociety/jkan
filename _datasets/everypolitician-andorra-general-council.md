@@ -6,13 +6,13 @@ notes: Data on the people within the Consell General legislature of Andorra.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fae70c22706ee6236ada7ca7905dafb664a80a38/data/Andorra/General_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf74d902cf3f20302c2ff8cb98f03b69c9bebf80/data/Andorra/General_Council/ep-popolo-v1.0.json
     format: json
   - name: From 2015-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f3974eb4738b1c6ac698f5ac87899c431b0b7289/data/Andorra/General_Council/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf74d902cf3f20302c2ff8cb98f03b69c9bebf80/data/Andorra/General_Council/term-2015.csv
     format: csv
-last_modified: 2017-01-22T06:50:47
+last_modified: 2017-04-01T11:57:20
 license: ''
 category:
   - Andorra

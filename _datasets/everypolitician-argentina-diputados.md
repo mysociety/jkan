@@ -6,13 +6,13 @@ notes: Data on the people within the Cámara de Diputados legislature of Argenti
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a7cb9bfbd074d1461fdfd8b0181712c7a878219b/data/Argentina/Diputados/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1119fe3ba142a44c5a43c403c25c058095989e2c/data/Argentina/Diputados/ep-popolo-v1.0.json
     format: json
   - name: From 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a7cb9bfbd074d1461fdfd8b0181712c7a878219b/data/Argentina/Diputados/term-133.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1119fe3ba142a44c5a43c403c25c058095989e2c/data/Argentina/Diputados/term-133.csv
     format: csv
-last_modified: 2017-04-01T09:02:10
+last_modified: 2017-04-02T06:32:11
 license: ''
 category:
   - Argentina
