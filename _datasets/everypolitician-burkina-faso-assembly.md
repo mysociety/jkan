@@ -6,7 +6,7 @@ notes: Data on the people within the Assemblée Nationale legislature of Burkina
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f2abe1a756ee76561c31ceb5ff9bed0af3f3cb5b/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/737018df67d572304ab40167e8311ad83f8c6213/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-12-30
     url: >-
@@ -28,7 +28,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc29587dc4e3c276c24bcb2dc739fdc5f14d2a/data/Burkina_Faso/Assembly/term-1.csv
     format: csv
-last_modified: 2017-01-22T06:51:07
+last_modified: 2017-04-02T11:18:03
 license: ''
 category:
   - Burkina Faso
