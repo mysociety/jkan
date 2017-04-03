@@ -6,13 +6,13 @@ notes: Data on the people within the Territorial Council legislature of Saint Ma
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/43e1d1d8fc65a511f9ac22672d6e5d36f174b0bc/data/Saint_Martin/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c643cd86ac6c36d772f28bdc78831b6a06b2610e/data/Saint_Martin/Council/ep-popolo-v1.0.json
     format: json
   - name: From 2012
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c56a3948cc2ebe20624e2d1dfee623e9d172a3d2/data/Saint_Martin/Council/term-2012.csv
     format: csv
-last_modified: 2017-02-26T14:03:28
+last_modified: 2017-04-03T11:07:35
 license: ''
 category:
   - Saint Martin
