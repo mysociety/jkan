@@ -6,13 +6,13 @@ notes: Data on the people within the National Assembly legislature of Cambodia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7e55883e104deca61050e61198c728a74f48141f/data/Cambodia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eae8ea3c2f93760bd72962eaad18467f1502e10c/data/Cambodia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-09-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bbf350a9d1c79a76b4c6b5dc8f2059f7afec8e58/data/Cambodia/National_Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eae8ea3c2f93760bd72962eaad18467f1502e10c/data/Cambodia/National_Assembly/term-5.csv
     format: csv
-last_modified: 2017-03-20T11:29:07
+last_modified: 2017-04-04T06:32:59
 license: ''
 category:
   - Cambodia
