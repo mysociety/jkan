@@ -6,7 +6,7 @@ notes: Data on the people within the Inatsisartut legislature of Greenland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/550f39410983af127ff00992b5d7a8a6d9fdafee/data/Greenland/Inatsisartut/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/06b40a7e71c4eef196de3fd5225b3cea05b174b8/data/Greenland/Inatsisartut/ep-popolo-v1.0.json
     format: json
   - name: From 2014-11-28
     url: >-
@@ -56,7 +56,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/550f39410983af127ff00992b5d7a8a6d9fdafee/data/Greenland/Inatsisartut/term-1.csv
     format: csv
-last_modified: 2017-04-01T03:32:27
+last_modified: 2017-04-03T15:09:15
 license: ''
 category:
   - Greenland

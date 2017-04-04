@@ -6,13 +6,13 @@ notes: Data on the people within the Chamber of Deputies legislature of Paraguay
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c3ed5150c5d6db22a5b13195a94a2767cc2725e/data/Paraguay/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/99e581d8de86de1d8d2659cf33f6dc28e8705eff/data/Paraguay/Deputies/ep-popolo-v1.0.json
     format: json
   - name: From 2013-04-21
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/fb0d4b758cbbdcc96c4987a8a202ccce7348accc/data/Paraguay/Deputies/term-2013.csv
     format: csv
-last_modified: 2017-03-30T15:36:57
+last_modified: 2017-04-04T09:02:28
 license: ''
 category:
   - Paraguay

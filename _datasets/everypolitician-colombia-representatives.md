@@ -6,13 +6,13 @@ notes: Data on the people within the Cámara de Representantes legislature of Co
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/12979a48f732309f83f406c66d6ba601e556925d/data/Colombia/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5d13d398c289dc9255341fb3cdb52fa5a03a2226/data/Colombia/Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2014-07-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/535ccb664b776f6debfd65d179170b919a281420/data/Colombia/Representatives/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c452bab16e95dcc61b448ffcb2edf9bf7af3d39b/data/Colombia/Representatives/term-2014.csv
     format: csv
-last_modified: 2017-02-27T12:17:33
+last_modified: 2017-04-04T11:25:04
 license: ''
 category:
   - Colombia
