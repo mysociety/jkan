@@ -6,7 +6,7 @@ notes: Data on the people within the Sabor legislature of Croatia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2ca1a2184a606df85696f87de705bcc731353f12/data/Croatia/Sabor/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/04b34b2bdf57c90a716d1323cfc7f6931535b7e8/data/Croatia/Sabor/ep-popolo-v1.0.json
     format: json
   - name: 2015-12-28 to 2016-07-15
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d02b76cb63d42b33faede9577e23da9010fc64d9/data/Croatia/Sabor/term-7.csv
     format: csv
-last_modified: 2017-04-03T18:08:03
+last_modified: 2017-04-07T12:18:00
 license: ''
 category:
   - Croatia

@@ -6,7 +6,7 @@ notes: Data on the people within the Bundestag legislature of Germany.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/646962815a6927a16e83099a46caedd87786ab8f/data/Germany/Bundestag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e79208976ce3691783f1f0af226c70a98100c83/data/Germany/Bundestag/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-22
     url: >-
@@ -80,7 +80,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ea34f2ec9b8e965f4e2dc2e83dc479befc9124a5/data/Germany/Bundestag/term-1.csv
     format: csv
-last_modified: 2017-04-01T19:15:25
+last_modified: 2017-04-07T12:24:35
 license: ''
 category:
   - Germany

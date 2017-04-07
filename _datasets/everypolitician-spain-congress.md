@@ -6,7 +6,7 @@ notes: Data on the people within the Congreso de los Diputados legislature of Sp
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bc57f03247c53ffffcf6c51bf82f4c7df9f6ac62/data/Spain/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ca8754a0b7774ef820b20292128e1b0f2e5b7a24/data/Spain/Congress/ep-popolo-v1.0.json
     format: json
   - name: 2016-01-13 to 2016-05-03
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/494cfcb9ad5da100dd99e0f114074c3daf4b89fb/data/Spain/Congress/term-10.csv
     format: csv
-last_modified: 2017-04-05T17:50:07
+last_modified: 2017-04-07T12:56:04
 license: ''
 category:
   - Spain

@@ -6,21 +6,21 @@ notes: Data on the people within the Lagting legislature of Åland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad1b0b3cf7ca4ded47540d03c4058307e9a23b29/data/Aland/Lagting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/efaff514424d01cd4643fa54aadb2e3d6cc5c9a1/data/Aland/Lagting/ep-popolo-v1.0.json
     format: json
   - name: 2015-11-02 to 2019-10-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/421c2375c000ba8b869b679151042e24dbaad760/data/Aland/Lagting/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/efaff514424d01cd4643fa54aadb2e3d6cc5c9a1/data/Aland/Lagting/term-2015.csv
     format: csv
   - name: 2011 to 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2a9e6f9ae533bf8eb6109a1e6c5451ce9f539cc2/data/Aland/Lagting/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/efaff514424d01cd4643fa54aadb2e3d6cc5c9a1/data/Aland/Lagting/term-2011.csv
     format: csv
   - name: 2007 to 2011
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2a9e6f9ae533bf8eb6109a1e6c5451ce9f539cc2/data/Aland/Lagting/term-2007.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/efaff514424d01cd4643fa54aadb2e3d6cc5c9a1/data/Aland/Lagting/term-2007.csv
     format: csv
-last_modified: 2017-03-03T02:46:25
+last_modified: 2017-04-07T12:09:47
 license: ''
 category:
   - Åland

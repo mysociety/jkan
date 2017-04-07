@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Gibraltar.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/33fb6f53add9d6306b61ba14e9d2132f7c58b4af/data/Gibraltar/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b81741b5ebb581a0396d87ddbf2ebae953bd41ef/data/Gibraltar/Parliament/ep-popolo-v1.0.json
     format: json
   - name: 2011-12-21 to 2015-10-20
     url: >-
@@ -56,7 +56,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-1.csv
     format: csv
-last_modified: 2017-04-05T09:13:33
+last_modified: 2017-04-07T13:17:25
 license: ''
 category:
   - Gibraltar

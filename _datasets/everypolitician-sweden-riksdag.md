@@ -6,7 +6,7 @@ notes: Data on the people within the Riksdag legislature of Sweden.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4db7111bb4711c46c5b53a7c5ec8e393ddea075/data/Sweden/Riksdag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a46df1102ec3654af234cffb55d08c36fef16404/data/Sweden/Riksdag/ep-popolo-v1.0.json
     format: json
   - name: 2014-09-29 to 2018-09-24
     url: >-
@@ -56,7 +56,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-1976.csv
     format: csv
-last_modified: 2017-04-06T05:13:21
+last_modified: 2017-04-07T13:43:00
 license: ''
 category:
   - Sweden

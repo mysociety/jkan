@@ -6,13 +6,13 @@ notes: Data on the people within the Országgyűlés legislature of Hungary.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0df416fdf35e763d89e0794e0c8e45fe8c67f9c9/data/Hungary/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f6a2fa153689ba3dea46a57dffd8030a2ca99ba/data/Hungary/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-05-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/bf20753af8f1403bc46166d63be0c1ae3a816ea5/data/Hungary/Assembly/term-40.csv
     format: csv
-last_modified: 2017-03-30T05:52:14
+last_modified: 2017-04-07T10:58:23
 license: ''
 category:
   - Hungary

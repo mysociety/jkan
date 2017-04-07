@@ -6,7 +6,7 @@ notes: Data on the people within the Assemblée Nationale legislature of Burkina
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/737018df67d572304ab40167e8311ad83f8c6213/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-12-30
     url: >-
@@ -18,17 +18,17 @@ resources:
     format: csv
   - name: 2002-06-05 to 2007-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/94aae4c948cff6e0005a394c893a7d696633db10/data/Burkina_Faso/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/term-3.csv
     format: csv
   - name: 1997-06-07 to 2002-05-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0f1964d0de0a9587b237664f71a6e5724220456d/data/Burkina_Faso/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/term-2.csv
     format: csv
   - name: 1992-06-15 to 1997-05-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc29587dc4e3c276c24bcb2dc739fdc5f14d2a/data/Burkina_Faso/Assembly/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/term-1.csv
     format: csv
-last_modified: 2017-04-02T11:18:03
+last_modified: 2017-04-07T12:16:57
 license: ''
 category:
   - Burkina Faso

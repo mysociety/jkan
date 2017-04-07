@@ -6,7 +6,7 @@ notes: Data on the people within the Legislative Council legislature of British 
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/986aa5b17bab6bbd5a88ab4118b04cf937f18467/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4f0fff43eb1d775c447cbb2e39288d476eb5e240/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
     format: json
   - name: 2003-06-16 to 2007-08-20
     url: >-
@@ -44,7 +44,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9115aee2958394b19a3e4a365eee1e5300e74c31/data/British_Virgin_Islands/Council/term-1971.csv
     format: csv
-last_modified: 2017-04-01T04:51:40
+last_modified: 2017-04-07T12:15:58
 license: ''
 category:
   - British Virgin Islands

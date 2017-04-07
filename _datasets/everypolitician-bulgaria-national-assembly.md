@@ -6,19 +6,19 @@ notes: Data on the people within the National Assembly legislature of Bulgaria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1f51574e479d43ccd55b26224fd8b5143f1c785/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/08146ffb7bbd2201882653fe42d08f9ce05a52f5/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2014-10-27 to 2015-09-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8aad8c8d74d3cfaf7de858f3e1afade847228c9/data/Bulgaria/National_Assembly/term-43.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a82b522fce7051ba904c8355cc569d934c8f7164/data/Bulgaria/National_Assembly/term-43.csv
     format: csv
   - name: 2013-05-21 to 2014-08-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d1e8261f1f2e0785a6400e6da2034d9f657e00b/data/Bulgaria/National_Assembly/term-42.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a82b522fce7051ba904c8355cc569d934c8f7164/data/Bulgaria/National_Assembly/term-42.csv
     format: csv
   - name: 2009-07-14 to 2013-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d1e8261f1f2e0785a6400e6da2034d9f657e00b/data/Bulgaria/National_Assembly/term-41.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a82b522fce7051ba904c8355cc569d934c8f7164/data/Bulgaria/National_Assembly/term-41.csv
     format: csv
   - name: 2005-07-11 to 2009-06-25
     url: >-
@@ -28,7 +28,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2d1e8261f1f2e0785a6400e6da2034d9f657e00b/data/Bulgaria/National_Assembly/term-39.csv
     format: csv
-last_modified: 2017-04-04T08:13:03
+last_modified: 2017-04-07T12:14:00
 license: ''
 category:
   - Bulgaria

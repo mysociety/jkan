@@ -6,7 +6,7 @@ notes: Data on the people within the Duma legislature of Russia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/70c0d170909ece696bb2f3bce9f2d98a1f368e7e/data/Russia/Duma/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ef600c2919d66e47eb8e8bfc871190291f4805d6/data/Russia/Duma/ep-popolo-v1.0.json
     format: json
   - name: From 2016-10-05
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/70c0d170909ece696bb2f3bce9f2d98a1f368e7e/data/Russia/Duma/term-6.csv
     format: csv
-last_modified: 2017-04-04T20:44:32
+last_modified: 2017-04-07T11:46:57
 license: ''
 category:
   - Russia
