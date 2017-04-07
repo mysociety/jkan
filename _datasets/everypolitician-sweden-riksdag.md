@@ -6,11 +6,11 @@ notes: Data on the people within the Riksdag legislature of Sweden.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7cc7b4a17b5623ca2cab02fef527405dc4c88f81/data/Sweden/Riksdag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4db7111bb4711c46c5b53a7c5ec8e393ddea075/data/Sweden/Riksdag/ep-popolo-v1.0.json
     format: json
   - name: 2014-09-29 to 2018-09-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8cc35da034716d9435387aac1eba4d8cf505ae7d/data/Sweden/Riksdag/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3775ccf2737525ba05487fd67ea5504e81cf3b07/data/Sweden/Riksdag/term-2014.csv
     format: csv
   - name: 2010-10-04 to 2014-09-29
     url: >-
@@ -56,7 +56,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-1976.csv
     format: csv
-last_modified: 2017-04-03T09:03:13
+last_modified: 2017-04-06T05:13:21
 license: ''
 category:
   - Sweden

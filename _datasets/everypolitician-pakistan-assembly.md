@@ -6,13 +6,13 @@ notes: Data on the people within the National Assembly legislature of Pakistan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b812d92c3fd6fdb5b4f3d3c6047f85fb3f66c7d/data/Pakistan/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9930e866ec592abf370bae1a00feb3efd9dca0bc/data/Pakistan/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-06-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fa7cc25422e953a7acbd9242186d41e71198500c/data/Pakistan/Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e727827f32387692af30e344aadac76c2a3a16b6/data/Pakistan/Assembly/term-14.csv
     format: csv
-last_modified: 2017-04-03T13:20:26
+last_modified: 2017-04-06T09:21:10
 license: ''
 category:
   - Pakistan

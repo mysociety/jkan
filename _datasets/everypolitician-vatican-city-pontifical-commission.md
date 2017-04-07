@@ -6,7 +6,7 @@ notes: Data on the people within the Pontifical Commission legislature of Vatica
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d107bd756ff6fca1424276c31af5cd915e9acf95/data/Vatican_City/Pontifical_Commission/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2977d5a87acc5a4bab18475915b212875912d132/data/Vatican_City/Pontifical_Commission/ep-popolo-v1.0.json
     format: json
   - name: From 2016-06-11
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c10571cf21874af731785c5fa3cba7b3c09f265f/data/Vatican_City/Pontifical_Commission/term-2011.csv
     format: csv
-last_modified: 2017-04-01T12:52:14
+last_modified: 2017-04-06T20:55:45
 license: ''
 category:
   - Vatican City

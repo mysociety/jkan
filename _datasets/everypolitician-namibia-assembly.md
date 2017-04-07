@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Namibia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/53c2480b4f760de1bceb3ac2b800ff4c4c5f31c2/data/Namibia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e6ad43e5a3a8a0198bfe963c14b949b50076b25/data/Namibia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2015-03-20 to 2020
     url: >-
@@ -36,7 +36,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/53c2480b4f760de1bceb3ac2b800ff4c4c5f31c2/data/Namibia/Assembly/term-0.csv
     format: csv
-last_modified: 2017-03-31T16:03:57
+last_modified: 2017-04-05T04:08:42
 license: ''
 category:
   - Namibia

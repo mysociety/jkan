@@ -6,11 +6,11 @@ notes: Data on the people within the Scottish Parliament legislature of Scotland
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1bcab25b88069d01738e5be19e84acdad3d5ec8/data/Scotland/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ff52e3a9bc2d25200625180d43436aad223fa8f/data/Scotland/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2016-05-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/47413a5d4dd643f8292835155332ce4145bb6103/data/Scotland/Parliament/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ff52e3a9bc2d25200625180d43436aad223fa8f/data/Scotland/Parliament/term-5.csv
     format: csv
   - name: 2011-05-06 to 2016-03-24
     url: >-
@@ -28,7 +28,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/47413a5d4dd643f8292835155332ce4145bb6103/data/Scotland/Parliament/term-1.csv
     format: csv
-last_modified: 2017-04-03T19:43:01
+last_modified: 2017-04-05T05:25:24
 license: ''
 category:
   - Scotland

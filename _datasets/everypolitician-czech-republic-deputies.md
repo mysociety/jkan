@@ -6,7 +6,7 @@ notes: Data on the people within the Chamber of Deputies legislature of Czech Re
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6eabd86a7f9e7cd90986492419526033d3c08682/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67706a45641a9c22d1df8c4923a0c59f5bddfd4b/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-26
     url: >-
@@ -36,7 +36,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/053e36bccc1a4296657f99b37a6fb3cf71802718/data/Czech_Republic/Deputies/term-1.csv
     format: csv
-last_modified: 2017-04-02T20:00:23
+last_modified: 2017-04-06T20:41:38
 license: ''
 category:
   - Czech Republic
