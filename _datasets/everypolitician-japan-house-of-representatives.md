@@ -6,13 +6,13 @@ notes: Data on the people within the Shūgiin legislature of Japan.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/23904ee7c8ccf6b0bb6cc63414c4ed0906ea3f4c/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/00ac43059e324ed20b7f8f7ac0e31bca94fc8c4e/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2014-12-14
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/23904ee7c8ccf6b0bb6cc63414c4ed0906ea3f4c/data/Japan/House_of_Representatives/term-46.csv
     format: csv
-last_modified: 2017-04-06T06:40:38
+last_modified: 2017-04-08T14:51:16
 license: ''
 category:
   - Japan

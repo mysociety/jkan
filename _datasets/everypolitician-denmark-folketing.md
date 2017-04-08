@@ -6,11 +6,11 @@ notes: Data on the people within the Folketing legislature of Denmark.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/540f7da168b9efe5c95d69342a4bc5d753b76ede/data/Denmark/Folketing/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b4846c5017c89b26d75d73ddd0806e6914729e80/data/Denmark/Folketing/ep-popolo-v1.0.json
     format: json
   - name: From 2015-06-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/de42771fd0fea0918d391182875b50b9b8a3f6d0/data/Denmark/Folketing/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5cc405192b708786e7afc258448f2707b42302da/data/Denmark/Folketing/term-2015.csv
     format: csv
   - name: 2011-09-15 to 2015-06-19
     url: >-
@@ -34,13 +34,13 @@ resources:
     format: csv
   - name: 1994-09-21 to 1998-11-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e5a39c5774d5e730b1d0e4cda106dfe4c23f3bc/data/Denmark/Folketing/term-1994.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5cc405192b708786e7afc258448f2707b42302da/data/Denmark/Folketing/term-1994.csv
     format: csv
   - name: 1990-12-12 to 1994-09-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6e5a39c5774d5e730b1d0e4cda106dfe4c23f3bc/data/Denmark/Folketing/term-1990.csv
     format: csv
-last_modified: 2017-04-07T16:15:54
+last_modified: 2017-04-08T09:28:23
 license: ''
 category:
   - Denmark

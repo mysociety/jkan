@@ -6,7 +6,7 @@ notes: Data on the people within the Chamber of Deputies legislature of Mexico.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4649ace2f9c6cc653777d2589d66360886047802/data/Mexico/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6fbdbe1041ac8a23e4af7a740632030985279962/data/Mexico/Deputies/ep-popolo-v1.0.json
     format: json
   - name: From 2015-09-01
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7bf22d791c9717a01083e5b4e7c48ea8a656e7a7/data/Mexico/Deputies/term-62.csv
     format: csv
-last_modified: 2017-04-02T12:01:46
+last_modified: 2017-04-08T11:42:25
 license: ''
 category:
   - Mexico

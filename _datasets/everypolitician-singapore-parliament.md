@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Singapore.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b52ce4fc77b052b5b399b3a94c48c88a405e93b4/data/Singapore/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d5702bca602f61bacec3cf5426b1a7009bf75507/data/Singapore/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2016-01-15
     url: >-
@@ -60,7 +60,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/178214ad5926bd7c9631c7d4e6e70b1505d36b5f/data/Singapore/Parliament/term-1.csv
     format: csv
-last_modified: 2017-04-06T08:13:32
+last_modified: 2017-04-08T07:45:08
 license: ''
 category:
   - Singapore

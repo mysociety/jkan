@@ -6,7 +6,7 @@ notes: Data on the people within the Senate legislature of United States of Amer
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c07b9a7d0bccfd46df51e7d34e15ce8fe5c9b70/data/United_States_of_America/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a3df5e1c69dcfc4144f11b0dacc5459bd0e76feb/data/United_States_of_America/Senate/ep-popolo-v1.0.json
     format: json
   - name: 2017-01-03 to 2019-01-03
     url: >-
@@ -84,7 +84,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-97.csv
     format: csv
-last_modified: 2017-04-07T04:03:37
+last_modified: 2017-04-08T14:15:07
 license: ''
 category:
   - United States of America

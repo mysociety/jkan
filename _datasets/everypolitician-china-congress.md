@@ -6,13 +6,13 @@ notes: Data on the people within the National People’s Congress legislature of
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8151d68faf73c2db2957e29d63422bec8909d2d6/data/China/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c13cc96a3fba62bf45d088a43034c85eb2edafde/data/China/Congress/ep-popolo-v1.0.json
     format: json
   - name: From 2013-03-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c29dee83329ceea08e89788daa8096e908bfdc00/data/China/Congress/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c13cc96a3fba62bf45d088a43034c85eb2edafde/data/China/Congress/term-12.csv
     format: csv
-last_modified: 2017-01-23T07:06:34
+last_modified: 2017-04-07T19:42:25
 license: ''
 category:
   - China
