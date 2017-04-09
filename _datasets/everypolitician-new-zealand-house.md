@@ -6,7 +6,7 @@ notes: Data on the people within the New Zealand Parliament legislature of New Z
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8776049160b09ae1c5738e63d631621a82557540/data/New_Zealand/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/83ae1943837bf100209832eceef2d1be40307b1c/data/New_Zealand/House/ep-popolo-v1.0.json
     format: json
   - name: From 2014-10-20
     url: >-
@@ -24,7 +24,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/549490eb5e978f7924a10ec11802d550bf89057c/data/New_Zealand/House/term-48.csv
     format: csv
-last_modified: 2017-04-08T12:13:42
+last_modified: 2017-04-09T07:52:20
 license: ''
 category:
   - New Zealand

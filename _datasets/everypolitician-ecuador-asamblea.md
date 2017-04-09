@@ -6,13 +6,13 @@ notes: Data on the people within the National Assembly legislature of Ecuador.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8d1a96a932e496954ac0c56e5762bae23d25c8ab/data/Ecuador/Asamblea/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/58c1c0beb2aea2f57ae8cb1728afe0569e67406b/data/Ecuador/Asamblea/ep-popolo-v1.0.json
     format: json
   - name: From 2013-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c85ed353a644107739a02665a4353018b1c0064f/data/Ecuador/Asamblea/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/799d41931171634360e6e993af62376ed26fc444/data/Ecuador/Asamblea/term-2013.csv
     format: csv
-last_modified: 2017-04-06T14:54:23
+last_modified: 2017-04-08T19:02:35
 license: ''
 category:
   - Ecuador

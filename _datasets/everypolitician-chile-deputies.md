@@ -6,7 +6,7 @@ notes: Data on the people within the National Congress legislature of Chile.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2975944a8a80b694f241e7dcc30d0104bd980ab0/data/Chile/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d902a98857fb084d2a69076575511b74927acb1e/data/Chile/Deputies/ep-popolo-v1.0.json
     format: json
   - name: 2014-03-11 to 2018-03-10
     url: >-
@@ -36,7 +36,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e6b28d9d30f8e7504c3de6924586ede7b9272df9/data/Chile/Deputies/term-1.csv
     format: csv
-last_modified: 2017-04-04T07:42:26
+last_modified: 2017-04-09T01:35:20
 license: ''
 category:
   - Chile

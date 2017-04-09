@@ -6,13 +6,13 @@ notes: Data on the people within the Legislative Assembly legislature of Cayman 
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f990eef7978d12765520bf61fcd6d4da19487547/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0267e5314bee279dc0ac719942f324bc9a7ffd79/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/aabc6480ccf3e5bd173fd80bf3f75cc113eff898/data/Cayman_Islands/Legislative_Assembly/term-2013.csv
     format: csv
-last_modified: 2017-03-31T03:55:47
+last_modified: 2017-04-08T11:27:57
 license: ''
 category:
   - Cayman Islands

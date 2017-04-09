@@ -6,7 +6,7 @@ notes: Data on the people within the Dáil Éireann legislature of Ireland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d05327e95a16d608f0ec417ff031b8c0852808e9/data/Ireland/Dail/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4ed0026ff6e7b6635fd4136b31eae2a298d04af0/data/Ireland/Dail/ep-popolo-v1.0.json
     format: json
   - name: From 2016-03-10
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/453d614bba6010a410ce74f1a48727325d315935/data/Ireland/Dail/term-31.csv
     format: csv
-last_modified: 2017-04-05T22:02:04
+last_modified: 2017-04-08T13:28:47
 license: ''
 category:
   - Ireland

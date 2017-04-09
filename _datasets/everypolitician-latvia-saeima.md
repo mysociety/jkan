@@ -6,7 +6,7 @@ notes: Data on the people within the Saeima legislature of Latvia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c721a8954b27533ab4d0099a9909b642cdc990f6/data/Latvia/Saeima/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c9d5699ea99a565c474c6198f6ec73676f435c4/data/Latvia/Saeima/ep-popolo-v1.0.json
     format: json
   - name: From 2014-11-04
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/769cad8f9bb1bc383ae7d78221977d9fc666a772/data/Latvia/Saeima/term-10.csv
     format: csv
-last_modified: 2017-04-04T17:47:46
+last_modified: 2017-04-09T07:13:49
 license: ''
 category:
   - Latvia

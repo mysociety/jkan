@@ -6,7 +6,7 @@ notes: Data on the people within the Riksdag legislature of Sweden.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a46df1102ec3654af234cffb55d08c36fef16404/data/Sweden/Riksdag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6066f48f69fc819de70332e4a41124e75acb0451/data/Sweden/Riksdag/ep-popolo-v1.0.json
     format: json
   - name: 2014-09-29 to 2018-09-24
     url: >-
@@ -18,11 +18,11 @@ resources:
     format: csv
   - name: 2006-10-02 to 2010-10-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-2006.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6066f48f69fc819de70332e4a41124e75acb0451/data/Sweden/Riksdag/term-2006.csv
     format: csv
   - name: 2002-09-30 to 2006-10-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-2002.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6066f48f69fc819de70332e4a41124e75acb0451/data/Sweden/Riksdag/term-2002.csv
     format: csv
   - name: 1998-10-05 to 2002-09-30
     url: >-
@@ -56,7 +56,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-1976.csv
     format: csv
-last_modified: 2017-04-07T13:43:00
+last_modified: 2017-04-09T07:39:38
 license: ''
 category:
   - Sweden

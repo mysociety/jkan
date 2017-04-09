@@ -6,13 +6,13 @@ notes: Data on the people within the National Parliament legislature of Solomon 
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/71f6900e41b6bf217152fae5cf248a467873f7f5/data/Solomon_Islands/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c7ebefd20f545902d4c976996ee75d836c920b25/data/Solomon_Islands/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2014-12-09
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ec2febe4ed50a39c72bdb6e2c1dc73602231e488/data/Solomon_Islands/Parliament/term-10.csv
     format: csv
-last_modified: 2017-03-31T09:41:16
+last_modified: 2017-04-09T01:29:42
 license: ''
 category:
   - Solomon Islands

@@ -6,7 +6,7 @@ notes: Data on the people within the Northern Ireland Assembly legislature of No
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eed1fee1ddf09d46ec147cdf186947df42423ac9/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d8da3610ba402c6aa6266c7d3105f0ef336cb45/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2017-03-03
     url: >-
@@ -32,7 +32,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9d55dfb10b62edbbff5863dcec330f9663f3f7d0/data/Northern_Ireland/Assembly/term-1.csv
     format: csv
-last_modified: 2017-04-04T02:44:34
+last_modified: 2017-04-09T05:13:26
 license: ''
 category:
   - Northern Ireland

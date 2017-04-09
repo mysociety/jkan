@@ -6,7 +6,7 @@ notes: Data on the people within the Congress legislature of Micronesia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ba831187974e5b8aa4c95be2a7d8f76d451f7b13/data/Micronesia/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b511cac7388c1effc860af6a42dd9ba3b4d6aa04/data/Micronesia/Congress/ep-popolo-v1.0.json
     format: json
   - name: From 2015-05-11
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a252553ab39499ca94ab13e6f27bc0ff7a38ab9c/data/Micronesia/Congress/term-17.csv
     format: csv
-last_modified: 2017-03-30T23:30:56
+last_modified: 2017-04-08T09:34:54
 license: ''
 category:
   - Micronesia

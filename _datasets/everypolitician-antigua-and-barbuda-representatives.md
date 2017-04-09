@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Ant
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a40bc1170b87e56ecc15a3c9150b4a79a05ae97/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9fb74944d304629693cb825f024247edaad39ccc/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
     format: json
   - name: 2014-06-25 to 2019
     url: >-
@@ -48,7 +48,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d1e22e0b61be1190e18cf454b7f770c2218def85/data/Antigua_and_Barbuda/Representatives/term-1971.csv
     format: csv
-last_modified: 2017-03-31T00:55:10
+last_modified: 2017-04-08T13:18:11
 license: ''
 category:
   - Antigua and Barbuda
