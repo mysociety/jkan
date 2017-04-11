@@ -6,13 +6,13 @@ notes: Data on the people within the Senado legislature of Colombia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/677bade318bf0632134e0bf7b862fa0342ce0e5f/data/Colombia/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fdef8cb7867ccd87247b28d2c2495edb1edd034a/data/Colombia/Senate/ep-popolo-v1.0.json
     format: json
   - name: From 2014-07-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/aa56d41eaf2ebbdc7857ff59f2a033fbafda1361/data/Colombia/Senate/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fdef8cb7867ccd87247b28d2c2495edb1edd034a/data/Colombia/Senate/term-2014.csv
     format: csv
-last_modified: 2017-04-09T03:35:28
+last_modified: 2017-04-10T15:32:10
 license: ''
 category:
   - Colombia

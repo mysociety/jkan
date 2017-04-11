@@ -6,13 +6,13 @@ notes: Data on the people within the People’s Council legislature of Syria.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/281ff5f6deed1e3227b7b51c4a5ee366c9215a0f/data/Syria/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f247ddd14d3c2c61c11a70ebc1b94c6c1aa6af3/data/Syria/Majlis/ep-popolo-v1.0.json
     format: json
   - name: 2012-05-24 to 2016-04-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d5b0308b90f8e4282664646e4c535d7d5c58a318/data/Syria/Majlis/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/871ac372bd785755e62255d2530d962f8c9697c7/data/Syria/Majlis/term-2012.csv
     format: csv
-last_modified: 2017-01-22T06:52:43
+last_modified: 2017-04-11T07:40:15
 license: ''
 category:
   - Syria

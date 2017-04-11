@@ -6,7 +6,7 @@ notes: Data on the people within the Sejm legislature of Poland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/54ed7600c723bee40e7cc30f4e2a7daaf4971ad7/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8d69528bbfb01ac772a60f4db8bab7c9022fb638/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: From 2015-11-12
     url: >-
@@ -40,7 +40,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f67263fe170e0fae649c15c63235d80840f44dd8/data/Poland/Sejm/term-1.csv
     format: csv
-last_modified: 2017-04-08T10:55:35
+last_modified: 2017-04-11T06:28:51
 license: ''
 category:
   - Poland

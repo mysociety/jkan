@@ -6,7 +6,7 @@ notes: Data on the people within the House of Representatives legislature of Bel
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ce594506440b364937caf6d4d3178ea79be01a/data/Belize/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/00c4cd9a75a0a3e7614ccf0f581e0efae738a5bc/data/Belize/Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2015-11-05
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/945ad1d20e64da9b2881ace1042718f7270cc4f0/data/Belize/Representatives/term-2012.csv
     format: csv
-last_modified: 2017-02-11T07:12:30
+last_modified: 2017-04-11T06:26:07
 license: ''
 category:
   - Belize

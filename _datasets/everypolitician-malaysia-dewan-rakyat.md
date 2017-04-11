@@ -6,7 +6,7 @@ notes: Data on the people within the Dewan Rakyat legislature of Malaysia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1f42d9978ef960af1139025a025febbb46c3f7b/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a7799ec0bd0efc74d0489f07795505be6c94e69b/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: From 2013-06-24
     url: >-
@@ -60,7 +60,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/152e44d59503d98fc58dc65c0a280da727ccdd17/data/Malaysia/Dewan_Rakyat/term-1.csv
     format: csv
-last_modified: 2017-04-09T06:17:49
+last_modified: 2017-04-11T04:52:30
 license: ''
 category:
   - Malaysia

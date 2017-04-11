@@ -6,7 +6,7 @@ notes: Data on the people within the House of Assembly legislature of Saint Luci
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e0d80a05853ad04476ae8e7e19b78ec553a7a9ec/data/Saint_Lucia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dbd50e8c6b141e79deeb2ad20fa7f4eaf1a8800e/data/Saint_Lucia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2016-06-06
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/eb86c6c05b3a3dd0cea402867522b58b82b7a79f/data/Saint_Lucia/Assembly/term-8.csv
     format: csv
-last_modified: 2017-04-01T17:24:26
+last_modified: 2017-04-09T21:06:17
 license: ''
 category:
   - Saint Lucia
