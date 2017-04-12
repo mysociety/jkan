@@ -6,13 +6,17 @@ notes: Data on the people within the House of Representatives legislature of Bel
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ed3d7f5e20bb69c963b99d6136b21482ddd77ba3/data/Belarus/Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b7cd18af2ac679d079f9e11fb01a2d689c95173b/data/Belarus/Chamber/ep-popolo-v1.0.json
     format: json
+  - name: From 2016-09-11
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b7cd18af2ac679d079f9e11fb01a2d689c95173b/data/Belarus/Chamber/term-6.csv
+    format: csv
   - name: 2012-09-23 to 2016-09-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/20f29b1769f4d04235d8be330169e7f9bd0d06a8/data/Belarus/Chamber/term-5.csv
     format: csv
-last_modified: 2017-03-31T10:07:23
+last_modified: 2017-04-12T13:56:31
 license: ''
 category:
   - Belarus
