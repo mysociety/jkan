@@ -6,7 +6,7 @@ notes: Data on the people within the Territorial Council legislature of Saint Pi
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/56ab148d3f3b87292c1f4af9d41b269c798c4ae4/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/44597cea8be9d8e89958c9c0d34b44d2b0791861/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
     format: json
   - name: From 2017-03
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4a17069e70b7814a095a85c8a0f4ecb47e5b51ac/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv
     format: csv
-last_modified: 2017-04-04T15:33:46
+last_modified: 2017-04-13T17:12:04
 license: ''
 category:
   - Saint Pierre and Miquelon

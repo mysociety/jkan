@@ -6,7 +6,7 @@ notes: Data on the people within the Jatiyo Sangshad legislature of Bangladesh.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2e610b1cbd69d99c3f01e05a11698971d19c43f2/data/Bangladesh/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/59e26f40eba0c878883a396b19059ef4d845344c/data/Bangladesh/House/ep-popolo-v1.0.json
     format: json
   - name: From 2014-01-29
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2e610b1cbd69d99c3f01e05a11698971d19c43f2/data/Bangladesh/House/term-9.csv
     format: csv
-last_modified: 2017-04-11T05:46:49
+last_modified: 2017-04-13T19:11:44
 license: ''
 category:
   - Bangladesh

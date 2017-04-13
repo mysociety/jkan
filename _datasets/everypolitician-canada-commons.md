@@ -6,7 +6,7 @@ notes: Data on the people within the House of Commons legislature of Canada.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2de516eac2a862bc27aeff005df6b7bf987b7720/data/Canada/Commons/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bd8ced93728ce833b5f850cb3fd9a149b8c3fd1/data/Canada/Commons/ep-popolo-v1.0.json
     format: json
   - name: From 2015-12-03
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8f9e28489715fd0c06d54431c13486b2270cd138/data/Canada/Commons/term-41.csv
     format: csv
-last_modified: 2017-04-11T16:54:38
+last_modified: 2017-04-13T08:53:30
 license: ''
 category:
   - Canada

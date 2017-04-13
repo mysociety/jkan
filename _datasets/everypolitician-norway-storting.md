@@ -6,7 +6,7 @@ notes: Data on the people within the Storting legislature of Norway.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/48b945b012c4f25ceb26624556166395ae19693e/data/Norway/Storting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3c432b27d86c5f8f327aecec8f738244e9bf3e75/data/Norway/Storting/ep-popolo-v1.0.json
     format: json
   - name: 2013-10-01 to 2017-09-30
     url: >-
@@ -70,7 +70,7 @@ resources:
     format: csv
   - name: 1954-01-11 to 1958-01-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/75fbac68a39e5f20d9b24d04531c8d0996e5dc90/data/Norway/Storting/term-1954-57.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3c432b27d86c5f8f327aecec8f738244e9bf3e75/data/Norway/Storting/term-1954-57.csv
     format: csv
   - name: 1950-01-11 to 1954-01-10
     url: >-
@@ -80,7 +80,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/308b9d3f9cbf1141e402192f6c99ea4eb22dcdc5/data/Norway/Storting/term-1945-49.csv
     format: csv
-last_modified: 2017-04-11T21:11:53
+last_modified: 2017-04-13T10:09:02
 license: ''
 category:
   - Norway

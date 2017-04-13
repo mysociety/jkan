@@ -6,7 +6,7 @@ notes: Data on the people within the Eduskunta legislature of Finland.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b4519ccf052609c3f3054ede706f4ff52f5951af/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d3aecd48fa6cf1412f9e9cb54afdf13f331c0399/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: 2015-04-28 to 2019
     url: >-
@@ -60,7 +60,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/508c132c626bf367a61c1da2f8390707f50feb7d/data/Finland/Eduskunta/term-25.csv
     format: csv
-last_modified: 2017-04-12T14:28:56
+last_modified: 2017-04-13T16:16:01
 license: ''
 category:
   - Finland

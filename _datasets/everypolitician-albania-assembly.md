@@ -6,7 +6,7 @@ notes: Data on the people within the Kuvendi legislature of Albania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f88198366398d12fcd38f377ea2e9acb7a83798f/data/Albania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4807b11475465906168efd1fe88828dd3e336ce4/data/Albania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2013-09-09
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6863549a8b954bb48b02c6225f304e1a52a6735f/data/Albania/Assembly/term-7.csv
     format: csv
-last_modified: 2017-04-11T18:20:28
+last_modified: 2017-04-13T17:57:04
 license: ''
 category:
   - Albania

@@ -6,15 +6,15 @@ notes: Data on the people within the Chamber of Deputies legislature of Czech Re
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2f6c5ff3389073add250fa4e99f70f903e500d8/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/439b5fdf9e165020cde1a5367d4bcadb5294fbe8/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
     format: json
   - name: From 2013-10-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2f6c5ff3389073add250fa4e99f70f903e500d8/data/Czech_Republic/Deputies/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/439b5fdf9e165020cde1a5367d4bcadb5294fbe8/data/Czech_Republic/Deputies/term-7.csv
     format: csv
   - name: 2010-05-29 to 2013-08-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2f6c5ff3389073add250fa4e99f70f903e500d8/data/Czech_Republic/Deputies/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/439b5fdf9e165020cde1a5367d4bcadb5294fbe8/data/Czech_Republic/Deputies/term-6.csv
     format: csv
   - name: 2006-06-03 to 2010-05-28
     url: >-
@@ -34,9 +34,9 @@ resources:
     format: csv
   - name: 1992-06-06 to 1996-05-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2f6c5ff3389073add250fa4e99f70f903e500d8/data/Czech_Republic/Deputies/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/439b5fdf9e165020cde1a5367d4bcadb5294fbe8/data/Czech_Republic/Deputies/term-1.csv
     format: csv
-last_modified: 2017-04-12T01:32:17
+last_modified: 2017-04-13T19:06:26
 license: ''
 category:
   - Czech Republic
