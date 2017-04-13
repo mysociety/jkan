@@ -6,7 +6,7 @@ notes: Data on the people within the Riigikogu legislature of Estonia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e64f301cea523138a0a8264c2f49e2db2ec590d3/data/Estonia/Riigikogu/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/055f8d8317a977aea9510c169c73b6f8f0052f99/data/Estonia/Riigikogu/ep-popolo-v1.0.json
     format: json
   - name: From 2015-03-30
     url: >-
@@ -14,9 +14,9 @@ resources:
     format: csv
   - name: 2011-03-27 to 2015-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a7f4141e2a732b7e7555c11d6495631bf2a43184/data/Estonia/Riigikogu/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/055f8d8317a977aea9510c169c73b6f8f0052f99/data/Estonia/Riigikogu/term-12.csv
     format: csv
-last_modified: 2017-04-08T13:05:52
+last_modified: 2017-04-13T01:42:44
 license: ''
 category:
   - Estonia

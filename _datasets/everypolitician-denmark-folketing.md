@@ -6,7 +6,7 @@ notes: Data on the people within the Folketing legislature of Denmark.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/99a6bcf78baf329d70a639b364c68abe94c2b2f6/data/Denmark/Folketing/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e538534d1bf8475a5a5a30d887c79acfd7169d31/data/Denmark/Folketing/ep-popolo-v1.0.json
     format: json
   - name: From 2015-06-20
     url: >-
@@ -40,7 +40,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4b2cfe73e5310826056fe6bdd8f231188b9915d3/data/Denmark/Folketing/term-1990.csv
     format: csv
-last_modified: 2017-04-11T06:39:37
+last_modified: 2017-04-12T04:28:12
 license: ''
 category:
   - Denmark

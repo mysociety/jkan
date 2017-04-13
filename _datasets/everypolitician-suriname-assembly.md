@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Suriname.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/08009c8f3f4f09b869e8636760044f8e7e0f07e7/data/Suriname/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0f88265d39bd20578d8720d515b64c48e7e83456/data/Suriname/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-06-30
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b07233fdfd0215d4ef2de156ba8b4c1455a8ba31/data/Suriname/Assembly/term-2010.csv
     format: csv
-last_modified: 2017-02-05T07:26:15
+last_modified: 2017-04-13T06:45:04
 license: ''
 category:
   - Suriname

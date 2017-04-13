@@ -6,17 +6,17 @@ notes: Data on the people within the National Assembly legislature of South Kore
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ab84fccba054a23ce4df36f1d3020d1cb3455c3/data/South_Korea/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea6116a6f28c713fff2275ac35c64bdc85c46982/data/South_Korea/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: 2016-05-30 to 2020-05-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8aaef1802298300a5db2c1e6f0c2bf776764672/data/South_Korea/National_Assembly/term-20.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea6116a6f28c713fff2275ac35c64bdc85c46982/data/South_Korea/National_Assembly/term-20.csv
     format: csv
   - name: 2012-05-30 to 2016-05-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/16f2eb4fd1ca7f917732774359068d99947fe3a7/data/South_Korea/National_Assembly/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea6116a6f28c713fff2275ac35c64bdc85c46982/data/South_Korea/National_Assembly/term-19.csv
     format: csv
-last_modified: 2017-04-11T06:12:25
+last_modified: 2017-04-13T03:24:41
 license: ''
 category:
   - South Korea

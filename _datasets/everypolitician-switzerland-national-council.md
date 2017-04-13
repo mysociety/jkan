@@ -6,43 +6,43 @@ notes: Data on the people within the National Council legislature of Switzerland
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/24bff8e7f46d12c7533e29efd07123bbebe576ac/data/Switzerland/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/502db9b60fd95313a29c28434fb635ec46dd068e/data/Switzerland/National_Council/ep-popolo-v1.0.json
     format: json
   - name: 2015-11-30 to 2019-11-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ca5fac856f0e5eb430681a83d146a5cb520a7c7/data/Switzerland/National_Council/term-50.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/98ce133a0b085bf767a7de4e85e1b8631537565c/data/Switzerland/National_Council/term-50.csv
     format: csv
   - name: 2011-12-05 to 2015-11-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ca5fac856f0e5eb430681a83d146a5cb520a7c7/data/Switzerland/National_Council/term-49.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/98ce133a0b085bf767a7de4e85e1b8631537565c/data/Switzerland/National_Council/term-49.csv
     format: csv
   - name: 2007-12-03 to 2011-12-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ca5fac856f0e5eb430681a83d146a5cb520a7c7/data/Switzerland/National_Council/term-48.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b97f5b3fbe8da6140f20b594828a93bf6a22cbd1/data/Switzerland/National_Council/term-48.csv
     format: csv
   - name: 2003-12-01 to 2007-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ca5fac856f0e5eb430681a83d146a5cb520a7c7/data/Switzerland/National_Council/term-47.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b97f5b3fbe8da6140f20b594828a93bf6a22cbd1/data/Switzerland/National_Council/term-47.csv
     format: csv
   - name: 1999-12-06 to 2003-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ca5fac856f0e5eb430681a83d146a5cb520a7c7/data/Switzerland/National_Council/term-46.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b97f5b3fbe8da6140f20b594828a93bf6a22cbd1/data/Switzerland/National_Council/term-46.csv
     format: csv
   - name: 1995-12-04 to 1999-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3e827994f52a4abab77218fd08e1b1d5403b3e/data/Switzerland/National_Council/term-45.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b97f5b3fbe8da6140f20b594828a93bf6a22cbd1/data/Switzerland/National_Council/term-45.csv
     format: csv
   - name: 1991-11-25 to 1995-12-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3e827994f52a4abab77218fd08e1b1d5403b3e/data/Switzerland/National_Council/term-44.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b97f5b3fbe8da6140f20b594828a93bf6a22cbd1/data/Switzerland/National_Council/term-44.csv
     format: csv
   - name: 1987-11-30 to 1991-11-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3e827994f52a4abab77218fd08e1b1d5403b3e/data/Switzerland/National_Council/term-43.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b97f5b3fbe8da6140f20b594828a93bf6a22cbd1/data/Switzerland/National_Council/term-43.csv
     format: csv
   - name: 1983-11-28 to 1987-11-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3e827994f52a4abab77218fd08e1b1d5403b3e/data/Switzerland/National_Council/term-42.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b97f5b3fbe8da6140f20b594828a93bf6a22cbd1/data/Switzerland/National_Council/term-42.csv
     format: csv
   - name: 1979-11-26 to 1983-11-27
     url: >-
@@ -64,7 +64,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0ca5fac856f0e5eb430681a83d146a5cb520a7c7/data/Switzerland/National_Council/term-37.csv
     format: csv
-last_modified: 2017-04-10T09:20:09
+last_modified: 2017-04-13T06:54:06
 license: ''
 category:
   - Switzerland

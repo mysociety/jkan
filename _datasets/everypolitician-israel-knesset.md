@@ -6,7 +6,7 @@ notes: Data on the people within the Knesset legislature of Israel.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0b249f3e3d4731e9a46ed078b49fbc2acb568341/data/Israel/Knesset/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6167281540d06f669d7e2e7fb2a5ba18bdec52ed/data/Israel/Knesset/ep-popolo-v1.0.json
     format: json
   - name: 2015-03-31 to 2016-06-01
     url: >-
@@ -88,7 +88,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1dd33e7d327aeabc909d62c765ebf6a7cf329598/data/Israel/Knesset/term-1.csv
     format: csv
-last_modified: 2017-04-09T09:40:51
+last_modified: 2017-04-11T16:36:32
 license: ''
 category:
   - Israel

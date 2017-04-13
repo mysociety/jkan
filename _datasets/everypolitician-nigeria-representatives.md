@@ -6,13 +6,13 @@ notes: Data on the people within the House of Representatives legislature of Nig
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d06f34e9245e554b366cc4833dbc2d7db6304e8b/data/Nigeria/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/54875767454c2f1f38d61cc1423f398e6d6b23c3/data/Nigeria/Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2015-06-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1e00ca8737d7866ddd55f54c758e50d606e66659/data/Nigeria/Representatives/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/54875767454c2f1f38d61cc1423f398e6d6b23c3/data/Nigeria/Representatives/term-8.csv
     format: csv
-last_modified: 2017-03-28T09:01:15
+last_modified: 2017-04-11T19:37:29
 license: ''
 category:
   - Nigeria

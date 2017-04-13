@@ -6,11 +6,11 @@ notes: Data on the people within the Landtag legislature of Liechtenstein.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5edd9ac1cd6cb0a0204cd197e030c83107eb05f9/data/Liechtenstein/Landtag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38b404f33198f5f3f06582be5c2bf71b12fdb28b/data/Liechtenstein/Landtag/ep-popolo-v1.0.json
     format: json
   - name: From 2017-02-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5edd9ac1cd6cb0a0204cd197e030c83107eb05f9/data/Liechtenstein/Landtag/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38b404f33198f5f3f06582be5c2bf71b12fdb28b/data/Liechtenstein/Landtag/term-2017.csv
     format: csv
   - name: 2013-03-27 to 2017-02-04
     url: >-

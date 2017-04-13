@@ -6,7 +6,7 @@ notes: Data on the people within the Parliament legislature of Uganda.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ec6ec6c429da77c487ef6b89e1474d2e3d6916a9/data/Uganda/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/da1222f2f865abf07d44503cd9ca10964ccbeccf/data/Uganda/Parliament/ep-popolo-v1.0.json
     format: json
   - name: From 2016-05-16
     url: >-
@@ -16,7 +16,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7009eb28142679414e7a75752eb887b73f0c3b18/data/Uganda/Parliament/term-9.csv
     format: csv
-last_modified: 2017-01-22T06:52:52
+last_modified: 2017-04-11T02:26:58
 license: ''
 category:
   - Uganda

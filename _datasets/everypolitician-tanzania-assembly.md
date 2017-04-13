@@ -6,7 +6,7 @@ notes: Data on the people within the National Assembly legislature of Tanzania.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7614274ae83acc181c1a1d76d968f42c8883fa1e/data/Tanzania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fda2159b72c0a10d3397f2aeceda6a324010277d/data/Tanzania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2015-11-17
     url: >-
@@ -24,7 +24,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f3df858daf0e678803087642de71cbf1c38b4936/data/Tanzania/Assembly/term-2.csv
     format: csv
-last_modified: 2017-04-02T21:02:21
+last_modified: 2017-04-11T12:58:04
 license: ''
 category:
   - Tanzania

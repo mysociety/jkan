@@ -6,7 +6,7 @@ notes: Data on the people within the Senate legislature of Australia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f79a5885b227247a2930c2cd6767f104f32b85a6/data/Australia/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaa0db43bceb67072f0e035aadc8eae3de6e19b/data/Australia/Senate/ep-popolo-v1.0.json
     format: json
   - name: From 2016-07-02
     url: >-
@@ -52,7 +52,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8d1e45f767a9036e6db247147c8248b11f7d3be9/data/Australia/Senate/term-35.csv
     format: csv
-last_modified: 2017-04-05T02:52:22
+last_modified: 2017-04-12T17:00:30
 license: ''
 category:
   - Australia

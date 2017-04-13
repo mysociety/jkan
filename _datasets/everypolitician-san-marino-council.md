@@ -6,13 +6,13 @@ notes: Data on the people within the Grand and General Council legislature of Sa
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d2d503fd9a327f17b9370948a1d62fcec6d546dc/data/San_Marino/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/338d08fd115842a3a4494dc8a74035a240731fdb/data/San_Marino/Council/ep-popolo-v1.0.json
     format: json
   - name: From 2012-12-26
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/933045f1788e8ba772402bd7f819e0ecdf546267/data/San_Marino/Council/term-2012.csv
     format: csv
-last_modified: 2017-04-09T10:57:31
+last_modified: 2017-04-11T10:01:44
 license: ''
 category:
   - San Marino
