@@ -6,13 +6,13 @@ notes: Data on the people within the Chamber of Representatives legislature of B
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dbe43a3d17729fc1e9e6c4f96815fa1b17332979/data/Belgium/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/12c9c7427994858345b0da0efff9c012d44b78aa/data/Belgium/Representatives/ep-popolo-v1.0.json
     format: json
   - name: From 2014-06-19
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/cfc02b4805c362a5185529aaee981ff9ac0941c4/data/Belgium/Representatives/term-54.csv
     format: csv
-last_modified: 2017-04-13T06:30:54
+last_modified: 2017-04-14T00:09:39
 license: ''
 category:
   - Belgium

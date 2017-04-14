@@ -6,7 +6,7 @@ notes: Data on the people within the Assemblée nationale legislature of France.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ed63aec36ce457ed64af555389c3b84bf9195e/data/France/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8769bf5f200f3f14d90d92c7ee2ff4005045e0d/data/France/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2012-06-20
     url: >-
@@ -20,7 +20,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1d611bdf94b6b1b5105b962a75b32f3030ac9626/data/France/National_Assembly/term-12.csv
     format: csv
-last_modified: 2017-04-13T11:22:01
+last_modified: 2017-04-14T02:19:25
 license: ''
 category:
   - France

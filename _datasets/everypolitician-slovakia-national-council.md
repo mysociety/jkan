@@ -6,7 +6,7 @@ notes: Data on the people within the National Council legislature of Slovakia.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/76dd27036388600ccff11ca2aeddd821b3a74e85/data/Slovakia/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13048f7277efda373aaaf9be2b47a8987c9cdd57/data/Slovakia/National_Council/ep-popolo-v1.0.json
     format: json
   - name: From 2016-03-23
     url: >-
@@ -32,7 +32,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/3f1e80bcb72ab7454267295b2d771774fb7770b4/data/Slovakia/National_Council/term-2.csv
     format: csv
-last_modified: 2017-04-11T01:59:59
+last_modified: 2017-04-14T09:21:46
 license: ''
 category:
   - Slovakia

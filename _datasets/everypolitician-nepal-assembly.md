@@ -6,13 +6,13 @@ notes: Data on the people within the Constituent Assembly legislature of Nepal.
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/01153d17d99c8e93bc60cdb0f17cbf35f2dffe36/data/Nepal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/65748a7a58aac1598d1b0b104b6e80e057855a68/data/Nepal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: From 2014-01-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/01153d17d99c8e93bc60cdb0f17cbf35f2dffe36/data/Nepal/Assembly/term-ca2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/65748a7a58aac1598d1b0b104b6e80e057855a68/data/Nepal/Assembly/term-ca2.csv
     format: csv
-last_modified: 2017-04-11T09:41:04
+last_modified: 2017-04-14T01:10:04
 license: ''
 category:
   - Nepal

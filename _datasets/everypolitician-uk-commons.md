@@ -6,7 +6,7 @@ notes: Data on the people within the House of Commons legislature of United King
 resources:
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9573b8c93fa64b0f588ba811177966b2e6df22a5/data/UK/Commons/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8382ff6bd31785d630950716ccb53eccfbe8485f/data/UK/Commons/ep-popolo-v1.0.json
     format: json
   - name: From 2015-05-08
     url: >-
@@ -28,7 +28,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9573b8c93fa64b0f588ba811177966b2e6df22a5/data/UK/Commons/term-52.csv
     format: csv
-last_modified: 2017-04-13T08:51:01
+last_modified: 2017-04-14T17:16:11
 license: ''
 category:
   - United Kingdom
