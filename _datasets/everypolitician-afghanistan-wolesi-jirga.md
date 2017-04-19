@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Afghanistan — Wolesi Jirga
+title: 'Politician Data: Afghanistan — Wolesi Jirga'
 organization: EveryPolitician
 notes: Data on the people within the Wolesi Jirga legislature of Afghanistan.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ae35f0e8cf2cc943f624d1a7d9f140588fed41f0/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json
     format: json
-  - name: 2010–2015: 2011-01-26 to 2015-06-22
+  - name: '2010–2015: 2011-01-26 to 2015-06-22'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ae35f0e8cf2cc943f624d1a7d9f140588fed41f0/data/Afghanistan/Wolesi_Jirga/term-2010.csv
     format: csv

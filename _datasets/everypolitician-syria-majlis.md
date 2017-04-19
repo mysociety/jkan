@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Syria — People’s Council
+title: 'Politician Data: Syria — People’s Council'
 organization: EveryPolitician
 notes: Data on the people within the People’s Council legislature of Syria.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9f247ddd14d3c2c61c11a70ebc1b94c6c1aa6af3/data/Syria/Majlis/ep-popolo-v1.0.json
     format: json
-  - name: 2012–2016: 2012-05-24 to 2016-04-12
+  - name: '2012–2016: 2012-05-24 to 2016-04-12'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/871ac372bd785755e62255d2530d962f8c9697c7/data/Syria/Majlis/term-2012.csv
     format: csv

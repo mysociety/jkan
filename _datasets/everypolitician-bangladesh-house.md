@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Bangladesh — Jatiyo Sangshad
+title: 'Politician Data: Bangladesh — Jatiyo Sangshad'
 organization: EveryPolitician
 notes: Data on the people within the Jatiyo Sangshad legislature of Bangladesh.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/3a9faabb4895dad3c5d0d397cfe78f44f0e3fa59/data/Bangladesh/House/ep-popolo-v1.0.json
     format: json
-  - name: 10th Parliament: From 2014-01-29
+  - name: '10th Parliament: From 2014-01-29'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/3a9faabb4895dad3c5d0d397cfe78f44f0e3fa59/data/Bangladesh/House/term-10.csv
     format: csv
-  - name: 9th Parliament: 2009-01-25 to 2014-01-24
+  - name: '9th Parliament: 2009-01-25 to 2014-01-24'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2e610b1cbd69d99c3f01e05a11698971d19c43f2/data/Bangladesh/House/term-9.csv
     format: csv

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Trinidad and Tobago — Senate
+title: 'Politician Data: Trinidad and Tobago — Senate'
 organization: EveryPolitician
 notes: Data on the people within the Senate legislature of Trinidad and Tobago.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/168e40cf2ef69d3208618df9ee2083e99316486b/data/Trinidad_and_Tobago/Senate/ep-popolo-v1.0.json
     format: json
-  - name: 11th Republican Parliament: From 2015-09-23
+  - name: '11th Republican Parliament: From 2015-09-23'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/820aa9fe5cbbe33103d15f2de1d4075243245252/data/Trinidad_and_Tobago/Senate/term-11.csv
     format: csv

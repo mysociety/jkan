@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Belize — House of Representatives
+title: 'Politician Data: Belize — House of Representatives'
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Belize.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b1233f7e822f30d48d1577f5d3c39bcfca4180d4/data/Belize/Representatives/ep-popolo-v1.0.json
     format: json
-  - name: 2015–: From 2015-11-05
+  - name: '2015–: From 2015-11-05'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b1233f7e822f30d48d1577f5d3c39bcfca4180d4/data/Belize/Representatives/term-2015.csv
     format: csv
-  - name: 2012–2015: 2012-03-21 to 2015-11-04
+  - name: '2012–2015: 2012-03-21 to 2015-11-04'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/945ad1d20e64da9b2881ace1042718f7270cc4f0/data/Belize/Representatives/term-2012.csv
     format: csv

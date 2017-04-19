@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Saint Lucia — House of Assembly
+title: 'Politician Data: Saint Lucia — House of Assembly'
 organization: EveryPolitician
 notes: Data on the people within the House of Assembly legislature of Saint Lucia.
 resources:
@@ -14,15 +14,15 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/dbd50e8c6b141e79deeb2ad20fa7f4eaf1a8800e/data/Saint_Lucia/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 10th Parliament: From 2016-06-06
+  - name: '10th Parliament: From 2016-06-06'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/eb86c6c05b3a3dd0cea402867522b58b82b7a79f/data/Saint_Lucia/Assembly/term-10.csv
     format: csv
-  - name: 9th Parliament: 2012-01-05 to 2016-06-05
+  - name: '9th Parliament: 2012-01-05 to 2016-06-05'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/eb86c6c05b3a3dd0cea402867522b58b82b7a79f/data/Saint_Lucia/Assembly/term-9.csv
     format: csv
-  - name: 8th Parliament: 2007-01-09 to 2011-11-27
+  - name: '8th Parliament: 2007-01-09 to 2011-11-27'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/eb86c6c05b3a3dd0cea402867522b58b82b7a79f/data/Saint_Lucia/Assembly/term-8.csv
     format: csv

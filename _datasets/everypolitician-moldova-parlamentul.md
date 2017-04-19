@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Moldova — Parlament
+title: 'Politician Data: Moldova — Parlament'
 organization: EveryPolitician
 notes: Data on the people within the Parlament legislature of Moldova.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/693b53457073959fbee2f839cc8607387204428d/data/Moldova/Parlamentul/ep-popolo-v1.0.json
     format: json
-  - name: Legislatura XX: From 2014-12-29
+  - name: 'Legislatura XX: From 2014-12-29'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/096e868ac8280c40de9fdac1f82ad98a041eba2b/data/Moldova/Parlamentul/term-2014.csv
     format: csv

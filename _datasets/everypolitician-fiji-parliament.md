@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Fiji — Parliament
+title: 'Politician Data: Fiji — Parliament'
 organization: EveryPolitician
 notes: Data on the people within the Parliament legislature of Fiji.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0856a89205e180d7bcc4169ba0b6df17f5974dfa/data/Fiji/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: 2014: From 2014-10-06
+  - name: '2014: From 2014-10-06'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a9238b847d91e2411656de007d5cfe34269aaacd/data/Fiji/Parliament/term-2014.csv
     format: csv

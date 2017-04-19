@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Wallis and Futuna — Territorial Assembly
+title: 'Politician Data: Wallis and Futuna — Territorial Assembly'
 organization: EveryPolitician
 notes: Data on the people within the Territorial Assembly legislature of Wallis and Futuna.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9654a0914294c12aa0b1e37683a5f9440ac7ecf1/data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2012–: From 2012
+  - name: '2012–: From 2012'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ebb38652c13d784a4940df7aafb9956abea5f8bf/data/Wallis_and_Futuna/Territorial_Assembly/term-2012.csv
     format: csv

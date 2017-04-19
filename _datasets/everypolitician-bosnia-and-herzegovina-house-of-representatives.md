@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Bosnia and Herzegovina — House of Representatives
+title: 'Politician Data: Bosnia and Herzegovina — House of Representatives'
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Bosnia and Herzegovina.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/fea0518cf3fa45db2b1dfa564f69cab977ea6c8b/data/Bosnia_and_Herzegovina/House_of_Representatives/ep-popolo-v1.0.json
     format: json
-  - name: 2014–: From 2014-12-09
+  - name: '2014–: From 2014-12-09'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/70c2ca47333904adf371b383740ec4a51d8e6ea8/data/Bosnia_and_Herzegovina/House_of_Representatives/term-7.csv
     format: csv

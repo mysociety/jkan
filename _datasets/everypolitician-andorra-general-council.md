@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Andorra — Consell General
+title: 'Politician Data: Andorra — Consell General'
 organization: EveryPolitician
 notes: Data on the people within the Consell General legislature of Andorra.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/cf74d902cf3f20302c2ff8cb98f03b69c9bebf80/data/Andorra/General_Council/ep-popolo-v1.0.json
     format: json
-  - name: 2015: From 2015-03-23
+  - name: '2015: From 2015-03-23'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/cf74d902cf3f20302c2ff8cb98f03b69c9bebf80/data/Andorra/General_Council/term-2015.csv
     format: csv

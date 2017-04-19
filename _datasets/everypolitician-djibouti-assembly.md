@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Djibouti — National Assembly
+title: 'Politician Data: Djibouti — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Djibouti.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2dba9e445890319dc54c9629db9d623ece30effe/data/Djibouti/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 6th National Assembly: From 2013-03-05
+  - name: '6th National Assembly: From 2013-03-05'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/dfe56e242be3f70e40d4ebb562e237f2bd80e97f/data/Djibouti/Assembly/term-6.csv
     format: csv

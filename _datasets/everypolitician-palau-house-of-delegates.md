@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Palau — House of Delegates
+title: 'Politician Data: Palau — House of Delegates'
 organization: EveryPolitician
 notes: Data on the people within the House of Delegates legislature of Palau.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ce33e754ab5ac3659594f0e171a0425d3a170845/data/Palau/House_of_Delegates/ep-popolo-v1.0.json
     format: json
-  - name: Ninth Olbiil Era Kelulau: From 2013-01-17
+  - name: 'Ninth Olbiil Era Kelulau: From 2013-01-17'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/668b5fdb6c2288f01bb23410efe788e7782e5470/data/Palau/House_of_Delegates/term-2012.csv
     format: csv

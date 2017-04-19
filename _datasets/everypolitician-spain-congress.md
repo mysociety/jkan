@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Spain — Congreso de los Diputados
+title: 'Politician Data: Spain — Congreso de los Diputados'
 organization: EveryPolitician
 notes: Data on the people within the Congreso de los Diputados legislature of Spain.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/65557f59f8af8d58ae09e034f65a9e4027050b08/data/Spain/Congress/ep-popolo-v1.0.json
     format: json
-  - name: XI Legislatura: 2016-01-13 to 2016-05-03
+  - name: 'XI Legislatura: 2016-01-13 to 2016-05-03'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2453ad36e84a4c15b9f354f5345af9847e9fdd5c/data/Spain/Congress/term-11.csv
     format: csv
-  - name: X Legislatura: 2011-11-28 to 2015-10-27
+  - name: 'X Legislatura: 2011-11-28 to 2015-10-27'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/65557f59f8af8d58ae09e034f65a9e4027050b08/data/Spain/Congress/term-10.csv
     format: csv

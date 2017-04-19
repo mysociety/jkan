@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Malawi — National Assembly
+title: 'Politician Data: Malawi — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Malawi.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d465b16d4c7255b518882bba6d7d5e368b27331f/data/Malawi/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2014–: From 2014-06-19
+  - name: '2014–: From 2014-06-19'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/acb977a472973ee1e98caf64b10a630ebbcde6cb/data/Malawi/Assembly/term-2014.csv
     format: csv

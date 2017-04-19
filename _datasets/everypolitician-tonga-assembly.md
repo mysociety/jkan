@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Tonga — Legislative Assembly
+title: 'Politician Data: Tonga — Legislative Assembly'
 organization: EveryPolitician
 notes: Data on the people within the Legislative Assembly legislature of Tonga.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5acf015863524ba9b6b35e1ac35b329f5ee1503e/data/Tonga/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2014-2018: 2014-12-29 to 2018
+  - name: '2014-2018: 2014-12-29 to 2018'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c98ecc7c88d7c0eea876c1ab3af2558ae4a38c34/data/Tonga/Assembly/term-2015.csv
     format: csv

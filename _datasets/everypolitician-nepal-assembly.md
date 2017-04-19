@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Nepal — Constituent Assembly
+title: 'Politician Data: Nepal — Constituent Assembly'
 organization: EveryPolitician
 notes: Data on the people within the Constituent Assembly legislature of Nepal.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/65748a7a58aac1598d1b0b104b6e80e057855a68/data/Nepal/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2nd Constituent Assembly: From 2014-01-22
+  - name: '2nd Constituent Assembly: From 2014-01-22'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/65748a7a58aac1598d1b0b104b6e80e057855a68/data/Nepal/Assembly/term-ca2.csv
     format: csv

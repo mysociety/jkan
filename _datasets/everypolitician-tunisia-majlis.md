@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Tunisia — Assembly of the Representatives of the People
+title: 'Politician Data: Tunisia — Assembly of the Representatives of the People'
 organization: EveryPolitician
 notes: Data on the people within the Assembly of the Representatives of the People legislature of Tunisia.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4e44c6a6db9e5f9b72f63072640e2b60270ffa54/data/Tunisia/Majlis/ep-popolo-v1.0.json
     format: json
-  - name: 1st Legislature: From 2014-12-02
+  - name: '1st Legislature: From 2014-12-02'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4e44c6a6db9e5f9b72f63072640e2b60270ffa54/data/Tunisia/Majlis/term-1.csv
     format: csv

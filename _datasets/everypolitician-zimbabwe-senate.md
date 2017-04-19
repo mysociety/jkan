@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Zimbabwe — Senate
+title: 'Politician Data: Zimbabwe — Senate'
 organization: EveryPolitician
 notes: Data on the people within the Senate legislature of Zimbabwe.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/49e9a2e93ddef2efaa7e3beac8b9b41e66b70205/data/Zimbabwe/Senate/ep-popolo-v1.0.json
     format: json
-  - name: 8th Parliament: From 2013-09-17
+  - name: '8th Parliament: From 2013-09-17'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9076b10359b923c3b51197213dac11e747a82fb6/data/Zimbabwe/Senate/term-8.csv
     format: csv

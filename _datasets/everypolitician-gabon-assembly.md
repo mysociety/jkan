@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Gabon — Assemblée nationale
+title: 'Politician Data: Gabon — Assemblée nationale'
 organization: EveryPolitician
 notes: Data on the people within the Assemblée nationale legislature of Gabon.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8bdab3eb1b875d00c48e6da2e3d8ba8374a73a61/data/Gabon/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 12 Législature: From 2012-02-27
+  - name: '12 Législature: From 2012-02-27'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/670bab1d42f12646248c1d5cf0fca7b70e75bfad/data/Gabon/Assembly/term-12.csv
     format: csv

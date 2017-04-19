@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Angola — National Assembly
+title: 'Politician Data: Angola — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Angola.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a196a1948bf32baa6cf4ca3ed8bd0fe8c5e479f1/data/Angola/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 3rd National Assembly: From 2012-09-27
+  - name: '3rd National Assembly: From 2012-09-27'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ba81e0d8510f43c1e88a1c41c3858e707eaf7712/data/Angola/National_Assembly/term-3.csv
     format: csv

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Suriname — National Assembly
+title: 'Politician Data: Suriname — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Suriname.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0f88265d39bd20578d8720d515b64c48e7e83456/data/Suriname/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2015–: From 2015-06-30
+  - name: '2015–: From 2015-06-30'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c25ba80e739590ada06b067b8b13fb6f2d0ea89d/data/Suriname/Assembly/term-2015.csv
     format: csv
-  - name: 2010–2015: 2010 to 2015-06-30
+  - name: '2010–2015: 2010 to 2015-06-30'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b07233fdfd0215d4ef2de156ba8b4c1455a8ba31/data/Suriname/Assembly/term-2010.csv
     format: csv

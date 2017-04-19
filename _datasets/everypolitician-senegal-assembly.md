@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Senegal — National Assembly
+title: 'Politician Data: Senegal — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Senegal.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5b77145a66bf7fe758ab9aef49771c7f4402a20a/data/Senegal/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2012–: From 2012-07-30
+  - name: '2012–: From 2012-07-30'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5b77145a66bf7fe758ab9aef49771c7f4402a20a/data/Senegal/Assembly/term-2012.csv
     format: csv

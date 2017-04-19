@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Alderney — States
+title: 'Politician Data: Alderney — States'
 organization: EveryPolitician
 notes: Data on the people within the States legislature of Alderney.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/46ff18383eeeb63696750dd5f05efba99628933a/data/Alderney/States/ep-popolo-v1.0.json
     format: json
-  - name: 2017-2018: 2017-01-01 to 2018-12-31
+  - name: '2017-2018: 2017-01-01 to 2018-12-31'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/962ab96cfd95768177fc8e9532eb11385e814142/data/Alderney/States/term-2017.csv
     format: csv
-  - name: 2015–2016: 2015-01-01 to 2016-12-31
+  - name: '2015–2016: 2015-01-01 to 2016-12-31'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/550097b6f223687964943203cf5797c8c4ce28e3/data/Alderney/States/term-2014.csv
     format: csv

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Northern Mariana Islands — House of Representatives
+title: 'Politician Data: Northern Mariana Islands — House of Representatives'
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Northern Mariana Islands.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7a10727a506e8c5b71466f12a8a295afc21fb5e4/data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json
     format: json
-  - name: 19th Commonwealth Legislature: From 2014
+  - name: '19th Commonwealth Legislature: From 2014'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/018fffb38bb7fc0a70a2fc1e2822339b77ed983a/data/Northern_Mariana_Islands/House/term-19.csv
     format: csv

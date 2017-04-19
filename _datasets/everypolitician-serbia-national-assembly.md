@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Serbia — National Assembly
+title: 'Politician Data: Serbia — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Serbia.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0c715557965c154ede6f1db95378f0e3d422d245/data/Serbia/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 11th legislature: From 2016-06-03
+  - name: '11th legislature: From 2016-06-03'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0c715557965c154ede6f1db95378f0e3d422d245/data/Serbia/National_Assembly/term-11.csv
     format: csv
-  - name: 10th legislature: 2014-05-16 to 2016-06-03
+  - name: '10th legislature: 2014-05-16 to 2016-06-03'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0c715557965c154ede6f1db95378f0e3d422d245/data/Serbia/National_Assembly/term-10.csv
     format: csv

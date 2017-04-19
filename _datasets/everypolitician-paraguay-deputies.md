@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Paraguay — Chamber of Deputies
+title: 'Politician Data: Paraguay — Chamber of Deputies'
 organization: EveryPolitician
 notes: Data on the people within the Chamber of Deputies legislature of Paraguay.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/99e581d8de86de1d8d2659cf33f6dc28e8705eff/data/Paraguay/Deputies/ep-popolo-v1.0.json
     format: json
-  - name: 2013–2018: From 2013-04-21
+  - name: '2013–2018: From 2013-04-21'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/fb0d4b758cbbdcc96c4987a8a202ccce7348accc/data/Paraguay/Deputies/term-2013.csv
     format: csv

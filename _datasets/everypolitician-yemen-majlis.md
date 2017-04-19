@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Yemen — House of Representatives
+title: 'Politician Data: Yemen — House of Representatives'
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Yemen.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/90547dba3ac3f6e3f64e246c03c677ba3dc3ff1e/data/Yemen/Majlis/ep-popolo-v1.0.json
     format: json
-  - name: 2003–: From 2003-05-10
+  - name: '2003–: From 2003-05-10'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/09613f4f1556bc7af6246a1da24ff8bb7f6c70db/data/Yemen/Majlis/term-2003.csv
     format: csv

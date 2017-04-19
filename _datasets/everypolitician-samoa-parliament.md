@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Samoa — Fono
+title: 'Politician Data: Samoa — Fono'
 organization: EveryPolitician
 notes: Data on the people within the Fono legislature of Samoa.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/83ba2a4492b2658246ea1878c315b0bb7235d6d0/data/Samoa/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: 15th Parliament: 2011-03-18 to 2016-01-29
+  - name: '15th Parliament: 2011-03-18 to 2016-01-29'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1637b7eff2ae081bebb632f72780d36c021cba05/data/Samoa/Parliament/term-15.csv
     format: csv

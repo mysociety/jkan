@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Bhutan — National Assembly
+title: 'Politician Data: Bhutan — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Bhutan.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/3eaa8b164a84b686150a092d8dba260528b93b4c/data/Bhutan/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2nd Parliament: From 2013-07-13
+  - name: '2nd Parliament: From 2013-07-13'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f03368041a98f0721ef5a97f0bada96b050ae59b/data/Bhutan/Assembly/term-2.csv
     format: csv

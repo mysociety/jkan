@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Cameroon — Sénat
+title: 'Politician Data: Cameroon — Sénat'
 organization: EveryPolitician
 notes: Data on the people within the Sénat legislature of Cameroon.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/46b5a83dfd85f819066f883200ea63ef36845c48/data/Cameroon/Senate/ep-popolo-v1.0.json
     format: json
-  - name: 9e législature: From 2013
+  - name: '9e législature: From 2013'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/328acb852c9c92b4a8aa94598376dfa248d97365/data/Cameroon/Senate/term-9.csv
     format: csv

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Belgium — Chamber of Representatives
+title: 'Politician Data: Belgium — Chamber of Representatives'
 organization: EveryPolitician
 notes: Data on the people within the Chamber of Representatives legislature of Belgium.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/12c9c7427994858345b0da0efff9c012d44b78aa/data/Belgium/Representatives/ep-popolo-v1.0.json
     format: json
-  - name: Législature 54: From 2014-06-19
+  - name: 'Législature 54: From 2014-06-19'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/cfc02b4805c362a5185529aaee981ff9ac0941c4/data/Belgium/Representatives/term-54.csv
     format: csv

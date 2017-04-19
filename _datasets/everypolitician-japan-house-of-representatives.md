@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Japan — Shūgiin
+title: 'Politician Data: Japan — Shūgiin'
 organization: EveryPolitician
 notes: Data on the people within the Shūgiin legislature of Japan.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/abf2acfe9dc87357f9a490730a82a6fd4226f165/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
     format: json
-  - name: The 46th House of Representatives: From 2014-12-14
+  - name: 'The 46th House of Representatives: From 2014-12-14'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/16f2312078ac9901890582f0fcc70d32390fa2c9/data/Japan/House_of_Representatives/term-46.csv
     format: csv

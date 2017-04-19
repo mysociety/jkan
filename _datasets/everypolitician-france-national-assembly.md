@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: France — Assemblée nationale
+title: 'Politician Data: France — Assemblée nationale'
 organization: EveryPolitician
 notes: Data on the people within the Assemblée nationale legislature of France.
 resources:
@@ -14,15 +14,15 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d8769bf5f200f3f14d90d92c7ee2ff4005045e0d/data/France/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: XIVe législature de la Ve République: From 2012-06-20
+  - name: 'XIVe législature de la Ve République: From 2012-06-20'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/20cea49ce140ef01944f7e0c9dd57f09ca9b1e2e/data/France/National_Assembly/term-14.csv
     format: csv
-  - name: XIIIe législature de la Ve République: 2007-06-20 to 2012-06-19
+  - name: 'XIIIe législature de la Ve République: 2007-06-20 to 2012-06-19'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1d611bdf94b6b1b5105b962a75b32f3030ac9626/data/France/National_Assembly/term-13.csv
     format: csv
-  - name: XIIe législature de la Ve République: 2002-06-19 to 2007-06-19
+  - name: 'XIIe législature de la Ve République: 2002-06-19 to 2007-06-19'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1d611bdf94b6b1b5105b962a75b32f3030ac9626/data/France/National_Assembly/term-12.csv
     format: csv

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Liberia — House of Representatives
+title: 'Politician Data: Liberia — House of Representatives'
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Liberia.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1681a33db66ba2daea7464d85b4303f1d8f5fcf8/data/Liberia/House/ep-popolo-v1.0.json
     format: json
-  - name: 53rd Session: From 2012-01-09
+  - name: '53rd Session: From 2012-01-09'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/3900a5954d86fbf4fe6b7621f962182a18fc5dc2/data/Liberia/House/term-53.csv
     format: csv

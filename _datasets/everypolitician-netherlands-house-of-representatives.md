@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Netherlands — Tweede Kamer
+title: 'Politician Data: Netherlands — Tweede Kamer'
 organization: EveryPolitician
 notes: Data on the people within the Tweede Kamer legislature of Netherlands.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f7202b86781f90461bf3466041c0cf541cc55679/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json
     format: json
-  - name: 2012–: From 2012-09-20
+  - name: '2012–: From 2012-09-20'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5c24e35b45e7311324eb9bf1e1c1ddf8291ca741/data/Netherlands/House_of_Representatives/term-2012.csv
     format: csv

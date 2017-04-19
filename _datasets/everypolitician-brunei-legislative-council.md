@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Brunei — Legislative Council of Brunei
+title: 'Politician Data: Brunei — Legislative Council of Brunei'
 organization: EveryPolitician
 notes: Data on the people within the Legislative Council of Brunei legislature of Brunei.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5a2407bb21040740bfd2d1ee6a9417916add031a/data/Brunei/Legislative_Council/ep-popolo-v1.0.json
     format: json
-  - name: 11th Legislative Council: 2015-03-05 to 2015-03-24
+  - name: '11th Legislative Council: 2015-03-05 to 2015-03-24'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a1ee914c2e9714d5f3dbcb5e8c3f9ddde471ec2d/data/Brunei/Legislative_Council/term-11.csv
     format: csv

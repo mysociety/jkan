@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Mexico — Chamber of Deputies
+title: 'Politician Data: Mexico — Chamber of Deputies'
 organization: EveryPolitician
 notes: Data on the people within the Chamber of Deputies legislature of Mexico.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6fbdbe1041ac8a23e4af7a740632030985279962/data/Mexico/Deputies/ep-popolo-v1.0.json
     format: json
-  - name: LXIII Legislature: From 2015-09-01
+  - name: 'LXIII Legislature: From 2015-09-01'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/30db4d9e2795ce92fa6139805b591101fabfdf00/data/Mexico/Deputies/term-63.csv
     format: csv
-  - name: LXII Legislature: 2012-09-01 to 2015-08-31
+  - name: 'LXII Legislature: 2012-09-01 to 2015-08-31'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7bf22d791c9717a01083e5b4e7c48ea8a656e7a7/data/Mexico/Deputies/term-62.csv
     format: csv

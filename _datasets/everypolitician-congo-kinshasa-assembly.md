@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Congo-Kinshasa (DRC) — National Assembly
+title: 'Politician Data: Congo-Kinshasa (DRC) — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Congo-Kinshasa (DRC).
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7fa89e314afb5784d59a8e0d6588bcfc3a135362/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 2012–: From 2012-02-16
+  - name: '2012–: From 2012-02-16'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/47087463bdf1ecbad42a9792df0c2b1b89b90353/data/Congo-Kinshasa/Assembly/term-2012.csv
     format: csv

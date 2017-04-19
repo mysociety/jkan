@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Cambodia — National Assembly
+title: 'Politician Data: Cambodia — National Assembly'
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Cambodia.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/074f6fa54fa83d991454b33b48f2ff2b5db31b42/data/Cambodia/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 5th Mandate: From 2013-09-23
+  - name: '5th Mandate: From 2013-09-23'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/eae8ea3c2f93760bd72962eaad18467f1502e10c/data/Cambodia/National_Assembly/term-5.csv
     format: csv

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Congo-Brazzaville — Assemblee Nationale
+title: 'Politician Data: Congo-Brazzaville — Assemblee Nationale'
 organization: EveryPolitician
 notes: Data on the people within the Assemblee Nationale legislature of Congo-Brazzaville.
 resources:
@@ -14,7 +14,7 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ae64d653cbb977178ebc4193d36ff94e713116ff/data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 13ème législature: From 2012-09-05
+  - name: '13ème législature: From 2012-09-05'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8b9ae9fc92b221a030dd5959c450be73ebde0ce3/data/Congo-Brazzaville/Assembly/term-13.csv
     format: csv

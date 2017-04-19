@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Politician Data: Turks and Caicos Islands — House of Assembly
+title: 'Politician Data: Turks and Caicos Islands — House of Assembly'
 organization: EveryPolitician
 notes: Data on the people within the House of Assembly legislature of Turks and Caicos Islands.
 resources:
@@ -14,11 +14,11 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6ed37ad2e55310a0569e6376bd34468aea55ab53/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 3rd Assembly: From 2016-12-15
+  - name: '3rd Assembly: From 2016-12-15'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6ed37ad2e55310a0569e6376bd34468aea55ab53/data/Turks_and_Caicos_Islands/Assembly/term-2016.csv
     format: csv
-  - name: 2nd Assembly: 2012-11-09 to 2016-12-14
+  - name: '2nd Assembly: 2012-11-09 to 2016-12-14'
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/06c744ece29c71782c2b35ac412567998d62c718/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv
     format: csv
