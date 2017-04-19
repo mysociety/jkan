@@ -9,10 +9,7 @@ resources:
     format: api
   - name: Python Bindings
     url: 'https://code.google.com/archive/p/twfython/'
-    format: ''
-  - name: ''
-    url: ''
-    format: ''
+    format: binding
 license: ''
 category:
   - People
