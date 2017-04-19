@@ -36,7 +36,7 @@ resources:
     format: binding
   - name: Ruby
     url: 'https://github.com/bruce/twfy'
-    format: ''
+    format: binding
   - name: Node
     url: 'https://github.com/ifraixedes/node-theyworkforyou-api'
     format: binding
