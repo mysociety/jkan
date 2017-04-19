@@ -1,18 +1,30 @@
 ---
 schema: default
-title: Afghanistan — Wolesi Jirga
+title: Politician Data: Afghanistan — Wolesi Jirga
 organization: EveryPolitician
 notes: Data on the people within the Wolesi Jirga legislature of Afghanistan.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/afghanistan/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ae35f0e8cf2cc943f624d1a7d9f140588fed41f0/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json
     format: json
-  - name: 2011-01-26 to 2015-06-22
+  - name: 2010–2015: 2011-01-26 to 2015-06-22
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ae35f0e8cf2cc943f624d1a7d9f140588fed41f0/data/Afghanistan/Wolesi_Jirga/term-2010.csv
     format: csv
-last_modified: 2017-04-11T08:17:36
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-11T09:17:36
 license: ''
 category:
   - Afghanistan

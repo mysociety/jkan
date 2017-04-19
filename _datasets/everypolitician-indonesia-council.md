@@ -1,18 +1,30 @@
 ---
 schema: default
-title: Indonesia — Dewan Perwakilan Rakyat
+title: Politician Data: Indonesia — Dewan Perwakilan Rakyat
 organization: EveryPolitician
 notes: Data on the people within the Dewan Perwakilan Rakyat legislature of Indonesia.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/indonesia/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/48855179ac5393672941c081da30cd1e6d74b84f/data/Indonesia/Council/ep-popolo-v1.0.json
     format: json
-  - name: From 2014-10-01
+  - name: The Indonesian House - 11th General Election: From 2014-10-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/38854e85b8a24ae5caaa2491d491dc79a321045e/data/Indonesia/Council/term-18.csv
     format: csv
-last_modified: 2017-04-11T07:12:50
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-11T08:12:50
 license: ''
 category:
   - Indonesia

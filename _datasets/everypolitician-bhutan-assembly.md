@@ -1,17 +1,29 @@
 ---
 schema: default
-title: Bhutan — National Assembly
+title: Politician Data: Bhutan — National Assembly
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Bhutan.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/bhutan/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/3eaa8b164a84b686150a092d8dba260528b93b4c/data/Bhutan/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: From 2013-07-13
+  - name: 2nd Parliament: From 2013-07-13
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f03368041a98f0721ef5a97f0bada96b050ae59b/data/Bhutan/Assembly/term-2.csv
     format: csv
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
 last_modified: 2017-01-22T06:51:01
 license: ''
 category:

@@ -1,18 +1,30 @@
 ---
 schema: default
-title: Slovenia — Državni zbor
+title: Politician Data: Slovenia — Državni zbor
 organization: EveryPolitician
 notes: Data on the people within the Državni zbor legislature of Slovenia.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/slovenia/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7d9ee7c33bf6574cf4ae95388cbcb7737a4611e6/data/Slovenia/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: From 2014-08-01
+  - name: 7th National Assembly: From 2014-08-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/37b8bb1243e515450a6112326650ef4db2cfbed2/data/Slovenia/National_Assembly/term-7.csv
     format: csv
-last_modified: 2017-04-11T06:15:26
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-11T07:15:26
 license: ''
 category:
   - Slovenia

@@ -1,22 +1,34 @@
 ---
 schema: default
-title: Kiribati — Parliament
+title: Politician Data: Kiribati — Parliament
 organization: EveryPolitician
 notes: Data on the people within the Parliament legislature of Kiribati.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/kiribati/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/338e636b3c015316f98ea5203f9ea6bc8167d813/data/Kiribati/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: 2011-11-25 to 2015-11-25
+  - name: 10th Parliament: 2011-11-25 to 2015-11-25
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e7c0f388786da8d3641a88f7fd26561f3bebdd69/data/Kiribati/Parliament/term-10.csv
     format: csv
-  - name: 2007-09-17 to 2011-10-20
+  - name: 9th Parliament: 2007-09-17 to 2011-10-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e7c0f388786da8d3641a88f7fd26561f3bebdd69/data/Kiribati/Parliament/term-9.csv
     format: csv
-last_modified: 2017-04-10T19:49:52
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-10T20:49:52
 license: ''
 category:
   - Kiribati

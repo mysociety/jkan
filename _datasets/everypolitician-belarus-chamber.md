@@ -1,22 +1,34 @@
 ---
 schema: default
-title: Belarus — House of Representatives
+title: Politician Data: Belarus — House of Representatives
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Belarus.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/belarus/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/77b583ae448b7859982f4b80bc28b0794956f3ef/data/Belarus/Chamber/ep-popolo-v1.0.json
     format: json
-  - name: From 2016-09-11
+  - name: 6th Convocation: From 2016-09-11
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/340a31705e355e51a5af1e11cc74c0a1b5ecc496/data/Belarus/Chamber/term-6.csv
     format: csv
-  - name: 2012-09-23 to 2016-09-10
+  - name: 5th Convocation: 2012-09-23 to 2016-09-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/20f29b1769f4d04235d8be330169e7f9bd0d06a8/data/Belarus/Chamber/term-5.csv
     format: csv
-last_modified: 2017-04-13T23:41:19
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-14T00:41:19
 license: ''
 category:
   - Belarus

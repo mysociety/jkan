@@ -1,26 +1,38 @@
 ---
 schema: default
-title: Cook Islands — Parliament
+title: Politician Data: Cook Islands — Parliament
 organization: EveryPolitician
 notes: Data on the people within the Parliament legislature of Cook Islands.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/cook-islands/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b04138dc653092a91b75c15755c8b4a17826f663/data/Cook_Islands/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: From 2014-10-08
+  - name: 14th Parliament: From 2014-10-08
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/543baba088d7c5369965fc970f41a3333c03927d/data/Cook_Islands/Parliament/term-14.csv
     format: csv
-  - name: 2011-02-18 to 2014-04-17
+  - name: 13th Parliament: 2011-02-18 to 2014-04-17
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaee2bcdbc9b6fdfcd82243416de4ab8e1464d4/data/Cook_Islands/Parliament/term-13.csv
     format: csv
-  - name: 2006-09-27 to 2010-09-24
+  - name: 12th Parliament: 2006-09-27 to 2010-09-24
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaee2bcdbc9b6fdfcd82243416de4ab8e1464d4/data/Cook_Islands/Parliament/term-12.csv
     format: csv
-last_modified: 2017-04-09T17:28:16
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-09T18:28:16
 license: ''
 category:
   - Cook Islands

@@ -1,22 +1,34 @@
 ---
 schema: default
-title: Venezuela — National Assembly
+title: Politician Data: Venezuela — National Assembly
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Venezuela.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/venezuela/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e9100bb5270c89df9b56a5073b08ef11660388a5/data/Venezuela/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: From 2016-01-05
+  - name: 2016–: From 2016-01-05
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8e19fb2998e5c7748f39dc17b77115508a1abe7f/data/Venezuela/Assembly/term-2016.csv
     format: csv
-  - name: 2011-01-05 to 2016-01-04
+  - name: 2011–2016: 2011-01-05 to 2016-01-04
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c8cbf3c836c013481cda33395c885ad34a98ee3d/data/Venezuela/Assembly/term-2011.csv
     format: csv
-last_modified: 2017-04-11T05:26:45
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-11T06:26:45
 license: ''
 category:
   - Venezuela

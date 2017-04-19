@@ -1,21 +1,33 @@
 ---
 schema: default
-title: Laos — National Assembly
+title: Politician Data: Laos — National Assembly
 organization: EveryPolitician
 notes: Data on the people within the National Assembly legislature of Laos.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/laos/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e2136df49f1b6e92936e8a5a39ddfaa09c61bfd2/data/Laos/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: From 2016-04-20
+  - name: 2016–: From 2016-04-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e2136df49f1b6e92936e8a5a39ddfaa09c61bfd2/data/Laos/Assembly/term-2016.csv
     format: csv
-  - name: 2011-06-15 to 2016-03-20
+  - name: 2011–2016: 2011-06-15 to 2016-03-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c0f74504df167546c77db68f0463ea785100b6c9/data/Laos/Assembly/term-2011.csv
     format: csv
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
 last_modified: 2017-01-25T07:36:54
 license: ''
 category:

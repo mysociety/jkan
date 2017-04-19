@@ -1,17 +1,29 @@
 ---
 schema: default
-title: Jersey — States
+title: Politician Data: Jersey — States
 organization: EveryPolitician
 notes: Data on the people within the States legislature of Jersey.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/jersey/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/fe071901beb78ab9d13d5580fa8c6496475678ed/data/Jersey/States/ep-popolo-v1.0.json
     format: json
-  - name: From 2014-11-03
+  - name: Assembly 2014–: From 2014-11-03
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1b5e1735a6ef6dc92af7856a531461782e811129/data/Jersey/States/term-2011.csv
     format: csv
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
 last_modified: 2017-01-22T06:51:59
 license: ''
 category:

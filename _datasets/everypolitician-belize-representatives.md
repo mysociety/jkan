@@ -1,22 +1,34 @@
 ---
 schema: default
-title: Belize — House of Representatives
+title: Politician Data: Belize — House of Representatives
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Belize.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/belize/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b1233f7e822f30d48d1577f5d3c39bcfca4180d4/data/Belize/Representatives/ep-popolo-v1.0.json
     format: json
-  - name: From 2015-11-05
+  - name: 2015–: From 2015-11-05
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b1233f7e822f30d48d1577f5d3c39bcfca4180d4/data/Belize/Representatives/term-2015.csv
     format: csv
-  - name: 2012-03-21 to 2015-11-04
+  - name: 2012–2015: 2012-03-21 to 2015-11-04
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/945ad1d20e64da9b2881ace1042718f7270cc4f0/data/Belize/Representatives/term-2012.csv
     format: csv
-last_modified: 2017-04-14T06:25:50
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-14T07:25:50
 license: ''
 category:
   - Belize

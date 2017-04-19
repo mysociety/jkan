@@ -1,22 +1,34 @@
 ---
 schema: default
-title: Jamaica — House of Representatives
+title: Politician Data: Jamaica — House of Representatives
 organization: EveryPolitician
 notes: Data on the people within the House of Representatives legislature of Jamaica.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/jamaica/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f711ba28b2163a2a425d70bfd209623755e3cf2f/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json
     format: json
-  - name: From 2016-03-10
+  - name: 2016–: From 2016-03-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f711ba28b2163a2a425d70bfd209623755e3cf2f/data/Jamaica/House_of_Representatives/term-2016.csv
     format: csv
-  - name: 2012-01-17 to 2016-02-25
+  - name: 2011–2016: 2012-01-17 to 2016-02-25
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a36aa4ceae70334da199c21047eb913c7e5cedf3/data/Jamaica/House_of_Representatives/term-2011.csv
     format: csv
-last_modified: 2017-04-07T03:47:05
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-07T04:47:05
 license: ''
 category:
   - Jamaica

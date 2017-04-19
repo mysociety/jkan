@@ -1,22 +1,34 @@
 ---
 schema: default
-title: Wales — National Assembly for Wales
+title: Politician Data: Wales — National Assembly for Wales
 organization: EveryPolitician
 notes: Data on the people within the National Assembly for Wales legislature of Wales.
 resources:
+  - name: How To Use The Data
+    url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/wales/'
+    format: info
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8d3e45b9de74c30320076705e9f586233ab4e15a/data/Wales/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: From 2016-05-06
+  - name: Fifth Assembly: From 2016-05-06
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/31ee7974764ff81435015b2e9a6007fe8f0179c1/data/Wales/Assembly/term-5.csv
     format: csv
-  - name: 2011-09-15 to 2016-04-06
+  - name: Fourth Assembly: 2011-09-15 to 2016-04-06
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1791e1be633e7f915ab65fcce51bd55395c1114b/data/Wales/Assembly/term-4.csv
     format: csv
-last_modified: 2017-04-13T15:59:45
+  - name: Python
+    url: 'https://github.com/everypolitician/everypolitician-popolo-python'
+    format: library
+  - name: Ruby
+    url: 'https://github.com/everypolitician/everypolitician-popolo'
+    format: library
+last_modified: 2017-04-13T16:59:45
 license: ''
 category:
   - Wales
