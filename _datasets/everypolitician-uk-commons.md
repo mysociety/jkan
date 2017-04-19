@@ -3,8 +3,9 @@ schema: default
 title: 'Politician Data: United Kingdom — House of Commons'
 organization: EveryPolitician
 notes: >-
-  Data on the people within the House of Commons legislature of United Kingdom. 
-  More infomation: http://everypolitician.org/uk/
+  Data on the people within the House of Commons legislature of United Kingdom.
+  More infomation: <a
+  href="http://everypolitician.org/uk/">http://everypolitician.org/uk/</a>/
 resources:
   - name: All Data as Popolo JSON
     url: >-
@@ -38,6 +39,7 @@ category:
   - People
   - Groups & Bodies
   - United Kingdom
+  - GE2017
 maintainer: EveryPolitician
 maintainer_email: team@everypolitician.org
 last_modified: '2017-04-14 17:16:11 +0000'
