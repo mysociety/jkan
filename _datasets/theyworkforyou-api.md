@@ -17,6 +17,7 @@ category:
   - People
   - APIs
   - United Kingdom
+  - '#GE2017'
 maintainer: mySociety
 maintainer_email: ''
 last_modified: ''
