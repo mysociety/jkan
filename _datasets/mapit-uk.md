@@ -2,7 +2,7 @@
 schema: default
 title: MapIt UK
 organization: mySociety
-notes: Convert UK postcodes and geographical coordinates to administrative areas.
+notes: "Convert UK postcodes and geographical coordinates to administrative areas.\r\n\r\nMapIt API access starts at £20/mth, and is free for low-volume non-profit use. "
 resources:
   - name: MapIt API
     url: 'https://mapit.mysociety.org/'
