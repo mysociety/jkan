@@ -2,7 +2,9 @@
 schema: default
 title: TheyWorkForYou API
 organization: mySociety
-notes: An API to look at politicians in the UK's Houses of Parliament.
+notes: >-
+  Explore TheyWorkForYou's information on UK Politicians, parliamentary debates,
+  written answers, and written ministerial statements. 
 resources:
   - name: TheyWorkForYou API
     url: 'https://www.theyworkforyou.com/api/'
@@ -15,7 +17,6 @@ category:
   - People
   - APIs
   - United Kingdom
-  - '#GE2017'
 maintainer: mySociety
 maintainer_email: ''
 last_modified: ''
