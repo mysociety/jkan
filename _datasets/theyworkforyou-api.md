@@ -10,7 +10,7 @@ resources:
     url: 'https://www.theyworkforyou.com/api/'
     format: api
   - name: Python
-    url: 'https://code.google.com/archive/p/twfython/'
+    url: 'https://github.com/ajparsons/twfy-python'
     format: library
   - name: PHP
     url: 'https://github.com/rubenarakelyan/twfyapi/'
