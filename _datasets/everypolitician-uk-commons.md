@@ -4,11 +4,12 @@ title: 'Politician Data: United Kingdom — House of Commons'
 organization: EveryPolitician
 notes: >-
   Data on the people within the House of Commons legislature of United Kingdom.
-  More information: <a
-  href="http://everypolitician.org/uk/">http://everypolitician.org/uk/</a>
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
+    format: info
+  - name: View on EveryPolitician
+    url: 'http://everypolitician.org/uk/'
     format: info
   - name: All Data as Popolo JSON
     url: >-
