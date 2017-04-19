@@ -4,7 +4,8 @@ title: UK Local Authority Names and Codes
 organization: mySociety
 notes: >-
   A list of all Local Authorities in the UK, along with the codes which refer to
-  them under various coding systems.
+  them under various coding systems. Use to combine data published by different
+  sources. 
 resources:
   - name: Local Authority Names and Codes
     url: >-
@@ -18,6 +19,9 @@ license: ''
 category:
   - Groups & Bodies
   - United Kingdom
+  - '#GE2017'
 maintainer: Alex Parsons
-maintainer_email: alex@mysociety.org
+maintainer_email: alex.parsons@mysociety.org
+last_modified: ''
+more_info: ''
 ---
