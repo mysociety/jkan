@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: American Samoa — House of Representatives'
+title: >-
+  Politician Data: American Samoa — House of Representatives
 organization: EveryPolitician
-notes: Data on the people within the House of Representatives legislature of American Samoa.
+notes: >-
+  Data on the people within the House of Representatives legislature of American Samoa.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5af7cd699b38bdee3205b5c851525ca5217bca/data/American_Samoa/House/ep-popolo-v1.0.json
     format: json
-  - name: '2015–: From 2015-01-03'
+  - name: >-
+      2015–: From 2015-01-03
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9a378ba74cb21ab40ed64931c23152ed53c126a1/data/American_Samoa/House/term-2014.csv
     format: csv

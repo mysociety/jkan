@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Austria — Nationalrat'
+title: >-
+  Politician Data: Austria — Nationalrat
 organization: EveryPolitician
-notes: Data on the people within the Nationalrat legislature of Austria.
+notes: >-
+  Data on the people within the Nationalrat legislature of Austria.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/39840b1374975f6af01e9ec09fc6081cde37f4ff/data/Austria/Nationalrat/ep-popolo-v1.0.json
     format: json
-  - name: '25th Legislative Period: From 2013-09-29'
+  - name: >-
+      25th Legislative Period: From 2013-09-29
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/90a3b85c630e56aebed97bcc6c8aaf1fc87c7baf/data/Austria/Nationalrat/term-25.csv
     format: csv

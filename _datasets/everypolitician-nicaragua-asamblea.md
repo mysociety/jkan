@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Nicaragua — National Assembly'
+title: >-
+  Politician Data: Nicaragua — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Nicaragua.
+notes: >-
+  Data on the people within the National Assembly legislature of Nicaragua.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/087588fe646c7acc0897b11f67511ebf660ddd73/data/Nicaragua/Asamblea/ep-popolo-v1.0.json
     format: json
-  - name: '2012–2017: From 2012-01-09'
+  - name: >-
+      2012–2017: From 2012-01-09
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ffe5d82b98642ff3d08119573480163fd9404078/data/Nicaragua/Asamblea/term-2012.csv
     format: csv

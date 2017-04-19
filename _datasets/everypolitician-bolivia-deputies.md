@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Bolivia — Chamber of Deputies'
+title: >-
+  Politician Data: Bolivia — Chamber of Deputies
 organization: EveryPolitician
-notes: Data on the people within the Chamber of Deputies legislature of Bolivia.
+notes: >-
+  Data on the people within the Chamber of Deputies legislature of Bolivia.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/86db4c06b5b5540fedde52bea39587945364fcd2/data/Bolivia/Deputies/ep-popolo-v1.0.json
     format: json
-  - name: '2015–: From 2015-01-21'
+  - name: >-
+      2015–: From 2015-01-21
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/86db4c06b5b5540fedde52bea39587945364fcd2/data/Bolivia/Deputies/term-2015.csv
     format: csv

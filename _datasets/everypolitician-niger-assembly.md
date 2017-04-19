@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Niger — Assemblée nationale'
+title: >-
+  Politician Data: Niger — Assemblée nationale
 organization: EveryPolitician
-notes: Data on the people within the Assemblée nationale legislature of Niger.
+notes: >-
+  Data on the people within the Assemblée nationale legislature of Niger.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/70462461f81424b7b171ec1be139e3b8ce8e11a7/data/Niger/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '1ere Legislature de la 7eme Republique: 2011-10-06 to 2016-02-20'
+  - name: >-
+      1ere Legislature de la 7eme Republique: 2011-10-06 to 2016-02-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/be1e6cbace4bbd2c8e4f05099a64ab1a46057017/data/Niger/Assembly/term-7.1.csv
     format: csv

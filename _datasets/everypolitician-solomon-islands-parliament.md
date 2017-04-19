@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Solomon Islands — National Parliament'
+title: >-
+  Politician Data: Solomon Islands — National Parliament
 organization: EveryPolitician
-notes: Data on the people within the National Parliament legislature of Solomon Islands.
+notes: >-
+  Data on the people within the National Parliament legislature of Solomon Islands.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c7ebefd20f545902d4c976996ee75d836c920b25/data/Solomon_Islands/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: '10th Parliament: From 2014-12-09'
+  - name: >-
+      10th Parliament: From 2014-12-09
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ec2febe4ed50a39c72bdb6e2c1dc73602231e488/data/Solomon_Islands/Parliament/term-10.csv
     format: csv

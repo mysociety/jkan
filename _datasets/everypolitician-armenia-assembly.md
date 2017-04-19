@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Armenia — National Assembly'
+title: >-
+  Politician Data: Armenia — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Armenia.
+notes: >-
+  Data on the people within the National Assembly legislature of Armenia.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d8c05dc41a3a123691084a10c8e987b7fd9e948c/data/Armenia/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '5th Convocation: From 2012-05-31'
+  - name: >-
+      5th Convocation: From 2012-05-31
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ea0dfd977952de3d65b38255f90e2ab1b303c5f1/data/Armenia/Assembly/term-5.csv
     format: csv

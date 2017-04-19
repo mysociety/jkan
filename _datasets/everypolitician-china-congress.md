@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: China — National People’s Congress'
+title: >-
+  Politician Data: China — National People’s Congress
 organization: EveryPolitician
-notes: Data on the people within the National People’s Congress legislature of China.
+notes: >-
+  Data on the people within the National People’s Congress legislature of China.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f8379364c2b18de21df7fc337e162f865641f9c7/data/China/Congress/ep-popolo-v1.0.json
     format: json
-  - name: '12th National People’s Congress: From 2013-03-05'
+  - name: >-
+      12th National People’s Congress: From 2013-03-05
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b0f8a4d63589c7561fdcfb0d2aeee08cade2df7c/data/China/Congress/term-12.csv
     format: csv

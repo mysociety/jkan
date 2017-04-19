@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Curaçao — Estates of Curaçao'
+title: >-
+  Politician Data: Curaçao — Estates of Curaçao
 organization: EveryPolitician
-notes: Data on the people within the Estates of Curaçao legislature of Curaçao.
+notes: >-
+  Data on the people within the Estates of Curaçao legislature of Curaçao.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b35bc7a020d0ec3e4ae8a83c366d2e1ad178b6fd/data/Curacao/Estates/ep-popolo-v1.0.json
     format: json
-  - name: '2nd Curaçaoan Parliament: 2012-11-02 to 2016-11-01'
+  - name: >-
+      2nd Curaçaoan Parliament: 2012-11-02 to 2016-11-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b8c1837572ef3138b2bce40ae88622c974e05cfc/data/Curacao/Estates/term-2.csv
     format: csv

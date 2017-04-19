@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: San Marino — Grand and General Council'
+title: >-
+  Politician Data: San Marino — Grand and General Council
 organization: EveryPolitician
-notes: Data on the people within the Grand and General Council legislature of San Marino.
+notes: >-
+  Data on the people within the Grand and General Council legislature of San Marino.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/338d08fd115842a3a4494dc8a74035a240731fdb/data/San_Marino/Council/ep-popolo-v1.0.json
     format: json
-  - name: 'Council 2012–: From 2012-12-26'
+  - name: >-
+      Council 2012–: From 2012-12-26
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/933045f1788e8ba772402bd7f819e0ecdf546267/data/San_Marino/Council/term-2012.csv
     format: csv

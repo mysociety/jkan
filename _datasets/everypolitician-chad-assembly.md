@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Chad — Assemblée Nationale'
+title: >-
+  Politician Data: Chad — Assemblée Nationale
 organization: EveryPolitician
-notes: Data on the people within the Assemblée Nationale legislature of Chad.
+notes: >-
+  Data on the people within the Assemblée Nationale legislature of Chad.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d03179b163db95c7c42f3ec2cc216c8a11ea63b4/data/Chad/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 'Troisième Législature: From 2011-06-23'
+  - name: >-
+      Troisième Législature: From 2011-06-23
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d3d9c706f5545ba2cb9e523ebc6ba1394bd086ee/data/Chad/Assembly/term-3.csv
     format: csv

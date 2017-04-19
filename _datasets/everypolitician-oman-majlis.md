@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Oman — Majlis al-Shura'
+title: >-
+  Politician Data: Oman — Majlis al-Shura
 organization: EveryPolitician
-notes: Data on the people within the Majlis al-Shura legislature of Oman.
+notes: >-
+  Data on the people within the Majlis al-Shura legislature of Oman.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c3ae64d251ca33cd4c4398312890374b284e5e0c/data/Oman/Majlis/ep-popolo-v1.0.json
     format: json
-  - name: '7th Period: 2011-10-31 to 2015-10-28'
+  - name: >-
+      7th Period: 2011-10-31 to 2015-10-28
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4385786bcf3af0e92196bda4340dfdce01f5c2a0/data/Oman/Majlis/term-7.csv
     format: csv

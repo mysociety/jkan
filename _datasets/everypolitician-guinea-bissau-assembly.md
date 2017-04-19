@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Guinea-Bissau — National People's Assembly'
+title: >-
+  Politician Data: Guinea-Bissau — National People's Assembly
 organization: EveryPolitician
-notes: Data on the people within the National People's Assembly legislature of Guinea-Bissau.
+notes: >-
+  Data on the people within the National People's Assembly legislature of Guinea-Bissau.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/addb879b07b17064d3d2c05f0d138cc216771cf7/data/Guinea-Bissau/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '2014-: From 2014-06-16'
+  - name: >-
+      2014-: From 2014-06-16
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/96d2c4bbe72d9477204c5e40f623b073460a24b9/data/Guinea-Bissau/Assembly/term-2014.csv
     format: csv

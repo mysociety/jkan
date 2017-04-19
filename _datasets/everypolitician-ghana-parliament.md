@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Ghana — Parliament'
+title: >-
+  Politician Data: Ghana — Parliament
 organization: EveryPolitician
-notes: Data on the people within the Parliament legislature of Ghana.
+notes: >-
+  Data on the people within the Parliament legislature of Ghana.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a69c16e43220db58110628664bd9166aef10d52f/data/Ghana/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: 'Sixth Parliament of the Fourth Republic: From 2013-01-07'
+  - name: >-
+      Sixth Parliament of the Fourth Republic: From 2013-01-07
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/3ca036a28ccf86d8d420f3f3d007b4643b46c5d8/data/Ghana/Parliament/term-6.csv
     format: csv

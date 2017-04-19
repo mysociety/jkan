@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Aruba — Estates of Aruba'
+title: >-
+  Politician Data: Aruba — Estates of Aruba
 organization: EveryPolitician
-notes: Data on the people within the Estates of Aruba legislature of Aruba.
+notes: >-
+  Data on the people within the Estates of Aruba legislature of Aruba.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/df906e305085483d4ad963e45cf6d180a07db473/data/Aruba/Estates/ep-popolo-v1.0.json
     format: json
-  - name: '7th Aruban Estates: From 2013'
+  - name: >-
+      7th Aruban Estates: From 2013
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/58840bf115ff452577c331097222b3737e12a4f2/data/Aruba/Estates/term-7.csv
     format: csv

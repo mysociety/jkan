@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Bermuda — Parliament'
+title: >-
+  Politician Data: Bermuda — Parliament
 organization: EveryPolitician
-notes: Data on the people within the Parliament legislature of Bermuda.
+notes: >-
+  Data on the people within the Parliament legislature of Bermuda.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ebbc4161412a81a6d857173152b9bb009f958467/data/Bermuda/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '2012–: From 2012-12-17'
+  - name: >-
+      2012–: From 2012-12-17
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/e7d8834380e52d0aad6f6b449fe50182c973a1b4/data/Bermuda/Assembly/term-2012.csv
     format: csv

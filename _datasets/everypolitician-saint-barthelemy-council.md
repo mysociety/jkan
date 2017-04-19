@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Saint Barthélemy — Territorial Council'
+title: >-
+  Politician Data: Saint Barthélemy — Territorial Council
 organization: EveryPolitician
-notes: Data on the people within the Territorial Council legislature of Saint Barthélemy.
+notes: >-
+  Data on the people within the Territorial Council legislature of Saint Barthélemy.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d3f0dbfa3ccc736b839889f9074c914b4a1d880f/data/Saint_Barthelemy/Council/ep-popolo-v1.0.json
     format: json
-  - name: '2012–2017: From 2012'
+  - name: >-
+      2012–2017: From 2012
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/131d0025b51a8e9670a6d22d47dbc0684cf27ed1/data/Saint_Barthelemy/Council/term-2012.csv
     format: csv

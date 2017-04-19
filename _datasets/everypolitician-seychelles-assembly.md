@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Seychelles — National Assembly'
+title: >-
+  Politician Data: Seychelles — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Seychelles.
+notes: >-
+  Data on the people within the National Assembly legislature of Seychelles.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/15aa55a5420557f19dc107252ce73679e7efccbc/data/Seychelles/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '2011–2016: From 2011-10-11'
+  - name: >-
+      2011–2016: From 2011-10-11
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a1cef170b662c1feb5ff3f1eb60fa93bb0dd060c/data/Seychelles/Assembly/term-2011.csv
     format: csv

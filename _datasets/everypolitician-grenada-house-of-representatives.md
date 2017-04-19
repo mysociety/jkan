@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Grenada — House of Representatives'
+title: >-
+  Politician Data: Grenada — House of Representatives
 organization: EveryPolitician
-notes: Data on the people within the House of Representatives legislature of Grenada.
+notes: >-
+  Data on the people within the House of Representatives legislature of Grenada.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/377789dd25eb8e0298156f2ac65bdc6736aa7e04/data/Grenada/House_of_Representatives/ep-popolo-v1.0.json
     format: json
-  - name: '2013: From 2013-03-27'
+  - name: >-
+      2013: From 2013-03-27
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/377789dd25eb8e0298156f2ac65bdc6736aa7e04/data/Grenada/House_of_Representatives/term-2013.csv
     format: csv

@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Somalia — House of the People'
+title: >-
+  Politician Data: Somalia — House of the People
 organization: EveryPolitician
-notes: Data on the people within the House of the People legislature of Somalia.
+notes: >-
+  Data on the people within the House of the People legislature of Somalia.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1ced86333cfdccb7e84005f68bd1c97b71a97f82/data/Somalia/Lower/ep-popolo-v1.0.json
     format: json
-  - name: '2012–: From 2012-08-20'
+  - name: >-
+      2012–: From 2012-08-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4ade6ab23f527387f08b1d47a0aa53ac14c6c699/data/Somalia/Lower/term-2012.csv
     format: csv

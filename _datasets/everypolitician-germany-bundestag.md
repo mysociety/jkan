@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Germany — Bundestag'
+title: >-
+  Politician Data: Germany — Bundestag
 organization: EveryPolitician
-notes: Data on the people within the Bundestag legislature of Germany.
+notes: >-
+  Data on the people within the Bundestag legislature of Germany.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,75 +16,93 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4e79208976ce3691783f1f0af226c70a98100c83/data/Germany/Bundestag/ep-popolo-v1.0.json
     format: json
-  - name: '18th Bundestag: From 2013-10-22'
+  - name: >-
+      18th Bundestag: From 2013-10-22
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-18.csv
     format: csv
-  - name: '17th Bundestag: 2009-10-27 to 2013-10-22'
+  - name: >-
+      17th Bundestag: 2009-10-27 to 2013-10-22
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-17.csv
     format: csv
-  - name: '16th Bundestag: 2005-10-18 to 2009-10-27'
+  - name: >-
+      16th Bundestag: 2005-10-18 to 2009-10-27
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-16.csv
     format: csv
-  - name: '15th Bundestag: 2002-10-17 to 2005-10-18'
+  - name: >-
+      15th Bundestag: 2002-10-17 to 2005-10-18
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-15.csv
     format: csv
-  - name: '14th Bundestag: 1998-10-26 to 2002-10-17'
+  - name: >-
+      14th Bundestag: 1998-10-26 to 2002-10-17
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-14.csv
     format: csv
-  - name: '13th Bundestag: 1994-11-10 to 1998-10-26'
+  - name: >-
+      13th Bundestag: 1994-11-10 to 1998-10-26
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-13.csv
     format: csv
-  - name: '12th Bundestag: 1990-12-20 to 1994-11-10'
+  - name: >-
+      12th Bundestag: 1990-12-20 to 1994-11-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-12.csv
     format: csv
-  - name: '11th Bundestag: 1987-02-18 to 1990-12-20'
+  - name: >-
+      11th Bundestag: 1987-02-18 to 1990-12-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/564797f19ef2853c5f05af4d4ff97c8a0160f587/data/Germany/Bundestag/term-11.csv
     format: csv
-  - name: '10th Bundestag: 1983-03-29 to 1987-02-18'
+  - name: >-
+      10th Bundestag: 1983-03-29 to 1987-02-18
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-10.csv
     format: csv
-  - name: '9th Bundestag: 1980-11-04 to 1983-03-29'
+  - name: >-
+      9th Bundestag: 1980-11-04 to 1983-03-29
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-9.csv
     format: csv
-  - name: '8th Bundestag: 1976-12-14 to 1980-11-04'
+  - name: >-
+      8th Bundestag: 1976-12-14 to 1980-11-04
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-8.csv
     format: csv
-  - name: '7th Bundestag: 1972-12-13 to 1976-12-14'
+  - name: >-
+      7th Bundestag: 1972-12-13 to 1976-12-14
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-7.csv
     format: csv
-  - name: '6th Bundestag: 1969-10-20 to 1972-12-13'
+  - name: >-
+      6th Bundestag: 1969-10-20 to 1972-12-13
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/07c80b4c417e8173fca49d5392b4a21a2025afbe/data/Germany/Bundestag/term-6.csv
     format: csv
-  - name: '5th Bundestag: 1965-10-19 to 1969-10-20'
+  - name: >-
+      5th Bundestag: 1965-10-19 to 1969-10-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/564797f19ef2853c5f05af4d4ff97c8a0160f587/data/Germany/Bundestag/term-5.csv
     format: csv
-  - name: '4th Bundestag: 1961-10-17 to 1965-10-19'
+  - name: >-
+      4th Bundestag: 1961-10-17 to 1965-10-19
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9d33621f3f55702fe5d7eca5972a92524a918781/data/Germany/Bundestag/term-4.csv
     format: csv
-  - name: '3rd Bundestag: 1957-10-15 to 1961-10-17'
+  - name: >-
+      3rd Bundestag: 1957-10-15 to 1961-10-17
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9d33621f3f55702fe5d7eca5972a92524a918781/data/Germany/Bundestag/term-3.csv
     format: csv
-  - name: '2nd Bundestag: 1953-10-06 to 1957-10-15'
+  - name: >-
+      2nd Bundestag: 1953-10-06 to 1957-10-15
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ea34f2ec9b8e965f4e2dc2e83dc479befc9124a5/data/Germany/Bundestag/term-2.csv
     format: csv
-  - name: '1st Bundestag: 1949-09-07 to 1953-10-06'
+  - name: >-
+      1st Bundestag: 1949-09-07 to 1953-10-06
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ea34f2ec9b8e965f4e2dc2e83dc479befc9124a5/data/Germany/Bundestag/term-1.csv
     format: csv

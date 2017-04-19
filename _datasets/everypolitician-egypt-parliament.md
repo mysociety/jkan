@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Egypt — Parliament'
+title: >-
+  Politician Data: Egypt — Parliament
 organization: EveryPolitician
-notes: Data on the people within the Parliament legislature of Egypt.
+notes: >-
+  Data on the people within the Parliament legislature of Egypt.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b288cee49266960db81bcaa8a15d38700fdea994/data/Egypt/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: '2015–: From 2016-01-10'
+  - name: >-
+      2015–: From 2016-01-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0470b97ec2f1f3045c6d47fc5d9b4c505fc5b247/data/Egypt/Parliament/term-2015.csv
     format: csv

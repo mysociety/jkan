@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Pakistan — National Assembly'
+title: >-
+  Politician Data: Pakistan — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Pakistan.
+notes: >-
+  Data on the people within the National Assembly legislature of Pakistan.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/93e280642f999f4b05ab562f0f17dbdefe0d6cce/data/Pakistan/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '14th National Assembly: From 2013-06-01'
+  - name: >-
+      14th National Assembly: From 2013-06-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1b2461a0600d4f853740e6155a97f7f138803a7a/data/Pakistan/Assembly/term-14.csv
     format: csv

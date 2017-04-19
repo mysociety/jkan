@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Lithuania — Seimas'
+title: >-
+  Politician Data: Lithuania — Seimas
 organization: EveryPolitician
-notes: Data on the people within the Seimas legislature of Lithuania.
+notes: >-
+  Data on the people within the Seimas legislature of Lithuania.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d1e02c033472a6941d37daca2915357f2f3ea820/data/Lithuania/Seimas/ep-popolo-v1.0.json
     format: json
-  - name: 'Eleventh Seimas: 2012-11-17 to 2016-11-10'
+  - name: >-
+      Eleventh Seimas: 2012-11-17 to 2016-11-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6a52d7d9a1f033baa3ca349e37cd23292a69721d/data/Lithuania/Seimas/term-11.csv
     format: csv

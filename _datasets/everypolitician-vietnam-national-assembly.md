@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Vietnam — National Assembly'
+title: >-
+  Politician Data: Vietnam — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Vietnam.
+notes: >-
+  Data on the people within the National Assembly legislature of Vietnam.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/24ea6d79984c4af764b01c8d8ec27add8c594927/data/Vietnam/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '13th Congress: 2011-07-25 to 2016-05-22'
+  - name: >-
+      13th Congress: 2011-07-25 to 2016-05-22
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/a34c03775c930d94233896fd9cf5b9f1dad07535/data/Vietnam/National_Assembly/term-13.csv
     format: csv

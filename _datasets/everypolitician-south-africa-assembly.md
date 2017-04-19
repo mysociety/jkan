@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: South Africa — National Assembly'
+title: >-
+  Politician Data: South Africa — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of South Africa.
+notes: >-
+  Data on the people within the National Assembly legislature of South Africa.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/f4977a28deaa40e42bbcd70fcc8c48001f363eb8/data/South_Africa/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '26th Parliament: From 2014-05-21'
+  - name: >-
+      26th Parliament: From 2014-05-21
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/271dff3f4e3d1e684280119d4f5eda5a3ac804ae/data/South_Africa/Assembly/term-26.csv
     format: csv

@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Togo — National Assembly'
+title: >-
+  Politician Data: Togo — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Togo.
+notes: >-
+  Data on the people within the National Assembly legislature of Togo.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7daac84e007f9758e588ebfaeb89b56f9e22aed9/data/Togo/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '2013–: From 2013-08-20'
+  - name: >-
+      2013–: From 2013-08-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4d6ce70e623cd2ee7a44dbe5f20ff4747de9cae4/data/Togo/Assembly/term-2013.csv
     format: csv

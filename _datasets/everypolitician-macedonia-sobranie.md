@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Macedonia — Sobranie'
+title: >-
+  Politician Data: Macedonia — Sobranie
 organization: EveryPolitician
-notes: Data on the people within the Sobranie legislature of Macedonia.
+notes: >-
+  Data on the people within the Sobranie legislature of Macedonia.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d569904507845f8ab80e1826d2d88be7eaabc1f8/data/Macedonia/Sobranie/ep-popolo-v1.0.json
     format: json
-  - name: '2014–2018: From 2014-05-10'
+  - name: >-
+      2014–2018: From 2014-05-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/deb658a43e38b03b739d8d799ba2e607d46ac208/data/Macedonia/Sobranie/term-2014.csv
     format: csv

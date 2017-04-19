@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Estonia — Riigikogu'
+title: >-
+  Politician Data: Estonia — Riigikogu
 organization: EveryPolitician
-notes: Data on the people within the Riigikogu legislature of Estonia.
+notes: >-
+  Data on the people within the Riigikogu legislature of Estonia.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,11 +16,13 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4bec8a1f60864bacaa400bf359b287a39904bbce/data/Estonia/Riigikogu/ep-popolo-v1.0.json
     format: json
-  - name: '13th Riigikogu: From 2015-03-30'
+  - name: >-
+      13th Riigikogu: From 2015-03-30
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c1c007f5725514cc6ef18a5eab76fdd294cc11fc/data/Estonia/Riigikogu/term-13.csv
     format: csv
-  - name: '12th Riigikogu: 2011-03-27 to 2015-03-23'
+  - name: >-
+      12th Riigikogu: 2011-03-27 to 2015-03-23
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/055f8d8317a977aea9510c169c73b6f8f0052f99/data/Estonia/Riigikogu/term-12.csv
     format: csv

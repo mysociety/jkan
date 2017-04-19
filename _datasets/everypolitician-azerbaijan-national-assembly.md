@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Azerbaijan — National Assembly'
+title: >-
+  Politician Data: Azerbaijan — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Azerbaijan.
+notes: >-
+  Data on the people within the National Assembly legislature of Azerbaijan.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,11 +16,13 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5aa315f1b2017657459c3a3f09e056701035bc41/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 'V çağırış: From 2015-12-01'
+  - name: >-
+      V çağırış: From 2015-12-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7213a2be39768850209b1a75e6c4fac5206739c8/data/Azerbaijan/National_Assembly/term-5.csv
     format: csv
-  - name: 'IV çağırış: 2010 to 2015'
+  - name: >-
+      IV çağırış: 2010 to 2015
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7213a2be39768850209b1a75e6c4fac5206739c8/data/Azerbaijan/National_Assembly/term-4.csv
     format: csv

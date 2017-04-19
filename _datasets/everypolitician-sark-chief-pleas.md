@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Sark — Chief Pleas'
+title: >-
+  Politician Data: Sark — Chief Pleas
 organization: EveryPolitician
-notes: Data on the people within the Chief Pleas legislature of Sark.
+notes: >-
+  Data on the people within the Chief Pleas legislature of Sark.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,19 +16,23 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/518cc7a0134aefcc060b65dc801add5d40420a8f/data/Sark/Chief_Pleas/ep-popolo-v1.0.json
     format: json
-  - name: '2015-2017: 2015 to 2017'
+  - name: >-
+      2015-2017: 2015 to 2017
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5c3911f1249d20e9104b216a5241f48d6141e256/data/Sark/Chief_Pleas/term-2015.csv
     format: csv
-  - name: '2013-2015: 2013 to 2015'
+  - name: >-
+      2013-2015: 2013 to 2015
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5c3911f1249d20e9104b216a5241f48d6141e256/data/Sark/Chief_Pleas/term-2013.csv
     format: csv
-  - name: '2011-2013: 2011 to 2013'
+  - name: >-
+      2011-2013: 2011 to 2013
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5c3911f1249d20e9104b216a5241f48d6141e256/data/Sark/Chief_Pleas/term-2011.csv
     format: csv
-  - name: '2009-2011: 2009 to 2011'
+  - name: >-
+      2009-2011: 2009 to 2011
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5c3911f1249d20e9104b216a5241f48d6141e256/data/Sark/Chief_Pleas/term-2009.csv
     format: csv

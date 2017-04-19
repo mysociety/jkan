@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: South Korea — National Assembly'
+title: >-
+  Politician Data: South Korea — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of South Korea.
+notes: >-
+  Data on the people within the National Assembly legislature of South Korea.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,11 +16,13 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/af28d9184c60f18d9fb204e45daefc59fd532439/data/South_Korea/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '20th National Assembly: 2016-05-30 to 2020-05-29'
+  - name: >-
+      20th National Assembly: 2016-05-30 to 2020-05-29
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ea6116a6f28c713fff2275ac35c64bdc85c46982/data/South_Korea/National_Assembly/term-20.csv
     format: csv
-  - name: '19th National Assembly: 2012-05-30 to 2016-05-29'
+  - name: >-
+      19th National Assembly: 2012-05-30 to 2016-05-29
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ea6116a6f28c713fff2275ac35c64bdc85c46982/data/South_Korea/National_Assembly/term-19.csv
     format: csv

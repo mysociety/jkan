@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Mozambique — Assembleia da República'
+title: >-
+  Politician Data: Mozambique — Assembleia da República
 organization: EveryPolitician
-notes: Data on the people within the Assembleia da República legislature of Mozambique.
+notes: >-
+  Data on the people within the Assembleia da República legislature of Mozambique.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/6888c8c3b86719a5764251667b13f7bbacbcb308/data/Mozambique/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: 'VIII Legislature: From 2015-01-12'
+  - name: >-
+      VIII Legislature: From 2015-01-12
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d480c6e7efa554d21743e5fb43315ccd5dbe83cb/data/Mozambique/Assembly/term-8.csv
     format: csv

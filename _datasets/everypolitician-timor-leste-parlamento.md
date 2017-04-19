@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Timor Leste — Parlamento'
+title: >-
+  Politician Data: Timor Leste — Parlamento
 organization: EveryPolitician
-notes: Data on the people within the Parlamento legislature of Timor Leste.
+notes: >-
+  Data on the people within the Parlamento legislature of Timor Leste.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/004b6fabe4e6464dbc8629cc00cd8d5d5bf72eab/data/Timor_Leste/Parlamento/ep-popolo-v1.0.json
     format: json
-  - name: '3rd Parliament: From 2012-07-30'
+  - name: >-
+      3rd Parliament: From 2012-07-30
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/cd405117bffe66271d53007ffb0d10cdb99d5757/data/Timor_Leste/Parlamento/term-2012.csv
     format: csv

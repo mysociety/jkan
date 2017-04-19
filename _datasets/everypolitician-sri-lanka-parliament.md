@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Sri Lanka — Parliament'
+title: >-
+  Politician Data: Sri Lanka — Parliament
 organization: EveryPolitician
-notes: Data on the people within the Parliament legislature of Sri Lanka.
+notes: >-
+  Data on the people within the Parliament legislature of Sri Lanka.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ae00ce1d6af4af0bdb50c2a5625fd44ab05eb321/data/Sri_Lanka/Parliament/ep-popolo-v1.0.json
     format: json
-  - name: '15th Parliament: From 2015-09-01'
+  - name: >-
+      15th Parliament: From 2015-09-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/729e4cc5191a2ce5722c66a2f5d8459644418290/data/Sri_Lanka/Parliament/term-15.csv
     format: csv

@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Kenya — National Assembly'
+title: >-
+  Politician Data: Kenya — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Kenya.
+notes: >-
+  Data on the people within the National Assembly legislature of Kenya.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/82bc3d3af9b0ec1a0035671e0a99bc22f8fe7f30/data/Kenya/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '11th Parliament: From 2013-03-28'
+  - name: >-
+      11th Parliament: From 2013-03-28
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/fdd598fc1dc134d3c7ba427933ded4ecc9b20fd0/data/Kenya/Assembly/term-11.csv
     format: csv

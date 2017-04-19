@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Abkhazia — People's Assembly'
+title: >-
+  Politician Data: Abkhazia — People's Assembly
 organization: EveryPolitician
-notes: Data on the people within the People's Assembly legislature of Abkhazia.
+notes: >-
+  Data on the people within the People's Assembly legislature of Abkhazia.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5e6b5ea24db6272f537356d2887e7360c277f586/data/Abkhazia/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '5th Convocation: From 2012-04-03'
+  - name: >-
+      5th Convocation: From 2012-04-03
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/58982266ae65446abe93beb812bf42e378338cb3/data/Abkhazia/Assembly/term-5.csv
     format: csv

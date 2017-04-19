@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Denmark — Folketing'
+title: >-
+  Politician Data: Denmark — Folketing
 organization: EveryPolitician
-notes: Data on the people within the Folketing legislature of Denmark.
+notes: >-
+  Data on the people within the Folketing legislature of Denmark.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,35 +16,43 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5d69417dce5ee3f7b71b7bae56b02e67c6107072/data/Denmark/Folketing/ep-popolo-v1.0.json
     format: json
-  - name: 'Folketing 2015–: From 2015-06-20'
+  - name: >-
+      Folketing 2015–: From 2015-06-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/582e1d068dbea7a42156ac6adcaf9b060e36f21b/data/Denmark/Folketing/term-2015.csv
     format: csv
-  - name: 'Folketing 2011–2015: 2011-09-15 to 2015-06-19'
+  - name: >-
+      Folketing 2011–2015: 2011-09-15 to 2015-06-19
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/582e1d068dbea7a42156ac6adcaf9b060e36f21b/data/Denmark/Folketing/term-2011.csv
     format: csv
-  - name: 'Folketing 2007–2011: 2007-11-13 to 2011-09-14'
+  - name: >-
+      Folketing 2007–2011: 2007-11-13 to 2011-09-14
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/582e1d068dbea7a42156ac6adcaf9b060e36f21b/data/Denmark/Folketing/term-2007.csv
     format: csv
-  - name: 'Folketing 2005–2007: 2005-02-08 to 2007-11-12'
+  - name: >-
+      Folketing 2005–2007: 2005-02-08 to 2007-11-12
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5354f7c363617dacbb08cb11223edbf4c6b5689a/data/Denmark/Folketing/term-2005.csv
     format: csv
-  - name: 'Folketing 2001–2005: 2001-11-20 to 2005-02-07'
+  - name: >-
+      Folketing 2001–2005: 2001-11-20 to 2005-02-07
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5354f7c363617dacbb08cb11223edbf4c6b5689a/data/Denmark/Folketing/term-2001.csv
     format: csv
-  - name: 'Folketing 1998–2001: 1998-11-03 to 2001-11-19'
+  - name: >-
+      Folketing 1998–2001: 1998-11-03 to 2001-11-19
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4b2cfe73e5310826056fe6bdd8f231188b9915d3/data/Denmark/Folketing/term-1998.csv
     format: csv
-  - name: 'Folketing 1994–1998: 1994-09-21 to 1998-11-02'
+  - name: >-
+      Folketing 1994–1998: 1994-09-21 to 1998-11-02
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4b2cfe73e5310826056fe6bdd8f231188b9915d3/data/Denmark/Folketing/term-1994.csv
     format: csv
-  - name: 'Folketing 1990–1994: 1990-12-12 to 1994-09-20'
+  - name: >-
+      Folketing 1990–1994: 1990-12-12 to 1994-09-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/4b2cfe73e5310826056fe6bdd8f231188b9915d3/data/Denmark/Folketing/term-1990.csv
     format: csv

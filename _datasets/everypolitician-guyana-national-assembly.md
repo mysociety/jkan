@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Guyana — National Assembly'
+title: >-
+  Politician Data: Guyana — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Guyana.
+notes: >-
+  Data on the people within the National Assembly legislature of Guyana.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/448c93c2997ea7eaa3bc88722ebf0578a2527f65/data/Guyana/National_Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '11th Parliament: From 2015-06-10'
+  - name: >-
+      11th Parliament: From 2015-06-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/448c93c2997ea7eaa3bc88722ebf0578a2527f65/data/Guyana/National_Assembly/term-11.csv
     format: csv

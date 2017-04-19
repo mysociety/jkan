@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Nagorno-Karabakh — National Assembly'
+title: >-
+  Politician Data: Nagorno-Karabakh — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Nagorno-Karabakh.
+notes: >-
+  Data on the people within the National Assembly legislature of Nagorno-Karabakh.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/24381c59f112b85ff37127f8d0a16e992ec532ab/data/Nagorno_Karabakh/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '6th Convocation: From 2015-05-21'
+  - name: >-
+      6th Convocation: From 2015-05-21
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/eac9a60ffd90305584c7ee9f42c0a93de3c9b834/data/Nagorno_Karabakh/Assembly/term-6.csv
     format: csv

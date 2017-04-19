@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Uzbekistan — Legislative Chamber'
+title: >-
+  Politician Data: Uzbekistan — Legislative Chamber
 organization: EveryPolitician
-notes: Data on the people within the Legislative Chamber legislature of Uzbekistan.
+notes: >-
+  Data on the people within the Legislative Chamber legislature of Uzbekistan.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/2ae384633d900f4116d289959e390ecacaf8b72a/data/Uzbekistan/Legislative_Chamber/ep-popolo-v1.0.json
     format: json
-  - name: '5th Convocation: From 2015-01-12'
+  - name: >-
+      5th Convocation: From 2015-01-12
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/ad11325e7f67cf8f4339dbcedf70bb8a9e377466/data/Uzbekistan/Legislative_Chamber/term-5.csv
     format: csv

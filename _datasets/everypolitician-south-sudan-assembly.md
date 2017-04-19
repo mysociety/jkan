@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: South Sudan — National Legislative Assembly'
+title: >-
+  Politician Data: South Sudan — National Legislative Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Legislative Assembly legislature of South Sudan.
+notes: >-
+  Data on the people within the National Legislative Assembly legislature of South Sudan.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/cc03c2bab37feace8ebfaa4490677bcbed5a337d/data/South_Sudan/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '1st Parliament: From 2011-07-09'
+  - name: >-
+      1st Parliament: From 2011-07-09
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d89886a4cfba54613d635be69ed863478f202166/data/South_Sudan/Assembly/term-1.csv
     format: csv

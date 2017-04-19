@@ -1,8 +1,10 @@
 ---
 schema: default
-title: 'Politician Data: Lesotho — National Assembly'
+title: >-
+  Politician Data: Lesotho — National Assembly
 organization: EveryPolitician
-notes: Data on the people within the National Assembly legislature of Lesotho.
+notes: >-
+  Data on the people within the National Assembly legislature of Lesotho.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,7 +16,8 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8a2182ab8683cfb0f5ee055f85d263598c9c2411/data/Lesotho/Assembly/ep-popolo-v1.0.json
     format: json
-  - name: '9th Parliament: From 2015-03-10'
+  - name: >-
+      9th Parliament: From 2015-03-10
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/58cc9fb33e331fe6faa6db14cf9560e506d01b78/data/Lesotho/Assembly/term-9.csv
     format: csv
