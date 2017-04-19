@@ -1,16 +1,15 @@
 ---
 schema: default
-title: 'Politician Data: United Kingdom — House of Commons'
+title: 'Politician Data: UK — House of Commons'
 organization: EveryPolitician
-notes: >-
-  Data on the people within the House of Commons legislature of United Kingdom.
+notes: Data on the people within the House of Commons legislature of United Kingdom.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
-    format: info
+    format: ''
   - name: View on EveryPolitician
     url: 'http://everypolitician.org/uk/'
-    format: info
+    format: ''
   - name: All Data as Popolo JSON
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/8382ff6bd31785d630950716ccb53eccfbe8485f/data/UK/Commons/ep-popolo-v1.0.json
@@ -41,7 +40,6 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-
 license: ''
 category:
   - People
