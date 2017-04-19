@@ -5,7 +5,7 @@ organization: EveryPolitician
 notes: >-
   Data on the people within the House of Commons legislature of United Kingdom.
   More infomation: <a
-  href="http://everypolitician.org/uk/">http://everypolitician.org/uk/</a>/
+  href="http://everypolitician.org/uk/">http://everypolitician.org/uk/</a>
 resources:
   - name: All Data as Popolo JSON
     url: >-
