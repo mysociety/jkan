@@ -72,7 +72,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T05:52:30
+last_modified: 2017-04-11T04:52:30
 license: ''
 category:
   - Malaysia

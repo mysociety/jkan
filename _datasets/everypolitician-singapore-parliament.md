@@ -72,7 +72,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T08:45:08
+last_modified: 2017-04-08T07:45:08
 license: ''
 category:
   - Singapore

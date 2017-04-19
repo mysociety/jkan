@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T16:03:02
+last_modified: 2017-04-11T15:03:02
 license: ''
 category:
   - Isle of Man

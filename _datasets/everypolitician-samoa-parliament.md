@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T01:51:59
+last_modified: 2017-04-11T00:51:59
 license: ''
 category:
   - Samoa

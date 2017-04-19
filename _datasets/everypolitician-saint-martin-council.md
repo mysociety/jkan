@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T12:44:23
+last_modified: 2017-04-08T11:44:23
 license: ''
 category:
   - Saint Martin

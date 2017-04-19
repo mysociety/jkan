@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T18:47:08
+last_modified: 2017-04-13T17:47:08
 license: ''
 category:
   - Sri Lanka

@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-12T06:19:37
+last_modified: 2017-04-12T05:19:37
 license: ''
 category:
   - Mongolia

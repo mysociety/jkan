@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T06:31:15
+last_modified: 2017-04-14T05:31:15
 license: ''
 category:
   - Lesotho

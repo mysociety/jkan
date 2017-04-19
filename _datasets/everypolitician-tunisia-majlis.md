@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T20:57:44
+last_modified: 2017-04-11T19:57:44
 license: ''
 category:
   - Tunisia

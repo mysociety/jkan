@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-12T17:54:49
+last_modified: 2017-04-12T16:54:49
 license: ''
 category:
   - Thailand

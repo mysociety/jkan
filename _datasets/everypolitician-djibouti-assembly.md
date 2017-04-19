@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-02T07:58:36
+last_modified: 2017-04-02T06:58:36
 license: ''
 category:
   - Djibouti

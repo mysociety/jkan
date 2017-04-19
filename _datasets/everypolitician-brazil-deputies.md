@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T10:49:46
+last_modified: 2017-04-13T09:49:46
 license: ''
 category:
   - Brazil

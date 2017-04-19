@@ -40,7 +40,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-12T22:59:15
+last_modified: 2017-04-12T21:59:15
 license: ''
 category:
   - Bulgaria

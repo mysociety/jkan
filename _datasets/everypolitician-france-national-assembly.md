@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T03:19:25
+last_modified: 2017-04-14T02:19:25
 license: ''
 category:
   - France

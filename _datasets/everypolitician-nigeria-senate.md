@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-03-30T03:57:09
+last_modified: 2017-03-30T02:57:09
 license: ''
 category:
   - Nigeria

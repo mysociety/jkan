@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T05:40:48
+last_modified: 2017-04-11T04:40:48
 license: ''
 category:
   - Mali

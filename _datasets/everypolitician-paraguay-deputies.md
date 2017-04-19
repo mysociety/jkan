@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-04T10:02:28
+last_modified: 2017-04-04T09:02:28
 license: ''
 category:
   - Paraguay

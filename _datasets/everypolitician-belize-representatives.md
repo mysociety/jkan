@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T07:25:50
+last_modified: 2017-04-14T06:25:50
 license: ''
 category:
   - Belize

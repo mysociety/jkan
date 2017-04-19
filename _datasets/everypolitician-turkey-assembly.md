@@ -124,7 +124,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T17:41:08
+last_modified: 2017-04-11T16:41:08
 license: ''
 category:
   - Turkey

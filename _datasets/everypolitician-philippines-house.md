@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-07T19:46:17
+last_modified: 2017-04-07T18:46:17
 license: ''
 category:
   - Philippines

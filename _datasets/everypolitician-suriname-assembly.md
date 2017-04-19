@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T07:45:04
+last_modified: 2017-04-13T06:45:04
 license: ''
 category:
   - Suriname

@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-10T04:54:21
+last_modified: 2017-04-10T03:54:21
 license: ''
 category:
   - Peru

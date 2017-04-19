@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T12:49:59
+last_modified: 2017-04-11T11:49:59
 license: ''
 category:
   - Armenia

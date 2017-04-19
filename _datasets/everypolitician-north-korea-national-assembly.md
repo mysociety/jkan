@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T06:30:56
+last_modified: 2017-04-13T05:30:56
 license: ''
 category:
   - North Korea

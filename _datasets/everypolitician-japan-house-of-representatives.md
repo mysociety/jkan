@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T10:36:27
+last_modified: 2017-04-13T09:36:27
 license: ''
 category:
   - Japan

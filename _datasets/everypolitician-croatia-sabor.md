@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T11:21:36
+last_modified: 2017-04-13T10:21:36
 license: ''
 category:
   - Croatia

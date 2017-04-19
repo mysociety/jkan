@@ -56,7 +56,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T20:08:10
+last_modified: 2017-04-08T19:08:10
 license: ''
 category:
   - British Virgin Islands

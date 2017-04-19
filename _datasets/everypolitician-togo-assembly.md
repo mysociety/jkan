@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T10:23:43
+last_modified: 2017-04-09T09:23:43
 license: ''
 category:
   - Togo

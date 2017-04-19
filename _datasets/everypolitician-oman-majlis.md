@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T13:35:12
+last_modified: 2017-04-08T12:35:12
 license: ''
 category:
   - Oman

@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T12:31:29
+last_modified: 2017-04-13T11:31:29
 license: ''
 category:
   - Denmark

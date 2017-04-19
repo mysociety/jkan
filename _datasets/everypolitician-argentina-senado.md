@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T00:36:04
+last_modified: 2017-04-12T23:36:04
 license: ''
 category:
   - Argentina

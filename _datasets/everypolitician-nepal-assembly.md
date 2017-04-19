@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T02:10:04
+last_modified: 2017-04-14T01:10:04
 license: ''
 category:
   - Nepal

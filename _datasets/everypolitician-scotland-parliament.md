@@ -40,7 +40,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T03:58:28
+last_modified: 2017-04-14T02:58:28
 license: ''
 category:
   - Scotland

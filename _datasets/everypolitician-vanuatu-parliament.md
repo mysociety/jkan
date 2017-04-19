@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T03:29:50
+last_modified: 2017-04-11T02:29:50
 license: ''
 category:
   - Vanuatu

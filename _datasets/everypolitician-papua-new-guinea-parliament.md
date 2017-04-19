@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T07:01:41
+last_modified: 2017-04-13T06:01:41
 license: ''
 category:
   - Papua New Guinea

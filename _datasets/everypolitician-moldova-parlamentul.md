@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T15:54:19
+last_modified: 2017-04-09T14:54:19
 license: ''
 category:
   - Moldova

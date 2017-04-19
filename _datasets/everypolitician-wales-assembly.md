@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T16:59:45
+last_modified: 2017-04-13T15:59:45
 license: ''
 category:
   - Wales

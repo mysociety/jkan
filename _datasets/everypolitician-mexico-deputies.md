@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T12:42:25
+last_modified: 2017-04-08T11:42:25
 license: ''
 category:
   - Mexico

@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-10T05:28:29
+last_modified: 2017-04-10T04:28:29
 license: ''
 category:
   - Tuvalu

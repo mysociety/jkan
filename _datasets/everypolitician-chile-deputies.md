@@ -48,7 +48,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T13:27:21
+last_modified: 2017-04-09T12:27:21
 license: ''
 category:
   - Chile

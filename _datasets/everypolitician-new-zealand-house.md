@@ -36,7 +36,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T22:21:49
+last_modified: 2017-04-13T21:21:49
 license: ''
 category:
   - New Zealand

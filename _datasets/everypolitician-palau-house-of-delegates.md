@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T03:45:51
+last_modified: 2017-04-09T02:45:51
 license: ''
 category:
   - Palau

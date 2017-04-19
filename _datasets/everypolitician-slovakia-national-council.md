@@ -44,7 +44,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T10:21:46
+last_modified: 2017-04-14T09:21:46
 license: ''
 category:
   - Slovakia

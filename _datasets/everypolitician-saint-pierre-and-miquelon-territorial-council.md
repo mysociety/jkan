@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T18:12:04
+last_modified: 2017-04-13T17:12:04
 license: ''
 category:
   - Saint Pierre and Miquelon

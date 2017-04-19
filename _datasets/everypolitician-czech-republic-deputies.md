@@ -48,7 +48,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T20:06:26
+last_modified: 2017-04-13T19:06:26
 license: ''
 category:
   - Czech Republic

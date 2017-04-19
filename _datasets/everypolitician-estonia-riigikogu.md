@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T17:07:12
+last_modified: 2017-04-14T16:07:12
 license: ''
 category:
   - Estonia

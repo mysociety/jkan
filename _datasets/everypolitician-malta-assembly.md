@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T08:31:56
+last_modified: 2017-04-13T07:31:56
 license: ''
 category:
   - Malta

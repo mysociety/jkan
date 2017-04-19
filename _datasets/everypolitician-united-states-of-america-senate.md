@@ -96,7 +96,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T15:09:53
+last_modified: 2017-04-14T14:09:53
 license: ''
 category:
   - United States of America

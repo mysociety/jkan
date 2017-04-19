@@ -88,7 +88,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T06:09:41
+last_modified: 2017-04-14T05:09:41
 license: ''
 category:
   - Greece

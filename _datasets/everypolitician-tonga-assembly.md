@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T01:18:33
+last_modified: 2017-04-14T00:18:33
 license: ''
 category:
   - Tonga

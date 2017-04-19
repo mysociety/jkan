@@ -68,7 +68,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-07T14:17:25
+last_modified: 2017-04-07T13:17:25
 license: ''
 category:
   - Gibraltar

@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T07:04:35
+last_modified: 2017-04-14T06:04:35
 license: ''
 category:
   - Spain

@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T09:07:22
+last_modified: 2017-04-13T08:07:22
 license: ''
 category:
   - Guatemala

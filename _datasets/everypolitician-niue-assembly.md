@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T07:38:20
+last_modified: 2017-04-09T06:38:20
 license: ''
 category:
   - Niue

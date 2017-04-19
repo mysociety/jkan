@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T04:29:46
+last_modified: 2017-04-14T03:29:46
 license: ''
 category:
   - Bangladesh

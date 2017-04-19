@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T11:12:13
+last_modified: 2017-04-14T10:12:13
 license: ''
 category:
   - Faroe Islands

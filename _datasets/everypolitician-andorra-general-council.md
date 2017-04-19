@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-01T12:57:20
+last_modified: 2017-04-01T11:57:20
 license: ''
 category:
   - Andorra

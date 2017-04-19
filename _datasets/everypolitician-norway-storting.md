@@ -92,7 +92,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T12:43:13
+last_modified: 2017-04-14T11:43:13
 license: ''
 category:
   - Norway

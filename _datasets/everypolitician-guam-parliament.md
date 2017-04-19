@@ -36,7 +36,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-01T12:20:59
+last_modified: 2017-04-01T11:20:59
 license: ''
 category:
   - Guam

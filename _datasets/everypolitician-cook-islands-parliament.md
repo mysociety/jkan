@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T18:28:16
+last_modified: 2017-04-09T17:28:16
 license: ''
 category:
   - Cook Islands

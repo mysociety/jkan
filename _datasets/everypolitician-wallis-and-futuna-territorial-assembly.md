@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T07:53:37
+last_modified: 2017-04-11T06:53:37
 license: ''
 category:
   - Wallis and Futuna

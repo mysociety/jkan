@@ -44,7 +44,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T15:54:41
+last_modified: 2017-04-14T14:54:41
 license: ''
 category:
   - Iceland

@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T12:56:35
+last_modified: 2017-04-13T11:56:35
 license: ''
 category:
   - Ukraine

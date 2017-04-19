@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T03:26:58
+last_modified: 2017-04-11T02:26:58
 license: ''
 category:
   - Uganda

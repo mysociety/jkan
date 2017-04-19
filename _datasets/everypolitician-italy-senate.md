@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T05:21:09
+last_modified: 2017-04-14T04:21:09
 license: ''
 category:
   - Italy

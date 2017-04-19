@@ -68,7 +68,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T20:54:07
+last_modified: 2017-04-13T19:54:07
 license: ''
 category:
   - Sweden

@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T20:30:36
+last_modified: 2017-04-11T19:30:36
 license: ''
 category:
   - Kenya

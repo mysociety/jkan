@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T23:16:10
+last_modified: 2017-04-13T22:16:10
 license: ''
 category:
   - Northern Mariana Islands

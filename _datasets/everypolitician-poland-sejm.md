@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T02:15:08
+last_modified: 2017-04-14T01:15:08
 license: ''
 category:
   - Poland

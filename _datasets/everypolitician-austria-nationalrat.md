@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T18:18:54
+last_modified: 2017-04-08T17:18:54
 license: ''
 category:
   - Austria

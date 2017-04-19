@@ -68,7 +68,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-03T16:09:15
+last_modified: 2017-04-03T15:09:15
 license: ''
 category:
   - Greenland

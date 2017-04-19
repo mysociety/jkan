@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T21:04:26
+last_modified: 2017-04-09T20:04:26
 license: ''
 category:
   - Pitcairn

@@ -40,7 +40,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-07T13:16:57
+last_modified: 2017-04-07T12:16:57
 license: ''
 category:
   - Burkina Faso

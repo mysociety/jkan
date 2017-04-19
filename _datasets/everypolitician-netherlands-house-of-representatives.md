@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T03:08:17
+last_modified: 2017-04-13T02:08:17
 license: ''
 category:
   - Netherlands

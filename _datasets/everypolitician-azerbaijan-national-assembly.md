@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T14:49:09
+last_modified: 2017-04-14T13:49:09
 license: ''
 category:
   - Azerbaijan

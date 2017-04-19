@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-07T04:47:05
+last_modified: 2017-04-07T03:47:05
 license: ''
 category:
   - Jamaica

@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T18:30:33
+last_modified: 2017-04-14T17:30:33
 license: ''
 category:
   - Serbia

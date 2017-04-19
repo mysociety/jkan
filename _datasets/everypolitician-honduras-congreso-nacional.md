@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-03-31T06:33:05
+last_modified: 2017-03-31T05:33:05
 license: ''
 category:
   - Honduras

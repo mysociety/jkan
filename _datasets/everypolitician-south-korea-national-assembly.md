@@ -28,7 +28,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T02:59:13
+last_modified: 2017-04-14T01:59:13
 license: ''
 category:
   - South Korea

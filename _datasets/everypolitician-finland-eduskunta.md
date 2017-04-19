@@ -72,7 +72,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T08:11:51
+last_modified: 2017-04-14T07:11:51
 license: ''
 category:
   - Finland

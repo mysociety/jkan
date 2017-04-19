@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-13T01:03:37
+last_modified: 2017-04-13T00:03:37
 license: ''
 category:
   - Hungary

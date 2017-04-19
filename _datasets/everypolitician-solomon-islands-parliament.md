@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T02:29:42
+last_modified: 2017-04-09T01:29:42
 license: ''
 category:
   - Solomon Islands

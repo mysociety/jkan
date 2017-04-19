@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T09:40:57
+last_modified: 2017-04-08T08:40:57
 license: ''
 category:
   - Marshall Islands

@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T17:25:40
+last_modified: 2017-04-14T16:25:40
 license: ''
 category:
   - Vietnam

@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T01:56:44
+last_modified: 2017-04-09T00:56:44
 license: ''
 category:
   - Congo-Kinshasa (DRC)

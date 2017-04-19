@@ -24,7 +24,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-12T15:00:06
+last_modified: 2017-04-12T14:00:06
 license: ''
 category:
   - Curaçao
