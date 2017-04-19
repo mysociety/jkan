@@ -3,8 +3,8 @@ schema: default
 title: EU Referendum Keywords in WhatDoTheyKnow Requests
 organization: mySociety Research
 notes: >-
-  blog post on how the EU Referendum affected requests made through
-  WhatDoTheyKnow at
+  Data behind a blog post on how the EU Referendum affected requests made
+  through WhatDoTheyKnow, available at
   https://www.mysociety.org/2016/10/19/what-do-we-know-about-the-eu-referendum.
 resources:
   - name: Monthly Keyword Counts
