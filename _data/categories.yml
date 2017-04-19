@@ -21,7 +21,7 @@
 - name: WhatDoTheyKnow
   logo: ''
   logo_credit: ''
-- name: '#GE2017'
+- name: GE2017
   logo: /img/categories/election.svg
   logo_credit: Luis Prado from the Noun Project
   featured: true
