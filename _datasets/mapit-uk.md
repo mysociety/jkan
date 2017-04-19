@@ -12,8 +12,8 @@ category:
   - APIs
   - Geodata
   - United Kingdom
-maintainer: ''
-maintainer_email: ''
+maintainer: mySociety
+maintainer_email: mapit@mysociety.org
 last_modified: ''
-more_info: ''
+more_info: 'https://mapit.mysociety.org/'
 ---
