@@ -43,6 +43,9 @@ resources:
   - name: R
     url: 'https://github.com/jblumenau/twfyR'
     format: library
+  - name: 'Example code for getting MP Information for Javascript, Python and Ruby'
+    url: 'https://gist.github.com/pezholio/3114a6d74d1326ef786bf2592d17c90e'
+    format: ''
 license: ''
 category:
   - People
