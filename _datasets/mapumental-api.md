@@ -16,6 +16,7 @@ resources:
 license: ''
 category:
   - APIs
+  - United Kingdom
   - GE2017
 maintainer: mySociety
 maintainer_email: hello@mapumental.com
