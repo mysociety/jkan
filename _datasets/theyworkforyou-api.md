@@ -40,6 +40,9 @@ resources:
   - name: Node
     url: 'https://github.com/ifraixedes/node-theyworkforyou-api'
     format: library
+  - name: R
+    url: 'https://github.com/jblumenau/twfyR'
+    format: library
 license: ''
 category:
   - People
