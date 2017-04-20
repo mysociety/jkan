@@ -10,6 +10,12 @@ resources:
   - name: MapIT API Documentation
     url: 'https://mapit.mysociety.org/docs/'
     format: api
+  - name: >-
+      Example code for getting Parliament Constitency from Postcode for
+      Javascript, Python and Ruby
+    url: >-
+      https://gist.github.com/pezholio/ebea5c9d42d6a490a2808e270b1d8d03#file-mapit-rb
+    format: ''
 license: ''
 category:
   - APIs
