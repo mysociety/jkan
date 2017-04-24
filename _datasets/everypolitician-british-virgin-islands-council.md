@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6cd0972adca3103d8abe090130b85a5e77b69077/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dcb574a655402688703739ff08c6440e3633aafc/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       15th Council: 2003-06-16 to 2007-08-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9115aee2958394b19a3e4a365eee1e5300e74c31/data/British_Virgin_Islands/Council/term-2003.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dcb574a655402688703739ff08c6440e3633aafc/data/British_Virgin_Islands/Council/term-2003.csv
     format: csv
   - name: >-
       14th Council: 1999 to 2003
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/986aa5b17bab6bbd5a88ab4118b04cf937f18467/data/British_Virgin_Islands/Council/term-1999.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dcb574a655402688703739ff08c6440e3633aafc/data/British_Virgin_Islands/Council/term-1999.csv
     format: csv
   - name: >-
       13th Council: 1995 to 1999
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/986aa5b17bab6bbd5a88ab4118b04cf937f18467/data/British_Virgin_Islands/Council/term-1995.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dcb574a655402688703739ff08c6440e3633aafc/data/British_Virgin_Islands/Council/term-1995.csv
     format: csv
   - name: >-
       12th Council: 1990 to 1995
@@ -59,7 +59,7 @@ resources:
   - name: >-
       7th Council: 1971 to 1975
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9115aee2958394b19a3e4a365eee1e5300e74c31/data/British_Virgin_Islands/Council/term-1971.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dcb574a655402688703739ff08c6440e3633aafc/data/British_Virgin_Islands/Council/term-1971.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -67,7 +67,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-08T19:08:10
+last_modified: 2017-04-24T04:28:03
 license: ''
 category:
   - British Virgin Islands

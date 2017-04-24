@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/16b26baec246d55025c07b3a90cb48b159943067/data/Pitcairn/Island_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/de9691736835bca051b9ae48db4565ad29ca12aa/data/Pitcairn/Island_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-11-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/53115ee59c4d3d04a3d68004daf58570afa5ae6a/data/Pitcairn/Island_Council/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/de9691736835bca051b9ae48db4565ad29ca12aa/data/Pitcairn/Island_Council/term-2013.csv
     format: csv
   - name: >-
       2011–2013: 2011-12-12 to 2013-11-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bda86b91d30febed094ad852df918f1787c34013/data/Pitcairn/Island_Council/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/de9691736835bca051b9ae48db4565ad29ca12aa/data/Pitcairn/Island_Council/term-2011.csv
     format: csv
   - name: >-
       2009–2011: 2009-12-11 to 2011-12-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bda86b91d30febed094ad852df918f1787c34013/data/Pitcairn/Island_Council/term-2009.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/de9691736835bca051b9ae48db4565ad29ca12aa/data/Pitcairn/Island_Council/term-2009.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-09T20:04:26
+last_modified: 2017-04-23T03:51:19
 license: ''
 category:
   - Pitcairn
