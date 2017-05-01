@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9fdbe4698c8f5a9d3985f142ff666cb782c782a4/data/Chile/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/90023e6d628c5f93a69e047959444e03277a4ff0/data/Chile/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislativo 2014-2018: 2014-03-11 to 2018-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9c872d26c11984769ffd665b98c5848cdd55924/data/Chile/Deputies/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/69ab6908a2c9a40d33e15e31dd227afcb33d621e/data/Chile/Deputies/term-8.csv
     format: csv
   - name: >-
       Legislativo 2010-2014: 2010-03-11 to 2014-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9c872d26c11984769ffd665b98c5848cdd55924/data/Chile/Deputies/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/69ab6908a2c9a40d33e15e31dd227afcb33d621e/data/Chile/Deputies/term-6.csv
     format: csv
   - name: >-
       Legislativo 2006-2010: 2006-03-11 to 2010-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2186cd5e9563f27a823b377fb27682070561569d/data/Chile/Deputies/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/69ab6908a2c9a40d33e15e31dd227afcb33d621e/data/Chile/Deputies/term-5.csv
     format: csv
   - name: >-
       Legislativo 2002-2006: 2002-03-11 to 2006-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2186cd5e9563f27a823b377fb27682070561569d/data/Chile/Deputies/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/69ab6908a2c9a40d33e15e31dd227afcb33d621e/data/Chile/Deputies/term-4.csv
     format: csv
   - name: >-
       Legislativo 1998-2002: 1998-03-11 to 2002-03-10
@@ -57,7 +57,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-24T15:32:28
+last_modified: 2017-04-28T01:04:11
 license: ''
 category:
   - Chile

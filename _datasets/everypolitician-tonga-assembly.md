@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5acf015863524ba9b6b35e1ac35b329f5ee1503e/data/Tonga/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e171f26bd6412379dc6377608f62ceebf5624dc/data/Tonga/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014-2018: 2014-12-29 to 2018
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-14T00:18:33
+last_modified: 2017-04-25T14:35:30
 license: ''
 category:
   - Tonga
