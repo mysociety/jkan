@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2840205f40e563ead4ea544c312ccbeba493de81/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a454a9506f513a6eb9f8172bf67f5c6e7d397e2a/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII kadencja: From 2015-11-12
@@ -39,7 +39,7 @@ resources:
   - name: >-
       IV kadencja: 2001-10-19 to 2005-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e5df2890f461de61dd9e2aff5681c5fed7c0b37/data/Poland/Sejm/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a454a9506f513a6eb9f8172bf67f5c6e7d397e2a/data/Poland/Sejm/term-4.csv
     format: csv
   - name: >-
       III kadencja: 1997-10-20 to 2001-10-18
@@ -49,7 +49,7 @@ resources:
   - name: >-
       II kadencja: 1993-09-19 to 1997-10-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f67263fe170e0fae649c15c63235d80840f44dd8/data/Poland/Sejm/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a454a9506f513a6eb9f8172bf67f5c6e7d397e2a/data/Poland/Sejm/term-2.csv
     format: csv
   - name: >-
       I kadencja: 1991-11-25 to 1993-09-18
@@ -62,7 +62,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-28T04:19:12
+last_modified: 2017-04-29T02:36:28
 license: ''
 category:
   - Poland

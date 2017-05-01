@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/741f50726ea10dc303770c678dbe39604cd3ed34/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/909cb43344d7ac66c1873d39c35f24e3a3fa20e3/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13ª Legislatura: From 2015-10-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bc9707517f836ef37c6752278e681c57e715b866/data/Portugal/Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3adedda118d236ba116e1f7b751148db32f0e40f/data/Portugal/Assembly/term-13.csv
     format: csv
   - name: >-
       12ª Legislatura: 2011-06-20 to 2015-10-22
@@ -39,12 +39,12 @@ resources:
   - name: >-
       9ª Legislatura: 2002-04-05 to 2005-03-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/af1100eb4b050f753196e00e44123b8e3f9740e7/data/Portugal/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3adedda118d236ba116e1f7b751148db32f0e40f/data/Portugal/Assembly/term-9.csv
     format: csv
   - name: >-
       8ª Legislatura: 1999-10-25 to 2002-04-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/af1100eb4b050f753196e00e44123b8e3f9740e7/data/Portugal/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3adedda118d236ba116e1f7b751148db32f0e40f/data/Portugal/Assembly/term-8.csv
     format: csv
   - name: >-
       7ª Legislatura: 1995-10-27 to 1999-10-14
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-26T09:37:20
+last_modified: 2017-04-30T09:18:44
 license: ''
 category:
   - Portugal
