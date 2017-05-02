@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2874d65ee994b53d0d078517e17fe7dfcc36afa7/data/Botswana/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/21114f6183dca3979437a97114086d1e310c04d3/data/Botswana/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014: From 2014-10-29
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-01-22T06:51:03
+last_modified: 2017-05-01T15:07:25
 license: ''
 category:
   - Botswana

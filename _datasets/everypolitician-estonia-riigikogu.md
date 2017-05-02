@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e06984f6ef3b045253fb9c36aded5c21853792f/data/Estonia/Riigikogu/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d40fdd528b367b5283ee030c1a67910caf18f850/data/Estonia/Riigikogu/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Riigikogu: From 2015-03-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c1c007f5725514cc6ef18a5eab76fdd294cc11fc/data/Estonia/Riigikogu/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d40fdd528b367b5283ee030c1a67910caf18f850/data/Estonia/Riigikogu/term-13.csv
     format: csv
   - name: >-
       12th Riigikogu: 2011-03-27 to 2015-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e06984f6ef3b045253fb9c36aded5c21853792f/data/Estonia/Riigikogu/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d40fdd528b367b5283ee030c1a67910caf18f850/data/Estonia/Riigikogu/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-27T10:53:43
+last_modified: 2017-05-01T16:51:35
 license: ''
 category:
   - Estonia

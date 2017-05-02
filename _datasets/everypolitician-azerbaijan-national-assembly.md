@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/74924dfc03244b0163c82d62b8b3808f0d11bc2b/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9b8b4cf9deee5898982f62e07bbc3f6bba9b1e96/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       V çağırış: From 2015-12-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/74924dfc03244b0163c82d62b8b3808f0d11bc2b/data/Azerbaijan/National_Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9b8b4cf9deee5898982f62e07bbc3f6bba9b1e96/data/Azerbaijan/National_Assembly/term-5.csv
     format: csv
   - name: >-
       IV çağırış: 2010 to 2015
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-30T19:46:27
+last_modified: 2017-05-01T15:34:32
 license: ''
 category:
   - Azerbaijan
