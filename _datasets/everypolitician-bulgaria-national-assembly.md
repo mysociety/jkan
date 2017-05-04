@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6cafa196ecc297206d1623743224e1e4d4e66d7/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8989bbb6f6eda0506de69641c83fb4f1b72b82a8/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       43rd National Assembly: 2014-10-27 to 2015-09-10
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-29T12:33:04
+last_modified: 2017-05-03T22:43:01
 license: ''
 category:
   - Bulgaria

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/57fad49dbffc8baa755e644781ba718d204776b0/data/Canada/Commons/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ba01e77bbc6872db80fc36ba176cfadb740e2c52/data/Canada/Commons/ep-popolo-v1.0.json
     format: json
   - name: >-
       42nd Parliament: From 2015-12-03
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-02T00:31:36
+last_modified: 2017-05-04T03:00:40
 license: ''
 category:
   - Canada

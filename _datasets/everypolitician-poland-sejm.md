@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ec2edf7e0e035f9da90b076c435a9be87f92fdaf/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/06fab6a57b341dd05b537c41a36afff0cbddf9f6/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII kadencja: From 2015-11-12
@@ -39,22 +39,22 @@ resources:
   - name: >-
       IV kadencja: 2001-10-19 to 2005-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a454a9506f513a6eb9f8172bf67f5c6e7d397e2a/data/Poland/Sejm/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d50741b419bd7c2512f60f8e45e78bf9bacb719f/data/Poland/Sejm/term-4.csv
     format: csv
   - name: >-
       III kadencja: 1997-10-20 to 2001-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e5df2890f461de61dd9e2aff5681c5fed7c0b37/data/Poland/Sejm/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/06fab6a57b341dd05b537c41a36afff0cbddf9f6/data/Poland/Sejm/term-3.csv
     format: csv
   - name: >-
       II kadencja: 1993-09-19 to 1997-10-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a454a9506f513a6eb9f8172bf67f5c6e7d397e2a/data/Poland/Sejm/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d50741b419bd7c2512f60f8e45e78bf9bacb719f/data/Poland/Sejm/term-2.csv
     format: csv
   - name: >-
       I kadencja: 1991-11-25 to 1993-09-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e5df2890f461de61dd9e2aff5681c5fed7c0b37/data/Poland/Sejm/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d50741b419bd7c2512f60f8e45e78bf9bacb719f/data/Poland/Sejm/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -62,7 +62,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-01T19:25:19
+last_modified: 2017-05-04T04:40:51
 license: ''
 category:
   - Poland
