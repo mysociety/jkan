@@ -14,6 +14,9 @@ resources:
     url: 'https://www.writetothem.com/stats/2014/mps?xml=1'
     format: xml
 license: ''
+category:
+  - People
+  - United Kingdom
 maintainer: ''
 maintainer_email: ''
 last_modified: ''
