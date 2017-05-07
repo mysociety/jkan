@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ed9e14de437bc2f88d382cea6fc67bff9dcc03ee/data/Uruguay/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9383d5c812c60a050107124e8cc116a22e479218/data/Uruguay/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       XLVIII Legislatura: From 2015-02-15
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-02T08:50:27
+last_modified: 2017-05-06T13:03:04
 license: ''
 category:
   - Uruguay

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f3a9de60e003343a5e195095469f6803285f0ca9/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/93df05029364b1fa6018e6a11b929719014f1ba3/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       7. volební období: From 2013-10-26
@@ -57,7 +57,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-01T14:49:18
+last_modified: 2017-05-05T20:17:34
 license: ''
 category:
   - Czech Republic

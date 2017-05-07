@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/54755516d684ddde632929422001c942719cbdc4/data/Denmark/Folketing/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4da20414fdb527cef374c35dadb3f5dab7b8933e/data/Denmark/Folketing/ep-popolo-v1.0.json
     format: json
   - name: >-
       Folketing 2015–: From 2015-06-20
@@ -62,7 +62,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-02T07:52:44
+last_modified: 2017-05-05T15:28:43
 license: ''
 category:
   - Denmark

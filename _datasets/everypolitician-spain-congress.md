@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3de9345a1c1f00f995601d6bbd64473af1c2fb7a/data/Spain/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f5aaf77e300ff5bb7eaf7d842217c363029f66b0/data/Spain/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       XI Legislatura: 2016-01-13 to 2016-05-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ce57ed017ca5a4ac73ceb250b36b51559832cbd5/data/Spain/Congress/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/686b84448f9c418a53082da626bd25f17eb98579/data/Spain/Congress/term-11.csv
     format: csv
   - name: >-
       X Legislatura: 2011-11-28 to 2015-10-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ce57ed017ca5a4ac73ceb250b36b51559832cbd5/data/Spain/Congress/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/686b84448f9c418a53082da626bd25f17eb98579/data/Spain/Congress/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-03T01:53:18
+last_modified: 2017-05-05T02:18:35
 license: ''
 category:
   - Spain

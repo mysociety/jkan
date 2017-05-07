@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fc99ef9136bbb5eb5a4df591c802cb83f7b2aae9/data/Philippines/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/631c4a30589488583fe26b73e0e07e7ea9e64de2/data/Philippines/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Congress of the Philippines: From 2016-07-25
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-29T05:27:25
+last_modified: 2017-05-06T08:14:24
 license: ''
 category:
   - Philippines

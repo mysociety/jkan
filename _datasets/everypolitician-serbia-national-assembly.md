@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b10f1903f46dfc9eba4495ef4eb789d58eb9ddda/data/Serbia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7c4b291e3359a12e247fbbbe8c4d2ff6d7cfb028/data/Serbia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th legislature: From 2016-06-03
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-26T05:43:39
+last_modified: 2017-05-06T02:17:28
 license: ''
 category:
   - Serbia

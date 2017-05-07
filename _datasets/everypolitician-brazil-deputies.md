@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/80f05d1c0d7314c2feebb0ede8d7c6d49ce25b7c/data/Brazil/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7eb824f6e3d9484d5c8f1c9d7781ebe5a0c0e3b2/data/Brazil/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       55th Chamber of Deputies of Brazil: 2015-02-01 to 2019-01-31
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-02T20:19:46
+last_modified: 2017-05-05T03:30:21
 license: ''
 category:
   - Brazil

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/07417395fb2a325eb101e7fe715c67cf596d4f8b/data/Estonia/Riigikogu/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/193e9aa1ca07252ccb4180183845e6da2859a660/data/Estonia/Riigikogu/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Riigikogu: From 2015-03-30
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-03T02:55:02
+last_modified: 2017-05-06T10:53:31
 license: ''
 category:
   - Estonia
