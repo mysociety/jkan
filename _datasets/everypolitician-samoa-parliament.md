@@ -14,8 +14,13 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bd033a47daf5811343bb50de23d18620944f0558/data/Samoa/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d91f30646ef90b5ede22fd1973b13164f30bcf9c/data/Samoa/Parliament/ep-popolo-v1.0.json
     format: json
+  - name: >-
+      16th Parliament: From 2016-03-16
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d91f30646ef90b5ede22fd1973b13164f30bcf9c/data/Samoa/Parliament/term-16.csv
+    format: csv
   - name: >-
       15th Parliament: 2011-03-18 to 2016-01-29
     url: >-
@@ -27,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-27T16:45:54
+last_modified: 2017-05-09T07:18:47
 license: ''
 category:
   - Samoa
