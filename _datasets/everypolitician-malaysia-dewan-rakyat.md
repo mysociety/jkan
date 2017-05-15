@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d98a4e29bf7fa417c38a3fc37d7381db0110f0f4/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5d2c6160341426b8067cc78eaca90f2d50c100d7/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament of Malaysia: From 2013-06-24
@@ -54,7 +54,7 @@ resources:
   - name: >-
       6th Parliament of Malaysia: 1982 to 1986
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7404ae0108a746d7ff8925d2c8f04de4495105fa/data/Malaysia/Dewan_Rakyat/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5d2c6160341426b8067cc78eaca90f2d50c100d7/data/Malaysia/Dewan_Rakyat/term-6.csv
     format: csv
   - name: >-
       5th Parliament of Malaysia: 1978 to 1982
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-06T09:21:19
+last_modified: 2017-05-15T04:37:12
 license: ''
 category:
   - Malaysia

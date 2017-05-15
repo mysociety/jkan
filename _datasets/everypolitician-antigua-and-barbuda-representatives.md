@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2f8d95803bc2158b7ee4fdea163423768a186a01/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8640312584c6f56275c2d42e9af2db727abe5bd4/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–2019: 2014-06-25 to 2019
@@ -34,7 +34,7 @@ resources:
   - name: >-
       1999–2004: 1999 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a40bc1170b87e56ecc15a3c9150b4a79a05ae97/data/Antigua_and_Barbuda/Representatives/term-1999.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8640312584c6f56275c2d42e9af2db727abe5bd4/data/Antigua_and_Barbuda/Representatives/term-1999.csv
     format: csv
   - name: >-
       1994–1999: 1994 to 1999
@@ -72,7 +72,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-28T06:59:48
+last_modified: 2017-05-08T04:09:45
 license: ''
 category:
   - Antigua and Barbuda
