@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a3d2bcf2a160d41d013d5ff557ae6a39185315a2/data/Nauru/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/483abaca25ebe3791e799f3227dd05b9040203f7/data/Nauru/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       22nd Parliament: From 2016-07-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3f4e8f0e39735c97183438c602c4cc7f3d113594/data/Nauru/Parliament/term-22.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a304abe71396ad7e2af961f320267f4afb1708fd/data/Nauru/Parliament/term-22.csv
     format: csv
   - name: >-
       21st Parliament: 2013-06-11 to 2016-05-14
@@ -42,7 +42,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-01T10:13:31
+last_modified: 2017-05-16T07:17:20
 license: ''
 category:
   - Nauru
