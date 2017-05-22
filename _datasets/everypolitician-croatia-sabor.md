@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f0c3d29159a7492125d68207d5ffb1b4e5e129a3/data/Croatia/Sabor/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a36e990db205ce0ba7381dd04a6237f44b0ff22b/data/Croatia/Sabor/ep-popolo-v1.0.json
     format: json
   - name: >-
       9th Assembly: From 2016-10-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f0c3d29159a7492125d68207d5ffb1b4e5e129a3/data/Croatia/Sabor/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7ea66e0fc886416156aea4c9129aa7baf3103cc/data/Croatia/Sabor/term-9.csv
     format: csv
   - name: >-
       8th Assembly: 2015-12-28 to 2016-07-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/29fb964e16aa695652ad09461d1a71d49a657ec2/data/Croatia/Sabor/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7ea66e0fc886416156aea4c9129aa7baf3103cc/data/Croatia/Sabor/term-8.csv
     format: csv
   - name: >-
       7th Assembly: 2011-12-22 to 2015-09-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/29fb964e16aa695652ad09461d1a71d49a657ec2/data/Croatia/Sabor/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7ea66e0fc886416156aea4c9129aa7baf3103cc/data/Croatia/Sabor/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-19T07:10:00
+last_modified: 2017-05-22T02:17:57
 license: ''
 category:
   - Croatia
