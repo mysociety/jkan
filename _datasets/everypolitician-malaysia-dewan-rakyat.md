@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e6994502bcbaa0a4230c72487c1c989be59b8e2a/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3e63bca5002bf84000352f348a757552dd64eee0/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament of Malaysia: From 2013-06-24
@@ -34,37 +34,37 @@ resources:
   - name: >-
       10th Parliament of Malaysia: 1999 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7404ae0108a746d7ff8925d2c8f04de4495105fa/data/Malaysia/Dewan_Rakyat/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f37a552b6936018fcebf3c16a324a7394270e66/data/Malaysia/Dewan_Rakyat/term-10.csv
     format: csv
   - name: >-
       9th Parliament of Malaysia: 1995 to 1999
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6fd4a2f9b71600742c6562532b91823cc509cea9/data/Malaysia/Dewan_Rakyat/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f37a552b6936018fcebf3c16a324a7394270e66/data/Malaysia/Dewan_Rakyat/term-9.csv
     format: csv
   - name: >-
       8th Parliament of Malaysia: 1990 to 1995
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6fd4a2f9b71600742c6562532b91823cc509cea9/data/Malaysia/Dewan_Rakyat/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f37a552b6936018fcebf3c16a324a7394270e66/data/Malaysia/Dewan_Rakyat/term-8.csv
     format: csv
   - name: >-
       7th Parliament of Malaysia: 1986 to 1990
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6fd4a2f9b71600742c6562532b91823cc509cea9/data/Malaysia/Dewan_Rakyat/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f37a552b6936018fcebf3c16a324a7394270e66/data/Malaysia/Dewan_Rakyat/term-7.csv
     format: csv
   - name: >-
       6th Parliament of Malaysia: 1982 to 1986
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5d2c6160341426b8067cc78eaca90f2d50c100d7/data/Malaysia/Dewan_Rakyat/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f37a552b6936018fcebf3c16a324a7394270e66/data/Malaysia/Dewan_Rakyat/term-6.csv
     format: csv
   - name: >-
       5th Parliament of Malaysia: 1978 to 1982
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6fd4a2f9b71600742c6562532b91823cc509cea9/data/Malaysia/Dewan_Rakyat/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f37a552b6936018fcebf3c16a324a7394270e66/data/Malaysia/Dewan_Rakyat/term-5.csv
     format: csv
   - name: >-
       4th Parliament of Malaysia: 1974 to 1978
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0218b74d49ef1de85c7324e6b0b2389533c5bd82/data/Malaysia/Dewan_Rakyat/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f37a552b6936018fcebf3c16a324a7394270e66/data/Malaysia/Dewan_Rakyat/term-4.csv
     format: csv
   - name: >-
       3rd Parliament of Malaysia: 1969 to 1974
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-19T03:21:48
+last_modified: 2017-05-24T13:48:48
 license: ''
 category:
   - Malaysia

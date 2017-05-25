@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c073f5cdf8bc1d04e840978924e3372bc054c17/data/France/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/308a4eb2cfdbbe7c5027062d7ee0c8dcd659255f/data/France/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       XIVe législature de la Ve République: From 2012-06-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/986221ea2ddc46d14e8127707419fc645923f7ed/data/France/National_Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/308a4eb2cfdbbe7c5027062d7ee0c8dcd659255f/data/France/National_Assembly/term-14.csv
     format: csv
   - name: >-
       XIIIe législature de la Ve République: 2007-06-20 to 2012-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/986221ea2ddc46d14e8127707419fc645923f7ed/data/France/National_Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/308a4eb2cfdbbe7c5027062d7ee0c8dcd659255f/data/France/National_Assembly/term-13.csv
     format: csv
   - name: >-
       XIIe législature de la Ve République: 2002-06-19 to 2007-06-19
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-21T09:51:26
+last_modified: 2017-05-23T12:13:38
 license: ''
 category:
   - France
