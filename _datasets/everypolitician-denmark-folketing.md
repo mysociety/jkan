@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/03212a70e17536e907c5258cba3677fb8a3bdc7a/data/Denmark/Folketing/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/652be87b1d6eda4a12faf8bb987a045043280f22/data/Denmark/Folketing/ep-popolo-v1.0.json
     format: json
   - name: >-
       Folketing 2015–: From 2015-06-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/03212a70e17536e907c5258cba3677fb8a3bdc7a/data/Denmark/Folketing/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bbfd0bf4901ea91e8e4b329b9973f2d156803d40/data/Denmark/Folketing/term-2015.csv
     format: csv
   - name: >-
       Folketing 2011–2015: 2011-09-15 to 2015-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/582e1d068dbea7a42156ac6adcaf9b060e36f21b/data/Denmark/Folketing/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bbfd0bf4901ea91e8e4b329b9973f2d156803d40/data/Denmark/Folketing/term-2011.csv
     format: csv
   - name: >-
       Folketing 2007–2011: 2007-11-13 to 2011-09-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/582e1d068dbea7a42156ac6adcaf9b060e36f21b/data/Denmark/Folketing/term-2007.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bbfd0bf4901ea91e8e4b329b9973f2d156803d40/data/Denmark/Folketing/term-2007.csv
     format: csv
   - name: >-
       Folketing 2005–2007: 2005-02-08 to 2007-11-12
@@ -62,7 +62,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-22T05:05:53
+last_modified: 2017-05-29T01:42:02
 license: ''
 category:
   - Denmark

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c1f081b9bf08680383c7f8ea413b3623a054427c/data/Angola/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9baf85fe051af7df9e03c6f77ef0baacccc6bcd/data/Angola/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       3rd National Assembly: From 2012-09-27
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-25T01:18:23
+last_modified: 2017-05-28T03:48:38
 license: ''
 category:
   - Angola
