@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f25f11c8a9079de13fe0e1016bd58b91997d6b32/data/Macedonia/Sobranie/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c99b604c6630438f7ee8ba4df00c7ecc341866cb/data/Macedonia/Sobranie/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–2018: From 2014-05-10
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-09T22:41:17
+last_modified: 2017-06-08T03:18:59
 license: ''
 category:
   - Macedonia

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9d140924a46347d963b883ce37ab302d21ff5707/data/Chile/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5d26ef36d6dab53d09a4b8904b304a918e6b4944/data/Chile/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislativo 2014-2018: 2014-03-11 to 2018-03-10
@@ -57,7 +57,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-30T09:46:55
+last_modified: 2017-06-08T01:58:36
 license: ''
 category:
   - Chile

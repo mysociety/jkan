@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5a247b56e532c609f3025ffc9d246cebc0e4362c/data/French_Polynesia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c565a34dfc4e4e935045094ee9d5eb3a1b17d0bc/data/French_Polynesia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-05-17
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-18T22:44:05
+last_modified: 2017-06-08T04:53:05
 license: ''
 category:
   - French Polynesia

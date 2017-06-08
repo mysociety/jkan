@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/52f5f9ce73917585bdab18e36fabc1d86f3e8e06/data/Palau/House_of_Delegates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f6f9de295e7326144a31568a6f87cb826d13151b/data/Palau/House_of_Delegates/ep-popolo-v1.0.json
     format: json
   - name: >-
       Ninth Olbiil Era Kelulau: From 2013-01-17
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-29T05:55:30
+last_modified: 2017-06-01T22:48:35
 license: ''
 category:
   - Palau

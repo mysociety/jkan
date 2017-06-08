@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8478de2bf41a7aeb9d3c1da98b09b151cef726a5/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20c8eedc6175a2b0df214f4449d50e1dafad4ac5/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th National Assembly: From 2015-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3af40f0623d9a618982015e3d7c461b54f85dbc8/data/Saint_Kitts_and_Nevis/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20c8eedc6175a2b0df214f4449d50e1dafad4ac5/data/Saint_Kitts_and_Nevis/Assembly/term-2015.csv
     format: csv
   - name: >-
       7th National Assembly: 2010-03-10 to 2015-01-16
@@ -44,17 +44,17 @@ resources:
   - name: >-
       3rd National Assembly: 1993 to 1995
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/30ee36a4c334c378e5627a05f103fa4b62ca0395/data/Saint_Kitts_and_Nevis/Assembly/term-1993.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20c8eedc6175a2b0df214f4449d50e1dafad4ac5/data/Saint_Kitts_and_Nevis/Assembly/term-1993.csv
     format: csv
   - name: >-
       2nd National Assembly: 1989 to 1993
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/30ee36a4c334c378e5627a05f103fa4b62ca0395/data/Saint_Kitts_and_Nevis/Assembly/term-1989.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20c8eedc6175a2b0df214f4449d50e1dafad4ac5/data/Saint_Kitts_and_Nevis/Assembly/term-1989.csv
     format: csv
   - name: >-
       1st National Assembly: 1984 to 1989
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/30ee36a4c334c378e5627a05f103fa4b62ca0395/data/Saint_Kitts_and_Nevis/Assembly/term-1984.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20c8eedc6175a2b0df214f4449d50e1dafad4ac5/data/Saint_Kitts_and_Nevis/Assembly/term-1984.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -62,7 +62,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-02-11T02:18:23
+last_modified: 2017-05-30T17:59:41
 license: ''
 category:
   - Saint Kitts and Nevis

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2701717c488d0fd40fd253fad207a277992f35ee/data/Colombia/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/26fc473378c207f3efd27c364ebe597242e7b3a1/data/Colombia/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014-07-20
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-25T04:23:38
+last_modified: 2017-06-06T03:58:12
 license: ''
 category:
   - Colombia

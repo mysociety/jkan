@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/88b71b9e0dc95710a96309a67011dff72a28ef12/data/Egypt/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fb947f353530c9e059fe4c6ec05e377b0a0aae59/data/Egypt/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2016-01-10
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-23T22:36:10
+last_modified: 2017-06-05T07:26:44
 license: ''
 category:
   - Egypt

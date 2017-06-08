@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ce9be5f5b293a7bc85707bb0f3d1467fe8dae1b/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/aa1e13afb7703133af869f387330e61702ba4b4b/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json
     format: json
   - name: >-
       9th Legislative Yuan: From 2016-01-16
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-28T03:25:12
+last_modified: 2017-06-06T05:15:11
 license: ''
 category:
   - Taiwan

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a32e571bab161cd18bb9a881b93533cc7a25a7e2/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f109dd46d546d96beb645d3aaee9a45db0d62506/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–: From 2016-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/afa6accdca26d34d5726fa5920a5fb97fe6d0979/data/Jamaica/House_of_Representatives/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f109dd46d546d96beb645d3aaee9a45db0d62506/data/Jamaica/House_of_Representatives/term-2016.csv
     format: csv
   - name: >-
       2011–2016: 2012-01-17 to 2016-02-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/afa6accdca26d34d5726fa5920a5fb97fe6d0979/data/Jamaica/House_of_Representatives/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f109dd46d546d96beb645d3aaee9a45db0d62506/data/Jamaica/House_of_Representatives/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-14T22:01:49
+last_modified: 2017-06-06T04:10:48
 license: ''
 category:
   - Jamaica

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/07a77ebb4d29273b4f17cb3b35bff4c5760e24eb/data/Saint_Lucia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6af17cfc5e60e4516ef9da8cb1e046746db5137d/data/Saint_Lucia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2016-06-06
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-20T12:10:14
+last_modified: 2017-06-01T01:23:57
 license: ''
 category:
   - Saint Lucia

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e4c2efd89cd78db5cc0d11bda6483785b40bea1/data/Haiti/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e81223b72ded7de149ed5130d2bf3d588337333/data/Haiti/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       2011-2015: 2011-05-14 to 2015-01-12
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-22T08:57:49
+last_modified: 2017-06-01T21:30:37
 license: ''
 category:
   - Haiti

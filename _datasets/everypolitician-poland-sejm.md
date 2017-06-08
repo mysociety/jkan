@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f7a17c8c29332dbf0f6648281c4e997a3fa3330b/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/44a9793c4d7a13f9f6b956d14c009f3cbc2a8cdb/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII kadencja: From 2015-11-12
@@ -62,7 +62,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-29T07:37:22
+last_modified: 2017-06-05T13:21:14
 license: ''
 category:
   - Poland

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/28fdde16b76334dcf4b7a984fe93cc496f2102e4/data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2523e6eaf03540142da4ecf0fae57a9f40b7faf9/data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012-2017: From 2012-08-03
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-22T12:29:28
+last_modified: 2017-05-31T14:40:37
 license: ''
 category:
   - Papua New Guinea

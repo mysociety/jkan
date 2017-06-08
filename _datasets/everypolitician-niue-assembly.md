@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b40869eb916e1f7e6a96eafb7b03358df2983644/data/Niue/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5292202abb7e946d42bfbc714b5c0505ee4ea96f/data/Niue/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       15th Assembly: From 2014-04-23
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-09T09:50:35
+last_modified: 2017-06-05T10:21:55
 license: ''
 category:
   - Niue

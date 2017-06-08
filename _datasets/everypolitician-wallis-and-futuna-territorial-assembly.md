@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9654a0914294c12aa0b1e37683a5f9440ac7ecf1/data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c53d812228f664b051783d38022b8cfeedc54b04/data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-11T06:53:37
+last_modified: 2017-06-05T06:05:56
 license: ''
 category:
   - Wallis and Futuna

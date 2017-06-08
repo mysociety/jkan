@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1851a915222f2fdc813cec3db7d6151afb964432/data/Mali/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f9065aea48633339999ef37bd89dcc4d85b08b5f/data/Mali/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Legislature: From 2014-01-01
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-28T06:30:27
+last_modified: 2017-05-31T13:47:53
 license: ''
 category:
   - Mali

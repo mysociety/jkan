@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0476953014e595b631dfd3b1465d725edb6692aa/data/Slovenia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/07801f8059c6e0acf5784c8509214cfe8d6e9aca/data/Slovenia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th National Assembly: From 2014-08-01
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-28T22:21:25
+last_modified: 2017-06-07T03:24:15
 license: ''
 category:
   - Slovenia

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d234f8dbfae56c1fb4dd93445622c21bbd8ca1d/data/Kiribati/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b57974bb1fcc29adad575544310da2b9a33fc040/data/Kiribati/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: 2011-11-25 to 2015-11-25
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-28T11:39:18
+last_modified: 2017-06-01T23:31:49
 license: ''
 category:
   - Kiribati

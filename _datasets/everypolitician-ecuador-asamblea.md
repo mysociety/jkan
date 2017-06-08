@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9399883506c15a1d9cc4a35c7861b765c24df5d7/data/Ecuador/Asamblea/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b93a66e67ff71c964e52e10c58c14ab020ef02da/data/Ecuador/Asamblea/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–2017: From 2013-05-14
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-24T23:10:46
+last_modified: 2017-06-01T05:54:16
 license: ''
 category:
   - Ecuador
