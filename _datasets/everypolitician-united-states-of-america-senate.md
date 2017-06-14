@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9533a9f140420d8ae25902b39c7ef6a315538929/data/United_States_of_America/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f467f33f53278258c29c48559b8294e85819d2da/data/United_States_of_America/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       115th Congress: 2017-01-03 to 2019-01-03
@@ -29,17 +29,17 @@ resources:
   - name: >-
       113th Congress: 2013-01-06 to 2015-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-113.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f21b7234d8f613f6831c3082bf1b5240ee449619/data/United_States_of_America/Senate/term-113.csv
     format: csv
   - name: >-
       112th Congress: 2011-01-06 to 2013-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-112.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f21b7234d8f613f6831c3082bf1b5240ee449619/data/United_States_of_America/Senate/term-112.csv
     format: csv
   - name: >-
       111th Congress: 2009-01-06 to 2011-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-111.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f21b7234d8f613f6831c3082bf1b5240ee449619/data/United_States_of_America/Senate/term-111.csv
     format: csv
   - name: >-
       110th Congress: 2007-01-06 to 2009-01-03
@@ -117,7 +117,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-08T03:14:11
+last_modified: 2017-06-13T05:40:07
 license: ''
 category:
   - United States of America
