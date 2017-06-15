@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fcdb6ac0597714bfc8b7901ef9409b295fa9ca43/data/Luxembourg/Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/44d38b4bd8e4d4f1a282544f62e2d60a7c9c0f0e/data/Luxembourg/Chamber/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-11-13
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-13T05:20:24
+last_modified: 2017-06-15T04:17:44
 license: ''
 category:
   - Luxembourg

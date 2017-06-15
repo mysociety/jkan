@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5fd303f4be09ec3a9c5818084073067016d5e0a9/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2005c0e3216d8f31d2777bf57fb994f27a9c55da/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th Verkhovna Rada: From 2014-11-27
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-05T15:17:35
+last_modified: 2017-06-14T23:54:07
 license: ''
 category:
   - Ukraine

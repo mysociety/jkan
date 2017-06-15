@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/27375143c997df0bac4aa12e19ec0e6c80fb7ae9/data/Peru/Congreso/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c5a6e59be9c63ea4e83908cb5c42be05218e43e7/data/Peru/Congreso/ep-popolo-v1.0.json
     format: json
   - name: >-
       Congress of 2011–2016: 2011-07-27 to 2016-07-26
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-12T01:01:12
+last_modified: 2017-06-15T02:18:54
 license: ''
 category:
   - Peru

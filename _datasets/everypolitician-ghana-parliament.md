@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1e4a0a4be4ef3d25308b4fcd45a5ec5b33731c4/data/Ghana/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/01baf78489388a5709be6e2ed1d1d0cce02a077f/data/Ghana/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       Sixth Parliament of the Fourth Republic: From 2013-01-07
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-01T11:05:46
+last_modified: 2017-06-14T19:39:00
 license: ''
 category:
   - Ghana

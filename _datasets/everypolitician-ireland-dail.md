@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/87009890a1332338e80134a70a5ea79d41171bdf/data/Ireland/Dail/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/42ad93093ae1f563d906af6a0261d59183295287/data/Ireland/Dail/ep-popolo-v1.0.json
     format: json
   - name: >-
       32nd Dáil: From 2016-03-10
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-11T22:23:37
+last_modified: 2017-06-15T04:20:47
 license: ''
 category:
   - Ireland

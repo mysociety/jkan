@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/439daad7f1ae8c3014ec5b6e27534f03663cfbb2/data/Slovakia/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/54dc0504d8aef7447c656bd08ae1be6f539593fc/data/Slovakia/National_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       7. Národná rada 2016-: From 2016-03-23
@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-02T10:23:14
+last_modified: 2017-06-15T05:29:24
 license: ''
 category:
   - Slovakia

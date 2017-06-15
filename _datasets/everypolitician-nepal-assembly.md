@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/842d3d41c1547f1e2434584fed05e4d64bd88f3b/data/Nepal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f568e65dbb7f3487ce3985772f9ea2603142121/data/Nepal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2nd Constituent Assembly: From 2014-01-22
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-01T05:40:02
+last_modified: 2017-06-15T02:21:48
 license: ''
 category:
   - Nepal

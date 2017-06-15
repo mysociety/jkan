@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/53c62a873ef701d537803ec66ac5b36f56670a02/data/Albania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab0ed5538d3dce4714e02af4e6dc9f7a96308463/data/Albania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislature VIII: From 2013-09-09
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-06T07:15:36
+last_modified: 2017-06-14T12:56:08
 license: ''
 category:
   - Albania

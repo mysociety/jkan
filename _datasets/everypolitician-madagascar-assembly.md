@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0cad1c7c0fdf5cbdb7a8e61caaa12de9bc92e5cf/data/Madagascar/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b3aae2903d93c9b743fae384428b7cd51ae2a990/data/Madagascar/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013-2018: 2013-12-20 to 2018
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-01T19:31:25
+last_modified: 2017-06-14T22:50:56
 license: ''
 category:
   - Madagascar

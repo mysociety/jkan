@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6248e76b0042ce59f504ebf6848ab73441ce779e/data/Mongolia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5f1ff6b3f8893221cdb2e31763dacbb277ea11dc/data/Mongolia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       State Grand Khural 2016-: From 2016-07-05
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-08T04:58:22
+last_modified: 2017-06-14T16:45:20
 license: ''
 category:
   - Mongolia

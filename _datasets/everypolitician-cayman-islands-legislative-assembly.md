@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4abcfd96870f2a4f37380c1bec491f5120170fb5/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4569fba70025d5a88efe60074e21b3d4c4728eca/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–2017: From 2013
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-01T09:31:10
+last_modified: 2017-06-14T10:23:17
 license: ''
 category:
   - Cayman Islands
