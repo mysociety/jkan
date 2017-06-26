@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e2a5b1efc7a2d72092d73e39f3e8fc13e476bb9/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/557baac11b0271163e441d968d1cb2f52ff3a1db/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       The 46th House of Representatives: From 2014-12-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/16f2312078ac9901890582f0fcc70d32390fa2c9/data/Japan/House_of_Representatives/term-46.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/557baac11b0271163e441d968d1cb2f52ff3a1db/data/Japan/House_of_Representatives/term-46.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-14T13:29:29
+last_modified: 2017-06-26T10:57:56
 license: ''
 category:
   - Japan

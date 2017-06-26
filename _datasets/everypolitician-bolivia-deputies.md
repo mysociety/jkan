@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/86db4c06b5b5540fedde52bea39587945364fcd2/data/Bolivia/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/86df4729c93bfa09ab474c7a697c59671ac40886/data/Bolivia/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-01-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/86db4c06b5b5540fedde52bea39587945364fcd2/data/Bolivia/Deputies/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/86df4729c93bfa09ab474c7a697c59671ac40886/data/Bolivia/Deputies/term-2015.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-02-24T17:32:20
+last_modified: 2017-06-16T05:32:51
 license: ''
 category:
   - Bolivia

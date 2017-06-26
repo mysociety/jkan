@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b4aeed3dfc1415baaba58508dc2ee26042822767/data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31e7bd24ac7f567bc3b4bd8d8be159f558764342/data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII Legislatura: 2014-01-21 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b7bf35c3fe7e8c497e4fea6ecae3e00c9c259a3e/data/Honduras/Congreso_Nacional/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31e7bd24ac7f567bc3b4bd8d8be159f558764342/data/Honduras/Congreso_Nacional/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-15T06:08:51
+last_modified: 2017-06-26T04:11:16
 license: ''
 category:
   - Honduras

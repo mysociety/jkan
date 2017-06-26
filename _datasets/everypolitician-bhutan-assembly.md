@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ed8574e8ddc35eb1ab2f9b9a2b30006215c64f95/data/Bhutan/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/796116c8c3264a7bfcce905de757d4ee44ef9f63/data/Bhutan/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2nd Parliament: From 2013-07-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f03368041a98f0721ef5a97f0bada96b050ae59b/data/Bhutan/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/796116c8c3264a7bfcce905de757d4ee44ef9f63/data/Bhutan/Assembly/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-28T15:09:34
+last_modified: 2017-06-26T04:58:22
 license: ''
 category:
   - Bhutan
