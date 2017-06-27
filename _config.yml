@@ -1,7 +1,7 @@
 title: mySociety Data
 greeting: Welcome to mySociety Data
 description: Explore all of mySociety's helpful APIs and datasets in one place (beta).
-baseurl: /
+baseurl: ''
 logo: /img/jkan.png
 
 # Site theme
