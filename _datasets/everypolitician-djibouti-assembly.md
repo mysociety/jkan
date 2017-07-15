@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/47eccaecde2a634ceabde957024d0154c4f552c9/data/Djibouti/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/95851de6ef47ff2e5bde792b1862d0e14f36f874/data/Djibouti/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th National Assembly: From 2013-03-05
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-05-21T02:01:37
+last_modified: 2017-07-14T06:07:58
 license: ''
 category:
   - Djibouti

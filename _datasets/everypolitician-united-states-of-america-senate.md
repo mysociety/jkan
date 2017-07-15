@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/87da1a7c3043233a37558449fe3ff76ebf8fe2fa/data/United_States_of_America/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bcaec7c79540f11e3a0642632c4acab9d6c465de/data/United_States_of_America/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       115th Congress: 2017-01-03 to 2019-01-03
@@ -69,47 +69,47 @@ resources:
   - name: >-
       105th Congress: 1997-01-06 to 1999-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-105.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-105.csv
     format: csv
   - name: >-
       104th Congress: 1995-01-06 to 1997-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-104.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-104.csv
     format: csv
   - name: >-
       103rd Congress: 1993-01-06 to 1995-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-103.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-103.csv
     format: csv
   - name: >-
       102nd Congress: 1991-01-06 to 1993-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-102.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-102.csv
     format: csv
   - name: >-
       101st Congress: 1989-01-06 to 1991-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-101.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-101.csv
     format: csv
   - name: >-
       100th Congress: 1987-01-06 to 1989-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-100.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-100.csv
     format: csv
   - name: >-
       99th Congress: 1985-01-06 to 1987-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-99.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-99.csv
     format: csv
   - name: >-
       98th Congress: 1983-01-06 to 1983-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-98.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-98.csv
     format: csv
   - name: >-
       97th Congress: 1981-01-06 to 1983-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-97.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ddd595d79e99d05c2e93b577e22ca42eaab7ff/data/United_States_of_America/Senate/term-97.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -117,7 +117,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-25T19:48:31
+last_modified: 2017-07-14T04:47:35
 license: ''
 category:
   - United States of America

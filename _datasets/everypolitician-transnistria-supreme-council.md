@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/801cdbe5ed159f896aa5f1bdc29c6ff799c2c9ed/data/Transnistria/Supreme_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f20c8315fb5abd98100b63bfde9a02391a2cd5ed/data/Transnistria/Supreme_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Convocation: From 2015-12-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/801cdbe5ed159f896aa5f1bdc29c6ff799c2c9ed/data/Transnistria/Supreme_Council/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f20c8315fb5abd98100b63bfde9a02391a2cd5ed/data/Transnistria/Supreme_Council/term-6.csv
     format: csv
   - name: >-
       5th Convocation: 2010 to 2015
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-15T01:17:34
+last_modified: 2017-07-04T11:46:49
 license: ''
 category:
   - Transnistria

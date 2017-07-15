@@ -14,52 +14,52 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2021d22d30dea6583f14f560a333d4a662be6c31/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a919b8acade3222b4555507f66873c3cc8e94773/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: >-
       Eduskunta 37: 2015-04-28 to 2019
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/aab8e26bba6b93b2d715a7920e4df12d70ed5816/data/Finland/Eduskunta/term-37.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a919b8acade3222b4555507f66873c3cc8e94773/data/Finland/Eduskunta/term-37.csv
     format: csv
   - name: >-
       Eduskunta 36: 2011-04-20 to 2015-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4f32eb24036c27a881c2f9f0a5f29d6f51310656/data/Finland/Eduskunta/term-36.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-36.csv
     format: csv
   - name: >-
       Eduskunta 35: 2007-03-21 to 2011-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1149d839507aa020ce10297b1616be386977dc0/data/Finland/Eduskunta/term-35.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-35.csv
     format: csv
   - name: >-
       Eduskunta 34: 2003-03-19 to 2007-03-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1149d839507aa020ce10297b1616be386977dc0/data/Finland/Eduskunta/term-34.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-34.csv
     format: csv
   - name: >-
       Eduskunta 33: 1999-03-24 to 2003-03-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4f32eb24036c27a881c2f9f0a5f29d6f51310656/data/Finland/Eduskunta/term-33.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-33.csv
     format: csv
   - name: >-
       Eduskunta 32: 1995-03-24 to 1999-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4f32eb24036c27a881c2f9f0a5f29d6f51310656/data/Finland/Eduskunta/term-32.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-32.csv
     format: csv
   - name: >-
       Eduskunta 31: 1991-03-22 to 1995-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1149d839507aa020ce10297b1616be386977dc0/data/Finland/Eduskunta/term-31.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-31.csv
     format: csv
   - name: >-
       Eduskunta 30: 1987-03-21 to 1991-03-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4f32eb24036c27a881c2f9f0a5f29d6f51310656/data/Finland/Eduskunta/term-30.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-30.csv
     format: csv
   - name: >-
       Eduskunta 29: 1983-03-26 to 1987-03-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/508c132c626bf367a61c1da2f8390707f50feb7d/data/Finland/Eduskunta/term-29.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c18c95b2bfe64ebde16f226ea5391294d77154be/data/Finland/Eduskunta/term-29.csv
     format: csv
   - name: >-
       Eduskunta 28: 1979-03-24 to 1983-03-25
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-25T17:33:59
+last_modified: 2017-07-14T07:50:42
 license: ''
 category:
   - Finland
