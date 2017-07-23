@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/65d1a61ac6313ea6e1201126e7170daad41719d5/data/Kiribati/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dfa9c8f7c8d61540acffbb4d1a871beb7fff887/data/Kiribati/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: 2011-11-25 to 2015-11-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7c0f388786da8d3641a88f7fd26561f3bebdd69/data/Kiribati/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dfa9c8f7c8d61540acffbb4d1a871beb7fff887/data/Kiribati/Parliament/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2007-09-17 to 2011-10-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7c0f388786da8d3641a88f7fd26561f3bebdd69/data/Kiribati/Parliament/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dfa9c8f7c8d61540acffbb4d1a871beb7fff887/data/Kiribati/Parliament/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-25T20:47:58
+last_modified: 2017-07-15T11:10:34
 license: ''
 category:
   - Kiribati
