@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/28fc526f254570a10804293379d52a765507ed50/data/Serbia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f35a36b4d4fd50586dcf2197c896da5516ba9368/data/Serbia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th legislature: From 2016-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d9fbd6497f184092b39c6ff991f0362e44ce980/data/Serbia/National_Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f35a36b4d4fd50586dcf2197c896da5516ba9368/data/Serbia/National_Assembly/term-11.csv
     format: csv
   - name: >-
       10th legislature: 2014-05-16 to 2016-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d9fbd6497f184092b39c6ff991f0362e44ce980/data/Serbia/National_Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f35a36b4d4fd50586dcf2197c896da5516ba9368/data/Serbia/National_Assembly/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-15T09:23:12
+last_modified: 2017-08-02T10:07:56
 license: ''
 category:
   - Serbia

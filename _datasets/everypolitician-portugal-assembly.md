@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1b1f0b14a01e6f7beb0b2a48b5a7667f3a171258/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/718bd9a7274afce429b48508b1d0d24373ae4f80/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13ª Legislatura: From 2015-10-23
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-20T05:37:26
+last_modified: 2017-08-02T15:43:40
 license: ''
 category:
   - Portugal

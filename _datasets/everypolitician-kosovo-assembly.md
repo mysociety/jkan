@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/253aae7b80fbc7ec13262c5bd33dbdef8a765f17/data/Kosovo/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/18efce7a11a56843d2543cf9ef7b25064bf63d44/data/Kosovo/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Periudha e pestë Legjislative: From 2014-07-17
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-25T15:55:08
+last_modified: 2017-08-02T04:44:19
 license: ''
 category:
   - Kosovo

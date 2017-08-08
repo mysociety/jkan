@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cd49eb496fb2b05fbd35fe2ee0262ec4e34dc2e5/data/Gabon/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7115f4a626339aab9fa1a29a431dd44619973163/data/Gabon/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       12 Législature: From 2012-02-27
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-06-14T03:27:24
+last_modified: 2017-07-27T06:47:40
 license: ''
 category:
   - Gabon

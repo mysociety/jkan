@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f66c50e72ba196eb27358e5403456f15e12b4f44/data/Nigeria/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/75b1ab4a5af3808f06307aede0717036fab41074/data/Nigeria/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th National Assembly: From 2015-06-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6b25a548e4efb3487ce1c589054e112d5c0bda2b/data/Nigeria/Senate/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0c5a924451f4c4889c71ddda285185a594cdf48e/data/Nigeria/Senate/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-14T13:06:24
+last_modified: 2017-08-08T04:01:50
 license: ''
 category:
   - Nigeria
