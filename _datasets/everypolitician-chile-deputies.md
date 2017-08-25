@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1735f7294c48ea7b91b3b7670f12b1c766cba7b/data/Chile/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8fe988640f0aae047c7d3463cd2f0a2cc19d01d2/data/Chile/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislativo 2014-2018: 2014-03-11 to 2018-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8fe988640f0aae047c7d3463cd2f0a2cc19d01d2/data/Chile/Deputies/term-8.csv
     format: csv
   - name: >-
       Legislativo 2010-2014: 2010-03-11 to 2014-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8fe988640f0aae047c7d3463cd2f0a2cc19d01d2/data/Chile/Deputies/term-6.csv
     format: csv
   - name: >-
       Legislativo 2006-2010: 2006-03-11 to 2010-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/83db554c05085277b2aff125e721272163b4c55c/data/Chile/Deputies/term-5.csv
     format: csv
   - name: >-
       Legislativo 2002-2006: 2002-03-11 to 2006-03-10
@@ -57,7 +57,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-03T19:50:51
+last_modified: 2017-08-25T08:37:46
 license: ''
 category:
   - Chile

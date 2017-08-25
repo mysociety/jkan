@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ac58fc5742c291066eae874853efe430d58c0cf/data/Georgia/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d2b8d2bfd66a8a3ff143a691a2eaa0357c81086/data/Georgia/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       9th Convocation: From 2016-11-18
@@ -24,7 +24,7 @@ resources:
   - name: >-
       8th Convocation: 2012-10-20 to 2016-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Georgia/Parliament/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d2b8d2bfd66a8a3ff143a691a2eaa0357c81086/data/Georgia/Parliament/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-14T15:47:53
+last_modified: 2017-08-25T09:21:13
 license: ''
 category:
   - Georgia
