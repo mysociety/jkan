@@ -19,7 +19,7 @@ resources:
   - name: >-
       6th Shura: From 2013-02-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a26c70c20735cce4e29a1fbc14dae43602fcf461/data/Saudi_Arabia/Shura/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saudi_Arabia/Shura/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

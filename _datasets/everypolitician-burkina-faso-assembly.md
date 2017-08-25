@@ -14,32 +14,32 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1294a25645fc6805836a6b4b3587b64f79f3eb4d/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIIe législature: From 2015-12-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/643a9187cc2f269146ce76907f1cabd9a35643cf/data/Burkina_Faso/Assembly/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Burkina_Faso/Assembly/term-7.csv
     format: csv
   - name: >-
       Ve législature: 2012-12-02 to 2014-10-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc29587dc4e3c276c24bcb2dc739fdc5f14d2a/data/Burkina_Faso/Assembly/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Burkina_Faso/Assembly/term-2012.csv
     format: csv
   - name: >-
       IIIe législature: 2002-06-05 to 2007-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Burkina_Faso/Assembly/term-3.csv
     format: csv
   - name: >-
       IIe législature: 1997-06-07 to 2002-05-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Burkina_Faso/Assembly/term-2.csv
     format: csv
   - name: >-
       Ie législature: 1992-06-15 to 1997-05-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/01d9437e9cdb1233b99cf99929c293bd69cca26c/data/Burkina_Faso/Assembly/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Burkina_Faso/Assembly/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-07T12:16:57
+last_modified: 2017-08-17T09:46:25
 license: ''
 category:
   - Burkina Faso

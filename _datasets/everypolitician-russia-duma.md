@@ -19,12 +19,12 @@ resources:
   - name: >-
       7th Convocation: From 2016-10-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1afda812139c09b38e1e7836e8898785c55f5c80/data/Russia/Duma/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Russia/Duma/term-7.csv
     format: csv
   - name: >-
       6th Convocation: 2011-12-21 to 2016-10-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/515745c758ab0bb99444319937f8dd397e35248a/data/Russia/Duma/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Russia/Duma/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

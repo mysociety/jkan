@@ -19,7 +19,7 @@ resources:
   - name: >-
       14th National Assembly: From 2013-06-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2f7a0b59ee83493f290ef345f8c7eb307c743560/data/Pakistan/Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Pakistan/Assembly/term-14.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       2013–: From 2013-02-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/54337cda7c455908954f39d1f7662d113c0a15b8/data/Jordan/House_of_Representatives/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Jordan/House_of_Representatives/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

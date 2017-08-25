@@ -19,7 +19,7 @@ resources:
   - name: >-
       5th Convocation: 2012-05-31 to 2017-03-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea0dfd977952de3d65b38255f90e2ab1b303c5f1/data/Armenia/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Armenia/Assembly/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

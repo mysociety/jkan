@@ -19,7 +19,7 @@ resources:
   - name: >-
       Assembly 2014–: From 2014-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1b5e1735a6ef6dc92af7856a531461782e811129/data/Jersey/States/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Jersey/States/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

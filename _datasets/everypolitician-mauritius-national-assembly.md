@@ -19,7 +19,7 @@ resources:
   - name: >-
       10th National Assembly: From 2014-12-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/48071d984c351045f3ddf7e210f315adf1730806/data/Mauritius/National_Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Mauritius/National_Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

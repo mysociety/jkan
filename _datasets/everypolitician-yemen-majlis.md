@@ -19,7 +19,7 @@ resources:
   - name: >-
       2003–: From 2003-05-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/09613f4f1556bc7af6246a1da24ff8bb7f6c70db/data/Yemen/Majlis/term-2003.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Yemen/Majlis/term-2003.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

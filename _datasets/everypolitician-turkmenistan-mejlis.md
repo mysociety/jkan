@@ -19,12 +19,12 @@ resources:
   - name: >-
       5th Convocation: From 2014-01-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4b29b4fdcc34401b33dbfe22487801d18c297588/data/Turkmenistan/Mejlis/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Turkmenistan/Mejlis/term-5.csv
     format: csv
   - name: >-
       4th Convocation: 2009 to 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fedacb2df1f5110d5775924965d42c61e3ca40b2/data/Turkmenistan/Mejlis/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Turkmenistan/Mejlis/term-4.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       Council 2012–: From 2012-12-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7977b6a851b7ff22a751a27302ed1e6c91dc28de/data/San_Marino/Council/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/San_Marino/Council/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

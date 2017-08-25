@@ -19,7 +19,7 @@ resources:
   - name: >-
       12th Parliament: From 2013-04-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/24307bf4a4a3a92287020e3c8cc9425066236bb7/data/Malta/Assembly/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Malta/Assembly/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

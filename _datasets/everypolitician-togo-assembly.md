@@ -19,7 +19,7 @@ resources:
   - name: >-
       2013–: From 2013-08-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d6ce70e623cd2ee7a44dbe5f20ff4747de9cae4/data/Togo/Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Togo/Assembly/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

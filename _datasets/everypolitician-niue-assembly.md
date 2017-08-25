@@ -19,7 +19,7 @@ resources:
   - name: >-
       15th Assembly: From 2014-04-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dae655bc6aef1a19ed3776f98344ca0725d42c82/data/Niue/Assembly/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Niue/Assembly/term-15.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

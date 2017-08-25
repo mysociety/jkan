@@ -19,7 +19,7 @@ resources:
   - name: >-
       7th Aruban Estates: From 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58840bf115ff452577c331097222b3737e12a4f2/data/Aruba/Estates/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Aruba/Estates/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

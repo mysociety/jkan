@@ -14,37 +14,37 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/095a2ce2c33f1bf3bb3c4397b6e7413581e0cb78/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/616c7fbd687921db4f5de6b8941557dcadd7ebad/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Assembly: From 2017-03-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/771802c37b3a18d962642a5422b67637b7452fd4/data/Northern_Ireland/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Ireland/Assembly/term-6.csv
     format: csv
   - name: >-
       5th Assembly: 2016-05-05 to 2017-01-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/df1f63085fde24009b1da7f269202cf4bbed474c/data/Northern_Ireland/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Ireland/Assembly/term-5.csv
     format: csv
   - name: >-
       4th Assembly: 2011-05-06 to 2016-03-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/713c3ca0cc49f6b8070df1da934569e79c7f87d8/data/Northern_Ireland/Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Ireland/Assembly/term-4.csv
     format: csv
   - name: >-
       3rd Assembly: 2007-03-09 to 2011-03-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/713c3ca0cc49f6b8070df1da934569e79c7f87d8/data/Northern_Ireland/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Ireland/Assembly/term-3.csv
     format: csv
   - name: >-
       2nd Assembly: 2003-11-26 to 2007-01-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/df1f63085fde24009b1da7f269202cf4bbed474c/data/Northern_Ireland/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Ireland/Assembly/term-2.csv
     format: csv
   - name: >-
       1st Assembly: 1998-06-25 to 2003-04-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/713c3ca0cc49f6b8070df1da934569e79c7f87d8/data/Northern_Ireland/Assembly/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Ireland/Assembly/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-23T09:33:43
+last_modified: 2017-08-21T00:56:16
 license: ''
 category:
   - Northern Ireland

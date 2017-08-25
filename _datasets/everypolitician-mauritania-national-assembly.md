@@ -19,7 +19,7 @@ resources:
   - name: >-
       12th National Assembly: From 2013-12-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e14d68fb8ac95033e092abc1b2a60c8d03a2d7d/data/Mauritania/National_Assembly/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Mauritania/National_Assembly/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e1b90077ef7d59642c26a041c3016bcd4966855d/data/Comoros/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c828e9b6dd666b15ff4534dc3610872c11f9e17f/data/Comoros/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-04-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ed2db8bbaa9f9cf554757ca4d748d07a7c6790d/data/Comoros/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Comoros/Assembly/term-2015.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-01-22T06:51:15
+last_modified: 2017-08-17T09:57:23
 license: ''
 category:
   - Comoros

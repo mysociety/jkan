@@ -19,12 +19,12 @@ resources:
   - name: >-
       2016–: From 2016-04-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/024c0829bdd6e20fae653f74c66df10ee4140863/data/Guernsey/States/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guernsey/States/term-2016.csv
     format: csv
   - name: >-
       2012–2016: 2012 to 2016-04-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/90397c4bc9626d5a223c4f8ed6d52ecf05e381d1/data/Guernsey/States/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guernsey/States/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

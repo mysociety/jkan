@@ -19,12 +19,12 @@ resources:
   - name: >-
       10th Parliament: From 2013-10-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ecc83a0bb2ef59cf4f266ac6ed872c442f3eead/data/Swaziland/Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Swaziland/Assembly/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2008-10-10 to 2013-09-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a50544396aadc037ec054242b908be5671118b2b/data/Swaziland/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Swaziland/Assembly/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

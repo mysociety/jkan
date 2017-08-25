@@ -19,7 +19,7 @@ resources:
   - name: >-
       2015–2018: 2015-05-14 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f392827b805f12e718d2db08d8df2c234d7a805/data/El_Salvador/Legislative_Assembly/term-2015-2018.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/El_Salvador/Legislative_Assembly/term-2015-2018.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

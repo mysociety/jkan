@@ -19,7 +19,7 @@ resources:
   - name: >-
       2011–2016: From 2011-10-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1cef170b662c1feb5ff3f1eb60fa93bb0dd060c/data/Seychelles/Assembly/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Seychelles/Assembly/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

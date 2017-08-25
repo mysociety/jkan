@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d706eab76c1c4157167478e008345ec145b34a76/data/Lebanon/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7257934177a611a1f6ebc955cc4cc65f7c228329/data/Lebanon/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       2009–2017: 2009-06-20 to 2017-06-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c927b76dedd19f7385cc2fb3b1ef8915bdb0d00f/data/Lebanon/Parliament/term-2009.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Lebanon/Parliament/term-2009.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-08T06:53:52
+last_modified: 2017-08-09T03:18:09
 license: ''
 category:
   - Lebanon

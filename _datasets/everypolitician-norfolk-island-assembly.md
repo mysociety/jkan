@@ -19,7 +19,7 @@ resources:
   - name: >-
       14th Legislative Assembly: 2013-03-20 to 2015-06-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/93ab0bf41670b041de58ba8878f0184b01178e4f/data/Norfolk_Island/Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Norfolk_Island/Assembly/term-14.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

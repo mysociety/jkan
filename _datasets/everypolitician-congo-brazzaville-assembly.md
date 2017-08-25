@@ -19,7 +19,7 @@ resources:
   - name: >-
       13ème législature: From 2012-09-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b9ae9fc92b221a030dd5959c450be73ebde0ce3/data/Congo-Brazzaville/Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Congo-Brazzaville/Assembly/term-13.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

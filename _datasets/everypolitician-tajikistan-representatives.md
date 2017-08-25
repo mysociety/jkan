@@ -19,7 +19,7 @@ resources:
   - name: >-
       2015–: From 2015-03-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/86623d0b2ac585ce1a717d1cbd47949c77accea0/data/Tajikistan/Representatives/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Tajikistan/Representatives/term-2015.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

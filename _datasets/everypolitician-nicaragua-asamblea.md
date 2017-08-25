@@ -19,7 +19,7 @@ resources:
   - name: >-
       2012–2017: From 2012-01-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ffe5d82b98642ff3d08119573480163fd9404078/data/Nicaragua/Asamblea/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nicaragua/Asamblea/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

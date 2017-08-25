@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014: From 2014-05-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/90e5f6de8b8ea0c6cb20fe9ba2fbe98d667fc691/data/Maldives/Majlis/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Maldives/Majlis/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

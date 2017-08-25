@@ -19,7 +19,7 @@ resources:
   - name: >-
       1st Legislature: From 2014-12-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/da67941c70d152a536b46f4aa45b91a142da54cd/data/Tunisia/Majlis/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Tunisia/Majlis/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

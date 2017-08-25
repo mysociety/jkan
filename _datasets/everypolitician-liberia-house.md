@@ -19,7 +19,7 @@ resources:
   - name: >-
       53rd Session: From 2012-01-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3900a5954d86fbf4fe6b7621f962182a18fc5dc2/data/Liberia/House/term-53.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Liberia/House/term-53.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

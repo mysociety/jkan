@@ -19,12 +19,12 @@ resources:
   - name: >-
       10th Parliament: 2011-11-25 to 2015-11-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dfa9c8f7c8d61540acffbb4d1a871beb7fff887/data/Kiribati/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kiribati/Parliament/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2007-09-17 to 2011-10-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dfa9c8f7c8d61540acffbb4d1a871beb7fff887/data/Kiribati/Parliament/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kiribati/Parliament/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

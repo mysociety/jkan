@@ -19,7 +19,7 @@ resources:
   - name: >-
       19th Commonwealth Legislature: From 2014
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/018fffb38bb7fc0a70a2fc1e2822339b77ed983a/data/Northern_Mariana_Islands/House/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Mariana_Islands/House/term-19.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014–: From 2014-07-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a9194686a61300c0d9052968a8b99a4660562753/data/Panama/Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Panama/Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

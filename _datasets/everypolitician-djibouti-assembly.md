@@ -19,7 +19,7 @@ resources:
   - name: >-
       6th National Assembly: From 2013-03-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dfe56e242be3f70e40d4ebb562e237f2bd80e97f/data/Djibouti/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Djibouti/Assembly/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       3rd National Assembly: From 2012-09-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ba81e0d8510f43c1e88a1c41c3858e707eaf7712/data/Angola/National_Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Angola/National_Assembly/term-3.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

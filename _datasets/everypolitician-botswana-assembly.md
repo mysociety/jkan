@@ -19,7 +19,7 @@ resources:
   - name: >-
       11th Parliament: From 2014-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c0f627ecfacd130f10dacb02223e280f83f1757e/data/Botswana/Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Botswana/Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       11th Assembly: 2011-10-06 to 2016-05-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eaabc0041a8a567047809e8a90b179bdd3e34a42/data/Zambia/Assembly/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Zambia/Assembly/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       1st House of Representatives: From 2014-08-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f7fea73833a37b274628757e942e134a20a1341/data/Libya/House_of_Representatives/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Libya/House_of_Representatives/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

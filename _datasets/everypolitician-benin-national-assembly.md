@@ -19,7 +19,7 @@ resources:
   - name: >-
       7è législature: From 2015-04-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fb7a7e3b919c574541213b0d138ab40fcc5375cb/data/Benin/National_Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Benin/National_Assembly/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

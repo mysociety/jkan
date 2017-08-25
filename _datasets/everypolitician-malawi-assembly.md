@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014–: From 2014-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/acb977a472973ee1e98caf64b10a630ebbcde6cb/data/Malawi/Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Malawi/Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

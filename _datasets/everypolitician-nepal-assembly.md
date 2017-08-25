@@ -19,7 +19,7 @@ resources:
   - name: >-
       2nd Constituent Assembly: From 2014-01-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ebea0157c19b4bc8acb58e2d075384635bf9e9e8/data/Nepal/Assembly/term-ca2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nepal/Assembly/term-ca2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       2013–: From 2013-07-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/63b2e3ed2ce7c6d37d6062cf0f0b3a3aa801a881/data/Saint_Helena/Legislative_Council/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Helena/Legislative_Council/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

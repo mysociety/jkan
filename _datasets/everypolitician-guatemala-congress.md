@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/610e56f9f2b5a742ae09771f27b427ea1afbb493/data/Guatemala/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/08b647f6a7353510500d24a93f5f4de97bbbcef4/data/Guatemala/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII Legislatura: 2016-01-14 to 2020-01-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ef5fe2ac8f24919329adc1a426def23d2b364478/data/Guatemala/Congress/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guatemala/Congress/term-8.csv
     format: csv
   - name: >-
       VII Legislatura: 2012-01-14 to 2016-01-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4de11443c2af322df823fae491a867bc197a981c/data/Guatemala/Congress/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guatemala/Congress/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-14T15:10:16
+last_modified: 2017-08-16T08:10:03
 license: ''
 category:
   - Guatemala

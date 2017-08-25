@@ -19,12 +19,12 @@ resources:
   - name: >-
       16th Parliament: From 2016-03-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e0698c66a8deb850d0991a96c0de284ae42713e1/data/Samoa/Parliament/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Samoa/Parliament/term-16.csv
     format: csv
   - name: >-
       15th Parliament: 2011-03-18 to 2016-01-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1637b7eff2ae081bebb632f72780d36c021cba05/data/Samoa/Parliament/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Samoa/Parliament/term-15.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,12 +19,12 @@ resources:
   - name: >-
       2016–: From 2016-01-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cac097976a59ec6012935b0a9965e28b912a2bfe/data/Venezuela/Assembly/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Venezuela/Assembly/term-2016.csv
     format: csv
   - name: >-
       2011–2016: 2011-01-05 to 2016-01-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/98d23dcff1378c4279e573ae2fae41786a3a0504/data/Venezuela/Assembly/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Venezuela/Assembly/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

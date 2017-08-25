@@ -19,7 +19,7 @@ resources:
   - name: >-
       8th Parliament: From 2013-08-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e1d590b5a0bca8609b92e0f1b6d8c24558b4951f/data/Northern_Cyprus/Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Northern_Cyprus/Assembly/term-14.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

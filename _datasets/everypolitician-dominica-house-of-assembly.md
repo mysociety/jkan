@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014–: From 2014
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c7d9c925e3bf0558f0eb2e1d0e5cdef1f0428485/data/Dominica/House_of_Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Dominica/House_of_Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

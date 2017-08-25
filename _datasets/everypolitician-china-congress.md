@@ -19,7 +19,7 @@ resources:
   - name: >-
       12th National People’s Congress: From 2013-03-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0b829dc98ca776bdbf4451e4bdeb77a59ed70ab4/data/China/Congress/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/China/Congress/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

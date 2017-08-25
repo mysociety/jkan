@@ -19,7 +19,7 @@ resources:
   - name: >-
       Troisième Législature: From 2011-06-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4fb3a49cd1b243228c301009ef3b845cbae0b83d/data/Chad/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chad/Assembly/term-3.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

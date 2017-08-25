@@ -19,12 +19,12 @@ resources:
   - name: >-
       2015–: From 2015-06-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c25ba80e739590ada06b067b8b13fb6f2d0ea89d/data/Suriname/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Suriname/Assembly/term-2015.csv
     format: csv
   - name: >-
       2010–2015: 2010 to 2015-06-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b07233fdfd0215d4ef2de156ba8b4c1455a8ba31/data/Suriname/Assembly/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Suriname/Assembly/term-2010.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

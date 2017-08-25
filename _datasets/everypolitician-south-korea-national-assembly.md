@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3d202ac8d13c6db16de019e3c2d3699e256c31b5/data/South_Korea/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/541303ad1d1bdf4da0e4d82d99184cd4dba86089/data/South_Korea/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       20th National Assembly: 2016-05-30 to 2020-05-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/64109e923ee3b409f82cfe300fddba52b91033fa/data/South_Korea/National_Assembly/term-20.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/South_Korea/National_Assembly/term-20.csv
     format: csv
   - name: >-
       19th National Assembly: 2012-05-30 to 2016-05-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/64109e923ee3b409f82cfe300fddba52b91033fa/data/South_Korea/National_Assembly/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/South_Korea/National_Assembly/term-19.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-02T16:04:59
+last_modified: 2017-08-16T08:02:29
 license: ''
 category:
   - South Korea

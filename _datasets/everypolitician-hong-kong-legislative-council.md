@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ac9730ad13aece91fe783f31bc64bc0651041029/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/54d88ed881ea3ff17d5120e042431b401e69c801/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       Sixth Legislative Council: From 2016-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f36658f0ebb6c4d5e5d0af51608d6b8322612685/data/Hong_Kong/Legislative_Council/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Hong_Kong/Legislative_Council/term-6.csv
     format: csv
   - name: >-
       Fifth Legislative Council: 2012-10-01 to 2016-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/aea5e11cd92c7ab9f7be934bfdec000e18179666/data/Hong_Kong/Legislative_Council/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Hong_Kong/Legislative_Council/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-14T18:14:41
+last_modified: 2017-08-21T05:12:22
 license: ''
 category:
   - Hong Kong

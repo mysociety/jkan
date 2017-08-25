@@ -19,7 +19,7 @@ resources:
   - name: >-
       11th Legislative Council: 2015-03-05 to 2015-03-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1ee914c2e9714d5f3dbcb5e8c3f9ddde471ec2d/data/Brunei/Legislative_Council/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Brunei/Legislative_Council/term-11.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

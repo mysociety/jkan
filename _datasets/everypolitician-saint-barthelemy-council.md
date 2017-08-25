@@ -19,7 +19,7 @@ resources:
   - name: >-
       2012–2017: From 2012
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/131d0025b51a8e9670a6d22d47dbc0684cf27ed1/data/Saint_Barthelemy/Council/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Barthelemy/Council/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       VIII Legislature: From 2015-01-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d480c6e7efa554d21743e5fb43315ccd5dbe83cb/data/Mozambique/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Mozambique/Assembly/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

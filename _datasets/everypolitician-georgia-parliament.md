@@ -19,12 +19,12 @@ resources:
   - name: >-
       9th Convocation: From 2016-11-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c87bb179c053d0a535ec3d63e1d5e27162e90099/data/Georgia/Parliament/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Georgia/Parliament/term-9.csv
     format: csv
   - name: >-
       8th Convocation: 2012-10-20 to 2016-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0640facb22f61f56e76789b3a7c809f443df15de/data/Georgia/Parliament/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Georgia/Parliament/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

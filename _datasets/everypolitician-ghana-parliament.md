@@ -19,7 +19,7 @@ resources:
   - name: >-
       Sixth Parliament of the Fourth Republic: From 2013-01-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b19fdfb2e8c07cfb8065da541e92da60999c4d6f/data/Ghana/Parliament/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Ghana/Parliament/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

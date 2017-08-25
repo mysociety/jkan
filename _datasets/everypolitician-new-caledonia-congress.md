@@ -19,7 +19,7 @@ resources:
   - name: >-
       4e mandat: From 2014
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2e24b7e65decd6c3d30dba4252062ee4d077e572/data/New_Caledonia/Congress/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/New_Caledonia/Congress/term-4.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

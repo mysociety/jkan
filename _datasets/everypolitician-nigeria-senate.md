@@ -19,7 +19,7 @@ resources:
   - name: >-
       8th National Assembly: From 2015-06-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0c5a924451f4c4889c71ddda285185a594cdf48e/data/Nigeria/Senate/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nigeria/Senate/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

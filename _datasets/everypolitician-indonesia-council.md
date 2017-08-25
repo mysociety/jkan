@@ -19,7 +19,7 @@ resources:
   - name: >-
       The Indonesian House - 11th General Election: From 2014-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/38854e85b8a24ae5caaa2491d491dc79a321045e/data/Indonesia/Council/term-18.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Indonesia/Council/term-18.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

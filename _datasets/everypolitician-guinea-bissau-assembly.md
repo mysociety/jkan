@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014-: From 2014-06-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/96d2c4bbe72d9477204c5e40f623b073460a24b9/data/Guinea-Bissau/Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guinea-Bissau/Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

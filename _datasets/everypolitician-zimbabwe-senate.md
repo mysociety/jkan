@@ -19,7 +19,7 @@ resources:
   - name: >-
       8th Parliament: From 2013-09-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9076b10359b923c3b51197213dac11e747a82fb6/data/Zimbabwe/Senate/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Zimbabwe/Senate/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

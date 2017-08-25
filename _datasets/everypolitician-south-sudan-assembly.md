@@ -19,7 +19,7 @@ resources:
   - name: >-
       1st Parliament: From 2011-07-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d89886a4cfba54613d635be69ed863478f202166/data/South_Sudan/Assembly/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/South_Sudan/Assembly/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

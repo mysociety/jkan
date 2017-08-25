@@ -19,7 +19,7 @@ resources:
   - name: >-
       2013–2018: From 2013-04-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fb0d4b758cbbdcc96c4987a8a202ccce7348accc/data/Paraguay/Deputies/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Paraguay/Deputies/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,12 +19,12 @@ resources:
   - name: >-
       3rd Assembly: From 2016-12-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6ed37ad2e55310a0569e6376bd34468aea55ab53/data/Turks_and_Caicos_Islands/Assembly/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Turks_and_Caicos_Islands/Assembly/term-2016.csv
     format: csv
   - name: >-
       2nd Assembly: 2012-11-09 to 2016-12-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/06c744ece29c71782c2b35ac412567998d62c718/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

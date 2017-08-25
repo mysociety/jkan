@@ -19,12 +19,12 @@ resources:
   - name: >-
       6th Convocation: From 2016-09-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1c33470b54d0c95445e97a468a482f568d0cbe98/data/Belarus/Chamber/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Belarus/Chamber/term-6.csv
     format: csv
   - name: >-
       5th Convocation: 2012-09-23 to 2016-09-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/20f29b1769f4d04235d8be330169e7f9bd0d06a8/data/Belarus/Chamber/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Belarus/Chamber/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

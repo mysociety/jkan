@@ -19,7 +19,7 @@ resources:
   - name: >-
       7th National Assembly: From 2012-05-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c39c41e30d189ad893bd701b6d24a2c2dd93dde3/data/Algeria/Majlis/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Algeria/Majlis/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

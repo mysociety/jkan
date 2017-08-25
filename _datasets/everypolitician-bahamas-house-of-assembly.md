@@ -19,7 +19,7 @@ resources:
   - name: >-
       2012–: From 2012-05-08
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a37b1f46080e6c60f54e5891584bce152878f9b3/data/Bahamas/House_of_Assembly/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Bahamas/House_of_Assembly/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

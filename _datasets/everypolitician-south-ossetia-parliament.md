@@ -19,7 +19,7 @@ resources:
   - name: >-
       6th Convocation: From 2014-06-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/044afe664f633e7b20cdb988cfdf3ad2adb138bb/data/South_Ossetia/Parliament/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/South_Ossetia/Parliament/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

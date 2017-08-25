@@ -19,7 +19,7 @@ resources:
   - name: >-
       31st Legislature: 2015-01-12 to 2016-12-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5dcbaa3052f9a67307812772264665b7aa6dbeb3/data/US_Virgin_Islands/Legislature/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/US_Virgin_Islands/Legislature/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

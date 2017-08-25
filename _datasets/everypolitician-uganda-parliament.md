@@ -19,12 +19,12 @@ resources:
   - name: >-
       10th Parliament: From 2016-05-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b10d4a2d6bcc0d38b62628b98130112adc1a8ee5/data/Uganda/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Uganda/Parliament/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2011-05-16 to 2016-05-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e36340d915b59d88a59606f6c92b62cffb8cfe2a/data/Uganda/Parliament/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Uganda/Parliament/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

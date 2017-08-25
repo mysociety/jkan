@@ -19,7 +19,7 @@ resources:
   - name: >-
       2012–: From 2012-02-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/47087463bdf1ecbad42a9792df0c2b1b89b90353/data/Congo-Kinshasa/Assembly/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Congo-Kinshasa/Assembly/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

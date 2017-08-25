@@ -14,62 +14,62 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e31a081471872a090b2b8b0b8a0487831840267/data/Australia/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6362f23b4d5deaba3735ae12c6f664b7806a06d6/data/Australia/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       45th Parliament: From 2016-07-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/82366bbfc5fa0963710b13672ddf5b6783827648/data/Australia/Senate/term-45.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-45.csv
     format: csv
   - name: >-
       44th Parliament: 2013-09-07 to 2016-05-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/82366bbfc5fa0963710b13672ddf5b6783827648/data/Australia/Senate/term-44.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-44.csv
     format: csv
   - name: >-
       43rd Parliament: 2010-08-21 to 2013-09-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f666cf98dd38f701e3022d201bf6f2ab163e3598/data/Australia/Senate/term-43.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-43.csv
     format: csv
   - name: >-
       42nd Parliament: 2007-11-24 to 2010-08-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f79a5885b227247a2930c2cd6767f104f32b85a6/data/Australia/Senate/term-42.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-42.csv
     format: csv
   - name: >-
       41st Parliament: 2004-10-09 to 2007-11-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f79a5885b227247a2930c2cd6767f104f32b85a6/data/Australia/Senate/term-41.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-41.csv
     format: csv
   - name: >-
       40th Parliament: 2001-11-10 to 2004-10-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f79a5885b227247a2930c2cd6767f104f32b85a6/data/Australia/Senate/term-40.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-40.csv
     format: csv
   - name: >-
       39th Parliament: 1998-10-03 to 2001-11-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f79a5885b227247a2930c2cd6767f104f32b85a6/data/Australia/Senate/term-39.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-39.csv
     format: csv
   - name: >-
       38th Parliament: 1996-03-02 to 1998-10-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f79a5885b227247a2930c2cd6767f104f32b85a6/data/Australia/Senate/term-38.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-38.csv
     format: csv
   - name: >-
       37th Parliament: 1993-03-13 to 1996-03-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7f50bd77da19878f83e4659ea5455c28e524836/data/Australia/Senate/term-37.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-37.csv
     format: csv
   - name: >-
       36th Parliament: 1990-03-24 to 1993-03-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7f50bd77da19878f83e4659ea5455c28e524836/data/Australia/Senate/term-36.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-36.csv
     format: csv
   - name: >-
       35th Parliament: 1987-07-11 to 1990-03-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7f50bd77da19878f83e4659ea5455c28e524836/data/Australia/Senate/term-35.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Australia/Senate/term-35.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -77,7 +77,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-07T05:29:36
+last_modified: 2017-08-17T09:05:03
 license: ''
 category:
   - Australia

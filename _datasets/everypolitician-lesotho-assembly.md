@@ -19,7 +19,7 @@ resources:
   - name: >-
       9th Parliament: From 2015-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58cc9fb33e331fe6faa6db14cf9560e506d01b78/data/Lesotho/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Lesotho/Assembly/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

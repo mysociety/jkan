@@ -19,7 +19,7 @@ resources:
   - name: >-
       13th Assembly: From 2014-03-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/45f8d6ee45370da118d77469f6f5e15a7073c06c/data/North_Korea/National_Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/North_Korea/National_Assembly/term-13.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

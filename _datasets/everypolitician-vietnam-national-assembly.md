@@ -19,7 +19,7 @@ resources:
   - name: >-
       13th Congress: 2011-07-25 to 2016-05-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a34c03775c930d94233896fd9cf5b9f1dad07535/data/Vietnam/National_Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Vietnam/National_Assembly/term-13.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

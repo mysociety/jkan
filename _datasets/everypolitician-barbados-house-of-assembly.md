@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8b91f0d2aa5550c1d94688428f757419ae7f05f/data/Barbados/House_of_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e99c3e525d7688cb4b6d710bb82ced609f2c07a2/data/Barbados/House_of_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–2018: From 2013-03-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d53151abe2662163d0acf78af545af2d197bd4e3/data/Barbados/House_of_Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Barbados/House_of_Assembly/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-01-22T06:50:57
+last_modified: 2017-08-17T09:38:19
 license: ''
 category:
   - Barbados

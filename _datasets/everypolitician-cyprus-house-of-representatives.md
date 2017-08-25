@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/502efe99affd717aa2fd316b76119d9b40aa7d5a/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6362f23b4d5deaba3735ae12c6f664b7806a06d6/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Term: From 2016-06-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/502efe99affd717aa2fd316b76119d9b40aa7d5a/data/Cyprus/House_of_Representatives/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cyprus/House_of_Representatives/term-11.csv
     format: csv
   - name: >-
       10th Term: 2011-06-02 to 2016-04-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b895b511f4e2fd32c77935e8548497c991974766/data/Cyprus/House_of_Representatives/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cyprus/House_of_Representatives/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-14T03:17:00
+last_modified: 2017-08-17T09:05:03
 license: ''
 category:
   - Cyprus

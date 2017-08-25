@@ -19,7 +19,7 @@ resources:
   - name: >-
       42nd Parliament: From 2015-12-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/50177a0e2b7790b706a16ca90b3d6517da2f0a52/data/Canada/Senate/term-42.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Canada/Senate/term-42.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

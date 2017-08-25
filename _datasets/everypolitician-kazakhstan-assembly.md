@@ -19,12 +19,12 @@ resources:
   - name: >-
       Sixth Convocation: From 2016-03-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2e6a53f04af0d391973e6e788115c8e0b9b3085c/data/Kazakhstan/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kazakhstan/Assembly/term-6.csv
     format: csv
   - name: >-
       Fifth Convocation: 2012-01-15 to 2016-01-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/afe5f273443f1f087aac686702b57ca806d2126b/data/Kazakhstan/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kazakhstan/Assembly/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

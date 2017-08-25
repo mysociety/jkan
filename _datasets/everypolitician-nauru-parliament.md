@@ -19,22 +19,22 @@ resources:
   - name: >-
       22nd Parliament: From 2016-07-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a304abe71396ad7e2af961f320267f4afb1708fd/data/Nauru/Parliament/term-22.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nauru/Parliament/term-22.csv
     format: csv
   - name: >-
       21st Parliament: 2013-06-11 to 2016-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0adedd7391cdbad36954970ebdcd7e1a5c9fa7af/data/Nauru/Parliament/term-21.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nauru/Parliament/term-21.csv
     format: csv
   - name: >-
       20th Parliament: 2010-06-22 to 2013-05-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8da20f0c2442ace9358e2544e429da0d7e8422dd/data/Nauru/Parliament/term-20.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nauru/Parliament/term-20.csv
     format: csv
   - name: >-
       19th Parliament: 2000-06-19 to 2010-05-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8da20f0c2442ace9358e2544e429da0d7e8422dd/data/Nauru/Parliament/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nauru/Parliament/term-19.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

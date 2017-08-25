@@ -19,27 +19,27 @@ resources:
   - name: >-
       5th National Council: From 2015-12-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ca7514d3cbcb19f0e84ee3326d58e7e88e15178/data/Namibia/Council/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Namibia/Council/term-5.csv
     format: csv
   - name: >-
       4th National Council: 2010 to 2015-12-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e16e2b4f85e6e59b9d62df05a5f38a559d31927/data/Namibia/Council/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Namibia/Council/term-4.csv
     format: csv
   - name: >-
       3rd National Council: 2004 to 2010
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e16e2b4f85e6e59b9d62df05a5f38a559d31927/data/Namibia/Council/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Namibia/Council/term-3.csv
     format: csv
   - name: >-
       2nd National Council: 1998 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e16e2b4f85e6e59b9d62df05a5f38a559d31927/data/Namibia/Council/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Namibia/Council/term-2.csv
     format: csv
   - name: >-
       1st National Council: 1993 to 1998
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ca7514d3cbcb19f0e84ee3326d58e7e88e15178/data/Namibia/Council/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Namibia/Council/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014-2018: 2014-12-29 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21c4d1f66ce9cd13678d36781cfd00f6f272424e/data/Tonga/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Tonga/Assembly/term-2015.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

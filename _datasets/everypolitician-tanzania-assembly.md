@@ -19,22 +19,22 @@ resources:
   - name: >-
       5th Assembly: From 2015-11-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e7c72563bb4b6c08e387245513c7a2d22d1aca14/data/Tanzania/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Tanzania/Assembly/term-5.csv
     format: csv
   - name: >-
       4th Assembly: 2010-10-31 to 2015-06-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/41b0d772f9727144bc0e4f85b9c843a7c236025f/data/Tanzania/Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Tanzania/Assembly/term-4.csv
     format: csv
   - name: >-
       3rd Assembly: 2005-10-30 to 2010-10-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/41b0d772f9727144bc0e4f85b9c843a7c236025f/data/Tanzania/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Tanzania/Assembly/term-3.csv
     format: csv
   - name: >-
       2nd Assembly: 2000-10-29 to 2005-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/41b0d772f9727144bc0e4f85b9c843a7c236025f/data/Tanzania/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Tanzania/Assembly/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,12 +19,12 @@ resources:
   - name: >-
       10th Legislature: From 2016-10-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/64cca533ea70d5d988326b6926723917bd05c54b/data/Morocco/House/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Morocco/House/term-10.csv
     format: csv
   - name: >-
       9th Legislature: 2011-12-19 to 2016-10-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e94e6e97dae5bd22d72468ea5c17860b6dc78e25/data/Morocco/House/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Morocco/House/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

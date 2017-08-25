@@ -19,7 +19,7 @@ resources:
   - name: >-
       Skupština 2012-: 2012-11-06 to 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dd8dddc3843afc2317b62af2e4f84ac9c89c920d/data/Montenegro/Assembly/term-25.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Montenegro/Assembly/term-25.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

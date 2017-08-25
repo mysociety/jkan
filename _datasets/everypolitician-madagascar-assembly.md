@@ -19,7 +19,7 @@ resources:
   - name: >-
       2013-2018: 2013-12-20 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ac026b5dca928299e2c8c001eaf0c35e466c13c3/data/Madagascar/Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Madagascar/Assembly/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

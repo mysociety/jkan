@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/46b5a83dfd85f819066f883200ea63ef36845c48/data/Cameroon/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/989464bfdd226334c5eb78c7dbddd8db40207e15/data/Cameroon/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       9e législature: From 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/328acb852c9c92b4a8aa94598376dfa248d97365/data/Cameroon/Senate/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cameroon/Senate/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-01-22T06:51:10
+last_modified: 2017-08-17T09:54:37
 license: ''
 category:
   - Cameroon

@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014–: From 2014-12-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/70c2ca47333904adf371b383740ec4a51d8e6ea8/data/Bosnia_and_Herzegovina/House_of_Representatives/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Bosnia_and_Herzegovina/House_of_Representatives/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

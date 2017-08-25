@@ -19,17 +19,17 @@ resources:
   - name: >-
       3rd Territorial Council: From 2017-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/56ab148d3f3b87292c1f4af9d41b269c798c4ae4/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2017.csv
     format: csv
   - name: >-
       2nd Territorial Council: 2012-03 to 2017-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/56ab148d3f3b87292c1f4af9d41b269c798c4ae4/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv
     format: csv
   - name: >-
       1st Territorial Council: 2006-03 to 2012-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4a17069e70b7814a095a85c8a0f4ecb47e5b51ac/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

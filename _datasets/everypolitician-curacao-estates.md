@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8f39d4bd00b5df3364a57b99b4d23f2609ba02fe/data/Curacao/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/db4cc3b6437ff9626a191b77ef7de27caaa995d3/data/Curacao/Estates/ep-popolo-v1.0.json
     format: json
   - name: >-
       2nd Curaçaoan Parliament: 2012-11-02 to 2016-11-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8c1837572ef3138b2bce40ae88622c974e05cfc/data/Curacao/Estates/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Curacao/Estates/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-18T04:18:15
+last_modified: 2017-08-17T04:20:09
 license: ''
 category:
   - Curaçao

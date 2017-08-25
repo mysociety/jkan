@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f944030a4a13cb29470deca937446c40062e6918/data/Hungary/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0761d0dd8fb4c2be0a2a850e0986ec676c3d52fc/data/Hungary/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014-05-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/76e3d662c034c557a10d51b91a3a674ce273fab5/data/Hungary/Assembly/term-40.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Hungary/Assembly/term-40.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-08T07:07:11
+last_modified: 2017-08-16T08:04:59
 license: ''
 category:
   - Hungary

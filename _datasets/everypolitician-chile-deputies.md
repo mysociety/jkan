@@ -19,37 +19,37 @@ resources:
   - name: >-
       Legislativo 2014-2018: 2014-03-11 to 2018-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/69ab6908a2c9a40d33e15e31dd227afcb33d621e/data/Chile/Deputies/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-8.csv
     format: csv
   - name: >-
       Legislativo 2010-2014: 2010-03-11 to 2014-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1735f7294c48ea7b91b3b7670f12b1c766cba7b/data/Chile/Deputies/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-6.csv
     format: csv
   - name: >-
       Legislativo 2006-2010: 2006-03-11 to 2010-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1735f7294c48ea7b91b3b7670f12b1c766cba7b/data/Chile/Deputies/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-5.csv
     format: csv
   - name: >-
       Legislativo 2002-2006: 2002-03-11 to 2006-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b79382ada74f1991364ca20efa1d4a9ebc2503c2/data/Chile/Deputies/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-4.csv
     format: csv
   - name: >-
       Legislativo 1998-2002: 1998-03-11 to 2002-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b79382ada74f1991364ca20efa1d4a9ebc2503c2/data/Chile/Deputies/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-3.csv
     format: csv
   - name: >-
       Legislativo 1994-1998: 1994-03-11 to 1998-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b79382ada74f1991364ca20efa1d4a9ebc2503c2/data/Chile/Deputies/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-2.csv
     format: csv
   - name: >-
       Legislativo 1990-1994: 1990-03-11 to 1994-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b79382ada74f1991364ca20efa1d4a9ebc2503c2/data/Chile/Deputies/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Chile/Deputies/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

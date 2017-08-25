@@ -19,7 +19,7 @@ resources:
   - name: >-
       XVI Lok Sabha: From 2014-05-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/759adcfe27a98895466868dd88003e552141ecd4/data/India/Lok_Sabha/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/India/Lok_Sabha/term-16.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,12 +19,12 @@ resources:
   - name: >-
       XI Legislatura: 2016-01-13 to 2016-05-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d41e28b34c4eb7ca017895de1b9b7a12411086d0/data/Spain/Congress/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Spain/Congress/term-11.csv
     format: csv
   - name: >-
       X Legislatura: 2011-11-28 to 2015-10-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d41e28b34c4eb7ca017895de1b9b7a12411086d0/data/Spain/Congress/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Spain/Congress/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       5th Convocation: From 2012-04-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58982266ae65446abe93beb812bf42e378338cb3/data/Abkhazia/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Abkhazia/Assembly/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ff9735005c422e0df8f3d5e792d4f3d5cc40b8ce/data/Cook_Islands/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d863e048a46661c52b13d12bf63a493830058a5/data/Cook_Islands/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       14th Parliament: From 2014-10-08
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/543baba088d7c5369965fc970f41a3333c03927d/data/Cook_Islands/Parliament/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cook_Islands/Parliament/term-14.csv
     format: csv
   - name: >-
       13th Parliament: 2011-02-18 to 2014-04-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaee2bcdbc9b6fdfcd82243416de4ab8e1464d4/data/Cook_Islands/Parliament/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cook_Islands/Parliament/term-13.csv
     format: csv
   - name: >-
       12th Parliament: 2006-09-27 to 2010-09-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eaee2bcdbc9b6fdfcd82243416de4ab8e1464d4/data/Cook_Islands/Parliament/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cook_Islands/Parliament/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-07-18T02:13:28
+last_modified: 2017-08-15T10:00:13
 license: ''
 category:
   - Cook Islands

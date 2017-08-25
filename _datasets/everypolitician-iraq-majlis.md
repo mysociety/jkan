@@ -19,7 +19,7 @@ resources:
   - name: >-
       2nd Council: From 2014-07-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8143d7bf91ffce97a8f1fe15515f72791254f915/data/Iraq/Majlis/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Iraq/Majlis/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

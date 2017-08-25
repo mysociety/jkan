@@ -19,17 +19,17 @@ resources:
   - name: >-
       10th Parliament: From 2016-06-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eb86c6c05b3a3dd0cea402867522b58b82b7a79f/data/Saint_Lucia/Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Lucia/Assembly/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2012-01-05 to 2016-06-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eb86c6c05b3a3dd0cea402867522b58b82b7a79f/data/Saint_Lucia/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Lucia/Assembly/term-9.csv
     format: csv
   - name: >-
       8th Parliament: 2007-01-09 to 2011-11-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eb86c6c05b3a3dd0cea402867522b58b82b7a79f/data/Saint_Lucia/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Saint_Lucia/Assembly/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

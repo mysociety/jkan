@@ -19,7 +19,7 @@ resources:
   - name: >-
       6th Convocation: From 2015-05-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eac9a60ffd90305584c7ee9f42c0a93de3c9b834/data/Nagorno_Karabakh/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Nagorno_Karabakh/Assembly/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
