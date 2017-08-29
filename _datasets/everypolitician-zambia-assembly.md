@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e96dddd2ca907babbadc09e1c37e2f6d4fa298c7/data/Zambia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Zambia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Assembly: 2011-10-06 to 2016-05-11
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-07T05:51:53
+last_modified: 2017-08-29T21:19:36
 license: ''
 category:
   - Zambia

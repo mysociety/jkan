@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/24381c59f112b85ff37127f8d0a16e992ec532ab/data/Nagorno_Karabakh/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Nagorno_Karabakh/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Convocation: From 2015-05-21
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-01-22T06:52:15
+last_modified: 2017-08-29T21:19:36
 license: ''
 category:
   - Nagorno-Karabakh

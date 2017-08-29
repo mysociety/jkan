@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e896b15cce056999bfccbb18749716611001914/data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json
     format: json
   - name: >-
       31st Legislature: 2015-01-12 to 2016-12-31
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-03-03T23:21:08
+last_modified: 2017-08-29T21:19:36
 license: ''
 category:
   - US Virgin Islands
