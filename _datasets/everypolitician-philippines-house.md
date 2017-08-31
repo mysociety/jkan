@@ -19,12 +19,12 @@ resources:
   - name: >-
       17th Congress of the Philippines: From 2016-07-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Philippines/House/term-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Philippines/House/term-17.csv
     format: csv
   - name: >-
       16th Congress of the Philippines: 2013-07-22 to 2016-06-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Philippines/House/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Philippines/House/term-16.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

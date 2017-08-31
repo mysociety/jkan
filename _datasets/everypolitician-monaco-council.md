@@ -19,17 +19,17 @@ resources:
   - name: >-
       2013: 2013-02-21 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Monaco/Council/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Monaco/Council/term-2013.csv
     format: csv
   - name: >-
       2008-2013: 2008 to 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Monaco/Council/term-2008.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Monaco/Council/term-2008.csv
     format: csv
   - name: >-
       2003-2008: 2003 to 2008
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Monaco/Council/term-2003.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Monaco/Council/term-2003.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

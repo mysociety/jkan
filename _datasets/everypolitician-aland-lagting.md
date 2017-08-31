@@ -19,17 +19,17 @@ resources:
   - name: >-
       2015–2019: 2015-11-02 to 2019-10-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Aland/Lagting/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Aland/Lagting/term-2015.csv
     format: csv
   - name: >-
       2011–2015: 2011 to 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Aland/Lagting/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Aland/Lagting/term-2011.csv
     format: csv
   - name: >-
       2007–2011: 2007 to 2011
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Aland/Lagting/term-2007.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Aland/Lagting/term-2007.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,12 +19,12 @@ resources:
   - name: >-
       20th National Assembly: 2016-05-30 to 2020-05-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4a19967b428c791662965809cd6021d20d319939/data/South_Korea/National_Assembly/term-20.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/South_Korea/National_Assembly/term-20.csv
     format: csv
   - name: >-
       19th National Assembly: 2012-05-30 to 2016-05-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4a19967b428c791662965809cd6021d20d319939/data/South_Korea/National_Assembly/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/South_Korea/National_Assembly/term-19.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

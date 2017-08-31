@@ -19,12 +19,12 @@ resources:
   - name: >-
       32nd Dáil: From 2016-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Ireland/Dail/term-32.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Ireland/Dail/term-32.csv
     format: csv
   - name: >-
       31st Dáil: 2011-03-09 to 2016-03-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Ireland/Dail/term-31.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Ireland/Dail/term-31.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

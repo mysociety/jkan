@@ -19,7 +19,7 @@ resources:
   - name: >-
       2013–2017: From 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cayman_Islands/Legislative_Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Cayman_Islands/Legislative_Assembly/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

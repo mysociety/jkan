@@ -19,12 +19,12 @@ resources:
   - name: >-
       9th Legislative Yuan: From 2016-01-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Taiwan/Legislative_Yuan/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Taiwan/Legislative_Yuan/term-9.csv
     format: csv
   - name: >-
       8th Legislative Yuan: 2012-02-01 to 2016-01-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Taiwan/Legislative_Yuan/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Taiwan/Legislative_Yuan/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

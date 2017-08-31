@@ -19,52 +19,52 @@ resources:
   - name: >-
       2014–2019: 2014-06-25 to 2019
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-2014.csv
     format: csv
   - name: >-
       2009–2014: 2009-04-27 to 2014-04-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-2009.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-2009.csv
     format: csv
   - name: >-
       2004–2009: 2004-03-24 to 2009-02-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-2004.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-2004.csv
     format: csv
   - name: >-
       1999–2004: 1999 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-1999.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-1999.csv
     format: csv
   - name: >-
       1994–1999: 1994 to 1999
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-1994.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-1994.csv
     format: csv
   - name: >-
       1989–1994: 1989 to 1994
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-1989.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-1989.csv
     format: csv
   - name: >-
       1984–1989: 1984 to 1989
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-1984.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-1984.csv
     format: csv
   - name: >-
       1980–1984: 1980 to 1984
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-1980.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-1980.csv
     format: csv
   - name: >-
       1976–1980: 1976 to 1980
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-1976.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-1976.csv
     format: csv
   - name: >-
       1971–1976: 1971 to 1976
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Antigua_and_Barbuda/Representatives/term-1971.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Antigua_and_Barbuda/Representatives/term-1971.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

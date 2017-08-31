@@ -19,17 +19,17 @@ resources:
   - name: >-
       12th Saeima: From 2014-11-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Latvia/Saeima/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Latvia/Saeima/term-12.csv
     format: csv
   - name: >-
       11th Saeima: 2011-10-17 to 2014-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Latvia/Saeima/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Latvia/Saeima/term-11.csv
     format: csv
   - name: >-
       10th Saeima: 2010-11-02 to 2011-10-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Latvia/Saeima/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Latvia/Saeima/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

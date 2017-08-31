@@ -19,47 +19,47 @@ resources:
   - name: >-
       15th Council: 2003-06-16 to 2007-08-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-2003.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-2003.csv
     format: csv
   - name: >-
       14th Council: 1999 to 2003
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1999.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1999.csv
     format: csv
   - name: >-
       13th Council: 1995 to 1999
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1995.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1995.csv
     format: csv
   - name: >-
       12th Council: 1990 to 1995
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1990.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1990.csv
     format: csv
   - name: >-
       11th Council: 1986 to 1990
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1986.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1986.csv
     format: csv
   - name: >-
       10th Council: 1983 to 1986
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1983.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1983.csv
     format: csv
   - name: >-
       9th Council: 1979 to 1983
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1979.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1979.csv
     format: csv
   - name: >-
       8th Council: 1975 to 1979
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1975.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1975.csv
     format: csv
   - name: >-
       7th Council: 1971 to 1975
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/British_Virgin_Islands/Council/term-1971.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1971.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

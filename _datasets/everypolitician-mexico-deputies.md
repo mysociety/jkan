@@ -19,12 +19,12 @@ resources:
   - name: >-
       LXIII Legislature: From 2015-09-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Mexico/Deputies/term-63.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Mexico/Deputies/term-63.csv
     format: csv
   - name: >-
       LXII Legislature: 2012-09-01 to 2015-08-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Mexico/Deputies/term-62.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Mexico/Deputies/term-62.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

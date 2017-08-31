@@ -19,12 +19,12 @@ resources:
   - name: >-
       VIII Legislatura: 2016-01-14 to 2020-01-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guatemala/Congress/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Guatemala/Congress/term-8.csv
     format: csv
   - name: >-
       VII Legislatura: 2012-01-14 to 2016-01-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guatemala/Congress/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Guatemala/Congress/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

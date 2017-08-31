@@ -14,67 +14,67 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Sweden/Riksdag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7a0ddcb6c70b8af4b742c6e1e25054d84c3198d6/data/Sweden/Riksdag/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–2018: 2014-09-29 to 2018-09-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c629856c6b36d8b96e15c311338254b0caeae7a5/data/Sweden/Riksdag/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-2014.csv
     format: csv
   - name: >-
       2010–2014: 2010-10-04 to 2014-09-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf0437bba953f285af36420e104bfb2fa72c36e6/data/Sweden/Riksdag/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-2010.csv
     format: csv
   - name: >-
       2006–2010: 2006-10-02 to 2010-10-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf0437bba953f285af36420e104bfb2fa72c36e6/data/Sweden/Riksdag/term-2006.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-2006.csv
     format: csv
   - name: >-
       2002–2006: 2002-09-30 to 2006-10-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf0437bba953f285af36420e104bfb2fa72c36e6/data/Sweden/Riksdag/term-2002.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-2002.csv
     format: csv
   - name: >-
       1998–2002: 1998-10-05 to 2002-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf0437bba953f285af36420e104bfb2fa72c36e6/data/Sweden/Riksdag/term-1998.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1998.csv
     format: csv
   - name: >-
       1994–1998: 1994-10-03 to 1998-10-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf0437bba953f285af36420e104bfb2fa72c36e6/data/Sweden/Riksdag/term-1994.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1994.csv
     format: csv
   - name: >-
       1991–1994: 1991-09-30 to 1994-10-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Sweden/Riksdag/term-1991.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1991.csv
     format: csv
   - name: >-
       1988–1991: 1988-10-03 to 1991-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Sweden/Riksdag/term-1988.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1988.csv
     format: csv
   - name: >-
       1985–1988: 1985-09-30 to 1988-10-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Sweden/Riksdag/term-1985.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1985.csv
     format: csv
   - name: >-
       1982–1985: 1982-10-04 to 1985-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Sweden/Riksdag/term-1982.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1982.csv
     format: csv
   - name: >-
       1979–1982: 1979-10-01 to 1982-10-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Sweden/Riksdag/term-1979.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1979.csv
     format: csv
   - name: >-
       1976–1979: 1976-10-04 to 1979-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Sweden/Riksdag/term-1976.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sweden/Riksdag/term-1976.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -82,7 +82,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T21:19:36
+last_modified: 2017-08-30T18:58:37
 license: ''
 category:
   - Sweden

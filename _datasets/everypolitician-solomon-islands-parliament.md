@@ -19,7 +19,7 @@ resources:
   - name: >-
       10th Parliament: From 2014-12-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a07c7c8f8ac66fde7d442be806cc8bf1fc2b75ad/data/Solomon_Islands/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Solomon_Islands/Parliament/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

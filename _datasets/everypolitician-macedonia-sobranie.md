@@ -19,7 +19,7 @@ resources:
   - name: >-
       2014–2018: From 2014-05-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/43a2b7b13d78d138531c3d62b0ad72339f3d7cb4/data/Macedonia/Sobranie/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Macedonia/Sobranie/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

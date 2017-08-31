@@ -19,12 +19,12 @@ resources:
   - name: >-
       IX Legislatura: From 2016-04-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cabo_Verde/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Cabo_Verde/Assembly/term-9.csv
     format: csv
   - name: >-
       VIII Legislatura: 2011-03-11 to 2016-03-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Cabo_Verde/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Cabo_Verde/Assembly/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

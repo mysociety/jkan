@@ -19,12 +19,12 @@ resources:
   - name: >-
       2017-2018: 2017-01-01 to 2018-12-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Alderney/States/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Alderney/States/term-2017.csv
     format: csv
   - name: >-
       2015–2016: 2015-01-01 to 2016-12-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Alderney/States/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Alderney/States/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

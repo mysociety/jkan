@@ -19,7 +19,7 @@ resources:
   - name: >-
       11th Parliament: From 2013-03-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/675448254355c678c313d7872ee7a438dd47ab3d/data/Kenya/Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kenya/Assembly/term-11.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

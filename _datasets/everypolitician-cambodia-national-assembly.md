@@ -19,7 +19,7 @@ resources:
   - name: >-
       5th Mandate: From 2013-09-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2ea6502c0847647aa467434b77595cf8e93a43a3/data/Cambodia/National_Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Cambodia/National_Assembly/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

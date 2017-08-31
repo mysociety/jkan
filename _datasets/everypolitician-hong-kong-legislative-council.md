@@ -19,12 +19,12 @@ resources:
   - name: >-
       Sixth Legislative Council: From 2016-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Hong_Kong/Legislative_Council/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Hong_Kong/Legislative_Council/term-6.csv
     format: csv
   - name: >-
       Fifth Legislative Council: 2012-10-01 to 2016-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Hong_Kong/Legislative_Council/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Hong_Kong/Legislative_Council/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

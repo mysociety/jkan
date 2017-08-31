@@ -19,7 +19,7 @@ resources:
   - name: >-
       2012–2015: 2012-01-03 to 2015-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Marshall_Islands/Nitijela/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Marshall_Islands/Nitijela/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

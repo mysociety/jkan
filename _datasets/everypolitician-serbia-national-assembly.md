@@ -19,12 +19,12 @@ resources:
   - name: >-
       11th legislature: From 2016-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Serbia/National_Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Serbia/National_Assembly/term-11.csv
     format: csv
   - name: >-
       10th legislature: 2014-05-16 to 2016-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Serbia/National_Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Serbia/National_Assembly/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

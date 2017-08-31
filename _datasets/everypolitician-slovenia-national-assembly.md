@@ -19,7 +19,7 @@ resources:
   - name: >-
       7th National Assembly: From 2014-08-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1c4941d32ee410549b6e592b8853e2690d463d4d/data/Slovenia/National_Assembly/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Slovenia/National_Assembly/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

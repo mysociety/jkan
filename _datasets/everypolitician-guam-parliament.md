@@ -19,22 +19,22 @@ resources:
   - name: >-
       33rd Guam Legislature: From 2015-02-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guam/Parliament/term-33.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Guam/Parliament/term-33.csv
     format: csv
   - name: >-
       32nd Guam Legislature: 2013-01-11 to 2015-01-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guam/Parliament/term-32.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Guam/Parliament/term-32.csv
     format: csv
   - name: >-
       31st Guam Legislature: 2011-02-21 to 2013-01-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guam/Parliament/term-31.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Guam/Parliament/term-31.csv
     format: csv
   - name: >-
       30th Guam Legislature: 2009-02-16 to 2010-12-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Guam/Parliament/term-30.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Guam/Parliament/term-30.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

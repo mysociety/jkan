@@ -19,17 +19,17 @@ resources:
   - name: >-
       XIVe législature de la Ve République: From 2012-06-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/France/National_Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/France/National_Assembly/term-14.csv
     format: csv
   - name: >-
       XIIIe législature de la Ve République: 2007-06-20 to 2012-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/France/National_Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/France/National_Assembly/term-13.csv
     format: csv
   - name: >-
       XIIe législature de la Ve République: 2002-06-19 to 2007-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/France/National_Assembly/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/France/National_Assembly/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

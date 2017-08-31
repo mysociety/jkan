@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/992e56621243512ddb2690907a38b6773f7d7292/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th Verkhovna Rada: From 2014-11-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/35ee09b659440d096e6d62078a6812f8db551da4/data/Ukraine/Verkhovna_Rada/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Ukraine/Verkhovna_Rada/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T21:19:36
+last_modified: 2017-08-30T06:03:42
 license: ''
 category:
   - Ukraine

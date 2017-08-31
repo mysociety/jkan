@@ -19,27 +19,27 @@ resources:
   - name: >-
       Periudha e pestë Legjislative: From 2014-07-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kosovo/Assembly/term-chamber_2014-07-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2014-07-17.csv
     format: csv
   - name: >-
       Periudha e katërt Legjislative: 2010-12-12 to 2014-05-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kosovo/Assembly/term-chamber_2010-12-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2010-12-12.csv
     format: csv
   - name: >-
       Periudha e tretë Legjislative: 2007-12-13 to 2010-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kosovo/Assembly/term-chamber_2007-12-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2007-12-13.csv
     format: csv
   - name: >-
       Periudha e dytë Legjislative: 2004-11-23 to 2007-12-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kosovo/Assembly/term-chamber_2004-11-23.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2004-11-23.csv
     format: csv
   - name: >-
       Periudha e parë Legjislative: 2001-11-17 to 2004-11-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Kosovo/Assembly/term-chamber_2001-11-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2001-11-17.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

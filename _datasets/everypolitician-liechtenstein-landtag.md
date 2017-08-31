@@ -19,22 +19,22 @@ resources:
   - name: >-
       2017-: From 2017-02-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Liechtenstein/Landtag/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Liechtenstein/Landtag/term-2017.csv
     format: csv
   - name: >-
       2013-2017: 2013-03-27 to 2017-02-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Liechtenstein/Landtag/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Liechtenstein/Landtag/term-2013.csv
     format: csv
   - name: >-
       2009-2013: 2009-03-18 to 2013-02-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Liechtenstein/Landtag/term-2009.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Liechtenstein/Landtag/term-2009.csv
     format: csv
   - name: >-
       2005-2009: 2005-04-14 to 2009-02-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Liechtenstein/Landtag/term-2005.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Liechtenstein/Landtag/term-2005.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

@@ -19,7 +19,7 @@ resources:
   - name: >-
       Fourth Parliament of the Second Republic: From 2012-12-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Sierra_Leone/Parliament/term-2-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sierra_Leone/Parliament/term-2-4.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'

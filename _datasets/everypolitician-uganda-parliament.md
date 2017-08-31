@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Uganda/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e6fbd38d5d65b153a4662d3d322b82377af90aeb/data/Uganda/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2016-05-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b2aea1d35c65d2e1ff5a745d0f0a03cde4ebfe9c/data/Uganda/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Uganda/Parliament/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2011-05-16 to 2016-05-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b2aea1d35c65d2e1ff5a745d0f0a03cde4ebfe9c/data/Uganda/Parliament/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Uganda/Parliament/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T21:19:36
+last_modified: 2017-08-29T23:25:48
 license: ''
 category:
   - Uganda

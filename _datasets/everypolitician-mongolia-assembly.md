@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Mongolia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5d03407db5423ffc18ffe583b51e4dfdea3f448d/data/Mongolia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       State Grand Khural 2016-: From 2016-07-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/feae8daee3c319923b0b427a87baed2ae5c55a60/data/Mongolia/Assembly/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Mongolia/Assembly/term-2016.csv
     format: csv
   - name: >-
       State Grand Khural 2012–2016: 2012-06-28 to 2016-06-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Mongolia/Assembly/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Mongolia/Assembly/term-2012.csv
     format: csv
   - name: >-
       State Grand Khural 2008–2012: 2008-07-23 to 2012-06-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e2a3210b5477b1d441cd98cf4e9283f20d8048d/data/Mongolia/Assembly/term-2008.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Mongolia/Assembly/term-2008.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T21:19:36
+last_modified: 2017-08-30T06:07:41
 license: ''
 category:
   - Mongolia

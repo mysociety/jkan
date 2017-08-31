@@ -19,7 +19,7 @@ resources:
   - name: >-
       2012–: From 2012-09-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fe6c849137ea770d0626165ca63d05358c566d12/data/Netherlands/House_of_Representatives/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Netherlands/House_of_Representatives/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
