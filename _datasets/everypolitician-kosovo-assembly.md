@@ -14,32 +14,32 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Kosovo/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e960dc156fdc077c0fabd005de5d36d75274bb4/data/Kosovo/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
-      Periudha e pestë Legjislative: From 2014-07-17
+      Fifth Legislative Period: 2014-07-17 to 2017-05-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2014-07-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e960dc156fdc077c0fabd005de5d36d75274bb4/data/Kosovo/Assembly/term-chamber_2014-07-17.csv
     format: csv
   - name: >-
-      Periudha e katërt Legjislative: 2010-12-12 to 2014-05-07
+      Fourth Legislative Period: 2010-12-12 to 2014-05-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2010-12-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e960dc156fdc077c0fabd005de5d36d75274bb4/data/Kosovo/Assembly/term-chamber_2010-12-12.csv
     format: csv
   - name: >-
-      Periudha e tretë Legjislative: 2007-12-13 to 2010-11-03
+      Third Legislative Period: 2007-12-13 to 2010-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2007-12-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e960dc156fdc077c0fabd005de5d36d75274bb4/data/Kosovo/Assembly/term-chamber_2007-12-13.csv
     format: csv
   - name: >-
-      Periudha e dytë Legjislative: 2004-11-23 to 2007-12-12
+      Second Legislative Period: 2004-11-23 to 2007-12-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2004-11-23.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e960dc156fdc077c0fabd005de5d36d75274bb4/data/Kosovo/Assembly/term-chamber_2004-11-23.csv
     format: csv
   - name: >-
-      Periudha e parë Legjislative: 2001-11-17 to 2004-11-23
+      First Legislative Period: 2001-11-17 to 2004-11-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Kosovo/Assembly/term-chamber_2001-11-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e960dc156fdc077c0fabd005de5d36d75274bb4/data/Kosovo/Assembly/term-chamber_2001-11-17.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T21:19:36
+last_modified: 2017-08-31T16:15:32
 license: ''
 category:
   - Kosovo
