@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/American_Samoa/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d6a1195e4cb4a62b4405bc9a60946c79b1b2983/data/American_Samoa/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-01-03
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T21:19:36
+last_modified: 2017-09-11T03:32:46
 license: ''
 category:
   - American Samoa

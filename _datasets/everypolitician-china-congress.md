@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9adea22814b56ade8e07f5f059aa69d4758d5abc/data/China/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1d40cb74858908b9b89647f7158be05d4d866f94/data/China/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       12th National People’s Congress: From 2013-03-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/China/Congress/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/143018c6dbfce36bf6311d8c0eaced08c2cb64e2/data/China/Congress/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-04T23:29:08
+last_modified: 2017-09-14T20:42:03
 license: ''
 category:
   - China
