@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6ef8238f2a979246250156bac32155cd51773c9/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/564e7c06a035b9aa6bfce1de1726a0a80c2b196e/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: >-
       Eduskunta 37: 2015-04-28 to 2019
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Finland/Eduskunta/term-37.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b129b0402e54c77b03514bbc5e5ac6315ed6c1fc/data/Finland/Eduskunta/term-37.csv
     format: csv
   - name: >-
       Eduskunta 36: 2011-04-20 to 2015-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Finland/Eduskunta/term-36.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b129b0402e54c77b03514bbc5e5ac6315ed6c1fc/data/Finland/Eduskunta/term-36.csv
     format: csv
   - name: >-
       Eduskunta 35: 2007-03-21 to 2011-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Finland/Eduskunta/term-35.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b129b0402e54c77b03514bbc5e5ac6315ed6c1fc/data/Finland/Eduskunta/term-35.csv
     format: csv
   - name: >-
       Eduskunta 34: 2003-03-19 to 2007-03-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Finland/Eduskunta/term-34.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b129b0402e54c77b03514bbc5e5ac6315ed6c1fc/data/Finland/Eduskunta/term-34.csv
     format: csv
   - name: >-
       Eduskunta 33: 1999-03-24 to 2003-03-18
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-14T07:55:44
+last_modified: 2017-09-28T20:38:34
 license: ''
 category:
   - Finland

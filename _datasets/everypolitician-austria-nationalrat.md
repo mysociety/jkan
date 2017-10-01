@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7f8ff5c775529b6980812e37b6c936bdfa7285d0/data/Austria/Nationalrat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2dcf148aac2ff56766033467654eb16497420d12/data/Austria/Nationalrat/ep-popolo-v1.0.json
     format: json
   - name: >-
       25th Legislative Period: From 2013-09-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Austria/Nationalrat/term-25.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ec165b9bd79a604e6c48512b80c62960446c1f89/data/Austria/Nationalrat/term-25.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-18T13:10:31
+last_modified: 2017-09-26T13:14:33
 license: ''
 category:
   - Austria

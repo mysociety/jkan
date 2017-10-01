@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3d55361b77e232ee8e91d961d39571d2da9e3c86/data/Greece/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/384adfaca66aca2a6b9513663cebf77db186bf8d/data/Greece/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Hellenic Parliament: From 2015-09-20
@@ -29,12 +29,12 @@ resources:
   - name: >-
       15th Hellenic Parliament: 2012-06-17 to 2014-12-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6cabdd16f24adddb50015723c2c89e1fd447d2c/data/Greece/Parliament/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/384adfaca66aca2a6b9513663cebf77db186bf8d/data/Greece/Parliament/term-15.csv
     format: csv
   - name: >-
       14th Hellenic Parliament: 2012-05-06 to 2012-05-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Greece/Parliament/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/384adfaca66aca2a6b9513663cebf77db186bf8d/data/Greece/Parliament/term-14.csv
     format: csv
   - name: >-
       13th Hellenic Parliament: 2009-10-04 to 2012-04-11
@@ -69,12 +69,12 @@ resources:
   - name: >-
       7th Hellenic Parliament: 1990-04-08 to 1993-09-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6cabdd16f24adddb50015723c2c89e1fd447d2c/data/Greece/Parliament/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79716c72deba7371c7be2f1e5a04835d5e63dfce/data/Greece/Parliament/term-7.csv
     format: csv
   - name: >-
       6th Hellenic Parliament: 1989-11-05 to 1990-03-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6cabdd16f24adddb50015723c2c89e1fd447d2c/data/Greece/Parliament/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79716c72deba7371c7be2f1e5a04835d5e63dfce/data/Greece/Parliament/term-6.csv
     format: csv
   - name: >-
       5th Hellenic Parliament: 1989-06-18 to 1989-10-12
@@ -84,22 +84,22 @@ resources:
   - name: >-
       4th Hellenic Parliament: 1985-06-02 to 1989-06-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Greece/Parliament/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79716c72deba7371c7be2f1e5a04835d5e63dfce/data/Greece/Parliament/term-4.csv
     format: csv
   - name: >-
       3nd Hellenic Parliament: 1981-10-18 to 1985-05-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Greece/Parliament/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79716c72deba7371c7be2f1e5a04835d5e63dfce/data/Greece/Parliament/term-3.csv
     format: csv
   - name: >-
       2nd Hellenic Parliament: 1977-11-20 to 1981-09-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Greece/Parliament/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79716c72deba7371c7be2f1e5a04835d5e63dfce/data/Greece/Parliament/term-2.csv
     format: csv
   - name: >-
       1st Hellenic Parliament: 1974-11-17 to 1977-10-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Greece/Parliament/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79716c72deba7371c7be2f1e5a04835d5e63dfce/data/Greece/Parliament/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -107,7 +107,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-14T14:13:06
+last_modified: 2017-09-27T02:00:27
 license: ''
 category:
   - Greece

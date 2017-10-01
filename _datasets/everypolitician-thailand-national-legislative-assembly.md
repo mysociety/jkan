@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/22e830079959150ec7929bd30cd8881d8cdf0a82/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f00f650a0879bca1ded8153392ac9662ca4e67ac/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2557 (NCPO): From 2014-08-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Thailand/National_Legislative_Assembly/term-2557.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/61b4d44fff54cad8f2d19207bab1df57c4b3d1bf/data/Thailand/National_Legislative_Assembly/term-2557.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-31T17:22:51
+last_modified: 2017-09-26T13:06:10
 license: ''
 category:
   - Thailand

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6d3fb400b94c27b37ddacb414d427d60e773a464/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cfd476d462ab1c074182a15d2ff797c18bcbb710/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       15th Council: 2003-06-16 to 2007-08-20
@@ -67,7 +67,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-14T05:36:19
+last_modified: 2017-09-22T02:54:46
 license: ''
 category:
   - British Virgin Islands
