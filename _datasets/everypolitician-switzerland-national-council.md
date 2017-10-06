@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ab98970e7901da2cf8d92eb4ce858c069c7e4ef/data/Switzerland/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ca9d5f3b777f76e99cd6cf4bba4f217f367ea3db/data/Switzerland/National_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       50. Legislatur: 2015-11-30 to 2019-11-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3fd7bc73b61106bff6f552194ad93bcf16bbf0e2/data/Switzerland/National_Council/term-50.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ca9d5f3b777f76e99cd6cf4bba4f217f367ea3db/data/Switzerland/National_Council/term-50.csv
     format: csv
   - name: >-
       49. Legislatur: 2011-12-05 to 2015-11-29
@@ -92,7 +92,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-03T01:54:06
+last_modified: 2017-10-06T00:16:10
 license: ''
 category:
   - Switzerland

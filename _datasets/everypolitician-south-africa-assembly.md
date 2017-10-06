@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/84c9f000f3836d7d0ad9530e0cc70c8c213b4b93/data/South_Africa/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e733b4d726533b5a57042bb9d404a51eafed826/data/South_Africa/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       26th Parliament: From 2014-05-21
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-02T22:30:13
+last_modified: 2017-10-06T01:45:55
 license: ''
 category:
   - South Africa

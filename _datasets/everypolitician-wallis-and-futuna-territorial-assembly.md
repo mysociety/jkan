@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/98d036dd7c0dce5cd7edd041a4944a55b087a077/data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1177c15882fda13c375d3bf86072c186c6c20478/data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Wallis_and_Futuna/Territorial_Assembly/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1177c15882fda13c375d3bf86072c186c6c20478/data/Wallis_and_Futuna/Territorial_Assembly/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-15T04:32:59
+last_modified: 2017-10-05T20:38:06
 license: ''
 category:
   - Wallis and Futuna

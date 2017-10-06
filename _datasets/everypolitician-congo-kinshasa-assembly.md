@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d76f276288cb1bf1b16c9d953f0fd809d5595d0b/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d28c7dff1695eb0cf4a577aaf311155b9e75b87b/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012-02-16
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-11T05:00:07
+last_modified: 2017-10-05T21:43:17
 license: ''
 category:
   - Congo-Kinshasa (DRC)

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3386c79c7ed3a32853b079f8aa922d1cc8e35768/data/Algeria/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/aad17b9d4fd97f8e307601b66cb7fc2a87a2c912/data/Algeria/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th National Assembly: From 2012-05-10
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-11T11:59:29
+last_modified: 2017-10-04T03:25:36
 license: ''
 category:
   - Algeria

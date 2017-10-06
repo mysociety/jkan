@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6d77252e606eb1473b3ee18821182d97a4b02c25/data/Luxembourg/Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f8fbf6286836e95c3f1a810ca257894794fe6d37/data/Luxembourg/Chamber/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-11-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Luxembourg/Chamber/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7fcfbe83798fc9a8f72e43a2797037bee7e3c7f1/data/Luxembourg/Chamber/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-21T01:23:38
+last_modified: 2017-10-05T20:19:37
 license: ''
 category:
   - Luxembourg

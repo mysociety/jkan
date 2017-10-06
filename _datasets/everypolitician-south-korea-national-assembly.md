@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a09eef7868eecee8a13d6aab1e80223a1ec7dfd0/data/South_Korea/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b11dae140b99b5c814f066559a8786ea4edac7e/data/South_Korea/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       20th National Assembly: 2016-05-30 to 2020-05-29
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-27T23:10:09
+last_modified: 2017-10-04T12:19:42
 license: ''
 category:
   - South Korea

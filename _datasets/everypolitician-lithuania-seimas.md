@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/edae546bff2e4b3e62273f3e4f1365182cccf4df/data/Lithuania/Seimas/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/76ed4ad44e4c8b1e0f854ec83b609ce85fda6232/data/Lithuania/Seimas/ep-popolo-v1.0.json
     format: json
   - name: >-
       Eleventh Seimas: 2012-11-17 to 2016-11-10
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-27T02:52:32
+last_modified: 2017-10-04T12:56:17
 license: ''
 category:
   - Lithuania

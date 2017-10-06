@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cfd476d462ab1c074182a15d2ff797c18bcbb710/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e66f3c304bb54dd6b4837f16c189f1c6a4c8792/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       15th Council: 2003-06-16 to 2007-08-20
@@ -29,22 +29,22 @@ resources:
   - name: >-
       13th Council: 1995 to 1999
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1995.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e66f3c304bb54dd6b4837f16c189f1c6a4c8792/data/British_Virgin_Islands/Council/term-1995.csv
     format: csv
   - name: >-
       12th Council: 1990 to 1995
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1990.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e66f3c304bb54dd6b4837f16c189f1c6a4c8792/data/British_Virgin_Islands/Council/term-1990.csv
     format: csv
   - name: >-
       11th Council: 1986 to 1990
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1986.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e66f3c304bb54dd6b4837f16c189f1c6a4c8792/data/British_Virgin_Islands/Council/term-1986.csv
     format: csv
   - name: >-
       10th Council: 1983 to 1986
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1983.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e66f3c304bb54dd6b4837f16c189f1c6a4c8792/data/British_Virgin_Islands/Council/term-1983.csv
     format: csv
   - name: >-
       9th Council: 1979 to 1983
@@ -67,7 +67,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-22T02:54:46
+last_modified: 2017-10-06T05:27:39
 license: ''
 category:
   - British Virgin Islands

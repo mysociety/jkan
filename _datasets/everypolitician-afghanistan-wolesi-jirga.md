@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e03056cce81a5e4793696ae60775c9daa778de4f/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/efbd11be4138c6dd29487a4773cd2280746961b4/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json
     format: json
   - name: >-
       2010–2015: 2011-01-26 to 2015-06-22
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-29T02:36:13
+last_modified: 2017-10-06T11:36:35
 license: ''
 category:
   - Afghanistan

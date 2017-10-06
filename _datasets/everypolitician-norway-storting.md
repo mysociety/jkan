@@ -14,47 +14,47 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2501bd577f86c2be1ebea5cf7a0556d8a9156e93/data/Norway/Storting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1c8d10a2af8b3870c9dc6909dc6829f84e6da93/data/Norway/Storting/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017-2021: 2017-10-01 to 2021-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2501bd577f86c2be1ebea5cf7a0556d8a9156e93/data/Norway/Storting/term-2017-2021.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1c8d10a2af8b3870c9dc6909dc6829f84e6da93/data/Norway/Storting/term-2017-2021.csv
     format: csv
   - name: >-
       2013-2017: 2013-10-01 to 2017-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/407356f03a0dd8f43d8ffcce25f8152d7dc96d9b/data/Norway/Storting/term-2013-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ce21050ad9abb5d0cd575bd852e280c8663fb64/data/Norway/Storting/term-2013-2017.csv
     format: csv
   - name: >-
       2009-2013: 2009-10-01 to 2013-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/407356f03a0dd8f43d8ffcce25f8152d7dc96d9b/data/Norway/Storting/term-2009-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ce21050ad9abb5d0cd575bd852e280c8663fb64/data/Norway/Storting/term-2009-2013.csv
     format: csv
   - name: >-
       2005-2009: 2005-10-01 to 2009-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/407356f03a0dd8f43d8ffcce25f8152d7dc96d9b/data/Norway/Storting/term-2005-2009.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ce21050ad9abb5d0cd575bd852e280c8663fb64/data/Norway/Storting/term-2005-2009.csv
     format: csv
   - name: >-
       2001-2005: 2001-10-01 to 2005-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/407356f03a0dd8f43d8ffcce25f8152d7dc96d9b/data/Norway/Storting/term-2001-2005.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ce21050ad9abb5d0cd575bd852e280c8663fb64/data/Norway/Storting/term-2001-2005.csv
     format: csv
   - name: >-
       1997-2001: 1997-10-01 to 2001-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/407356f03a0dd8f43d8ffcce25f8152d7dc96d9b/data/Norway/Storting/term-1997-2001.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ce21050ad9abb5d0cd575bd852e280c8663fb64/data/Norway/Storting/term-1997-2001.csv
     format: csv
   - name: >-
       1993-97: 1993-10-01 to 1997-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/407356f03a0dd8f43d8ffcce25f8152d7dc96d9b/data/Norway/Storting/term-1993-97.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ce21050ad9abb5d0cd575bd852e280c8663fb64/data/Norway/Storting/term-1993-97.csv
     format: csv
   - name: >-
       1989-93: 1989-10-01 to 1993-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/407356f03a0dd8f43d8ffcce25f8152d7dc96d9b/data/Norway/Storting/term-1989-93.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ce21050ad9abb5d0cd575bd852e280c8663fb64/data/Norway/Storting/term-1989-93.csv
     format: csv
   - name: >-
       1985-89: 1985-10-01 to 1989-09-30

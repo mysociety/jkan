@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d00c897425d933bc0314784f5ec8f916ca95ed51/data/Belarus/Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/39b45c40db5facb78fb9d42e7d3ac129eb80c8c6/data/Belarus/Chamber/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Convocation: From 2016-09-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/102470d3034e3078bc445ed3708996787fa10b6d/data/Belarus/Chamber/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/39b45c40db5facb78fb9d42e7d3ac129eb80c8c6/data/Belarus/Chamber/term-6.csv
     format: csv
   - name: >-
       5th Convocation: 2012-09-23 to 2016-09-10
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-29T01:36:42
+last_modified: 2017-10-06T02:15:14
 license: ''
 category:
   - Belarus

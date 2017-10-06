@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/658a0865404c888065cd7b341d6e4ee48a360f7f/data/Romania/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/45070dcdbe7aad4b7e320660ddf52ab4c5f56be0/data/Romania/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th Legislature: 2012-12-12 to 2016-12-10
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-28T08:50:39
+last_modified: 2017-10-04T06:30:49
 license: ''
 category:
   - Romania

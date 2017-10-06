@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd19da756dae1f97bbb56e8e979cf81602e4ba13/data/Greece/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c0afecc149d90e0cd58af86ea4826a6bf7472737/data/Greece/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Hellenic Parliament: From 2015-09-20
@@ -107,7 +107,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-03T06:00:16
+last_modified: 2017-10-05T23:49:26
 license: ''
 category:
   - Greece

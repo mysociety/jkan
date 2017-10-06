@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7f0222922832697a925c04207705ce9d57f02df2/data/Ecuador/Asamblea/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/928f04f582688b492886304e3d2a3e5240d65138/data/Ecuador/Asamblea/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–2017: From 2013-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Ecuador/Asamblea/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/928f04f582688b492886304e3d2a3e5240d65138/data/Ecuador/Asamblea/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-28T04:06:14
+last_modified: 2017-10-06T12:09:26
 license: ''
 category:
   - Ecuador

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/70f4ad9f86abe20ea6806cfd40513d399038e276/data/Haiti/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1e6e91c50e622ece73b7db1d1c44b9beb8dd44b/data/Haiti/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       2011-2015: 2011-05-14 to 2015-01-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Haiti/Deputies/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1e6e91c50e622ece73b7db1d1c44b9beb8dd44b/data/Haiti/Deputies/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-11T12:13:35
+last_modified: 2017-10-06T15:13:33
 license: ''
 category:
   - Haiti

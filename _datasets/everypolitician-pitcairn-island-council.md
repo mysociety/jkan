@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d671ba1193a66086062e7030172dc2bd29c0d6b8/data/Pitcairn/Island_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/adc9f30ee393641a444b914f0f6862528b6d2693/data/Pitcairn/Island_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-11-12
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-11T18:28:54
+last_modified: 2017-10-06T00:13:43
 license: ''
 category:
   - Pitcairn

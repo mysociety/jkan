@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/472216c3a64a9b51a5956a30f336bc9a6dffb3d6/data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/333dcaae5af9f078441d84f5393b2f70dc4cb1db/data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       19th Commonwealth Legislature: From 2014
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-21T03:33:25
+last_modified: 2017-10-05T21:59:37
 license: ''
 category:
   - Northern Mariana Islands

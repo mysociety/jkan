@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9ec25ee53a53d7ebe45261b0df1f5e4f234d9c54/data/Scotland/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/17b2877ac811c76093548f8d30f1d6996d24d167/data/Scotland/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Parliament: From 2016-05-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1af4e35a8881dab268ed2dc8e2643a976cc08356/data/Scotland/Parliament/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4ae80450cd9e78992e4f8910815b4f34c373476/data/Scotland/Parliament/term-5.csv
     format: csv
   - name: >-
       4th Parliament: 2011-05-06 to 2016-03-24
@@ -29,12 +29,12 @@ resources:
   - name: >-
       3rd Parliament: 2007-05-03 to 2011-05-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4481329c24f81b3c309b21defaeaac0359a81efb/data/Scotland/Parliament/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4ae80450cd9e78992e4f8910815b4f34c373476/data/Scotland/Parliament/term-3.csv
     format: csv
   - name: >-
       2nd Parliament: 2003-05-01 to 2007-04-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1af4e35a8881dab268ed2dc8e2643a976cc08356/data/Scotland/Parliament/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4ae80450cd9e78992e4f8910815b4f34c373476/data/Scotland/Parliament/term-2.csv
     format: csv
   - name: >-
       1st Parliament: 1999-05-06 to 2003-03-31
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-29T00:23:57
+last_modified: 2017-10-05T06:17:09
 license: ''
 category:
   - Scotland

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/32322745908067dfd94336118398f24d1340c3be/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9832334f5865e86fe99c133cdb449fee6c88972a/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       43rd National Assembly: 2014-10-27 to 2017-01-26
@@ -29,17 +29,17 @@ resources:
   - name: >-
       41st National Assembly: 2009-07-14 to 2013-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Bulgaria/National_Assembly/term-41.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9832334f5865e86fe99c133cdb449fee6c88972a/data/Bulgaria/National_Assembly/term-41.csv
     format: csv
   - name: >-
       40th National Assembly: 2005-07-11 to 2009-06-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Bulgaria/National_Assembly/term-40.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9832334f5865e86fe99c133cdb449fee6c88972a/data/Bulgaria/National_Assembly/term-40.csv
     format: csv
   - name: >-
       39th National Assembly: 2001-07-05 to 2005-06-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Bulgaria/National_Assembly/term-39.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9832334f5865e86fe99c133cdb449fee6c88972a/data/Bulgaria/National_Assembly/term-39.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-22T07:07:22
+last_modified: 2017-10-06T13:20:49
 license: ''
 category:
   - Bulgaria
