@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2a51c6c67567a5e247e8be35581d3de907195d05/data/San_Marino/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/33972e5d900a3b3a3147ad41b7da5f59a351eab0/data/San_Marino/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       Council 2016–: From 2016-11-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2a51c6c67567a5e247e8be35581d3de907195d05/data/San_Marino/Council/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/33972e5d900a3b3a3147ad41b7da5f59a351eab0/data/San_Marino/Council/term-2016.csv
     format: csv
   - name: >-
       Council 2012–2016: 2012-12-26 to 2016-11-20

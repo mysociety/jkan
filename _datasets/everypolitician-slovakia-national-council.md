@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/522a51a8943492a3f33660c68c8b8b47ad02b829/data/Slovakia/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b7d9b6e27950b20fec3f58700692921742447980/data/Slovakia/National_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       7. Národná rada 2016-: From 2016-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8f1c1a38bd9b90e02ea1e9a1fa7f2b772b17b9b/data/Slovakia/National_Council/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4c64f9969e196f85787c82a52138c4f065b39af9/data/Slovakia/National_Council/term-7.csv
     format: csv
   - name: >-
       6. Národná rada 2012-2016: 2012-03-11 to 2016-02-12
@@ -44,7 +44,7 @@ resources:
   - name: >-
       2. Národná rada 1998-2002: 1998-09-26 to 2002-09-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Slovakia/National_Council/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b4d8b85f94537efc4c238aad2b980b0ff8cd8c45/data/Slovakia/National_Council/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-05T05:52:02
+last_modified: 2017-10-06T17:09:11
 license: ''
 category:
   - Slovakia
