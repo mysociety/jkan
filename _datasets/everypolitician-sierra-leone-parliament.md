@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b06368ba221615e036beaa4980c2c23c70084f92/data/Sierra_Leone/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fdc7b3b731b446367573e931f35e56851f64a463/data/Sierra_Leone/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       Fourth Parliament of the Second Republic: From 2012-12-07
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-01-22T06:52:36
+last_modified: 2017-10-07T17:16:57
 license: ''
 category:
   - Sierra Leone

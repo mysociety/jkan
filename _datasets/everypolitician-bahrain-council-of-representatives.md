@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e82143a80b241f4f8f752452f62198165b2013bc/data/Bahrain/Council_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/07268df560cc2dc4b72b65e740e61470b6797253/data/Bahrain/Council_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014-12-14
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-01-22T06:50:56
+last_modified: 2017-10-07T17:00:08
 license: ''
 category:
   - Bahrain

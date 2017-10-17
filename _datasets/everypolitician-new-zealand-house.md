@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9d684c6cf185e0e744cd8ed66ab8a1d0d98ec519/data/New_Zealand/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/77b27994366888162677fda7bafefc5b5d6a4c49/data/New_Zealand/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       52nd Parliament: From 2017-10-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9d684c6cf185e0e744cd8ed66ab8a1d0d98ec519/data/New_Zealand/House/term-52.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/acc56d8dc395fa5651c3ab42c37471f3d19a1dc2/data/New_Zealand/House/term-52.csv
     format: csv
   - name: >-
       51st Parliament: 2014-10-20 to 2017-08-18
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-07T13:28:12
+last_modified: 2017-10-17T04:44:00
 license: ''
 category:
   - New Zealand

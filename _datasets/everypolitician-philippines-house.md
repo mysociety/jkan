@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/de57c202740e1f19c22ca318dde7c118c6fb2962/data/Philippines/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3f50db5c7d2c97837f816208b21f3a46c8864693/data/Philippines/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Congress of the Philippines: From 2016-07-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/de57c202740e1f19c22ca318dde7c118c6fb2962/data/Philippines/House/term-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3f50db5c7d2c97837f816208b21f3a46c8864693/data/Philippines/House/term-17.csv
     format: csv
   - name: >-
       16th Congress of the Philippines: 2013-07-22 to 2016-06-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/544d7929356cc48dbe063ade32073ab4edd98b15/data/Philippines/House/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3f50db5c7d2c97837f816208b21f3a46c8864693/data/Philippines/House/term-16.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-07T13:09:23
+last_modified: 2017-10-16T09:45:03
 license: ''
 category:
   - Philippines

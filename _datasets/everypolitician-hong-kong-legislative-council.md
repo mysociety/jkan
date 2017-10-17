@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d9805cca6e1190156c69195f4b298eb4f44e401/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d62a9c4794a0312a4801f8a512e7b7752da01445/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       Sixth Legislative Council: From 2016-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d9805cca6e1190156c69195f4b298eb4f44e401/data/Hong_Kong/Legislative_Council/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d62a9c4794a0312a4801f8a512e7b7752da01445/data/Hong_Kong/Legislative_Council/term-6.csv
     format: csv
   - name: >-
       Fifth Legislative Council: 2012-10-01 to 2016-09-30
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-07T07:26:23
+last_modified: 2017-10-15T17:42:02
 license: ''
 category:
   - Hong Kong
