@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58c37e873ef7c95f542900c3b6f546cbde5d851b/data/Argentina/Senado/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/806ea4585454f470d35a623ff97b88b7c8881124/data/Argentina/Senado/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017: 2017-03-01 to 2017-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58c37e873ef7c95f542900c3b6f546cbde5d851b/data/Argentina/Senado/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/806ea4585454f470d35a623ff97b88b7c8881124/data/Argentina/Senado/term-2017.csv
     format: csv
   - name: >-
       2016: 2016-03-01 to 2016-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58c37e873ef7c95f542900c3b6f546cbde5d851b/data/Argentina/Senado/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/806ea4585454f470d35a623ff97b88b7c8881124/data/Argentina/Senado/term-2016.csv
     format: csv
   - name: >-
       2015: 2015-03-01 to 2015-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58c37e873ef7c95f542900c3b6f546cbde5d851b/data/Argentina/Senado/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/806ea4585454f470d35a623ff97b88b7c8881124/data/Argentina/Senado/term-2015.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-06T10:49:16
+last_modified: 2017-10-19T08:34:26
 license: ''
 category:
   - Argentina
