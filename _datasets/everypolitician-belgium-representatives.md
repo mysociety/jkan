@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4e90f65300807aa1046d3fe75131b6bbd05b9a4e/data/Belgium/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4a96c2ebacd46e150f331035ce33a43912433e0b/data/Belgium/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       Législature 54: From 2014-06-19
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-18T16:19:15
+last_modified: 2017-10-20T02:38:21
 license: ''
 category:
   - Belgium

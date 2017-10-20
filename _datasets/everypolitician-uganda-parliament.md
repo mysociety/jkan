@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/adc625521c594906de3ae715be0b25d8963f67c6/data/Uganda/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/47c4ac36bb388f7f43594bc17e1e0e5a4e6a2efd/data/Uganda/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2016-05-16
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-17T02:40:21
+last_modified: 2017-10-20T03:41:07
 license: ''
 category:
   - Uganda

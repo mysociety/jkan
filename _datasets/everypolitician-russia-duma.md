@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/44f8e6bd55110cbfce44e1072bf600563449c10a/data/Russia/Duma/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/de634c80b25a1690ee60a83ecaf1e64e1b6d63c2/data/Russia/Duma/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th Convocation: From 2016-10-05
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-19T02:26:40
+last_modified: 2017-10-19T23:47:25
 license: ''
 category:
   - Russia

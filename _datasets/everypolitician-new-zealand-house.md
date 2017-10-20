@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4fa52d04bccc19a9216cda1c65bc81a9b7717994/data/New_Zealand/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4a1ea8f8df8326fdd45d3997bdd157474e620f4c/data/New_Zealand/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       52nd Parliament: From 2017-10-12
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-18T22:55:39
+last_modified: 2017-10-20T01:11:57
 license: ''
 category:
   - New Zealand
