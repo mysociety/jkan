@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5b2abc6f291890dc9cee453d42dbe0d40836cc50/data/Niue/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cb518ed396124073092b03a67654c095215445c5/data/Niue/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       16th Assembly: From 2017-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f96fb3d5760c7c370f0f3ad20a7f3df34c27ad09/data/Niue/Assembly/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c38f76e5dffc0b19ff0605f47d034a52cf693271/data/Niue/Assembly/term-16.csv
     format: csv
   - name: >-
       15th Assembly: 2014-04-23 to 2017-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Niue/Assembly/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c38f76e5dffc0b19ff0605f47d034a52cf693271/data/Niue/Assembly/term-15.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-04T17:33:00
+last_modified: 2017-12-06T07:16:07
 license: ''
 category:
   - Niue

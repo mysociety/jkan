@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/99777b7b89b27007deee95494fbd8bccafa7c7cf/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/26f53d21836aac47aa157f8c4521888a8310030a/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
     format: json
   - name: >-
       Løgting 2015–: From 2015-09-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Faroe_Islands/Logting/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/26f53d21836aac47aa157f8c4521888a8310030a/data/Faroe_Islands/Logting/term-2015.csv
     format: csv
   - name: >-
       Løgting 2011–2015: 2011-10-29 to 2015-09-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Faroe_Islands/Logting/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/26f53d21836aac47aa157f8c4521888a8310030a/data/Faroe_Islands/Logting/term-2011.csv
     format: csv
   - name: >-
       Løgting 2008–2011: 2008-01-19 to 2011-10-29
@@ -62,7 +62,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-16T20:38:04
+last_modified: 2017-12-06T02:50:23
 license: ''
 category:
   - Faroe Islands

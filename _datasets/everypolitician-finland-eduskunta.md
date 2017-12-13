@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2689eecd6fc9ccd5825a0e7cffdf0b5035f6f546/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: >-
       Eduskunta 37: 2015-04-28 to 2019
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5c72bc69c6c48dc26c6451adeea227c7cddcf10b/data/Finland/Eduskunta/term-37.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/term-37.csv
     format: csv
   - name: >-
       Eduskunta 36: 2011-04-20 to 2015-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b129b0402e54c77b03514bbc5e5ac6315ed6c1fc/data/Finland/Eduskunta/term-36.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/term-36.csv
     format: csv
   - name: >-
       Eduskunta 35: 2007-03-21 to 2011-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b129b0402e54c77b03514bbc5e5ac6315ed6c1fc/data/Finland/Eduskunta/term-35.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/term-35.csv
     format: csv
   - name: >-
       Eduskunta 34: 2003-03-19 to 2007-03-20
@@ -49,12 +49,12 @@ resources:
   - name: >-
       Eduskunta 31: 1991-03-22 to 1995-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Finland/Eduskunta/term-31.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/term-31.csv
     format: csv
   - name: >-
       Eduskunta 30: 1987-03-21 to 1991-03-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Finland/Eduskunta/term-30.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/term-30.csv
     format: csv
   - name: >-
       Eduskunta 29: 1983-03-26 to 1987-03-20
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-17T11:36:35
+last_modified: 2017-12-03T04:40:31
 license: ''
 category:
   - Finland
