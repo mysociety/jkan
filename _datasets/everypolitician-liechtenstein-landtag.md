@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f30430dacda524961b539e5d37e953fb694ebd17/data/Liechtenstein/Landtag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ba2a22bb59c4e9dbdd87cd8d08171b427bc99a0/data/Liechtenstein/Landtag/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017-: From 2017-02-05
@@ -42,7 +42,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-06T12:29:54
+last_modified: 2017-12-15T05:37:54
 license: ''
 category:
   - Liechtenstein

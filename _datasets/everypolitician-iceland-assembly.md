@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/190241ee594cf56ff4c263f53e71d38c21ced58f/data/Iceland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8bd8bdf825ac2da13119296fc74fa570f298b05b/data/Iceland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Alþingi 2013: 2013-06-06 to 2016-10-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Iceland/Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8bd8bdf825ac2da13119296fc74fa570f298b05b/data/Iceland/Assembly/term-2013.csv
     format: csv
   - name: >-
       Alþingi 2009: 2009-05-15 to 2013-03-27
@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-18T09:56:11
+last_modified: 2017-12-15T03:08:14
 license: ''
 category:
   - Iceland

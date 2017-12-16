@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6342f913697d4af27172cc67c914fdaef7138024/data/Zambia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bd40a279880931f1eadbe7392b7b43d4ac9172d2/data/Zambia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       12th Assembly: From 2016-09-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6342f913697d4af27172cc67c914fdaef7138024/data/Zambia/Assembly/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bd40a279880931f1eadbe7392b7b43d4ac9172d2/data/Zambia/Assembly/term-2016.csv
     format: csv
   - name: >-
       11th Assembly: 2011-10-06 to 2016-05-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f4472fc31d4b88881608db43089b21cd5b010015/data/Zambia/Assembly/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bd40a279880931f1eadbe7392b7b43d4ac9172d2/data/Zambia/Assembly/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-12-06T10:17:04
+last_modified: 2017-12-15T14:48:57
 license: ''
 category:
   - Zambia

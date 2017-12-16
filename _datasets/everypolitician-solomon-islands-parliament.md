@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/62045da5959f3a24dec8e18a2c17d2c2926cc267/data/Solomon_Islands/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/86b5f72e810e2dd0ec572bd089cbda3622d4b7a7/data/Solomon_Islands/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2014-12-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/62045da5959f3a24dec8e18a2c17d2c2926cc267/data/Solomon_Islands/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/86b5f72e810e2dd0ec572bd089cbda3622d4b7a7/data/Solomon_Islands/Parliament/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-11-23T08:22:34
+last_modified: 2017-12-16T01:53:38
 license: ''
 category:
   - Solomon Islands

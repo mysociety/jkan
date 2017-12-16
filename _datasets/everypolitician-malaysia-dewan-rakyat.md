@@ -14,52 +14,52 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament of Malaysia: From 2013-06-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-13.csv
     format: csv
   - name: >-
       12th Parliament of Malaysia: 2008 to 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eed0b564a1e1246837c9decd6ab3ac90dfd0a715/data/Malaysia/Dewan_Rakyat/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3c0f421c36f7ae518f507faab6a6a1a8d0c2d458/data/Malaysia/Dewan_Rakyat/term-12.csv
     format: csv
   - name: >-
       11th Parliament of Malaysia: 2004 to 2008
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-11.csv
     format: csv
   - name: >-
       10th Parliament of Malaysia: 1999 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-10.csv
     format: csv
   - name: >-
       9th Parliament of Malaysia: 1995 to 1999
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-9.csv
     format: csv
   - name: >-
       8th Parliament of Malaysia: 1990 to 1995
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-8.csv
     format: csv
   - name: >-
       7th Parliament of Malaysia: 1986 to 1990
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-7.csv
     format: csv
   - name: >-
       6th Parliament of Malaysia: 1982 to 1986
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-6.csv
     format: csv
   - name: >-
       5th Parliament of Malaysia: 1978 to 1982
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ab9c87604bbeba290ba6256c22427a2155968f6/data/Malaysia/Dewan_Rakyat/term-5.csv
     format: csv
   - name: >-
       4th Parliament of Malaysia: 1974 to 1978
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-11-25T09:58:49
+last_modified: 2017-12-15T09:09:52
 license: ''
 category:
   - Malaysia

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/140a1a64b4f439690c14c178c250b4f35ff5e28c/data/Saint_Barthelemy/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1c069cd17c5af7282e07e18c4a11c463caff8bb/data/Saint_Barthelemy/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–2017: From 2012
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-28T04:58:02
+last_modified: 2017-12-15T12:21:53
 license: ''
 category:
   - Saint Barthélemy

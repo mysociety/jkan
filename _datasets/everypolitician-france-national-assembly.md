@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f578f28271d38c7a5b85452b48936b07b204cced/data/France/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c1cbce2e89da06fb85914c9500cf17e68d6be6c9/data/France/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       XVe législature de la Ve République: From 2017-06-21
@@ -29,7 +29,7 @@ resources:
   - name: >-
       XIIIe législature de la Ve République: 2007-06-20 to 2012-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f7abe6e4489d5217e016fe43669ffb92733580c7/data/France/National_Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bec93e7d241af159c2f1d96a788d0637d92e25eb/data/France/National_Assembly/term-13.csv
     format: csv
   - name: >-
       XIIe législature de la Ve République: 2002-06-19 to 2007-06-19
@@ -42,7 +42,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-11-14T05:53:15
+last_modified: 2017-12-16T08:48:46
 license: ''
 category:
   - France
