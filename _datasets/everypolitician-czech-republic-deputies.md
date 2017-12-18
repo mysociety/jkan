@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/125cdb7be2be9296be655a3e7547ce31f8be7a9a/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b19add3c800ca4a023770c37ddeaf6431663544f/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       7. volební období: From 2013-10-26
@@ -29,22 +29,22 @@ resources:
   - name: >-
       5. volební období: 2006-06-03 to 2010-05-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6905cb72b1327fda2b8f263935fb28edefbfe0ac/data/Czech_Republic/Deputies/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b19add3c800ca4a023770c37ddeaf6431663544f/data/Czech_Republic/Deputies/term-5.csv
     format: csv
   - name: >-
       4. volební období: 2002-06-15 to 2006-06-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6905cb72b1327fda2b8f263935fb28edefbfe0ac/data/Czech_Republic/Deputies/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b19add3c800ca4a023770c37ddeaf6431663544f/data/Czech_Republic/Deputies/term-4.csv
     format: csv
   - name: >-
       3. volební období: 1998-06-20 to 2002-06-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6905cb72b1327fda2b8f263935fb28edefbfe0ac/data/Czech_Republic/Deputies/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b19add3c800ca4a023770c37ddeaf6431663544f/data/Czech_Republic/Deputies/term-3.csv
     format: csv
   - name: >-
       2. volební období: 1996-06-01 to 1998-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6905cb72b1327fda2b8f263935fb28edefbfe0ac/data/Czech_Republic/Deputies/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b19add3c800ca4a023770c37ddeaf6431663544f/data/Czech_Republic/Deputies/term-2.csv
     format: csv
   - name: >-
       1. volební období: 1992-06-06 to 1996-05-31
@@ -57,7 +57,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-12-16T10:09:46
+last_modified: 2017-12-17T13:38:25
 license: ''
 category:
   - Czech Republic
