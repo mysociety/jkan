@@ -1,21 +1,24 @@
-<!DOCTYPE html>
-<html prefix="dct: http://purl.org/dc/terms/
-              rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
-              dcat: http://www.w3.org/ns/dcat#
-              foaf: http://xmlns.com/foaf/0.1/">
 
-  {% include head.html %}
+<!doctype html>
+<html lang="en">
 
-  <body>
+{% include mysoc_head.html %}
 
-    {% include header.html %}
+<body>
 
-    <section data-hook="main" class="container">
-      {{ content }}
-    </section>
+{% include mysoc_header.html %}
 
-    {% include footer.html %}
+    <div class="page-wrapper" >
+        <div class="page">
+            <div class="main-content-column-full-width" style="padding-top:10px">
+                <main role="main" class="main-content">
+					{{content}}
+                </main>
+            </div>
+        </div>
+    </div>
 
-  </body>
-
+{% include mysoc_footer.html %}
+	
+</body>
 </html>
