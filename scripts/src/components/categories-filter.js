@@ -31,16 +31,18 @@ export default class {
         const filteredDatasets = filter(datasetsInCat, filters)
         const categorySlug = slugify(category)
         const selected = params.category && params.category === categorySlug
+		const highlighted = ["united-kingdom","groups-bodies","apis","geodata","people"].indexOf(categorySlug) != -1
         const itemParams = selected ? omit(params, 'category') : defaults({category: categorySlug}, params)
         return {
           title: category,
           url: '?' + $.param(itemParams),
           count: filteredDatasets.length,
           unfilteredCount: datasetsInCat.length,
-          selected: selected
+          selected: selected,
+		  highlighted: highlighted
         }
       })
-      .orderBy('unfilteredCount', 'desc')
+      .orderBy(['highlighted','unfilteredCount'], ['desc','desc'])
       .value()
   }
 }
