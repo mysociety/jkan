@@ -1,11 +1,11 @@
 title: mySociety Data
-greeting: Welcome to mySociety Data
-description: Explore all of mySociety's helpful APIs and datasets in one place (beta).
+greeting: mySociety Data
+description: mySociety's datasets and data services.
 baseurl: ''
-logo: /img/jkan.png
+logo: /img/orgs/ms.png
 
 # Site theme
-jkan_theme: Flatly
+jkan_theme: default
 
 # Authentication
 github_client_id: 6adbccde067603821507
@@ -74,6 +74,12 @@ twittercard:
 opengraph:
   enabled: true
 
+sass:
+    sass_dir: 
+    load_paths:
+        - theme/sass
+        - sass  
+  
 # Exclude these files from the build
 exclude:
   - Gemfile

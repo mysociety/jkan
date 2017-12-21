@@ -24,7 +24,7 @@
 - name: GE2017
   logo: /img/categories/election.svg
   logo_credit: Luis Prado from the Noun Project
-  featured: true
+  featured: false
 - name: WriteToThem
   logo: ''
   logo_credit: ''
