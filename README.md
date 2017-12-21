@@ -1,22 +1,34 @@
-# JKAN [![Build Status](https://travis-ci.org/timwis/jkan.svg?branch=gh-pages)](https://travis-ci.org/timwis/jkan) [![Join the chat at https://gitter.im/timwis/jkan](https://badges.gitter.im/timwis/jkan.svg)](https://gitter.im/timwis/jkan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# mySociety Data Portal repo - running on JKAN [![Build Status](https://travis-ci.org/timwis/jkan.svg?branch=gh-pages)](https://travis-ci.org/timwis/jkan) [![Join the chat at https://gitter.im/timwis/jkan](https://badges.gitter.im/timwis/jkan.svg)](https://gitter.im/timwis/jkan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A lightweight, backend-free open data portal, powered by Jekyll
 
-Open-source data portals can be [really](https://twitter.com/waldojaquith/status/282599673569619969).
-[hard](https://twitter.com/chris_whong/status/669207423719235584). to install and maintain. But their
-basic purpose of providing links to download data really isn't that complicated. JKAN is a proof-of-concept
-that allows a small, resource-strapped government agency to stand-up an open data portal by simply
-[clicking the fork button](https://help.github.com/articles/fork-a-repo/).
+View at data.mysociety.org
 
-Please note this is still a work in progress! Check out the [issues](https://github.com/timwis/jkan/issues) to help
-out or give feedback.
+##Local Development
 
-[Demo site](https://demo.jkan.io)
+Vagrant file will get to a state where jekyll will run a local server:
 
-## Installation
-See [Get Started](https://jkan.io/#get-started) on [jkan.io](https://jkan.io) for an installation wizard,
-or follow the [manual installation](https://github.com/timwis/jkan/wiki/Manual-Installation) instructions yourself.
+    $ vagrant up
+    $ vagrant ssh  
+    $ cd /vagrant
+    $ ./run_locally.bash
 
-For configuration details, see the [wiki](https://github.com/timwis/jkan/wiki)
+This will then start the rendering process and serve on http://127.0.0.1:4000
 
-## Development
-Please see the [Architecture](https://github.com/timwis/jkan/wiki/Architecture) page in the wiki.
+Can't get the JS development side working entirely on vagrant at the moment, see https://github.com/timwis/jkan/wiki/Architecture for how this is *supposed* to work. 
+
+##Theme
+
+Jkan runs on Jekyll.
+
+Local adaptions to mySociety theme are in sass folder - both that and 'theme/sass' are equally accessible to compiler - so no need for relative paths. 
+
+Key tempate is templates/default.html - this then brings in various mysoc_ includes. 
+
+
+##Known untidyness
+
+To force featured categories to the top of the category list on the dataset page, these slugs are referred to manually in \scripts\src\components\categories-filter.js
+
+Ideally these would access the categories information to prioritise without hardcoding. 
+
+
