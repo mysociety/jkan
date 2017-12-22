@@ -15,10 +15,10 @@
                 <nav role="navigation" class="site-nav nav-collapse">
                     <ul>
 						{% for link in site.navigation %}
-							<li><a href="{{ site.baseurl }}{{ link.url }}">{% if link.title == "Organizations" %}Sources{% else %}{{ link.title }}{% endif %}</a></li>
+							<li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
 						{% endfor %}						
 					</ul>
                 </nav>
             </div>
         </div>
-    </header
+    </header>

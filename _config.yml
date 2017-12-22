@@ -18,8 +18,8 @@ schema: default
 navigation:
   - title: Datasets
     url: /datasets/
-  - title: Organizations
-    url: /organizations/
+  - title: Sources
+    url: /sources/
 
 # Collections
 collections:
@@ -28,7 +28,7 @@ collections:
     permalink: /datasets/:path/
   organizations:
     output: true
-    permalink: /organizations/:path/
+    permalink: /sources/:path/
 
 # Collections (cont'd)
 defaults:
