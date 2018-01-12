@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/25e66905983907d91727e38515fa19bef3977ec4/data/Wales/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6c17b3e6c135b662f0e79bbac20d4dea76d3f2c/data/Wales/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Fifth Assembly: From 2016-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/56fa6dd2434f8361c72a85fa430e18cacbc736f4/data/Wales/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6c17b3e6c135b662f0e79bbac20d4dea76d3f2c/data/Wales/Assembly/term-5.csv
     format: csv
   - name: >-
       Fourth Assembly: 2011-09-15 to 2016-04-06
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-02T10:40:40
+last_modified: 2018-01-12T09:32:02
 license: ''
 category:
   - Wales

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d42b4d5bad4e5cc4485791e86d67c51ef0cd7f18/data/Togo/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/19acd6f45102b5724437ab7b32e7fd88260d8b35/data/Togo/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-08-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Togo/Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/19acd6f45102b5724437ab7b32e7fd88260d8b35/data/Togo/Assembly/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-12-06T05:21:51
+last_modified: 2018-01-11T06:39:29
 license: ''
 category:
   - Togo
