@@ -57,7 +57,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-17T09:27:26
+last_modified: 2017-08-17T10:27:26
 license: ''
 category:
   - Anguilla

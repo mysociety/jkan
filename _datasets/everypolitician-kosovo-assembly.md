@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-07T14:48:55
+last_modified: 2017-10-07T15:48:55
 license: ''
 category:
   - Kosovo

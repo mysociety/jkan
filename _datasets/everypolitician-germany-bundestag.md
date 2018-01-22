@@ -117,7 +117,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-07T16:50:20
+last_modified: 2017-10-07T17:50:20
 license: ''
 category:
   - Germany

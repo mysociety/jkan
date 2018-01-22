@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-04T13:45:35
+last_modified: 2017-10-04T14:45:35
 license: ''
 category:
   - Abkhazia

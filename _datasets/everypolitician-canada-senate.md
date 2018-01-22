@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-19T01:49:56
+last_modified: 2017-10-19T02:49:56
 license: ''
 category:
   - Canada

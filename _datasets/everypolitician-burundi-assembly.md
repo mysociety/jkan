@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-17T09:49:05
+last_modified: 2017-08-17T10:49:05
 license: ''
 category:
   - Burundi

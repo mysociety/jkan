@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-17T09:38:19
+last_modified: 2017-08-17T10:38:19
 license: ''
 category:
   - Barbados

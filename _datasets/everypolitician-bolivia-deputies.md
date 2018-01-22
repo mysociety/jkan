@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T23:06:53
+last_modified: 2017-08-30T00:06:53
 license: ''
 category:
   - Bolivia

@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-04-02T11:07:28
+last_modified: 2017-04-02T12:07:28
 license: ''
 category:
   - Libya
