@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-29T22:19:36
+last_modified: 2017-08-29T21:19:36
 license: ''
 category:
   - Guernsey

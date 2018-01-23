@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-09-11T06:54:48
+last_modified: 2017-09-11T05:54:48
 license: ''
 category:
   - Saint Vincent and the Grenadines

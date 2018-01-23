@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-07T18:16:57
+last_modified: 2017-10-07T17:16:57
 license: ''
 category:
   - Sierra Leone

@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-26T09:37:59
+last_modified: 2017-08-26T08:37:59
 license: ''
 category:
   - Grenada

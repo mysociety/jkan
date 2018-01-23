@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-10-07T11:09:11
+last_modified: 2017-10-07T10:09:11
 license: ''
 category:
   - New Caledonia
