@@ -3,7 +3,7 @@ A lightweight, backend-free open data portal, powered by Jekyll
 
 View at data.mysociety.org
 
-##Local Development
+## Local Development
 
 Vagrant file will get to a state where jekyll will run a local server:
 
@@ -16,7 +16,7 @@ This will then start the rendering process and serve on http://127.0.0.1:4000
 
 Can't get the JS development side working entirely on vagrant at the moment, see https://github.com/timwis/jkan/wiki/Architecture for how this is *supposed* to work. 
 
-##Theme
+## Theme
 
 Jkan runs on Jekyll.
 
