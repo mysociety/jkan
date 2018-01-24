@@ -24,11 +24,12 @@ Local adaptions to mySociety theme are in sass folder - both that and 'theme/sas
 
 Key tempate is templates/default.html - this then brings in various mysoc_ includes. 
 
+Don't forget to `git submodule update --init --recursive` to pull down the mySociety styles
 
-##Known untidyness
+
+## Known untidyness
 
 To force featured categories to the top of the category list on the dataset page, these slugs are referred to manually in \scripts\src\components\categories-filter.js
 
 Ideally these would access the categories information to prioritise without hardcoding. 
-
 
