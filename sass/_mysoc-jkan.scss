@@ -53,9 +53,12 @@ dataset {
   padding-bottom: 20px;
 }
 
+.list-group {
+  font-size: .888888889em; //16px 
+}
+
 .list-group-item-truncate {
   display: inline-block;
-  line-height: 1;
   width: 75%;
   overflow: hidden;
   white-space: nowrap;
