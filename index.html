@@ -2,17 +2,23 @@
 layout: default
 ---
 
-<h1>{{ site.description }}</h1>
-
+<h1 class="homepage-title">{{ site.description }}</h1>
+<div class="homepage-description">
+  <p>mySociety services both produces a lot of useful (and interesting!) data. Over the years we’ve often made components or the results of mySociety services available through <a href="/datasets/?category=apis">APIs</a> or as open data to download (such as our <a href="/sources/everypolitician/">EveryPolitician data</a>).</p>
+  <p>This data portal brings all our published data together in one place to help people make the use of all the data products we provide.</p>
+</div>
 <div class="homepage-categories">
+  
 {% for category in site.data.categories %}
   {% if category.featured == true %}
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
+    <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail category-card" title="{{ logo_alt }}">
+      <div class="category-card__content">
       {% if category.logo and category.logo != empty %}
-        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
+        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}" class="category-card__image" height="128" width="128">
       {% endif %}
-      {{ category.name }}
+      <h2 class="category-card__title">{{ category.name }}</h2>
+      </div>
     </a>
   {% endif %}
 {% endfor %}
