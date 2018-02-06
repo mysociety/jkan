@@ -2,7 +2,7 @@
 schema: default
 title: UK - Constituency Information
 organization: mySociety
-notes: Constituency name and ID reconcilliation information.
+notes: Constituency name and ID reconciliation information.
 
 resources:
   - name: Westminster Constituencies
