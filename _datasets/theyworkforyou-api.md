@@ -46,6 +46,9 @@ resources:
   - name: 'Example code for getting MP Information for Javascript, Python and Ruby'
     url: 'https://gist.github.com/pezholio/3114a6d74d1326ef786bf2592d17c90e'
     format: ''
+  - name: 'Download the raw ParlParse XML files'
+    url: 'http://data.mysociety.org/datasets/uk-hansard/'
+    format: ''
 license: ''
 category:
   - People
