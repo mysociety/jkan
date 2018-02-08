@@ -8,7 +8,6 @@ resources:
   - name: Hansard Reports
     url: 'http://parser.theyworkforyou.com/hansard.html'
     format: info
-resources:
   - name: TheyWorkForYou API
     url: 'http://data.mysociety.org/datasets/theyworkforyou-api/'
     format: info
