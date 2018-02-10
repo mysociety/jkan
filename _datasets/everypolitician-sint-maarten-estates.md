@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2a46ac4478d2c74f55d785a04ba1a591eff62830/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ad02d0ce49df5ee863bfd9f3f4bf5d6ef777ccb/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
     format: json
   - name: >-
       3rd Estates: From 2016-11-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sint_Maarten/Estates/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ad02d0ce49df5ee863bfd9f3f4bf5d6ef777ccb/data/Sint_Maarten/Estates/term-3.csv
     format: csv
   - name: >-
       2nd Estates: 2014-10-10 to 2016-10-31
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-02T10:26:33
+last_modified: 2018-01-19T06:32:43
 license: ''
 category:
   - Sint Maarten

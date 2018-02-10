@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/631233370c0f6f6efbea4edad0aa1b7005934d0a/data/Scotland/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e8f6c1663711f3cd1c1389211f4d14292e72d2f/data/Scotland/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Parliament: From 2016-05-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/86148316c136de6260d5ebe13c7a169210aa1f4b/data/Scotland/Parliament/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e8f6c1663711f3cd1c1389211f4d14292e72d2f/data/Scotland/Parliament/term-5.csv
     format: csv
   - name: >-
       4th Parliament: 2011-05-06 to 2016-03-24
@@ -29,17 +29,17 @@ resources:
   - name: >-
       3rd Parliament: 2007-05-03 to 2011-05-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7f1ff18c4c6c209efeb2977f6d4bbe715ad7228e/data/Scotland/Parliament/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd180f28b2158129453cd88fb3ecc314c3211207/data/Scotland/Parliament/term-3.csv
     format: csv
   - name: >-
       2nd Parliament: 2003-05-01 to 2007-04-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4ae80450cd9e78992e4f8910815b4f34c373476/data/Scotland/Parliament/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd180f28b2158129453cd88fb3ecc314c3211207/data/Scotland/Parliament/term-2.csv
     format: csv
   - name: >-
       1st Parliament: 1999-05-06 to 2003-03-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1af4e35a8881dab268ed2dc8e2643a976cc08356/data/Scotland/Parliament/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd180f28b2158129453cd88fb3ecc314c3211207/data/Scotland/Parliament/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -47,7 +47,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-11T07:10:30
+last_modified: 2018-02-09T03:31:54
 license: ''
 category:
   - Scotland
