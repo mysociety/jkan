@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/490c459818eead76c09560396dfe3bead8992867/data/United_States_of_America/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1558e15406fc3af9f7b03217fc66e386544146f4/data/United_States_of_America/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       115th Congress: 2017-01-03 to 2019-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1db50498eb59bdb82236fef5211a92b305889384/data/United_States_of_America/Senate/term-115.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1558e15406fc3af9f7b03217fc66e386544146f4/data/United_States_of_America/Senate/term-115.csv
     format: csv
   - name: >-
       114th Congress: 2015-01-06 to 2017-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ccee0fcffd95f434e8ba950871e8fae97ca2979/data/United_States_of_America/Senate/term-114.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1558e15406fc3af9f7b03217fc66e386544146f4/data/United_States_of_America/Senate/term-114.csv
     format: csv
   - name: >-
       113th Congress: 2013-01-06 to 2015-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ccee0fcffd95f434e8ba950871e8fae97ca2979/data/United_States_of_America/Senate/term-113.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1558e15406fc3af9f7b03217fc66e386544146f4/data/United_States_of_America/Senate/term-113.csv
     format: csv
   - name: >-
       112th Congress: 2011-01-06 to 2013-01-03
@@ -117,7 +117,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-25T11:02:54
+last_modified: 2018-02-19T06:48:26
 license: ''
 category:
   - United States of America
