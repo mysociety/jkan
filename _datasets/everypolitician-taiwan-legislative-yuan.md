@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f81ffabcd28b0526c9fb3194a09938c0c48cacda/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ca24b1c4942abb8d3c02950b2eb49f4fa660de14/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json
     format: json
   - name: >-
       9th Legislative Yuan: From 2016-01-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bf64ba34b4e6db0800549b9f6a48326f8fdf950e/data/Taiwan/Legislative_Yuan/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ca24b1c4942abb8d3c02950b2eb49f4fa660de14/data/Taiwan/Legislative_Yuan/term-9.csv
     format: csv
   - name: >-
       8th Legislative Yuan: 2012-02-01 to 2016-01-16
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-25T10:26:22
+last_modified: 2018-02-19T11:05:32
 license: ''
 category:
   - Taiwan

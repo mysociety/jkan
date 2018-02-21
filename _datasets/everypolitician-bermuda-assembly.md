@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a3dec3dd3ca3aec238cbcf7b79d644f14c4f7680/data/Bermuda/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f1ac45eebdced21bcb470244a49e8c98e591e453/data/Bermuda/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017–: From 2017-07-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/41744eb14af9b0e8695de724b6df32ba737b3f7c/data/Bermuda/Assembly/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f1ac45eebdced21bcb470244a49e8c98e591e453/data/Bermuda/Assembly/term-2017.csv
     format: csv
   - name: >-
       2012–2017: 2012-12-17 to 2017-07-17
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-02-09T05:48:17
+last_modified: 2018-02-20T10:03:33
 license: ''
 category:
   - Bermuda

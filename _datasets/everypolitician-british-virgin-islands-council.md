@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6aad3e7b42fbfd9f291a02b48c418521bb695144/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a83b85b639f66814a53faedba3d219fa35159aa8/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       15th Council: 2003-06-16 to 2007-08-20
@@ -49,12 +49,12 @@ resources:
   - name: >-
       9th Council: 1979 to 1983
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1979.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a83b85b639f66814a53faedba3d219fa35159aa8/data/British_Virgin_Islands/Council/term-1979.csv
     format: csv
   - name: >-
       8th Council: 1975 to 1979
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1975.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a83b85b639f66814a53faedba3d219fa35159aa8/data/British_Virgin_Islands/Council/term-1975.csv
     format: csv
   - name: >-
       7th Council: 1971 to 1975
@@ -67,7 +67,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-12-15T05:11:52
+last_modified: 2018-02-20T09:53:36
 license: ''
 category:
   - British Virgin Islands

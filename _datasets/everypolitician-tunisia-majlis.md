@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ee99430e3c8c9eead0ab16b4c1cff25dade4b6e/data/Tunisia/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5eb700ecf90e7061e1cb41f410ae64cc389f903c/data/Tunisia/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       1st Legislature: From 2014-12-02
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-02T09:09:00
+last_modified: 2018-02-20T10:33:14
 license: ''
 category:
   - Tunisia
