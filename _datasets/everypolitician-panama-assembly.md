@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/776d6330785ed6f8084b194c95024a72ee5f101d/data/Panama/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cc36a43e7ee99d0ff13cd684c3bac1a56f500a10/data/Panama/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014-07-01
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-02T11:51:08
+last_modified: 2018-02-20T23:41:43
 license: ''
 category:
   - Panama

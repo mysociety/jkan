@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8960a8c88c18ed746f171d5b4ad6f4ca2992a400/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4ae62ce88cc2932dbef301c02235b4d96e183d56/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       IX Legislatura: From 2016-04-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Cabo_Verde/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4ae62ce88cc2932dbef301c02235b4d96e183d56/data/Cabo_Verde/Assembly/term-9.csv
     format: csv
   - name: >-
       VIII Legislatura: 2011-03-11 to 2016-03-20
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-11-25T07:51:40
+last_modified: 2018-02-21T00:08:08
 license: ''
 category:
   - Cabo Verde
