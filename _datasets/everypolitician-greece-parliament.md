@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3a7a8806a5720da6acd69856151f315f840b63e6/data/Greece/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Hellenic Parliament: From 2015-09-20
@@ -24,7 +24,7 @@ resources:
   - name: >-
       16th Hellenic Parliament: 2015-01-25 to 2015-08-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3a7a8806a5720da6acd69856151f315f840b63e6/data/Greece/Parliament/term-16.csv
     format: csv
   - name: >-
       15th Hellenic Parliament: 2012-06-17 to 2014-12-31
@@ -54,22 +54,22 @@ resources:
   - name: >-
       10th Hellenic Parliament: 2000-04-09 to 2004-02-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eae688f854a394752c5bcf2247dd9fa797e582c/data/Greece/Parliament/term-10.csv
     format: csv
   - name: >-
       9th Hellenic Parliament: 1996-09-22 to 2000-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eae688f854a394752c5bcf2247dd9fa797e582c/data/Greece/Parliament/term-9.csv
     format: csv
   - name: >-
       8th Hellenic Parliament: 1993-10-10 to 1996-08-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eae688f854a394752c5bcf2247dd9fa797e582c/data/Greece/Parliament/term-8.csv
     format: csv
   - name: >-
       7th Hellenic Parliament: 1990-04-08 to 1993-09-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eae688f854a394752c5bcf2247dd9fa797e582c/data/Greece/Parliament/term-7.csv
     format: csv
   - name: >-
       6th Hellenic Parliament: 1989-11-05 to 1990-03-12
@@ -94,12 +94,12 @@ resources:
   - name: >-
       2nd Hellenic Parliament: 1977-11-20 to 1981-09-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eae688f854a394752c5bcf2247dd9fa797e582c/data/Greece/Parliament/term-2.csv
     format: csv
   - name: >-
       1st Hellenic Parliament: 1974-11-17 to 1977-10-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2160138edcbd9d838a003eb18ef9e8c7c414ae9/data/Greece/Parliament/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eae688f854a394752c5bcf2247dd9fa797e582c/data/Greece/Parliament/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -107,7 +107,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-02-19T08:12:42
+last_modified: 2018-03-05T14:54:34
 license: ''
 category:
   - Greece

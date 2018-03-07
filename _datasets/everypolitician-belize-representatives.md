@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e76ab9ef2668cac840147209ae88ae7566ddf6d/data/Belize/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5fe4940268056a8ef1003953dd74f68faaf51d/data/Belize/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-11-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3d58dfef9e83de0b5dffc11f1dda9410c63cbb74/data/Belize/Representatives/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5fe4940268056a8ef1003953dd74f68faaf51d/data/Belize/Representatives/term-2015.csv
     format: csv
   - name: >-
       2012–2015: 2012-03-21 to 2015-11-04
@@ -32,7 +32,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-02-21T07:14:42
+last_modified: 2018-03-05T16:50:59
 license: ''
 category:
   - Belize

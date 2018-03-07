@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/29a4edb185cc0b2645834fa474e30d688c227c54/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9cadaad10a9a7d8989c81806b8b9490204f14089/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json
     format: json
   - name: >-
       2011–: From 2011-10-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Isle_of_Man/House_of_Keys/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9cadaad10a9a7d8989c81806b8b9490204f14089/data/Isle_of_Man/House_of_Keys/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-12-16T08:05:36
+last_modified: 2018-03-06T02:46:18
 license: ''
 category:
   - Isle of Man
