@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0fc0e6c1764c0c24b180270f71fa147a6f979517/data/Chad/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2b9d5a1f5add8d9135cd20a343122249b9a1bd4e/data/Chad/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Troisième Législature: From 2011-06-23
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-12-19T05:03:26
+last_modified: 2018-03-06T23:54:36
 license: ''
 category:
   - Chad
