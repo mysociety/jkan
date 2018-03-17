@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4a992e991ec0e9fd5c0c545c8bb9d7f45f45ef4/data/Slovakia/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d48156c13dc57a8cd4bc4ff2cedaeef88a9cf677/data/Slovakia/National_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       7. Národná rada 2016-: From 2016-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4a992e991ec0e9fd5c0c545c8bb9d7f45f45ef4/data/Slovakia/National_Council/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d48156c13dc57a8cd4bc4ff2cedaeef88a9cf677/data/Slovakia/National_Council/term-7.csv
     format: csv
   - name: >-
       6. Národná rada 2012-2016: 2012-03-11 to 2016-02-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/786370fafef6b5a4501b747d58356b2a58cc982a/data/Slovakia/National_Council/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d48156c13dc57a8cd4bc4ff2cedaeef88a9cf677/data/Slovakia/National_Council/term-6.csv
     format: csv
   - name: >-
       5. Národná rada 2010-2012: 2010-06-13 to 2012-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/786370fafef6b5a4501b747d58356b2a58cc982a/data/Slovakia/National_Council/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d48156c13dc57a8cd4bc4ff2cedaeef88a9cf677/data/Slovakia/National_Council/term-5.csv
     format: csv
   - name: >-
       4. Národná rada 2006-2010: 2006-06-17 to 2010-06-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/786370fafef6b5a4501b747d58356b2a58cc982a/data/Slovakia/National_Council/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d48156c13dc57a8cd4bc4ff2cedaeef88a9cf677/data/Slovakia/National_Council/term-4.csv
     format: csv
   - name: >-
       3. Národná rada 2002-2006: 2002-09-22 to 2006-06-16
@@ -44,7 +44,7 @@ resources:
   - name: >-
       2. Národná rada 1998-2002: 1998-09-26 to 2002-09-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fcdc5e470156cfa5c3c0c6b4c78427b4d615c68/data/Slovakia/National_Council/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d48156c13dc57a8cd4bc4ff2cedaeef88a9cf677/data/Slovakia/National_Council/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -52,7 +52,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-03-06T11:37:11
+last_modified: 2018-03-15T06:33:25
 license: ''
 category:
   - Slovakia

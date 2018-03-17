@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b4784dced74ece5f871f2c3c1c59256b945b20f3/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ede7e49feceb2f1bd9cf3e5df69fa8e53f400a34/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament of Malaysia: From 2013-06-24
@@ -59,27 +59,27 @@ resources:
   - name: >-
       5th Parliament of Malaysia: 1978 to 1982
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c84439f894ca4e325761a08c9599c62032d38f3f/data/Malaysia/Dewan_Rakyat/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ede7e49feceb2f1bd9cf3e5df69fa8e53f400a34/data/Malaysia/Dewan_Rakyat/term-5.csv
     format: csv
   - name: >-
       4th Parliament of Malaysia: 1974 to 1978
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c84439f894ca4e325761a08c9599c62032d38f3f/data/Malaysia/Dewan_Rakyat/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ede7e49feceb2f1bd9cf3e5df69fa8e53f400a34/data/Malaysia/Dewan_Rakyat/term-4.csv
     format: csv
   - name: >-
       3rd Parliament of Malaysia: 1969 to 1974
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c84439f894ca4e325761a08c9599c62032d38f3f/data/Malaysia/Dewan_Rakyat/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ede7e49feceb2f1bd9cf3e5df69fa8e53f400a34/data/Malaysia/Dewan_Rakyat/term-3.csv
     format: csv
   - name: >-
       2nd Parliament of Malaysia: 1964 to 1969
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/eed0b564a1e1246837c9decd6ab3ac90dfd0a715/data/Malaysia/Dewan_Rakyat/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ede7e49feceb2f1bd9cf3e5df69fa8e53f400a34/data/Malaysia/Dewan_Rakyat/term-2.csv
     format: csv
   - name: >-
       1st Parliament of Malaysia: 1959 to 1964
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/171f86b092177f4248b9dd86cd658add76d7e3a2/data/Malaysia/Dewan_Rakyat/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ede7e49feceb2f1bd9cf3e5df69fa8e53f400a34/data/Malaysia/Dewan_Rakyat/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -87,7 +87,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-03-06T07:34:36
+last_modified: 2018-03-15T00:54:48
 license: ''
 category:
   - Malaysia

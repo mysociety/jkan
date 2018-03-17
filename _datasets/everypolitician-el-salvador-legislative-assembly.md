@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/44cf5af2367b020f970922268c47e8d124030ee4/data/El_Salvador/Legislative_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9bd52f1b4878c22af6f68097204359a74fdfc88/data/El_Salvador/Legislative_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–2018: 2015-05-14 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/El_Salvador/Legislative_Assembly/term-2015-2018.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9bd52f1b4878c22af6f68097204359a74fdfc88/data/El_Salvador/Legislative_Assembly/term-2015-2018.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -27,7 +27,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2017-08-17T10:00:08
+last_modified: 2018-03-16T11:16:42
 license: ''
 category:
   - El Salvador

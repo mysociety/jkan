@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7c13ccd07c9b79542aa974540af444d9cb83f9d8/data/Tuvalu/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/69a6522bb91fb52cee5a6c2728c17d22659888d0/data/Tuvalu/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament: From 2015-03-31
@@ -37,7 +37,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-03-06T04:26:58
+last_modified: 2018-03-14T16:09:08
 license: ''
 category:
   - Tuvalu

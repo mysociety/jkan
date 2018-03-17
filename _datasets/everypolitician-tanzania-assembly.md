@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eb9f2f5b7babbf90efca3b4745f9b99c5dbbc52/data/Tanzania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/908c1465e4cc73be54d0d751e0f120ee1f0c1346/data/Tanzania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Assembly: From 2015-11-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eb9f2f5b7babbf90efca3b4745f9b99c5dbbc52/data/Tanzania/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/293134b8f73cf1b79acb1ddc2175b2ddbb19f9ce/data/Tanzania/Assembly/term-5.csv
     format: csv
   - name: >-
       4th Assembly: 2010-10-31 to 2015-06-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eb9f2f5b7babbf90efca3b4745f9b99c5dbbc52/data/Tanzania/Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/293134b8f73cf1b79acb1ddc2175b2ddbb19f9ce/data/Tanzania/Assembly/term-4.csv
     format: csv
   - name: >-
       3rd Assembly: 2005-10-30 to 2010-10-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4910b7aaaa64bf74db4d7e906e74a42a3090b461/data/Tanzania/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/293134b8f73cf1b79acb1ddc2175b2ddbb19f9ce/data/Tanzania/Assembly/term-3.csv
     format: csv
   - name: >-
       2nd Assembly: 2000-10-29 to 2005-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2eb9f2f5b7babbf90efca3b4745f9b99c5dbbc52/data/Tanzania/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/293134b8f73cf1b79acb1ddc2175b2ddbb19f9ce/data/Tanzania/Assembly/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -42,7 +42,7 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-02-21T06:48:25
+last_modified: 2018-03-15T16:11:27
 license: ''
 category:
   - Tanzania
