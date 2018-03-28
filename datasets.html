@@ -23,7 +23,13 @@ permalink: /datasets/
         {% endunless %}
       {% endfor %}
 
-      {% include filter-category.html categories=categories %}
+      <div class="js-hidden">
+        {% include filter-category.html categories=categories %}
+      </div>
+      <div class="js-shown">
+        <a href="#" class="list-group-item">Show {{ categories | size }} more...</a>
+      </div>
+
     </div>
 
     <h3>Sources</h3>
