@@ -10,7 +10,7 @@ Vagrant file will get to a state where jekyll will run a local server:
     $ vagrant up
     $ vagrant ssh  
     $ cd /vagrant
-    $ ./run_locally.bash
+    $ script/server
 
 This will then start the rendering process and serve on http://127.0.0.1:4000
 
