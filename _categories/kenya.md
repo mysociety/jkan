@@ -1,5 +1,5 @@
 ---
 name: Kenya
-permalink: "/categories/kenya.html"
+permalink: "/categories/kenya/"
 layout: category
 ---

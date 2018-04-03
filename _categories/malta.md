@@ -1,5 +1,5 @@
 ---
 name: Malta
-permalink: "/categories/malta.html"
+permalink: "/categories/malta/"
 layout: category
 ---

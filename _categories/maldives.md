@@ -1,5 +1,5 @@
 ---
 name: Maldives
-permalink: "/categories/maldives.html"
+permalink: "/categories/maldives/"
 layout: category
 ---

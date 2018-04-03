@@ -1,5 +1,5 @@
 ---
 name: Sark
-permalink: "/categories/sark.html"
+permalink: "/categories/sark/"
 layout: category
 ---

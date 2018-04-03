@@ -1,5 +1,5 @@
 ---
 name: Belize
-permalink: "/categories/belize.html"
+permalink: "/categories/belize/"
 layout: category
 ---

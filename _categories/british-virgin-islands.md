@@ -1,5 +1,5 @@
 ---
 name: British Virgin Islands
-permalink: "/categories/british-virgin-islands.html"
+permalink: "/categories/british-virgin-islands/"
 layout: category
 ---

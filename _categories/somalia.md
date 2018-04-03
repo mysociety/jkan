@@ -1,5 +1,5 @@
 ---
 name: Somalia
-permalink: "/categories/somalia.html"
+permalink: "/categories/somalia/"
 layout: category
 ---

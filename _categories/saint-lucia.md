@@ -1,5 +1,5 @@
 ---
 name: Saint Lucia
-permalink: "/categories/saint-lucia.html"
+permalink: "/categories/saint-lucia/"
 layout: category
 ---

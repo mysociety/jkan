@@ -1,5 +1,5 @@
 ---
 name: Monaco
-permalink: "/categories/monaco.html"
+permalink: "/categories/monaco/"
 layout: category
 ---

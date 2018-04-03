@@ -1,5 +1,5 @@
 ---
 name: Lithuania
-permalink: "/categories/lithuania.html"
+permalink: "/categories/lithuania/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Finland
-permalink: "/categories/finland.html"
+permalink: "/categories/finland/"
 layout: category
 ---

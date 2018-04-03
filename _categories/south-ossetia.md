@@ -1,5 +1,5 @@
 ---
 name: South Ossetia
-permalink: "/categories/south-ossetia.html"
+permalink: "/categories/south-ossetia/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Niger
-permalink: "/categories/niger.html"
+permalink: "/categories/niger/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Barbados
-permalink: "/categories/barbados.html"
+permalink: "/categories/barbados/"
 layout: category
 ---

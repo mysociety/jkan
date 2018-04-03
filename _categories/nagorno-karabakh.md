@@ -1,5 +1,5 @@
 ---
 name: Nagorno-Karabakh
-permalink: "/categories/nagorno-karabakh.html"
+permalink: "/categories/nagorno-karabakh/"
 layout: category
 ---

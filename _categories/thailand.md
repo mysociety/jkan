@@ -1,5 +1,5 @@
 ---
 name: Thailand
-permalink: "/categories/thailand.html"
+permalink: "/categories/thailand/"
 layout: category
 ---

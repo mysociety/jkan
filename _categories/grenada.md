@@ -1,5 +1,5 @@
 ---
 name: Grenada
-permalink: "/categories/grenada.html"
+permalink: "/categories/grenada/"
 layout: category
 ---

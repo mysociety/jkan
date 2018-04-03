@@ -1,5 +1,5 @@
 ---
 name: Anguilla
-permalink: "/categories/anguilla.html"
+permalink: "/categories/anguilla/"
 layout: category
 ---

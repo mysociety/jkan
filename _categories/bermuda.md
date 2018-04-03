@@ -1,5 +1,5 @@
 ---
 name: Bermuda
-permalink: "/categories/bermuda.html"
+permalink: "/categories/bermuda/"
 layout: category
 ---

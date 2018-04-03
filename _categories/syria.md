@@ -1,5 +1,5 @@
 ---
 name: Syria
-permalink: "/categories/syria.html"
+permalink: "/categories/syria/"
 layout: category
 ---

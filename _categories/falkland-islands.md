@@ -1,5 +1,5 @@
 ---
 name: Falkland Islands
-permalink: "/categories/falkland-islands.html"
+permalink: "/categories/falkland-islands/"
 layout: category
 ---

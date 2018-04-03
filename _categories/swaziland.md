@@ -1,5 +1,5 @@
 ---
 name: Swaziland
-permalink: "/categories/swaziland.html"
+permalink: "/categories/swaziland/"
 layout: category
 ---

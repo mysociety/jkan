@@ -1,5 +1,5 @@
 ---
 name: Montenegro
-permalink: "/categories/montenegro.html"
+permalink: "/categories/montenegro/"
 layout: category
 ---

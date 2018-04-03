@@ -1,5 +1,5 @@
 ---
 name: Liberia
-permalink: "/categories/liberia.html"
+permalink: "/categories/liberia/"
 layout: category
 ---

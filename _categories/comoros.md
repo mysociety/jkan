@@ -1,5 +1,5 @@
 ---
 name: Comoros
-permalink: "/categories/comoros.html"
+permalink: "/categories/comoros/"
 layout: category
 ---

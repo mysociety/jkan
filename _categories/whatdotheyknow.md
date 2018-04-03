@@ -2,6 +2,6 @@
 name: WhatDoTheyKnow
 logo: ''
 logo_credit: ''
-permalink: "/categories/whatdotheyknow.html"
+permalink: "/categories/whatdotheyknow/"
 layout: category
 ---

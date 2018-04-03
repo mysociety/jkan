@@ -1,5 +1,5 @@
 ---
 name: Guam
-permalink: "/categories/guam.html"
+permalink: "/categories/guam/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Botswana
-permalink: "/categories/botswana.html"
+permalink: "/categories/botswana/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Kiribati
-permalink: "/categories/kiribati.html"
+permalink: "/categories/kiribati/"
 layout: category
 ---

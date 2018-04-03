@@ -1,5 +1,5 @@
 ---
 name: Vietnam
-permalink: "/categories/vietnam.html"
+permalink: "/categories/vietnam/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Libya
-permalink: "/categories/libya.html"
+permalink: "/categories/libya/"
 layout: category
 ---

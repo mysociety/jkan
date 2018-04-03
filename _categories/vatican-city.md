@@ -1,5 +1,5 @@
 ---
 name: Vatican City
-permalink: "/categories/vatican-city.html"
+permalink: "/categories/vatican-city/"
 layout: category
 ---

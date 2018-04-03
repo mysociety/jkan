@@ -1,5 +1,5 @@
 ---
 name: Guinea-Bissau
-permalink: "/categories/guinea-bissau.html"
+permalink: "/categories/guinea-bissau/"
 layout: category
 ---

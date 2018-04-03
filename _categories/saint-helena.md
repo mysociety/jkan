@@ -1,5 +1,5 @@
 ---
 name: Saint Helena
-permalink: "/categories/saint-helena.html"
+permalink: "/categories/saint-helena/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Moldova
-permalink: "/categories/moldova.html"
+permalink: "/categories/moldova/"
 layout: category
 ---

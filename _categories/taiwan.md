@@ -1,5 +1,5 @@
 ---
 name: Taiwan
-permalink: "/categories/taiwan.html"
+permalink: "/categories/taiwan/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Lesotho
-permalink: "/categories/lesotho.html"
+permalink: "/categories/lesotho/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Paraguay
-permalink: "/categories/paraguay.html"
+permalink: "/categories/paraguay/"
 layout: category
 ---

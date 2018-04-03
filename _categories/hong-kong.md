@@ -1,5 +1,5 @@
 ---
 name: Hong Kong
-permalink: "/categories/hong-kong.html"
+permalink: "/categories/hong-kong/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Dominica
-permalink: "/categories/dominica.html"
+permalink: "/categories/dominica/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Philippines
-permalink: "/categories/philippines.html"
+permalink: "/categories/philippines/"
 layout: category
 ---

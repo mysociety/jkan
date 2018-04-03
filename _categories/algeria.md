@@ -1,5 +1,5 @@
 ---
 name: Algeria
-permalink: "/categories/algeria.html"
+permalink: "/categories/algeria/"
 layout: category
 ---

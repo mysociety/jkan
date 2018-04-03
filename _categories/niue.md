@@ -1,5 +1,5 @@
 ---
 name: Niue
-permalink: "/categories/niue.html"
+permalink: "/categories/niue/"
 layout: category
 ---

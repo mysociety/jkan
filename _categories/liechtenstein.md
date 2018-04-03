@@ -1,5 +1,5 @@
 ---
 name: Liechtenstein
-permalink: "/categories/liechtenstein.html"
+permalink: "/categories/liechtenstein/"
 layout: category
 ---

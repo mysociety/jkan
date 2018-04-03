@@ -1,5 +1,5 @@
 ---
 name: Bolivia
-permalink: "/categories/bolivia.html"
+permalink: "/categories/bolivia/"
 layout: category
 ---

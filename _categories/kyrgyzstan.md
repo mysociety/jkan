@@ -1,5 +1,5 @@
 ---
 name: Kyrgyzstan
-permalink: "/categories/kyrgyzstan.html"
+permalink: "/categories/kyrgyzstan/"
 layout: category
 ---

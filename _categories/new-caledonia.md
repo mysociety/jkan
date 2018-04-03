@@ -1,5 +1,5 @@
 ---
 name: New Caledonia
-permalink: "/categories/new-caledonia.html"
+permalink: "/categories/new-caledonia/"
 layout: category
 ---

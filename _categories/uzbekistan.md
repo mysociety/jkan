@@ -1,5 +1,5 @@
 ---
 name: Uzbekistan
-permalink: "/categories/uzbekistan.html"
+permalink: "/categories/uzbekistan/"
 layout: category
 ---

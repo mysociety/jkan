@@ -1,5 +1,5 @@
 ---
 name: New Zealand
-permalink: "/categories/new-zealand.html"
+permalink: "/categories/new-zealand/"
 layout: category
 ---

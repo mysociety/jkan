@@ -1,5 +1,5 @@
 ---
 name: Ecuador
-permalink: "/categories/ecuador.html"
+permalink: "/categories/ecuador/"
 layout: category
 ---

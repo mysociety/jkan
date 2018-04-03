@@ -1,5 +1,5 @@
 ---
 name: Isle of Man
-permalink: "/categories/isle-of-man.html"
+permalink: "/categories/isle-of-man/"
 layout: category
 ---

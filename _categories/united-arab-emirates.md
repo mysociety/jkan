@@ -1,5 +1,5 @@
 ---
 name: United Arab Emirates
-permalink: "/categories/united-arab-emirates.html"
+permalink: "/categories/united-arab-emirates/"
 layout: category
 ---

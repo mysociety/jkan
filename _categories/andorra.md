@@ -1,5 +1,5 @@
 ---
 name: Andorra
-permalink: "/categories/andorra.html"
+permalink: "/categories/andorra/"
 layout: category
 ---

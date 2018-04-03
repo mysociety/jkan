@@ -1,5 +1,5 @@
 ---
 name: Haiti
-permalink: "/categories/haiti.html"
+permalink: "/categories/haiti/"
 layout: category
 ---

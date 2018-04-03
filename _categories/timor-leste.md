@@ -1,5 +1,5 @@
 ---
 name: Timor Leste
-permalink: "/categories/timor-leste.html"
+permalink: "/categories/timor-leste/"
 layout: category
 ---

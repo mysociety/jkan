@@ -1,5 +1,5 @@
 ---
 name: Jersey
-permalink: "/categories/jersey.html"
+permalink: "/categories/jersey/"
 layout: category
 ---

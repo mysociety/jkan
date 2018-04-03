@@ -1,5 +1,5 @@
 ---
 name: Nicaragua
-permalink: "/categories/nicaragua.html"
+permalink: "/categories/nicaragua/"
 layout: category
 ---

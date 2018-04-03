@@ -1,5 +1,5 @@
 ---
 name: Mauritania
-permalink: "/categories/mauritania.html"
+permalink: "/categories/mauritania/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Tunisia
-permalink: "/categories/tunisia.html"
+permalink: "/categories/tunisia/"
 layout: category
 ---

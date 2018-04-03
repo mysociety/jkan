@@ -1,5 +1,5 @@
 ---
 name: Mozambique
-permalink: "/categories/mozambique.html"
+permalink: "/categories/mozambique/"
 layout: category
 ---

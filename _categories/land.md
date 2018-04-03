@@ -1,5 +1,5 @@
 ---
 name: Åland
-permalink: "/categories/land.html"
+permalink: "/categories/land/"
 layout: category
 ---

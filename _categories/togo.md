@@ -1,5 +1,5 @@
 ---
 name: Togo
-permalink: "/categories/togo.html"
+permalink: "/categories/togo/"
 layout: category
 ---

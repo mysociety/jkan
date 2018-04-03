@@ -1,5 +1,5 @@
 ---
 name: Micronesia
-permalink: "/categories/micronesia.html"
+permalink: "/categories/micronesia/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Saint Barthélemy
-permalink: "/categories/saint-barthlemy.html"
+permalink: "/categories/saint-barthlemy/"
 layout: category
 ---
