@@ -11,10 +11,10 @@ layout: default
 </div>
 <div class="homepage-categories">
   
-{% for category in site.data.categories %}
-  {% if category.featured == true %}
+{% assign featured_categories = site.data.categories | where: 'featured', 'true' %}
+{% for category in featured_categories %}
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail category-card" title="{{ logo_alt }}">
+    <a href="{{ site.baseurl }}/categories/{{ category.name | slugify }}/" class="thumbnail category-card" title="{{ logo_alt }}">
       <div class="category-card__content">
       {% if category.logo and category.logo != empty %}
         <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}" class="category-card__image" height="128" width="128">
@@ -22,6 +22,5 @@ layout: default
       <h2 class="category-card__title">{{ category.name }}</h2>
       </div>
     </a>
-  {% endif %}
 {% endfor %}
 </div>
