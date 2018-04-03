@@ -1,0 +1,72 @@
+
+{% comment %}Only display datasets in current category if there is a current category{% endcomment %}
+{% if current_category %}
+    {% assign current_slug = current_category | slugify %}
+    {% assign datasets = "" | split: "" %}
+    {% for s in site.datasets %}
+        {% capture slugs %}{% for category in s.categories %}{{category|slugify}}|{%endfor%}{%endcapture%}
+        {% assign site_slugs = slugs | split: "|" %}
+        {% if site_slugs contains current_slug %}
+            {% assign datasets = datasets | push: s %}
+        {% endif %}
+    {% endfor %}
+{% else %}
+    {% assign datasets = site.datasets %}
+{% endif %}
+
+{% assign datasets_count = datasets | size %}
+
+<div class="row">
+  <div class="col-sm-4">
+
+    <h3>Categories</h3>
+
+    {% assign featured_categories = site.data.categories | where: 'featured', 'true' %}
+    {% capture featured_names %}{% for c in featured_categories%}{{c.name}},{% endfor %}{% endcapture %}
+    {% assign highlighted = featured_names | split: "," %}
+    {% if current_category %}
+        {% unless highlighted contains current_category %}
+            {% assign highlighted = highlighted | push: current_category %}
+        {% endunless %}
+    {% endif %}
+    <div class="list-group" data-component="categories-filter" data-show="5">
+
+      {% include filter-category.html categories=highlighted current_category=current_category %}
+
+      {% assign categories_all = site.datasets | map: 'category' | uniq %}
+      {% assign categories = '' | split: "" %}
+      {% for category in categories_all %}
+        {% unless highlighted contains category %}
+          {% assign categories = categories | push: category %}
+        {% endunless %}
+      {% endfor %}
+      <div class="js-hidden">
+      {% include filter-category.html categories=categories current=current_category  %}
+      </div>
+      <div class="js-shown">
+        <a href="#" class="list-group-item list-show-more">Show {{ categories | size | plus: 1 }} more...</a>
+      </div>
+      
+    </div>
+    {% if current_category %}
+    <h4><a href="/datasets/">View All Datasets</a></h4>
+    {% endif %}
+  </div>
+  <div class="col-sm-8" data-component="datasets-list" {% if current_category %}data-category="{{current_slug}}"{% endif %}>
+    <h3 class="datasets-count" data-hook="datasets-count">
+        {% if current_category %}{{page.name}} - {% endif %}
+        {{ datasets_count }}
+        {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</h3>
+    <a href="{{ site.baseurl }}/add-dataset/" class="btn btn-default pull-right admin-only" data-hook="add-dataset-btn"><i class="fa fa-plus"></i> Add Dataset</a>
+    <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
+    <div data-hook="datasets-items">
+      
+      {% for dataset in datasets %}
+       <dataset>
+         <h3><a href="{{ dataset.url }}">{{ dataset.title }}</a></h3>
+         {{ dataset.notes }}
+       </dataset>
+      {% endfor %}
+    </div>
+  </div>
+</div>
