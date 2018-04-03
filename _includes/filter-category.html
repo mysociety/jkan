@@ -2,7 +2,7 @@
 {% assign sizes = '' | split: "" %}
 {% assign current_slug = current_category | slugify %}
 {% for category in include.categories %}
-  {% assign c = site.datasets | where_exp:"dataset", "dataset.category contains category" | size %}
+  {% assign c = site.datasets | where:"category", category | size %}
   {% assign sizes = sizes | push: c %}
 {% endfor %}
 {% assign sorted_sizes = sizes | sort | reverse | uniq %}
