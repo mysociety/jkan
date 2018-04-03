@@ -1,6 +1,6 @@
 {% comment %}All the below is so the list is sorted in descending size order. Ozymandias had nothing.{% endcomment %}
-
 {% assign sizes = '' | split: "" %}
+{% assign current_slug = current_category | slugify %}
 {% for category in include.categories %}
   {% assign c = site.datasets | where_exp:"dataset", "dataset.category contains category" | size %}
   {% assign sizes = sizes | push: c %}
@@ -10,7 +10,8 @@
   {% for category in include.categories %}
     {% assign c = sizes[forloop.index0] %}
     {% if c == s %}
-      <a href="" class="list-group-item">
+      {% assign category_slug = category | slugify %}
+      <a href="/categories/{{ category | slugify }}" class="list-group-item {% if category_slug == current_slug %}active{% endif %}">
         <span class="list-group-item-truncate">{{ category }}</span>
         <span class="badge">{{ s }}</span>
       </a>
