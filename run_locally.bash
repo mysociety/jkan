@@ -1,1 +1,0 @@
-bundle exec jekyll serve --baseurl "" --incremental --host 0.0.0.0

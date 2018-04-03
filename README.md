@@ -10,7 +10,7 @@ Vagrant file will get to a state where jekyll will run a local server:
     $ vagrant up
     $ vagrant ssh  
     $ cd /vagrant
-    $ ./run_locally.bash
+    $ script/server
 
 This will then start the rendering process and serve on http://127.0.0.1:4000
 
@@ -22,14 +22,22 @@ Jkan runs on Jekyll.
 
 Local adaptions to mySociety theme are in sass folder - both that and 'theme/sass' are equally accessible to compiler - so no need for relative paths. 
 
-Key tempate is templates/default.html - this then brings in various mysoc_ includes. 
+Key template is templates/default.html - this then brings in various mysoc_ includes. 
 
 Don't forget to `git submodule update --init --recursive` to pull down the mySociety styles
 
+##Categories
 
-## Known untidyness
+Category information is stored in three places. 
+ 
+1. References in datasets
+2. Entries in _data/categories.yml (with additional info like logos, or if they are a highlighted category)
+3. Markdown files in /_categories
 
-To force featured categories to the top of the category list on the dataset page, these slugs are referred to manually in \scripts\src\components\categories-filter.js
+The final set is generated from the first two to create the static pages for the category pages. 
 
-Ideally these would access the categories information to prioritise without hardcoding. 
+This isn't directly supported by Github Jekyll, so you can generate the markdown files using:
 
+    $ ruby script/generate_categories.rb
+    
+Or manually create the file when creating/modifying categories. 
