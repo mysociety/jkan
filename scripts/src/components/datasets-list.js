@@ -29,12 +29,12 @@ export default class {
     const filters = createDatasetFilters(defaults(paramFilters, attributeFilters))
     const filteredDatasets = filter(opts.datasets, filters)
     const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
-    setContent(elements.datasetsItems, datasetsMarkup)
+    //setContent(elements.datasetsItems, datasetsMarkup)
 
     // // Dataset count
     const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
     const datasetsCountMarkup = filteredDatasets.length + ' dataset' + datasetSuffix;
-    setContent(elements.datasetsCount, datasetsCountMarkup)
+    //setContent(elements.datasetsCount, datasetsCountMarkup)
 
     // Search datasets listener
     const searchFunction = this._createSearchFunction(filteredDatasets)

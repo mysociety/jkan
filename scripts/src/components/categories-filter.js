@@ -8,7 +8,7 @@ export default class {
   constructor (opts) {
     const categories = this._categoriesWithCount(opts.datasets, opts.params)
     const categoriesMarkup = categories.map(TmplListGroupItem)
-    setContent(opts.el, categoriesMarkup)
+    //setContent(opts.el, categoriesMarkup)
     collapseListGroup(opts.el)
   }
 
