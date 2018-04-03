@@ -1,5 +1,5 @@
 ---
 name: Scotland
-permalink: "/categories/scotland.html"
+permalink: "/categories/scotland/"
 layout: category
 ---

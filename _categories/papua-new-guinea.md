@@ -1,5 +1,5 @@
 ---
 name: Papua New Guinea
-permalink: "/categories/papua-new-guinea.html"
+permalink: "/categories/papua-new-guinea/"
 layout: category
 ---

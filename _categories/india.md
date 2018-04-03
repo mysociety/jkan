@@ -1,5 +1,5 @@
 ---
 name: India
-permalink: "/categories/india.html"
+permalink: "/categories/india/"
 layout: category
 ---

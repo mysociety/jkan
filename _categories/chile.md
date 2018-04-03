@@ -1,5 +1,5 @@
 ---
 name: Chile
-permalink: "/categories/chile.html"
+permalink: "/categories/chile/"
 layout: category
 ---

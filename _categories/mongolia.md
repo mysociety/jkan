@@ -1,5 +1,5 @@
 ---
 name: Mongolia
-permalink: "/categories/mongolia.html"
+permalink: "/categories/mongolia/"
 layout: category
 ---

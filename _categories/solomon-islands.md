@@ -1,5 +1,5 @@
 ---
 name: Solomon Islands
-permalink: "/categories/solomon-islands.html"
+permalink: "/categories/solomon-islands/"
 layout: category
 ---

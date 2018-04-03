@@ -1,5 +1,5 @@
 ---
 name: Gibraltar
-permalink: "/categories/gibraltar.html"
+permalink: "/categories/gibraltar/"
 layout: category
 ---

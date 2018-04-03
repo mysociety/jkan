@@ -1,5 +1,5 @@
 ---
 name: Zimbabwe
-permalink: "/categories/zimbabwe.html"
+permalink: "/categories/zimbabwe/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Abkhazia
-permalink: "/categories/abkhazia.html"
+permalink: "/categories/abkhazia/"
 layout: category
 ---

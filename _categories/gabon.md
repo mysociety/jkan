@@ -1,5 +1,5 @@
 ---
 name: Gabon
-permalink: "/categories/gabon.html"
+permalink: "/categories/gabon/"
 layout: category
 ---

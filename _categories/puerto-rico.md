@@ -1,5 +1,5 @@
 ---
 name: Puerto Rico
-permalink: "/categories/puerto-rico.html"
+permalink: "/categories/puerto-rico/"
 layout: category
 ---

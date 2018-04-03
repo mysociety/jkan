@@ -1,5 +1,5 @@
 ---
 name: Curaçao
-permalink: "/categories/curaao.html"
+permalink: "/categories/curaao/"
 layout: category
 ---

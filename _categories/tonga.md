@@ -1,5 +1,5 @@
 ---
 name: Tonga
-permalink: "/categories/tonga.html"
+permalink: "/categories/tonga/"
 layout: category
 ---

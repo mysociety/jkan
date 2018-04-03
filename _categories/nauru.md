@@ -1,5 +1,5 @@
 ---
 name: Nauru
-permalink: "/categories/nauru.html"
+permalink: "/categories/nauru/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Saint Martin
-permalink: "/categories/saint-martin.html"
+permalink: "/categories/saint-martin/"
 layout: category
 ---

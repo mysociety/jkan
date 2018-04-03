@@ -1,5 +1,5 @@
 ---
 name: Chad
-permalink: "/categories/chad.html"
+permalink: "/categories/chad/"
 layout: category
 ---

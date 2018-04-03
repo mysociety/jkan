@@ -1,5 +1,5 @@
 ---
 name: Tajikistan
-permalink: "/categories/tajikistan.html"
+permalink: "/categories/tajikistan/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Northern Mariana Islands
-permalink: "/categories/northern-mariana-islands.html"
+permalink: "/categories/northern-mariana-islands/"
 layout: category
 ---

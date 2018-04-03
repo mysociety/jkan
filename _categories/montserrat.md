@@ -1,5 +1,5 @@
 ---
 name: Montserrat
-permalink: "/categories/montserrat.html"
+permalink: "/categories/montserrat/"
 layout: category
 ---

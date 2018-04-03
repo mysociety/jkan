@@ -1,5 +1,5 @@
 ---
 name: Belarus
-permalink: "/categories/belarus.html"
+permalink: "/categories/belarus/"
 layout: category
 ---

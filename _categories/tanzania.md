@@ -1,5 +1,5 @@
 ---
 name: Tanzania
-permalink: "/categories/tanzania.html"
+permalink: "/categories/tanzania/"
 layout: category
 ---

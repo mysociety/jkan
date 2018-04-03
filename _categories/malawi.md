@@ -1,5 +1,5 @@
 ---
 name: Malawi
-permalink: "/categories/malawi.html"
+permalink: "/categories/malawi/"
 layout: category
 ---

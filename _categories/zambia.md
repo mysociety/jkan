@@ -1,5 +1,5 @@
 ---
 name: Zambia
-permalink: "/categories/zambia.html"
+permalink: "/categories/zambia/"
 layout: category
 ---

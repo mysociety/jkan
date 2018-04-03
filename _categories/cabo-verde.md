@@ -1,5 +1,5 @@
 ---
 name: Cabo Verde
-permalink: "/categories/cabo-verde.html"
+permalink: "/categories/cabo-verde/"
 layout: category
 ---

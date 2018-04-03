@@ -1,5 +1,5 @@
 ---
 name: Transnistria
-permalink: "/categories/transnistria.html"
+permalink: "/categories/transnistria/"
 layout: category
 ---

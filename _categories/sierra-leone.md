@@ -1,5 +1,5 @@
 ---
 name: Sierra Leone
-permalink: "/categories/sierra-leone.html"
+permalink: "/categories/sierra-leone/"
 layout: category
 ---

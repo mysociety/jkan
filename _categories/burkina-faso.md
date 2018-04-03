@@ -1,5 +1,5 @@
 ---
 name: Burkina Faso
-permalink: "/categories/burkina-faso.html"
+permalink: "/categories/burkina-faso/"
 layout: category
 ---

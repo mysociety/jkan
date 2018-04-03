@@ -1,5 +1,5 @@
 ---
 name: Singapore
-permalink: "/categories/singapore.html"
+permalink: "/categories/singapore/"
 layout: category
 ---

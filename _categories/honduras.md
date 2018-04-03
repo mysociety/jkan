@@ -1,5 +1,5 @@
 ---
 name: Honduras
-permalink: "/categories/honduras.html"
+permalink: "/categories/honduras/"
 layout: category
 ---

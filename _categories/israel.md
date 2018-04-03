@@ -1,5 +1,5 @@
 ---
 name: Israel
-permalink: "/categories/israel.html"
+permalink: "/categories/israel/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Bhutan
-permalink: "/categories/bhutan.html"
+permalink: "/categories/bhutan/"
 layout: category
 ---

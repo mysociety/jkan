@@ -1,5 +1,5 @@
 ---
 name: Azerbaijan
-permalink: "/categories/azerbaijan.html"
+permalink: "/categories/azerbaijan/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Suriname
-permalink: "/categories/suriname.html"
+permalink: "/categories/suriname/"
 layout: category
 ---

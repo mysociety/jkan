@@ -1,5 +1,5 @@
 ---
 name: South Africa
-permalink: "/categories/south-africa.html"
+permalink: "/categories/south-africa/"
 layout: category
 ---

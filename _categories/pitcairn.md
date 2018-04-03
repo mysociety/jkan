@@ -1,5 +1,5 @@
 ---
 name: Pitcairn
-permalink: "/categories/pitcairn.html"
+permalink: "/categories/pitcairn/"
 layout: category
 ---

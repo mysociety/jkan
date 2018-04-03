@@ -1,5 +1,5 @@
 ---
 name: Kosovo
-permalink: "/categories/kosovo.html"
+permalink: "/categories/kosovo/"
 layout: category
 ---

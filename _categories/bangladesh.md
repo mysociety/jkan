@@ -1,5 +1,5 @@
 ---
 name: Bangladesh
-permalink: "/categories/bangladesh.html"
+permalink: "/categories/bangladesh/"
 layout: category
 ---

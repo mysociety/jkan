@@ -1,5 +1,5 @@
 ---
 name: Cambodia
-permalink: "/categories/cambodia.html"
+permalink: "/categories/cambodia/"
 layout: category
 ---

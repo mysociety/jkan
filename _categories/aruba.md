@@ -1,5 +1,5 @@
 ---
 name: Aruba
-permalink: "/categories/aruba.html"
+permalink: "/categories/aruba/"
 layout: category
 ---

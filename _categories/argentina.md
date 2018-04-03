@@ -1,5 +1,5 @@
 ---
 name: Argentina
-permalink: "/categories/argentina.html"
+permalink: "/categories/argentina/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Vanuatu
-permalink: "/categories/vanuatu.html"
+permalink: "/categories/vanuatu/"
 layout: category
 ---

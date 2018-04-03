@@ -1,5 +1,5 @@
 ---
 name: Rwanda
-permalink: "/categories/rwanda.html"
+permalink: "/categories/rwanda/"
 layout: category
 ---

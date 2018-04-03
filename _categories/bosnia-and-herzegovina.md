@@ -1,5 +1,5 @@
 ---
 name: Bosnia and Herzegovina
-permalink: "/categories/bosnia-and-herzegovina.html"
+permalink: "/categories/bosnia-and-herzegovina/"
 layout: category
 ---

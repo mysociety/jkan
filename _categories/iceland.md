@@ -1,5 +1,5 @@
 ---
 name: Iceland
-permalink: "/categories/iceland.html"
+permalink: "/categories/iceland/"
 layout: category
 ---

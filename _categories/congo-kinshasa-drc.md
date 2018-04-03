@@ -1,5 +1,5 @@
 ---
 name: Congo-Kinshasa (DRC)
-permalink: "/categories/congo-kinshasa-drc.html"
+permalink: "/categories/congo-kinshasa-drc/"
 layout: category
 ---

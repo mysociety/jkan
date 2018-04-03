@@ -1,5 +1,5 @@
 ---
 name: Myanmar
-permalink: "/categories/myanmar.html"
+permalink: "/categories/myanmar/"
 layout: category
 ---

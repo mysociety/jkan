@@ -1,5 +1,5 @@
 ---
 name: China
-permalink: "/categories/china.html"
+permalink: "/categories/china/"
 layout: category
 ---

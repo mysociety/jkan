@@ -1,5 +1,5 @@
 ---
 name: Czech Republic
-permalink: "/categories/czech-republic.html"
+permalink: "/categories/czech-republic/"
 layout: category
 ---

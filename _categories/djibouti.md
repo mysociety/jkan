@@ -1,5 +1,5 @@
 ---
 name: Djibouti
-permalink: "/categories/djibouti.html"
+permalink: "/categories/djibouti/"
 layout: category
 ---

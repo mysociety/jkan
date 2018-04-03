@@ -1,5 +1,5 @@
 ---
 name: American Samoa
-permalink: "/categories/american-samoa.html"
+permalink: "/categories/american-samoa/"
 layout: category
 ---

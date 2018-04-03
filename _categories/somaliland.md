@@ -1,5 +1,5 @@
 ---
 name: Somaliland
-permalink: "/categories/somaliland.html"
+permalink: "/categories/somaliland/"
 layout: category
 ---

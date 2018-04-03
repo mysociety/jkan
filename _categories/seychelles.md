@@ -1,5 +1,5 @@
 ---
 name: Seychelles
-permalink: "/categories/seychelles.html"
+permalink: "/categories/seychelles/"
 layout: category
 ---

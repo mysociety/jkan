@@ -1,5 +1,5 @@
 ---
 name: Fiji
-permalink: "/categories/fiji.html"
+permalink: "/categories/fiji/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Belgium
-permalink: "/categories/belgium.html"
+permalink: "/categories/belgium/"
 layout: category
 ---

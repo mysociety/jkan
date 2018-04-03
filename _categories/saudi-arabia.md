@@ -1,5 +1,5 @@
 ---
 name: Saudi Arabia
-permalink: "/categories/saudi-arabia.html"
+permalink: "/categories/saudi-arabia/"
 layout: category
 ---

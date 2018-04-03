@@ -1,5 +1,5 @@
 ---
 name: Burundi
-permalink: "/categories/burundi.html"
+permalink: "/categories/burundi/"
 layout: category
 ---

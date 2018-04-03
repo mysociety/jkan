@@ -1,5 +1,5 @@
 ---
 name: US Virgin Islands
-permalink: "/categories/us-virgin-islands.html"
+permalink: "/categories/us-virgin-islands/"
 layout: category
 ---

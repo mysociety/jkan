@@ -1,5 +1,5 @@
 ---
 name: Marshall Islands
-permalink: "/categories/marshall-islands.html"
+permalink: "/categories/marshall-islands/"
 layout: category
 ---

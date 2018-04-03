@@ -1,5 +1,5 @@
 ---
 name: Venezuela
-permalink: "/categories/venezuela.html"
+permalink: "/categories/venezuela/"
 layout: category
 ---

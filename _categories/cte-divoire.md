@@ -1,5 +1,5 @@
 ---
 name: Côte d'Ivoire
-permalink: "/categories/cte-divoire.html"
+permalink: "/categories/cte-divoire/"
 layout: category
 ---

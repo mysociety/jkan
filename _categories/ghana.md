@@ -1,5 +1,5 @@
 ---
 name: Ghana
-permalink: "/categories/ghana.html"
+permalink: "/categories/ghana/"
 layout: category
 ---

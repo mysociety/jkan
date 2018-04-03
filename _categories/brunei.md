@@ -1,5 +1,5 @@
 ---
 name: Brunei
-permalink: "/categories/brunei.html"
+permalink: "/categories/brunei/"
 layout: category
 ---

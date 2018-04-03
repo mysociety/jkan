@@ -1,5 +1,5 @@
 ---
 name: Jamaica
-permalink: "/categories/jamaica.html"
+permalink: "/categories/jamaica/"
 layout: category
 ---

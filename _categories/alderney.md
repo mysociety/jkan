@@ -1,5 +1,5 @@
 ---
 name: Alderney
-permalink: "/categories/alderney.html"
+permalink: "/categories/alderney/"
 layout: category
 ---

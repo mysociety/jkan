@@ -1,5 +1,5 @@
 ---
 name: Bahrain
-permalink: "/categories/bahrain.html"
+permalink: "/categories/bahrain/"
 layout: category
 ---

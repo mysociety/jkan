@@ -1,5 +1,5 @@
 ---
 name: Madagascar
-permalink: "/categories/madagascar.html"
+permalink: "/categories/madagascar/"
 layout: category
 ---

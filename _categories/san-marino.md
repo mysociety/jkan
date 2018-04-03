@@ -1,5 +1,5 @@
 ---
 name: San Marino
-permalink: "/categories/san-marino.html"
+permalink: "/categories/san-marino/"
 layout: category
 ---

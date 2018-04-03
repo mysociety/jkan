@@ -1,5 +1,5 @@
 ---
 name: Senegal
-permalink: "/categories/senegal.html"
+permalink: "/categories/senegal/"
 layout: category
 ---

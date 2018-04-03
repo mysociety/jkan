@@ -1,5 +1,5 @@
 ---
 name: Norfolk Island
-permalink: "/categories/norfolk-island.html"
+permalink: "/categories/norfolk-island/"
 layout: category
 ---

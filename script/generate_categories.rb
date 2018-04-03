@@ -35,7 +35,7 @@ end
 def create_from_data()
   config = YAML.load_file('_config.yml')
   abort 'Cannot find collections in config' unless config.key?('collections')
-  perma = config['permalink'] == 'pretty' ? '/' : '.html'
+  perma = '/' 
   data_files = ["categories"]
   data_files.each do |name|
     abort "Cannot find #{name} in collection config" unless config['collections'].key? name
@@ -60,7 +60,7 @@ def create_from_datasets()
     categories += data["category"]
   }
   config = YAML.load_file('_config.yml')
-  perma = config['permalink'] == 'pretty' ? '/' : '.html'
+  perma =  '/'
   data_files = ["categories"]
   categories.uniq.each do |name|
     meta = {

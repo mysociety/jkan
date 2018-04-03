@@ -1,5 +1,5 @@
 ---
 name: Ireland
-permalink: "/categories/ireland.html"
+permalink: "/categories/ireland/"
 layout: category
 ---

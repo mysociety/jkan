@@ -1,5 +1,5 @@
 ---
 name: Costa Rica
-permalink: "/categories/costa-rica.html"
+permalink: "/categories/costa-rica/"
 layout: category
 ---

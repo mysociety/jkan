@@ -1,5 +1,5 @@
 ---
 name: Cook Islands
-permalink: "/categories/cook-islands.html"
+permalink: "/categories/cook-islands/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Tuvalu
-permalink: "/categories/tuvalu.html"
+permalink: "/categories/tuvalu/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: Laos
-permalink: "/categories/laos.html"
+permalink: "/categories/laos/"
 layout: category
 ---

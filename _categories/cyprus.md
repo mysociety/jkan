@@ -1,5 +1,5 @@
 ---
 name: Cyprus
-permalink: "/categories/cyprus.html"
+permalink: "/categories/cyprus/"
 layout: category
 ---

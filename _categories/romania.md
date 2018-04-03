@@ -1,5 +1,5 @@
 ---
 name: Romania
-permalink: "/categories/romania.html"
+permalink: "/categories/romania/"
 layout: category
 ---

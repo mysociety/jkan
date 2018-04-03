@@ -1,5 +1,5 @@
 ---
 name: Iran
-permalink: "/categories/iran.html"
+permalink: "/categories/iran/"
 layout: category
 ---

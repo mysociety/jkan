@@ -1,5 +1,5 @@
 ---
 name: Guernsey
-permalink: "/categories/guernsey.html"
+permalink: "/categories/guernsey/"
 layout: category
 ---

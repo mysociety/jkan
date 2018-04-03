@@ -1,5 +1,5 @@
 ---
 name: Congo-Brazzaville
-permalink: "/categories/congo-brazzaville.html"
+permalink: "/categories/congo-brazzaville/"
 layout: category
 ---

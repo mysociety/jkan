@@ -1,5 +1,5 @@
 ---
 name: South Sudan
-permalink: "/categories/south-sudan.html"
+permalink: "/categories/south-sudan/"
 layout: category
 ---

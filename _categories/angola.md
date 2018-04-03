@@ -1,5 +1,5 @@
 ---
 name: Angola
-permalink: "/categories/angola.html"
+permalink: "/categories/angola/"
 layout: category
 ---

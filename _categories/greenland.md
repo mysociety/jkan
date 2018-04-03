@@ -1,5 +1,5 @@
 ---
 name: Greenland
-permalink: "/categories/greenland.html"
+permalink: "/categories/greenland/"
 layout: category
 ---

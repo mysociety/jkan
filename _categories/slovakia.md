@@ -1,5 +1,5 @@
 ---
 name: Slovakia
-permalink: "/categories/slovakia.html"
+permalink: "/categories/slovakia/"
 layout: category
 ---

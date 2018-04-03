@@ -1,5 +1,5 @@
 ---
 name: Dominican Republic
-permalink: "/categories/dominican-republic.html"
+permalink: "/categories/dominican-republic/"
 layout: category
 ---

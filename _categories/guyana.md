@@ -1,5 +1,5 @@
 ---
 name: Guyana
-permalink: "/categories/guyana.html"
+permalink: "/categories/guyana/"
 layout: category
 ---

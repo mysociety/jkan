@@ -1,5 +1,5 @@
 ---
 name: Faroe Islands
-permalink: "/categories/faroe-islands.html"
+permalink: "/categories/faroe-islands/"
 layout: category
 ---

@@ -1,5 +1,5 @@
 ---
 name: El Salvador
-permalink: "/categories/el-salvador.html"
+permalink: "/categories/el-salvador/"
 layout: category
 ---

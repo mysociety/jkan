@@ -1,5 +1,5 @@
 ---
 name: Benin
-permalink: "/categories/benin.html"
+permalink: "/categories/benin/"
 layout: category
 ---

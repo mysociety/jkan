@@ -1,5 +1,5 @@
 ---
 name: Indonesia
-permalink: "/categories/indonesia.html"
+permalink: "/categories/indonesia/"
 layout: category
 ---

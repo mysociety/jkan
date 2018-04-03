@@ -1,5 +1,5 @@
 ---
 name: Macao
-permalink: "/categories/macao.html"
+permalink: "/categories/macao/"
 layout: category
 ---

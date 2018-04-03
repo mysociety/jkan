@@ -1,5 +1,5 @@
 ---
 name: Luxembourg
-permalink: "/categories/luxembourg.html"
+permalink: "/categories/luxembourg/"
 layout: category
 ---

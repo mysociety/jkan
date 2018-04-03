@@ -1,5 +1,5 @@
 ---
 name: Palau
-permalink: "/categories/palau.html"
+permalink: "/categories/palau/"
 layout: category
 ---
