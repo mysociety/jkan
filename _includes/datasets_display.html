@@ -1,15 +1,7 @@
 
 {% comment %}Only display datasets in current category if there is a current category{% endcomment %}
 {% if current_category %}
-    {% assign current_slug = current_category | slugify %}
-    {% assign datasets = "" | split: "" %}
-    {% for s in site.datasets %}
-        {% capture slugs %}{% for category in s.categories %}{{category|slugify}}|{%endfor%}{%endcapture%}
-        {% assign site_slugs = slugs | split: "|" %}
-        {% if site_slugs contains current_slug %}
-            {% assign datasets = datasets | push: s %}
-        {% endif %}
-    {% endfor %}
+    {% assign datasets = site.datasets | where:"category", current_category %}
 {% else %}
     {% assign datasets = site.datasets %}
 {% endif %}
@@ -41,7 +33,7 @@
         {% endunless %}
       {% endfor %}
       <div class="js-hidden">
-      {% include filter-category.html categories=categories current=current_category  %}
+      {% include filter-category.html categories=categories current_category=current_category  %}
       </div>
       <div class="js-shown">
         <a href="#" class="list-group-item list-show-more">Show {{ categories | size | plus: 1 }} more...</a>
