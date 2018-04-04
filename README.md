@@ -26,7 +26,7 @@ Key template is templates/default.html - this then brings in various mysoc_ incl
 
 Don't forget to `git submodule update --init --recursive` to pull down the mySociety styles
 
-##Categories
+## Categories
 
 Category information is stored in three places. 
  
