@@ -19,9 +19,7 @@ schema: default
 navigation:
   - title: Datasets
     url: /datasets/
-  - title: Sources
-    url: /sources/
-
+    
 # Collections
 collections:
   datasets:
