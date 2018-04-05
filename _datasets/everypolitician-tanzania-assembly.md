@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/908c1465e4cc73be54d0d751e0f120ee1f0c1346/data/Tanzania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8b3ed5caf5cb9dff43fde609627ebb78b170eef/data/Tanzania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Assembly: From 2015-11-17
@@ -42,7 +42,10 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-03-15T16:11:27
+  - name: R
+    url: 'https://github.com/ajparsons/everypoliticianR'
+    format: library
+last_modified: 2018-04-03T07:23:41
 license: ''
 category:
   - Tanzania

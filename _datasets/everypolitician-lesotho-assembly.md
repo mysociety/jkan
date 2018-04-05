@@ -27,6 +27,9 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
+  - name: R
+    url: 'https://github.com/ajparsons/everypoliticianR'
+    format: library
 last_modified: 2017-12-06T01:17:09
 license: ''
 category:

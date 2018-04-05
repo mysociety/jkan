@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5a7562b580ba715e48ce73a239a25357d40441b1/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/71c271d89000c8ae59f460f0bd4c131181063543/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th National Assembly: From 2015-05-14
@@ -62,7 +62,10 @@ resources:
   - name: Ruby
     url: 'https://github.com/everypolitician/everypolitician-popolo'
     format: library
-last_modified: 2018-01-11T07:44:46
+  - name: R
+    url: 'https://github.com/ajparsons/everypoliticianR'
+    format: library
+last_modified: 2018-04-03T06:09:06
 license: ''
 category:
   - Saint Kitts and Nevis
