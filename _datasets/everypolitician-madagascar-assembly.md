@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5fff58e51f9f323b04b7e0b23e5c0b5ed07572a5/data/Madagascar/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/82252d95c0833df6f242e6e6da3bffa9a6a64dd8/data/Madagascar/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013-2018: 2013-12-20 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Madagascar/Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/82252d95c0833df6f242e6e6da3bffa9a6a64dd8/data/Madagascar/Assembly/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-02-21T04:18:51
+last_modified: 2018-04-07T08:25:05
 license: ''
 category:
   - Madagascar

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/df56edbd69493eb61e760c109f9e54406f67b016/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e49163786816c5801198e42ab06b3b74f4bead2/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: >-
       Eduskunta 37: 2015-04-28 to 2019
@@ -24,22 +24,22 @@ resources:
   - name: >-
       Eduskunta 36: 2011-04-20 to 2015-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/term-36.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e49163786816c5801198e42ab06b3b74f4bead2/data/Finland/Eduskunta/term-36.csv
     format: csv
   - name: >-
       Eduskunta 35: 2007-03-21 to 2011-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/13c37c17fa4b6a34859e2bc99926f2cd3ed37e24/data/Finland/Eduskunta/term-35.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e49163786816c5801198e42ab06b3b74f4bead2/data/Finland/Eduskunta/term-35.csv
     format: csv
   - name: >-
       Eduskunta 34: 2003-03-19 to 2007-03-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b129b0402e54c77b03514bbc5e5ac6315ed6c1fc/data/Finland/Eduskunta/term-34.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e49163786816c5801198e42ab06b3b74f4bead2/data/Finland/Eduskunta/term-34.csv
     format: csv
   - name: >-
       Eduskunta 33: 1999-03-24 to 2003-03-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/da81d89d9b9048e6ab13cb3f7b222d74c707e661/data/Finland/Eduskunta/term-33.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5e49163786816c5801198e42ab06b3b74f4bead2/data/Finland/Eduskunta/term-33.csv
     format: csv
   - name: >-
       Eduskunta 32: 1995-03-24 to 1999-03-23
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-04T07:36:09
+last_modified: 2018-04-10T11:57:15
 license: ''
 category:
   - Finland

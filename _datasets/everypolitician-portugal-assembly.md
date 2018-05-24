@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d82cd4c5286084e895a6c8380ae3fbe08706477/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2754f5993dccac4d3f4ec849bdf2606ae2ee8248/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13ª Legislatura: From 2015-10-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ae5d63d0f801f12984185dd2f7cb52a14650776c/data/Portugal/Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9b65df10bbfa675703fa3ab87b56c22769055ac/data/Portugal/Assembly/term-13.csv
     format: csv
   - name: >-
       12ª Legislatura: 2011-06-20 to 2015-10-22
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-03T11:10:11
+last_modified: 2018-05-23T13:41:12
 license: ''
 category:
   - Portugal

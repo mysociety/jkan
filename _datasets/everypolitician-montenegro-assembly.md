@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a3cc0e482168ea2f2917404ded2e5766cd4a6cff/data/Montenegro/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f93ecce20a907eff09517de00d970968d18b9fc3/data/Montenegro/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Skupština 2012-: 2012-11-06 to 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Montenegro/Assembly/term-25.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f93ecce20a907eff09517de00d970968d18b9fc3/data/Montenegro/Assembly/term-25.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-03-05T23:23:28
+last_modified: 2018-05-23T15:59:14
 license: ''
 category:
   - Montenegro

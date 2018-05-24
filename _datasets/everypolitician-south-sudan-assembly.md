@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cc03c2bab37feace8ebfaa4490677bcbed5a337d/data/South_Sudan/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/edfd070eb49c65a0890881e205724b03fdb11f0e/data/South_Sudan/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       1st Parliament: From 2011-07-09
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:52:40
+last_modified: 2018-04-05T15:45:56
 license: ''
 category:
   - South Sudan

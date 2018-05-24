@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/614a72ee87b1a6c0ff97e316e2e449ae614389ad/data/Italy/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2742fc1dcf032301d872ab25d174693832374b13/data/Italy/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       XVII Legislatura: From 2013-03-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5b372955b1c49b9ccd6caf5a60f3f3472d6eeeb0/data/Italy/Senate/term-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2742fc1dcf032301d872ab25d174693832374b13/data/Italy/Senate/term-17.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-03-14T20:53:25
+last_modified: 2018-04-04T14:54:16
 license: ''
 category:
   - Italy

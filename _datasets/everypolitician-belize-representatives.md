@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5fe4940268056a8ef1003953dd74f68faaf51d/data/Belize/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8c51768e32d59971f656dc42bd089f719a5cbc4/data/Belize/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-11-05
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-03-05T16:50:59
+last_modified: 2018-05-23T12:25:02
 license: ''
 category:
   - Belize

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0101357c12aaf50a997ea0a56e795f00f23d9568/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4c7ba2654425ae441c59e646eebc946e3d6b8494/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json
     format: json
   - name: >-
       2010–2015: 2011-01-26 to 2015-06-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0101357c12aaf50a997ea0a56e795f00f23d9568/data/Afghanistan/Wolesi_Jirga/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4c7ba2654425ae441c59e646eebc946e3d6b8494/data/Afghanistan/Wolesi_Jirga/term-2010.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-01-12T06:37:41
+last_modified: 2018-04-10T07:47:05
 license: ''
 category:
   - Afghanistan
