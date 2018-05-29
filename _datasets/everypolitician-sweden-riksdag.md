@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bb1f3b2d70dc87df811c63f6b3a33efe164e4313/data/Sweden/Riksdag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/25baa33c65ca461531a7a31a45b35f556a447099/data/Sweden/Riksdag/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–2018: 2014-09-29 to 2018-09-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bc0105e9443dba65a7ded92ad9b81d2f09a487b/data/Sweden/Riksdag/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/25baa33c65ca461531a7a31a45b35f556a447099/data/Sweden/Riksdag/term-2014.csv
     format: csv
   - name: >-
       2010–2014: 2010-10-04 to 2014-09-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bc0105e9443dba65a7ded92ad9b81d2f09a487b/data/Sweden/Riksdag/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/25baa33c65ca461531a7a31a45b35f556a447099/data/Sweden/Riksdag/term-2010.csv
     format: csv
   - name: >-
       2006–2010: 2006-10-02 to 2010-10-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bc0105e9443dba65a7ded92ad9b81d2f09a487b/data/Sweden/Riksdag/term-2006.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/25baa33c65ca461531a7a31a45b35f556a447099/data/Sweden/Riksdag/term-2006.csv
     format: csv
   - name: >-
       2002–2006: 2002-09-30 to 2006-10-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bc0105e9443dba65a7ded92ad9b81d2f09a487b/data/Sweden/Riksdag/term-2002.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/25baa33c65ca461531a7a31a45b35f556a447099/data/Sweden/Riksdag/term-2002.csv
     format: csv
   - name: >-
       1998–2002: 1998-10-05 to 2002-09-30
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-28T00:41:27
+last_modified: 2018-05-28T01:43:59
 license: ''
 category:
   - Sweden

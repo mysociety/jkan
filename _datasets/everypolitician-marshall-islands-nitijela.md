@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2492a0fd8ed3e8bfae344038f214eb2a59bcf6a2/data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f3e6b5fb7197423a935db6c86114575f0810dd31/data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–2015: 2012-01-03 to 2015-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Marshall_Islands/Nitijela/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f3e6b5fb7197423a935db6c86114575f0810dd31/data/Marshall_Islands/Nitijela/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-06T06:26:03
+last_modified: 2018-05-23T04:10:39
 license: ''
 category:
   - Marshall Islands

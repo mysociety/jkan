@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/17713be30d9321c54d410608765611e2f23f1a5d/data/Suriname/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/576d955aa6e595be08c739cad20bc6b987f279e5/data/Suriname/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-06-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8b91d52555cdd9f845655ca0339c5a4f395aa46/data/Suriname/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/576d955aa6e595be08c739cad20bc6b987f279e5/data/Suriname/Assembly/term-2015.csv
     format: csv
   - name: >-
       2010–2015: 2010 to 2015-06-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8b91d52555cdd9f845655ca0339c5a4f395aa46/data/Suriname/Assembly/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/576d955aa6e595be08c739cad20bc6b987f279e5/data/Suriname/Assembly/term-2010.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-09T06:31:12
+last_modified: 2018-05-24T20:23:42
 license: ''
 category:
   - Suriname

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/90b550b5abcd6e1d8321e977e77431383fa18de2/data/Jordan/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/473ea85369d465f72888a009d9b772f77cc4363d/data/Jordan/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-02-10
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-05T14:16:08
+last_modified: 2018-05-25T14:09:51
 license: ''
 category:
   - Jordan
