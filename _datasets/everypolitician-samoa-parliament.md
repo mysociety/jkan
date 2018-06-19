@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d0f90ccb1ec73bad062f46f4c155ba5b789cf984/data/Samoa/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Samoa/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       16th Parliament: From 2016-03-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d0f90ccb1ec73bad062f46f4c155ba5b789cf984/data/Samoa/Parliament/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Samoa/Parliament/term-16.csv
     format: csv
   - name: >-
       15th Parliament: 2011-03-18 to 2016-01-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6ca0a21cb8a2a514b3483803edac27974c3d82c6/data/Samoa/Parliament/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Samoa/Parliament/term-15.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-05-28T09:59:07
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Samoa

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8c51768e32d59971f656dc42bd089f719a5cbc4/data/Belize/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Belize/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-11-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5fe4940268056a8ef1003953dd74f68faaf51d/data/Belize/Representatives/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Belize/Representatives/term-2015.csv
     format: csv
   - name: >-
       2012–2015: 2012-03-21 to 2015-11-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Belize/Representatives/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Belize/Representatives/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-05-23T12:25:02
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Belize

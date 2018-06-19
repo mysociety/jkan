@@ -14,17 +14,32 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf2788bf05c01299eceda262b1820c1600621a5f/data/Wales/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/106cf9cd58df00c65cea1e586d05b232117c2027/data/Wales/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Fifth Assembly: From 2016-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ec2017ec587fee4cab10761aebac944200f9761c/data/Wales/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fe8bb5f6f8f462e018ee2d2ed4093c33c6a03d9a/data/Wales/Assembly/term-5.csv
     format: csv
   - name: >-
       Fourth Assembly: 2011-09-15 to 2016-04-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/56fa6dd2434f8361c72a85fa430e18cacbc736f4/data/Wales/Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fe8bb5f6f8f462e018ee2d2ed4093c33c6a03d9a/data/Wales/Assembly/term-4.csv
+    format: csv
+  - name: >-
+      Third Assembly: 2007-05-04 to 2011-03-31
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60bbbce475881202218b880e44d1bf4f5c4c3f23/data/Wales/Assembly/term-3.csv
+    format: csv
+  - name: >-
+      Second Assembly: 2003-05-02 to 2007-05-02
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/106cf9cd58df00c65cea1e586d05b232117c2027/data/Wales/Assembly/term-2.csv
+    format: csv
+  - name: >-
+      First Assembly: 1999-05-07 to 2003-04-30
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/106cf9cd58df00c65cea1e586d05b232117c2027/data/Wales/Assembly/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +50,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-05-24T01:26:07
+last_modified: 2018-06-18T18:34:25
 license: ''
 category:
   - Wales

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/60a1b910a8fd4b16555d3b714c0d37391635eaae/data/Burundi/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Burundi/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-07-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/60a1b910a8fd4b16555d3b714c0d37391635eaae/data/Burundi/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Burundi/Assembly/term-2015.csv
     format: csv
   - name: >-
       2010–2015: 2010 to 2015-04-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Burundi/Assembly/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Burundi/Assembly/term-2010.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-05-23T06:16:38
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Burundi

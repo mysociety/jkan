@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bf273f1068fdfd1bf46929bba6c78a7f6ab08d89/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4481d367ce7d4a9de50df6b8368ea373e0474e89/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       3rd Territorial Council: From 2017-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2017.csv
     format: csv
   - name: >-
       2nd Territorial Council: 2012-03 to 2017-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv
     format: csv
   - name: >-
       1st Territorial Council: 2006-03 to 2012-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-05T14:16:54
+last_modified: 2018-06-07T01:55:39
 license: ''
 category:
   - Saint Pierre and Miquelon

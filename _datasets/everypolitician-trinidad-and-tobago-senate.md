@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/168e40cf2ef69d3208618df9ee2083e99316486b/data/Trinidad_and_Tobago/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Trinidad_and_Tobago/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Republican Parliament: From 2015-09-23
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:52:46
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Trinidad and Tobago

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea75cb0421a5bba7fc1de5543328e47b061d2e5e/data/Montserrat/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Montserrat/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       1st Legislative Assembly: From 2014
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:52:14
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Montserrat

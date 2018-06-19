@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d58ffa4237941194ed10fcffdd777ebb752c306f/data/Turkmenistan/Mejlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Turkmenistan/Mejlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Convocation: From 2014-01-07
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:52:49
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Turkmenistan

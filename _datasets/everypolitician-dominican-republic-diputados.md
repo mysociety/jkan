@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7082d0d53b39083d1b99a45b4dd1da493e53b765/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ced1e54c6d08ec1e409ddb2e3cbdcc6a84e43dfe/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json
     format: json
   - name: >-
       2010–2016: 2010 to 2016-08-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7458e2928c76bde7a9a3f0ceefbee34f61ae3d68/data/Dominican_Republic/Diputados/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Dominican_Republic/Diputados/term-2010.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-07T08:08:38
+last_modified: 2018-06-15T06:58:06
 license: ''
 category:
   - Dominican Republic

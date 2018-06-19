@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/087588fe646c7acc0897b11f67511ebf660ddd73/data/Nicaragua/Asamblea/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nicaragua/Asamblea/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–2017: From 2012-01-09
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:52:19
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Nicaragua

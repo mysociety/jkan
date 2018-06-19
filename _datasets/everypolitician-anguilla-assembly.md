@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/064c3204f10d702d2e65dbce5632c0b6f623c2bd/data/Anguilla/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Anguilla/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–2020: 2015 to 2020
@@ -60,7 +60,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-08-17T09:27:26
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Anguilla

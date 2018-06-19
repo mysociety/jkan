@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/61d667b1ce21f34bdd6b6997c77e56b64e8a199d/data/Nauru/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nauru/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       22nd Parliament: From 2016-07-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Nauru/Parliament/term-22.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nauru/Parliament/term-22.csv
     format: csv
   - name: >-
       21st Parliament: 2013-06-11 to 2016-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6d6ad04f634615a87bc7da28d6c662654b168a7f/data/Nauru/Parliament/term-21.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nauru/Parliament/term-21.csv
     format: csv
   - name: >-
       20th Parliament: 2010-06-22 to 2013-05-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Nauru/Parliament/term-20.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nauru/Parliament/term-20.csv
     format: csv
   - name: >-
       19th Parliament: 2000-06-19 to 2010-05-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Nauru/Parliament/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nauru/Parliament/term-19.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-05-23T16:49:09
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Nauru

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b4cf9a0c9eb4025ef92a7545a572c255a1719ef/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       3rd Assembly: From 2016-12-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/24e0d59c9205385fd724885b8990cc775b42663d/data/Turks_and_Caicos_Islands/Assembly/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Turks_and_Caicos_Islands/Assembly/term-2016.csv
     format: csv
   - name: >-
       2nd Assembly: 2012-11-09 to 2016-12-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/24e0d59c9205385fd724885b8990cc775b42663d/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-04-07T07:19:16
+last_modified: 2018-06-07T16:00:24
 license: ''
 category:
   - Turks and Caicos Islands
