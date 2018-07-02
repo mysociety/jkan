@@ -2,7 +2,7 @@
 schema: default
 title: UK - ParlParse formatted Hansard Speeches and Questions
 organization: mySociety
-notes: XML files containing debates in the main chambers (from 1935) and in Westminster Hall from the start of the 2001 parliament (Commons) or 1999 reform (Lords). Speeches and the speaker are labelled with unique identifiers, as are divisions and how each MP or Lord voted.
+notes: XML files containing debates in the main chambers (from 1918) and in Westminster Hall from the start of the 2001 parliament (Commons) or 1999 reform (Lords). Speeches and the speaker are labelled with unique identifiers, as are divisions and how each MP or Lord voted.
 
 resources:
   - name: Hansard Reports
