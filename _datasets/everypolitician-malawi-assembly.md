@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/23e4f5d2889f2e46c2a36928ec605bd29f85af72/data/Malawi/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5b3eb4825028d5e39780e2473c18fe41db61d216/data/Malawi/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014-06-19
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-10T05:42:43
+last_modified: 2018-06-18T15:14:34
 license: ''
 category:
   - Malawi

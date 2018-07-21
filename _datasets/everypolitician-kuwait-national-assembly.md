@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Kuwait/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3ab94ca436e4719763d265395bcf04f039e2fb71/data/Kuwait/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       14th Legislative Session: From 2013-08-06
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2018-07-16T00:05:51
 license: ''
 category:
   - Kuwait

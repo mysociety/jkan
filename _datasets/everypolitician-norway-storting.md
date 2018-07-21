@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/df9dbd62e86f5a424c4f0037123bb41e03fb8bf4/data/Norway/Storting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/39ac4bd5d2de184b3cf8fdabd9e983917bbe0ce1/data/Norway/Storting/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017-2021: 2017-10-01 to 2021-09-30
@@ -120,7 +120,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-11T06:10:47
+last_modified: 2018-07-16T23:48:48
 license: ''
 category:
   - Norway

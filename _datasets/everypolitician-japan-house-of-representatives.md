@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/201ddb6b25ac9b583250318ea94ad482111db231/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60b35dd097d931bb558d56b70b96463469173e98/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       The 47th House of Representatives: From 2014-12-14
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-11T01:21:35
+last_modified: 2018-07-16T20:52:40
 license: ''
 category:
   - Japan

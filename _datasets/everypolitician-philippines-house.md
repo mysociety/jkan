@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0984a852d7cc81c023d18c23c971df0cfd004d9b/data/Philippines/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a37b8ac4728b6f1b34209da72f3edf4df8e0622a/data/Philippines/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Congress of the Philippines: From 2016-07-25
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T22:13:42
+last_modified: 2018-07-16T02:44:42
 license: ''
 category:
   - Philippines

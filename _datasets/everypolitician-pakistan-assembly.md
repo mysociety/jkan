@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/208195e6d5559742aadec55870855307a0624ff4/data/Pakistan/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8896876ff4a131c92b5e70d4c8fa0279d49cf791/data/Pakistan/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       14th National Assembly: From 2013-06-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3e01e1eda44dc3792e709d9dc8d331ae295c4677/data/Pakistan/Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8896876ff4a131c92b5e70d4c8fa0279d49cf791/data/Pakistan/Assembly/term-14.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-15T11:48:41
+last_modified: 2018-07-16T09:52:48
 license: ''
 category:
   - Pakistan

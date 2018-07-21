@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b78027cd342dc7035d5fd5100c783a52582b4c7e/data/Latvia/Saeima/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f363ddee0df2819fe1a5f3d37b2458a33b1783ee/data/Latvia/Saeima/ep-popolo-v1.0.json
     format: json
   - name: >-
       12th Saeima: From 2014-11-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2a314e8e53424361821ebebd74e11f4cea271908/data/Latvia/Saeima/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f363ddee0df2819fe1a5f3d37b2458a33b1783ee/data/Latvia/Saeima/term-12.csv
     format: csv
   - name: >-
       11th Saeima: 2011-10-17 to 2014-11-03
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-18T13:33:39
+last_modified: 2018-07-20T06:09:38
 license: ''
 category:
   - Latvia

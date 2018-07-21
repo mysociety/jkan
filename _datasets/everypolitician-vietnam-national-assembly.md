@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/472e0d6caa99782eeda03a9afdd7b759d9b8a0d6/data/Vietnam/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/763579a794e8f40d6aa65ad01110e6ef047fcf16/data/Vietnam/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Congress: 2011-07-25 to 2016-05-22
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-08T07:40:54
+last_modified: 2018-07-14T18:59:04
 license: ''
 category:
   - Vietnam

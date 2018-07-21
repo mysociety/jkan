@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fbd0fb66da177a99fdf7817f807b8547c8e463f/data/South_Africa/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/190595c4975a602b4759ebbf1ffacb2d7adc0591/data/South_Africa/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       26th Parliament: From 2014-05-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fbd0fb66da177a99fdf7817f807b8547c8e463f/data/South_Africa/Assembly/term-26.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/190595c4975a602b4759ebbf1ffacb2d7adc0591/data/South_Africa/Assembly/term-26.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-01T02:47:10
+last_modified: 2018-07-16T08:47:43
 license: ''
 category:
   - South Africa
