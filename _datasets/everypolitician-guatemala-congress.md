@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1e6b077704ca2247ed54cac5c089b72c9362da13/data/Guatemala/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/16b4fe5a8bb7ac97b2eb17a29aac863655ac341c/data/Guatemala/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII Legislatura: 2016-01-14 to 2020-01-14
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-16T03:10:25
+last_modified: 2018-07-20T09:44:55
 license: ''
 category:
   - Guatemala

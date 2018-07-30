@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8199aa6b27d4faa44f0a31626191c2fabd4138fa/data/Macao/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8a7c101f076fcf2fdce30d5447f366420d268cd4/data/Macao/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Legislative Assembly: 2013 to 2017
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-25T04:17:27
+last_modified: 2018-07-20T13:24:37
 license: ''
 category:
   - Macao
