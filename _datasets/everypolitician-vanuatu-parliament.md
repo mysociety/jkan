@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ce742bade48dd4da545fcf34261593e11141feed/data/Vanuatu/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/932a0908528f8a4212ceb005485aa0e74f643b22/data/Vanuatu/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament: From 2016-02-11
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-04T08:02:33
+last_modified: 2018-08-05T23:11:29
 license: ''
 category:
   - Vanuatu

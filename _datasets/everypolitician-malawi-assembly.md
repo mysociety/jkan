@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5b3eb4825028d5e39780e2473c18fe41db61d216/data/Malawi/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/54864fd422eed893a2a98292273de7e0d6666ba0/data/Malawi/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Malawi/Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/244427fadea7387f20b36841e8c2052568d9062c/data/Malawi/Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-18T15:14:34
+last_modified: 2018-08-05T23:27:19
 license: ''
 category:
   - Malawi

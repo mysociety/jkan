@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/40ac9ae71538672146974b86761ca0423e8fbf04/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6590b6b86d1a62013049f81567ac97634c158514/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–: From 2016-03-10
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-21T13:55:12
+last_modified: 2018-08-01T08:04:39
 license: ''
 category:
   - Jamaica

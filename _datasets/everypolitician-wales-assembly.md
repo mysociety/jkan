@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6f5f2e45cdb9d465db57645ea1976ea8418eeeb8/data/Wales/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/184aa7bce3bbd5b4310aa23d177128a4da370038/data/Wales/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Fifth Assembly: From 2016-05-06
@@ -50,7 +50,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-16T08:29:48
+last_modified: 2018-08-06T00:27:32
 license: ''
 category:
   - Wales

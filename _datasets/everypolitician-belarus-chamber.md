@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fccb956b48fddf57c2695cee655182606e99f51/data/Belarus/Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/84bd094c2fb2ed426b52e88599c5a4edd8c3a443/data/Belarus/Chamber/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Convocation: From 2016-09-11
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-11T00:11:24
+last_modified: 2018-08-04T04:29:33
 license: ''
 category:
   - Belarus

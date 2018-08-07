@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4f21a53ec846128f65c3c77d7ddb39c818830fd1/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8314db6750bb32f0be7de3bef5e56dd6bfc64d6e/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       7. volební období: From 2013-10-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e59653973c3b0beb78b02ad075d83224694165dd/data/Czech_Republic/Deputies/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/42bbd03a0e962f8222905709fb8c839300515e20/data/Czech_Republic/Deputies/term-7.csv
     format: csv
   - name: >-
       6. volební období: 2010-05-29 to 2013-08-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6905cb72b1327fda2b8f263935fb28edefbfe0ac/data/Czech_Republic/Deputies/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/42bbd03a0e962f8222905709fb8c839300515e20/data/Czech_Republic/Deputies/term-6.csv
     format: csv
   - name: >-
       5. volební období: 2006-06-03 to 2010-05-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b19add3c800ca4a023770c37ddeaf6431663544f/data/Czech_Republic/Deputies/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/42bbd03a0e962f8222905709fb8c839300515e20/data/Czech_Republic/Deputies/term-5.csv
     format: csv
   - name: >-
       4. volební období: 2002-06-15 to 2006-06-02
@@ -49,7 +49,7 @@ resources:
   - name: >-
       1. volební období: 1992-06-06 to 1996-05-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6905cb72b1327fda2b8f263935fb28edefbfe0ac/data/Czech_Republic/Deputies/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/42bbd03a0e962f8222905709fb8c839300515e20/data/Czech_Republic/Deputies/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -60,7 +60,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-17T08:41:11
+last_modified: 2018-08-04T14:22:45
 license: ''
 category:
   - Czech Republic

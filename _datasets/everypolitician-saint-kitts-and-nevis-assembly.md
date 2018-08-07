@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/989b647f8c488d54b6a397d7252d4336aa9e8444/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th National Assembly: From 2015-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saint_Kitts_and_Nevis/Assembly/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/989b647f8c488d54b6a397d7252d4336aa9e8444/data/Saint_Kitts_and_Nevis/Assembly/term-2015.csv
     format: csv
   - name: >-
       7th National Assembly: 2010-03-10 to 2015-01-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saint_Kitts_and_Nevis/Assembly/term-2010.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/989b647f8c488d54b6a397d7252d4336aa9e8444/data/Saint_Kitts_and_Nevis/Assembly/term-2010.csv
     format: csv
   - name: >-
       6th National Assembly: 2004-10-26 to 2010
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2018-08-01T08:11:16
 license: ''
 category:
   - Saint Kitts and Nevis

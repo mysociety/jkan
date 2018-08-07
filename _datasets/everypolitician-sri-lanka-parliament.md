@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5a6e8422c16453038c61c93684832cb7038af672/data/Sri_Lanka/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ccf7a1fe11b512cc383f770c01ef81b18a62b23b/data/Sri_Lanka/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       15th Parliament: From 2015-09-01
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-20T09:35:42
+last_modified: 2018-08-02T10:43:43
 license: ''
 category:
   - Sri Lanka

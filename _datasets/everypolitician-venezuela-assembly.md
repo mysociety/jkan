@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7c9b435fdaf6db8c4a688b2f0546c71722154bdd/data/Venezuela/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5237b9d080c15a017702ea943c1682c07796b5af/data/Venezuela/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–: From 2016-01-05
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-15T02:32:49
+last_modified: 2018-08-05T11:38:59
 license: ''
 category:
   - Venezuela

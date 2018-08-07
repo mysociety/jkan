@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/75e088c6f7f2e2f5352afeb179f695b9875dd5ec/data/Mexico/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f638723741937fadbad3fed3ce72dbce15c4305a/data/Mexico/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       LXIII Legislature: From 2015-09-01
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-17T07:39:42
+last_modified: 2018-08-06T04:05:51
 license: ''
 category:
   - Mexico

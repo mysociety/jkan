@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3abf0a0c254c92629640c18d8883b22c734727ca/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fef32adce2cbcc9f57e5785f50be4d92836b4fa7/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       44th National Assembly: From 2017-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c54c586bdbd9be346435708ce7ad862d71da79d0/data/Bulgaria/National_Assembly/term-44.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fef32adce2cbcc9f57e5785f50be4d92836b4fa7/data/Bulgaria/National_Assembly/term-44.csv
     format: csv
   - name: >-
       43rd National Assembly: 2014-10-27 to 2017-01-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0cd99bc8034d8a1fc46edf886f930ccf5847a18f/data/Bulgaria/National_Assembly/term-43.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fef32adce2cbcc9f57e5785f50be4d92836b4fa7/data/Bulgaria/National_Assembly/term-43.csv
     format: csv
   - name: >-
       42nd National Assembly: 2013-05-21 to 2014-08-05
@@ -39,7 +39,7 @@ resources:
   - name: >-
       40th National Assembly: 2005-07-11 to 2009-06-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0cd99bc8034d8a1fc46edf886f930ccf5847a18f/data/Bulgaria/National_Assembly/term-40.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fef32adce2cbcc9f57e5785f50be4d92836b4fa7/data/Bulgaria/National_Assembly/term-40.csv
     format: csv
   - name: >-
       39th National Assembly: 2001-07-05 to 2005-06-17
@@ -55,7 +55,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-11T00:21:20
+last_modified: 2018-08-06T10:27:35
 license: ''
 category:
   - Bulgaria

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Alderney/States/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/11b264d4bcae4a3fcdce48e529bb9e34f1e932a0/data/Alderney/States/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017-2018: 2017-01-01 to 2018-12-31
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2018-08-02T05:28:51
 license: ''
 category:
   - Alderney

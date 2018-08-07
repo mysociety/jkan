@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/85038acf4ca3d588ee9e5e7af6d246f3e842f1d1/data/Curacao/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7af91350624a3f30c80e1646259b3e61e4de89bf/data/Curacao/Estates/ep-popolo-v1.0.json
     format: json
   - name: >-
       2nd Curaçaoan Parliament: 2012-11-02 to 2016-11-01
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-16T02:21:12
+last_modified: 2018-08-06T02:31:13
 license: ''
 category:
   - Curaçao

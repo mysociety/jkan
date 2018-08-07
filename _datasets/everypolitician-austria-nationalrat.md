@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5623aa101f370db6dfffe2ce00d3bd14b7253f96/data/Austria/Nationalrat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/80744c9e8dd04f0705a937720b327e6ccf9a6a7b/data/Austria/Nationalrat/ep-popolo-v1.0.json
     format: json
   - name: >-
       25th National Council: 2013-10-29 to 2017-11-08
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-16T01:56:36
+last_modified: 2018-08-05T13:53:33
 license: ''
 category:
   - Austria
