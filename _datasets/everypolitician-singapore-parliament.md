@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/80e43ba59638862e2e841fe497aad473fc0b0f5a/data/Singapore/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/469930fccb229035b163d081a65a4f02ae35fc6b/data/Singapore/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament: From 2016-01-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/80e43ba59638862e2e841fe497aad473fc0b0f5a/data/Singapore/Parliament/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/469930fccb229035b163d081a65a4f02ae35fc6b/data/Singapore/Parliament/term-13.csv
     format: csv
   - name: >-
       12th Parliament: 2011-10-10 to 2015-08-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/80e43ba59638862e2e841fe497aad473fc0b0f5a/data/Singapore/Parliament/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/469930fccb229035b163d081a65a4f02ae35fc6b/data/Singapore/Parliament/term-12.csv
     format: csv
   - name: >-
       11th Parliament: 2006-11-02 to 2011-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/80e43ba59638862e2e841fe497aad473fc0b0f5a/data/Singapore/Parliament/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/469930fccb229035b163d081a65a4f02ae35fc6b/data/Singapore/Parliament/term-11.csv
     format: csv
   - name: >-
       10th Parliament: 2002-03-25 to 2006-04-19
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-02T09:20:22
+last_modified: 2018-08-08T17:51:16
 license: ''
 category:
   - Singapore

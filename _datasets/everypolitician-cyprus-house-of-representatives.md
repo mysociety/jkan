@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/063e580b6ed5f7c560d08a6e724658c2453ae68f/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6ec762f89dd11acba41d6535fca52a357ddd460c/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Term: From 2016-06-02
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-02T03:12:20
+last_modified: 2018-08-08T11:31:20
 license: ''
 category:
   - Cyprus

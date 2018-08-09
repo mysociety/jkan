@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/61f3ff644d18f5fc43d14faec0ab81b61f72a600/data/Greece/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3707d0dd94f3fbb143d8b3c7f062f29d209d70e1/data/Greece/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Hellenic Parliament: From 2015-09-20
@@ -24,22 +24,22 @@ resources:
   - name: >-
       16th Hellenic Parliament: 2015-01-25 to 2015-08-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f84b891f446dd6c76be20fd99c2d57e5d6532ac6/data/Greece/Parliament/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3707d0dd94f3fbb143d8b3c7f062f29d209d70e1/data/Greece/Parliament/term-16.csv
     format: csv
   - name: >-
       15th Hellenic Parliament: 2012-06-17 to 2014-12-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f84b891f446dd6c76be20fd99c2d57e5d6532ac6/data/Greece/Parliament/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3707d0dd94f3fbb143d8b3c7f062f29d209d70e1/data/Greece/Parliament/term-15.csv
     format: csv
   - name: >-
       14th Hellenic Parliament: 2012-05-06 to 2012-05-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f84b891f446dd6c76be20fd99c2d57e5d6532ac6/data/Greece/Parliament/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3707d0dd94f3fbb143d8b3c7f062f29d209d70e1/data/Greece/Parliament/term-14.csv
     format: csv
   - name: >-
       13th Hellenic Parliament: 2009-10-04 to 2012-04-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f84b891f446dd6c76be20fd99c2d57e5d6532ac6/data/Greece/Parliament/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3707d0dd94f3fbb143d8b3c7f062f29d209d70e1/data/Greece/Parliament/term-13.csv
     format: csv
   - name: >-
       12th Hellenic Parliament: 2007-09-16 to 2009-09-07
@@ -110,7 +110,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-05T20:24:38
+last_modified: 2018-08-08T12:07:38
 license: ''
 category:
   - Greece

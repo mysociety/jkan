@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b6a3722368a8413ee238d1ec3f4a4a7871858403/data/Malta/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c31f40d63f6532e131398d836e8cca298ec4797a/data/Malta/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       12th Parliament: From 2013-04-06
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-04T06:33:51
+last_modified: 2018-08-08T09:19:27
 license: ''
 category:
   - Malta

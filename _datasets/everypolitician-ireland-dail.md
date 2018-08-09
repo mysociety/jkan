@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d3672fa2402e6d5820fedaa27cdaeee68ef97e41/data/Ireland/Dail/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1000e47de64d62d0e5bd970222ccdacd1193737/data/Ireland/Dail/ep-popolo-v1.0.json
     format: json
   - name: >-
       32nd Dáil: From 2016-03-10
@@ -36,6 +36,31 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/d3672fa2402e6d5820fedaa27cdaeee68ef97e41/data/Ireland/Dail/term-29.csv
     format: csv
+  - name: >-
+      28th Dáil: 1997-06-26 to 2002-04-25
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/43799a20fa719266f2b1b764d4b3c643b9245c3f/data/Ireland/Dail/term-28.csv
+    format: csv
+  - name: >-
+      27th Dáil: 1992-12-14 to 1997-05-15
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/43799a20fa719266f2b1b764d4b3c643b9245c3f/data/Ireland/Dail/term-27.csv
+    format: csv
+  - name: >-
+      26th Dáil: 1989-06-29 to 1992-11-05
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1000e47de64d62d0e5bd970222ccdacd1193737/data/Ireland/Dail/term-26.csv
+    format: csv
+  - name: >-
+      25th Dáil: 1987-03-10 to 1989-05-25
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1000e47de64d62d0e5bd970222ccdacd1193737/data/Ireland/Dail/term-25.csv
+    format: csv
+  - name: >-
+      24th Dáil: 1982-12-14 to 1987-01-20
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b1000e47de64d62d0e5bd970222ccdacd1193737/data/Ireland/Dail/term-24.csv
+    format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
     format: library
@@ -45,7 +70,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-06T13:59:57
+last_modified: 2018-08-08T15:40:31
 license: ''
 category:
   - Ireland

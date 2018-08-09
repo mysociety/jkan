@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fef32adce2cbcc9f57e5785f50be4d92836b4fa7/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/071a18e70d8083b22568e967c6d3f2b80ee0c21e/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       44th National Assembly: From 2017-04-19
@@ -55,7 +55,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-06T10:27:35
+last_modified: 2018-08-06T11:51:38
 license: ''
 category:
   - Bulgaria
