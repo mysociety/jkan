@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bdf593e36993f1ca6c16ebc2c003c8b45c34ad18/data/Norway/Storting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/126ebc708fe56695e84ac248f6941ed2b4fbd92c/data/Norway/Storting/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017-2021: 2017-10-01 to 2021-09-30
@@ -84,7 +84,7 @@ resources:
   - name: >-
       1965-69: 1965-10-01 to 1969-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7264278c963d968573b16fa854944a86398daed5/data/Norway/Storting/term-1965-69.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d3c17619198c64dd32a22e6934836b9184a53c1d/data/Norway/Storting/term-1965-69.csv
     format: csv
   - name: >-
       1961-65: 1961-10-01 to 1965-09-30
@@ -99,17 +99,17 @@ resources:
   - name: >-
       1954-57: 1954-01-11 to 1958-01-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/baee261007480fe885106b0cb7961e527eb948e0/data/Norway/Storting/term-1954-57.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e5533aea3a4b3b5051079f459e9bac448256021/data/Norway/Storting/term-1954-57.csv
     format: csv
   - name: >-
       1950-53: 1950-01-11 to 1954-01-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7264278c963d968573b16fa854944a86398daed5/data/Norway/Storting/term-1950-53.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e5533aea3a4b3b5051079f459e9bac448256021/data/Norway/Storting/term-1950-53.csv
     format: csv
   - name: >-
       1945-49: 1945-12-04 to 1950-01-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7264278c963d968573b16fa854944a86398daed5/data/Norway/Storting/term-1945-49.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e5533aea3a4b3b5051079f459e9bac448256021/data/Norway/Storting/term-1945-49.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -120,7 +120,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-08T05:26:10
+last_modified: 2018-08-15T07:47:26
 license: ''
 category:
   - Norway
