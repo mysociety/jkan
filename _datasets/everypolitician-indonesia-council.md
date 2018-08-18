@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2ee98977997ad73aa172736d556b741ef4b09e69/data/Indonesia/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a0695646be0d278cd7812783186296b05eee97e0/data/Indonesia/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       The Indonesian House - 11th General Election: From 2014-10-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Indonesia/Council/term-18.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9b7e7e9bda70601edaefea3be7189ae15254e1cc/data/Indonesia/Council/term-18.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-01T10:36:10
+last_modified: 2018-08-17T16:21:27
 license: ''
 category:
   - Indonesia

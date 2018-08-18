@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ca1a11f15fc4e24fa2ee76ecbaac1c7fe56eacf3/data/Italy/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/accc3f11764bb78d528b8d27bea069937b9533e5/data/Italy/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       XVII Legislatura: 2013-03-15 to 2018-03-22
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-15T05:21:11
+last_modified: 2018-08-16T22:15:30
 license: ''
 category:
   - Italy

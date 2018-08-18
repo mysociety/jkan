@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea74f9bf30a69e891ea7baea4ac709219749b2d2/data/Ireland/Dail/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0fbffe9861c8d0c72344644108c56b4e7f57b79a/data/Ireland/Dail/ep-popolo-v1.0.json
     format: json
   - name: >-
       32nd Dáil: From 2016-03-10
@@ -61,6 +61,26 @@ resources:
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b1000e47de64d62d0e5bd970222ccdacd1193737/data/Ireland/Dail/term-24.csv
     format: csv
+  - name: >-
+      23rd Dáil: 1982-03-09 to 1982-11-04
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eb59112d9ff60210b697213646f3c25bd28ff1a4/data/Ireland/Dail/term-23.csv
+    format: csv
+  - name: >-
+      22nd Dáil: 1981-06-30 to 1982-01-27
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eb59112d9ff60210b697213646f3c25bd28ff1a4/data/Ireland/Dail/term-22.csv
+    format: csv
+  - name: >-
+      21st Dáil: 1977-07-05 to 1981-05-21
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eb59112d9ff60210b697213646f3c25bd28ff1a4/data/Ireland/Dail/term-21.csv
+    format: csv
+  - name: >-
+      20th Dáil: 1973-03-14 to 1977-05-25
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eb59112d9ff60210b697213646f3c25bd28ff1a4/data/Ireland/Dail/term-20.csv
+    format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
     format: library
@@ -70,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-14T09:31:07
+last_modified: 2018-08-17T09:03:06
 license: ''
 category:
   - Ireland

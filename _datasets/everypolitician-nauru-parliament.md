@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nauru/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1259232324cf9b8eaa57b8683694991e49bbd83/data/Nauru/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       22nd Parliament: From 2016-07-11
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2018-08-15T16:34:35
 license: ''
 category:
   - Nauru

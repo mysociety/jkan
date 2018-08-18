@@ -14,47 +14,47 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/184011d3e18de60b8b95ad268676cb413495229f/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a5363dc21c80ef577f11f8e31d8829fedfaea38b/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII kadencja: From 2015-11-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/184011d3e18de60b8b95ad268676cb413495229f/data/Poland/Sejm/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-8.csv
     format: csv
   - name: >-
       VII kadencja: 2011-11-08 to 2015-11-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b7fb64f87987da0ac2d165e89accb2a274fb32b/data/Poland/Sejm/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-7.csv
     format: csv
   - name: >-
       VI kadencja: 2007-11-05 to 2011-11-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b7fb64f87987da0ac2d165e89accb2a274fb32b/data/Poland/Sejm/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-6.csv
     format: csv
   - name: >-
       V kadencja: 2005-10-19 to 2007-11-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b7fb64f87987da0ac2d165e89accb2a274fb32b/data/Poland/Sejm/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-5.csv
     format: csv
   - name: >-
       IV kadencja: 2001-10-19 to 2005-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b7fb64f87987da0ac2d165e89accb2a274fb32b/data/Poland/Sejm/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-4.csv
     format: csv
   - name: >-
       III kadencja: 1997-10-20 to 2001-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Poland/Sejm/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-3.csv
     format: csv
   - name: >-
       II kadencja: 1993-09-19 to 1997-10-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Poland/Sejm/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-2.csv
     format: csv
   - name: >-
       I kadencja: 1991-11-25 to 1993-09-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Poland/Sejm/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/67c5ab5cd2c9b4c6647428b1126b5f354b66c86f/data/Poland/Sejm/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-08T10:04:18
+last_modified: 2018-08-16T20:25:50
 license: ''
 category:
   - Poland

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4bb4537800be12c16338644c5c305e9dbdc58587/data/Bhutan/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b2da5c638e06071f7b3867fea0ca65d6d275f638/data/Bhutan/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2nd Parliament: From 2013-07-13
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-07-16T03:31:35
+last_modified: 2018-08-16T18:02:44
 license: ''
 category:
   - Bhutan

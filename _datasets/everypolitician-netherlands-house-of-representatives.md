@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/335ad64d518be3a113d1945831d30bd7d59211d4/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cb0a36c3ff37b6da0838a93c4c0bde62a7663790/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017–: From 2017-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e461d0f805cea741908f4f4d9424ec8f8b1c02d/data/Netherlands/House_of_Representatives/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cb0a36c3ff37b6da0838a93c4c0bde62a7663790/data/Netherlands/House_of_Representatives/term-2017.csv
     format: csv
   - name: >-
       2012–2017: 2012-09-20 to 2017-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e461d0f805cea741908f4f4d9424ec8f8b1c02d/data/Netherlands/House_of_Representatives/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/cb0a36c3ff37b6da0838a93c4c0bde62a7663790/data/Netherlands/House_of_Representatives/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-13T09:44:39
+last_modified: 2018-08-16T07:38:11
 license: ''
 category:
   - Netherlands
