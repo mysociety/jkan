@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8c33a7b7585477a55e8fa7822a0606f72e49b65/data/Israel/Knesset/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/318e10cbc90a5a7af1d47c7b45ef02f7c7704507/data/Israel/Knesset/ep-popolo-v1.0.json
     format: json
   - name: >-
       Knesset 20: 2015-03-31 to 2016-06-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8c33a7b7585477a55e8fa7822a0606f72e49b65/data/Israel/Knesset/term-20.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/318e10cbc90a5a7af1d47c7b45ef02f7c7704507/data/Israel/Knesset/term-20.csv
     format: csv
   - name: >-
       Knesset 19: 2013-02-05 to 2015-03-31
@@ -125,7 +125,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-19T06:42:09
+last_modified: 2018-08-20T02:44:08
 license: ''
 category:
   - Israel

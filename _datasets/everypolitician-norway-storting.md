@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/449ae5161a6361af212776e80da7cdae1ed15525/data/Norway/Storting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/848e9e764a1bd1c8e4798e3f4b8be36f61ebe698/data/Norway/Storting/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017-2021: 2017-10-01 to 2021-09-30
@@ -64,12 +64,12 @@ resources:
   - name: >-
       1981-85: 1981-10-01 to 1985-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7264278c963d968573b16fa854944a86398daed5/data/Norway/Storting/term-1981-85.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/848e9e764a1bd1c8e4798e3f4b8be36f61ebe698/data/Norway/Storting/term-1981-85.csv
     format: csv
   - name: >-
       1977-81: 1977-10-01 to 1981-09-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7264278c963d968573b16fa854944a86398daed5/data/Norway/Storting/term-1977-81.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/848e9e764a1bd1c8e4798e3f4b8be36f61ebe698/data/Norway/Storting/term-1977-81.csv
     format: csv
   - name: >-
       1973-77: 1973-10-01 to 1977-09-30
@@ -120,7 +120,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-19T08:13:48
+last_modified: 2018-08-20T02:19:02
 license: ''
 category:
   - Norway
