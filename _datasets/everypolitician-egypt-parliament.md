@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/42a13fc008759c8b3794208564af37a6ada8f1ee/data/Egypt/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4bc99da4551205ef63848587b64612353f2c821/data/Egypt/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2016-01-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Egypt/Parliament/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/02fc9a2f8fda520af85409a41299a95206ba3286/data/Egypt/Parliament/term-2015.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-18T13:49:57
+last_modified: 2018-09-13T12:17:50
 license: ''
 category:
   - Egypt

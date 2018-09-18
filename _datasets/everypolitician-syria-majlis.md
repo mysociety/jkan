@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f665181d2dbe088d2184355df0e98919423eaaf7/data/Syria/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3d1081662d66f825e724a85d2636785dd91c8f4/data/Syria/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–2016: 2012-05-24 to 2016-04-12
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-27T09:29:29
+last_modified: 2018-09-09T13:08:00
 license: ''
 category:
   - Syria

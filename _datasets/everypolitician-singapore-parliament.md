@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b1ded1ba4f028e4a5f3d04be17528762d61380e/data/Singapore/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38612b833338c89077373871284d5ece272ad1eb/data/Singapore/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament: From 2016-01-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/469930fccb229035b163d081a65a4f02ae35fc6b/data/Singapore/Parliament/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4524d4f44163ef0157bf0f362c1dc07fb324eb8/data/Singapore/Parliament/term-13.csv
     format: csv
   - name: >-
       12th Parliament: 2011-10-10 to 2015-08-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/469930fccb229035b163d081a65a4f02ae35fc6b/data/Singapore/Parliament/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e4524d4f44163ef0157bf0f362c1dc07fb324eb8/data/Singapore/Parliament/term-12.csv
     format: csv
   - name: >-
       11th Parliament: 2006-11-02 to 2011-04-19
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-22T03:07:10
+last_modified: 2018-09-13T14:04:54
 license: ''
 category:
   - Singapore
