@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cefdd49b0610c2c7088418e33ca82e12729e36d7/data/Cambodia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/61396098e976df3cc0bcaae5a315a1c5b35cb683/data/Cambodia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Mandate: From 2013-09-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9525e68eda75e130ebb4950b7043e1e8e2125a54/data/Cambodia/National_Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/61396098e976df3cc0bcaae5a315a1c5b35cb683/data/Cambodia/National_Assembly/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-23T06:14:06
+last_modified: 2018-09-24T11:05:18
 license: ''
 category:
   - Cambodia

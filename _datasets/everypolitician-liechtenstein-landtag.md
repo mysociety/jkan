@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c825f536c65395e4057310191426626a5ad2d37e/data/Liechtenstein/Landtag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f183412f49d5a457f8c12a281ca10d513889a79e/data/Liechtenstein/Landtag/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017-: From 2017-02-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Liechtenstein/Landtag/term-2017.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/efff54a7f6c02dc2d0a99333d0ada8234c68a1ad/data/Liechtenstein/Landtag/term-2017.csv
     format: csv
   - name: >-
       2013-2017: 2013-03-27 to 2017-02-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Liechtenstein/Landtag/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f183412f49d5a457f8c12a281ca10d513889a79e/data/Liechtenstein/Landtag/term-2013.csv
     format: csv
   - name: >-
       2009-2013: 2009-03-18 to 2013-02-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Liechtenstein/Landtag/term-2009.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f183412f49d5a457f8c12a281ca10d513889a79e/data/Liechtenstein/Landtag/term-2009.csv
     format: csv
   - name: >-
       2005-2009: 2005-04-14 to 2009-02-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Liechtenstein/Landtag/term-2005.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/efff54a7f6c02dc2d0a99333d0ada8234c68a1ad/data/Liechtenstein/Landtag/term-2005.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-21T04:16:20
+last_modified: 2018-09-24T14:57:03
 license: ''
 category:
   - Liechtenstein

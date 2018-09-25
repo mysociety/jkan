@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c8208fb18fb178607b18fe3d7e8205fe909a72d5/data/Namibia/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dab6d7b1529576fcc8790a7d10cf84e95d29d526/data/Namibia/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th National Council: From 2015-12-18
@@ -24,22 +24,22 @@ resources:
   - name: >-
       4th National Council: 2010 to 2015-12-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Namibia/Council/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dab6d7b1529576fcc8790a7d10cf84e95d29d526/data/Namibia/Council/term-4.csv
     format: csv
   - name: >-
       3rd National Council: 2004 to 2010
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Namibia/Council/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dab6d7b1529576fcc8790a7d10cf84e95d29d526/data/Namibia/Council/term-3.csv
     format: csv
   - name: >-
       2nd National Council: 1998 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Namibia/Council/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dab6d7b1529576fcc8790a7d10cf84e95d29d526/data/Namibia/Council/term-2.csv
     format: csv
   - name: >-
       1st National Council: 1993 to 1998
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Namibia/Council/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dab6d7b1529576fcc8790a7d10cf84e95d29d526/data/Namibia/Council/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -50,7 +50,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-03-22T17:18:24
+last_modified: 2018-09-24T14:57:43
 license: ''
 category:
   - Namibia

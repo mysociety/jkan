@@ -14,20 +14,20 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/08005a61119d4c5f3a57f788105f6d35fd360dd4/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3d8a0d3d207c6f163834f61b33db4e2daa3224e6/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
-      3rd Territorial Council: From 2017-03
+      3rd Territorial Council: From 2017-03-19
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2017.csv
     format: csv
   - name: >-
-      2nd Territorial Council: 2012-03 to 2017-03
+      2nd Territorial Council: 2012-03-18 to 2017-03-19
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv
     format: csv
   - name: >-
-      1st Territorial Council: 2006-03 to 2012-03
+      1st Territorial Council: 2006-03-19 to 2012-03-18
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv
     format: csv
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-08T13:23:28
+last_modified: 2018-09-24T10:52:23
 license: ''
 category:
   - Saint Pierre and Miquelon

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5be8d1a42bc7dfa170208166a2c94e4a8e5ec647/data/Brazil/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/30d82350c471aff1fc2e690dde207517efeecd09/data/Brazil/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
-      55th Chamber of Deputies of Brazil: 2015-02-01 to 2019-01-31
+      55th Chamber of Deputies of Brazil: From 2015-02-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bf6b33dd08b43966717c7b33911713ade142e8f4/data/Brazil/Deputies/term-55.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e49d5d9e6a5de5ec12f851dbd355e50e5db21afe/data/Brazil/Deputies/term-55.csv
     format: csv
   - name: >-
       54th Chamber of Deputies of Brazil: 2011-02-01 to 2015-01-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5be8d1a42bc7dfa170208166a2c94e4a8e5ec647/data/Brazil/Deputies/term-54.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/30d82350c471aff1fc2e690dde207517efeecd09/data/Brazil/Deputies/term-54.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-14T07:07:57
+last_modified: 2018-09-24T14:52:21
 license: ''
 category:
   - Brazil

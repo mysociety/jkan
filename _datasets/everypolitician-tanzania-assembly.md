@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/79924e0a3b153b41d31e94cce2b81014e6e8bf19/data/Tanzania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d05049b9ae2cceff85a5e575a1d1ac612a4d001/data/Tanzania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Assembly: From 2015-11-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/476c09b57fe37b6e77e234c165ad68bc91975d17/data/Tanzania/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b9c1d4e61413ffd28e47aa37caf29c7f2cd9a710/data/Tanzania/Assembly/term-5.csv
     format: csv
   - name: >-
       4th Assembly: 2010-10-31 to 2015-06-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Tanzania/Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d05049b9ae2cceff85a5e575a1d1ac612a4d001/data/Tanzania/Assembly/term-4.csv
     format: csv
   - name: >-
       3rd Assembly: 2005-10-30 to 2010-10-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Tanzania/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d05049b9ae2cceff85a5e575a1d1ac612a4d001/data/Tanzania/Assembly/term-3.csv
     format: csv
   - name: >-
       2nd Assembly: 2000-10-29 to 2005-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Tanzania/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d05049b9ae2cceff85a5e575a1d1ac612a4d001/data/Tanzania/Assembly/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-12T04:50:31
+last_modified: 2018-09-24T15:06:00
 license: ''
 category:
   - Tanzania

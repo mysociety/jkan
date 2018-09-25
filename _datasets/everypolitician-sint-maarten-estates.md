@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a380cf8fc0543265425e5ac831fb06572509c442/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f4df5ff11508e80a148afe1799734ea21b77ab69/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
     format: json
   - name: >-
       4th Estates: From 2018-02-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a380cf8fc0543265425e5ac831fb06572509c442/data/Sint_Maarten/Estates/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/186d70cd07a5610d13673731f71a1d3dbc9fe30c/data/Sint_Maarten/Estates/term-4.csv
     format: csv
   - name: >-
       3rd Estates: 2016-11-01 to 2018-02-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1ad02d0ce49df5ee863bfd9f3f4bf5d6ef777ccb/data/Sint_Maarten/Estates/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f4df5ff11508e80a148afe1799734ea21b77ab69/data/Sint_Maarten/Estates/term-3.csv
     format: csv
   - name: >-
       2nd Estates: 2014-10-10 to 2016-10-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8612b077e53cc2b8812be730c7bf34d18eb411ed/data/Sint_Maarten/Estates/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f4df5ff11508e80a148afe1799734ea21b77ab69/data/Sint_Maarten/Estates/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-17T07:54:13
+last_modified: 2018-09-24T14:58:34
 license: ''
 category:
   - Sint Maarten

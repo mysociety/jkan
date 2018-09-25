@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/91aed685aa827505fce5a002b5146caebcb04f52/data/Slovenia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e0114891f9c3120607990b82a915d2ed939e0b8c/data/Slovenia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th National Assembly: From 2018-06-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7fac1c1d190079dac1879f5a80969325096f245a/data/Slovenia/National_Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2f5e0cf9d537035a05b0151e8d778813f75ff573/data/Slovenia/National_Assembly/term-8.csv
     format: csv
   - name: >-
       7th National Assembly: 2014-08-01 to 2018-04-15
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-16T04:24:09
+last_modified: 2018-09-23T21:43:38
 license: ''
 category:
   - Slovenia

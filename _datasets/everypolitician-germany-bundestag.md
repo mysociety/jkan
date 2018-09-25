@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6554dafd4ae9abf7a9247932b78eb28a70cc30b4/data/Germany/Bundestag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9974561a629d9b227d48ad2865ccd50b2d05cb37/data/Germany/Bundestag/ep-popolo-v1.0.json
     format: json
   - name: >-
       19th Bundestag: From 2017-10-24
@@ -39,32 +39,32 @@ resources:
   - name: >-
       15th Bundestag: 2002-10-17 to 2005-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6554dafd4ae9abf7a9247932b78eb28a70cc30b4/data/Germany/Bundestag/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9974561a629d9b227d48ad2865ccd50b2d05cb37/data/Germany/Bundestag/term-15.csv
     format: csv
   - name: >-
       14th Bundestag: 1998-10-26 to 2002-10-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6554dafd4ae9abf7a9247932b78eb28a70cc30b4/data/Germany/Bundestag/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9974561a629d9b227d48ad2865ccd50b2d05cb37/data/Germany/Bundestag/term-14.csv
     format: csv
   - name: >-
       13th Bundestag: 1994-11-10 to 1998-10-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6554dafd4ae9abf7a9247932b78eb28a70cc30b4/data/Germany/Bundestag/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9974561a629d9b227d48ad2865ccd50b2d05cb37/data/Germany/Bundestag/term-13.csv
     format: csv
   - name: >-
       12th Bundestag: 1990-12-20 to 1994-11-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6554dafd4ae9abf7a9247932b78eb28a70cc30b4/data/Germany/Bundestag/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9974561a629d9b227d48ad2865ccd50b2d05cb37/data/Germany/Bundestag/term-12.csv
     format: csv
   - name: >-
       11th Bundestag: 1987-02-18 to 1990-12-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6554dafd4ae9abf7a9247932b78eb28a70cc30b4/data/Germany/Bundestag/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9974561a629d9b227d48ad2865ccd50b2d05cb37/data/Germany/Bundestag/term-11.csv
     format: csv
   - name: >-
       10th Bundestag: 1983-03-29 to 1987-02-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6554dafd4ae9abf7a9247932b78eb28a70cc30b4/data/Germany/Bundestag/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9974561a629d9b227d48ad2865ccd50b2d05cb37/data/Germany/Bundestag/term-10.csv
     format: csv
   - name: >-
       9th Bundestag: 1980-11-04 to 1983-03-29
@@ -120,7 +120,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-22T09:54:29
+last_modified: 2018-09-24T14:55:05
 license: ''
 category:
   - Germany
