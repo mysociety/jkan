@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fcc7e5732c34de1d5dc7980a6f070194c15e5320/data/Moldova/Parlamentul/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f7218f4de0f7b43e70b281439dd9fdd00e9c4e05/data/Moldova/Parlamentul/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislatura XX: From 2014-12-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e39b80ce601ba1ce5c4037f85dbc2e29b3dabc89/data/Moldova/Parlamentul/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f7218f4de0f7b43e70b281439dd9fdd00e9c4e05/data/Moldova/Parlamentul/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-17T14:48:38
+last_modified: 2018-09-27T02:55:29
 license: ''
 category:
   - Moldova

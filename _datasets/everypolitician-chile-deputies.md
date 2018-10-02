@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/750ec948dd33c6bf64ac0588c5d45a02cf5ca3a2/data/Chile/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/880ba7542296d15e3e8a4b5c2186960664cce8e4/data/Chile/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislativo 2014-2018: 2014-03-11 to 2018-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/750ec948dd33c6bf64ac0588c5d45a02cf5ca3a2/data/Chile/Deputies/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f287a99ed1b2277ed96635c5030f9c2be0545548/data/Chile/Deputies/term-8.csv
     format: csv
   - name: >-
       Legislativo 2010-2014: 2010-03-11 to 2014-03-10
@@ -44,7 +44,7 @@ resources:
   - name: >-
       Legislativo 1994-1998: 1994-03-11 to 1998-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/750ec948dd33c6bf64ac0588c5d45a02cf5ca3a2/data/Chile/Deputies/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f287a99ed1b2277ed96635c5030f9c2be0545548/data/Chile/Deputies/term-2.csv
     format: csv
   - name: >-
       Legislativo 1990-1994: 1990-03-11 to 1994-03-10
@@ -60,7 +60,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-24T14:53:28
+last_modified: 2018-09-26T21:35:31
 license: ''
 category:
   - Chile

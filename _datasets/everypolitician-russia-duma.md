@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9f88861f08becf37f03b99eec2b0cb623fb34ef/data/Russia/Duma/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/40e63c40ec5e54fb103800b14769d79f35dc4aa9/data/Russia/Duma/ep-popolo-v1.0.json
     format: json
   - name: >-
-      7th Convocation: From 2016-10-05
+      7th State Duma of the Russian Federation: From 2016-10-05
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/1976e016c5d2d7e8c09f52d2df526bd00ee258f7/data/Russia/Duma/term-7.csv
     format: csv
   - name: >-
-      6th Convocation: 2011-12-21 to 2016-10-05
+      6th State Duma of the Russian Federation: 2011-12-21 to 2016-10-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4bf54a45caef0c137bcaba150fd26bd094f3b987/data/Russia/Duma/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f4e6430256f1a279e31ec24dd7bc41c89a73fd51/data/Russia/Duma/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-24T03:10:52
+last_modified: 2018-09-30T08:08:16
 license: ''
 category:
   - Russia

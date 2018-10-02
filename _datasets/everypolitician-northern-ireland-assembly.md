@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a8d5e5a2dff88ef7300e103c279888d51f0c930f/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8a7dc12b6b20051e021490224c01669136d2b97/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Assembly: From 2017-03-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a8d5e5a2dff88ef7300e103c279888d51f0c930f/data/Northern_Ireland/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8a7dc12b6b20051e021490224c01669136d2b97/data/Northern_Ireland/Assembly/term-6.csv
     format: csv
   - name: >-
       5th Assembly: 2016-05-05 to 2017-01-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a8d5e5a2dff88ef7300e103c279888d51f0c930f/data/Northern_Ireland/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8a7dc12b6b20051e021490224c01669136d2b97/data/Northern_Ireland/Assembly/term-5.csv
     format: csv
   - name: >-
       4th Assembly: 2011-05-06 to 2016-03-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a8d5e5a2dff88ef7300e103c279888d51f0c930f/data/Northern_Ireland/Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8a7dc12b6b20051e021490224c01669136d2b97/data/Northern_Ireland/Assembly/term-4.csv
     format: csv
   - name: >-
       3rd Assembly: 2007-03-09 to 2011-03-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a8d5e5a2dff88ef7300e103c279888d51f0c930f/data/Northern_Ireland/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8a7dc12b6b20051e021490224c01669136d2b97/data/Northern_Ireland/Assembly/term-3.csv
     format: csv
   - name: >-
       2nd Assembly: 2003-11-26 to 2007-01-30
@@ -55,7 +55,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-23T11:05:18
+last_modified: 2018-09-24T19:56:55
 license: ''
 category:
   - Northern Ireland

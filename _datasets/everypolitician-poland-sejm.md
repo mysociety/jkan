@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e647201734ca826dbe9358977c304f0c86895f4/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20f4a3b99669bcc2917a7197be21f1bff4615c55/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII kadencja: From 2015-11-12
@@ -29,12 +29,12 @@ resources:
   - name: >-
       VI kadencja: 2007-11-05 to 2011-11-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5336079894839fc787b9d4009290bf0f7f3682/data/Poland/Sejm/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20f4a3b99669bcc2917a7197be21f1bff4615c55/data/Poland/Sejm/term-6.csv
     format: csv
   - name: >-
       V kadencja: 2005-10-19 to 2007-11-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6e647201734ca826dbe9358977c304f0c86895f4/data/Poland/Sejm/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/20f4a3b99669bcc2917a7197be21f1bff4615c55/data/Poland/Sejm/term-5.csv
     format: csv
   - name: >-
       IV kadencja: 2001-10-19 to 2005-10-18
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-24T02:49:40
+last_modified: 2018-09-25T22:07:37
 license: ''
 category:
   - Poland

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/60a0f51588665a18b9822decb431d6088cff1f2a/data/Vanuatu/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/71d16bcca418914c64f448cfbf027e65e86015f9/data/Vanuatu/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament: From 2016-02-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5c57a12860513172d7fd4f1a767d575da1368e9a/data/Vanuatu/Parliament/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/71d16bcca418914c64f448cfbf027e65e86015f9/data/Vanuatu/Parliament/term-11.csv
     format: csv
   - name: >-
       10th Parliament: 2012-11-19 to 2015-11-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Vanuatu/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/71d16bcca418914c64f448cfbf027e65e86015f9/data/Vanuatu/Parliament/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-13T09:32:32
+last_modified: 2018-09-24T19:35:30
 license: ''
 category:
   - Vanuatu

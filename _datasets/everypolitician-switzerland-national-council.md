@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea812e2f7e82029911c3c7f3235c1552b13ce524/data/Switzerland/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e37fd0f893baf91be0d91b03520dc9c254fec778/data/Switzerland/National_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       50. Legislatur: From 2015-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dd20b02f7959c5e992a915a82011c36fb4a57894/data/Switzerland/National_Council/term-50.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e37fd0f893baf91be0d91b03520dc9c254fec778/data/Switzerland/National_Council/term-50.csv
     format: csv
   - name: >-
       49. Legislatur: 2011-12-05 to 2015-11-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dd20b02f7959c5e992a915a82011c36fb4a57894/data/Switzerland/National_Council/term-49.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e37fd0f893baf91be0d91b03520dc9c254fec778/data/Switzerland/National_Council/term-49.csv
     format: csv
   - name: >-
       48. Legislatur: 2007-12-03 to 2011-12-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dd20b02f7959c5e992a915a82011c36fb4a57894/data/Switzerland/National_Council/term-48.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e37fd0f893baf91be0d91b03520dc9c254fec778/data/Switzerland/National_Council/term-48.csv
     format: csv
   - name: >-
       47. Legislatur: 2003-12-01 to 2007-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dd20b02f7959c5e992a915a82011c36fb4a57894/data/Switzerland/National_Council/term-47.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e37fd0f893baf91be0d91b03520dc9c254fec778/data/Switzerland/National_Council/term-47.csv
     format: csv
   - name: >-
       46. Legislatur: 1999-12-06 to 2003-11-30
@@ -95,7 +95,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-24T10:53:45
+last_modified: 2018-10-01T01:24:53
 license: ''
 category:
   - Switzerland
