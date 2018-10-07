@@ -14,25 +14,25 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Sark/Chief_Pleas/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/db9665e78c679c26d9c229bb9b695d02f7fb764d/data/Sark/Chief_Pleas/ep-popolo-v1.0.json
     format: json
   - name: >-
-      2015-2017: 2015 to 2017
+      2015-2016: 2015-01-01 to 2016-12-31
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sark/Chief_Pleas/term-2015.csv
     format: csv
   - name: >-
-      2013-2015: 2013 to 2015
+      2013-2014: 2013-01-01 to 2014-12-31
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sark/Chief_Pleas/term-2013.csv
     format: csv
   - name: >-
-      2011-2013: 2011 to 2013
+      2011-2012: 2011-01-01 to 2012-12-31
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sark/Chief_Pleas/term-2011.csv
     format: csv
   - name: >-
-      2009-2011: 2009 to 2011
+      2009-2010: 2009-01-01 to 2010-12-31
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Sark/Chief_Pleas/term-2009.csv
     format: csv
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2018-10-02T08:04:00
 license: ''
 category:
   - Sark

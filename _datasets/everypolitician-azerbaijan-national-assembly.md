@@ -14,15 +14,15 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b264b7ad91a247d61fdccdbf55e93a2cae92bb32/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9b6b37f2e83062d91702f942444594ac6f433b2f/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
-      V çağırış: From 2015-12-01
+      5th Convocation of the National Assembly of Azerbaijan: From 2015-12-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b264b7ad91a247d61fdccdbf55e93a2cae92bb32/data/Azerbaijan/National_Assembly/term-5.csv
     format: csv
   - name: >-
-      IV çağırış: 2010 to 2015
+      4th Convocation of the National Assembly of Azerbaijan: 2010-01-01 to 2015-01-01
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/b264b7ad91a247d61fdccdbf55e93a2cae92bb32/data/Azerbaijan/National_Assembly/term-4.csv
     format: csv
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-01T01:02:29
+last_modified: 2018-10-02T14:41:02
 license: ''
 category:
   - Azerbaijan

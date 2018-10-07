@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c142da6294b6fd1b2852fe9b7885385f92f8192c/data/Hungary/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79bfdbe8ca75b0466c2ff97c16361ee5649057c0/data/Hungary/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2018–: From 2018-05-08
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21295260a3863ef7e1479cd3098ca1051cb7f6c8/data/Hungary/Assembly/term-41.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79bfdbe8ca75b0466c2ff97c16361ee5649057c0/data/Hungary/Assembly/term-41.csv
     format: csv
   - name: >-
       2014–2018: 2014-05-10 to 2018-05-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21295260a3863ef7e1479cd3098ca1051cb7f6c8/data/Hungary/Assembly/term-40.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79bfdbe8ca75b0466c2ff97c16361ee5649057c0/data/Hungary/Assembly/term-40.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-30T02:29:35
+last_modified: 2018-10-03T04:52:54
 license: ''
 category:
   - Hungary

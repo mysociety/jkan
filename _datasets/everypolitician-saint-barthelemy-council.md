@@ -14,10 +14,10 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e33d0d3179529224dfc12409503a79345804937/data/Saint_Barthelemy/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f0159eed3b7b34c07db93e73c0c5a932c006e6b9/data/Saint_Barthelemy/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
-      2012–2017: From 2012
+      2012–2017: 2012-03-18 to 2017-03-19
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/03073e4006c40a45dde3882562f0218c803c981b/data/Saint_Barthelemy/Council/term-2012.csv
     format: csv
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-26T06:51:06
+last_modified: 2018-10-01T15:40:40
 license: ''
 category:
   - Saint Barthélemy

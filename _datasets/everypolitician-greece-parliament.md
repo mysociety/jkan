@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/121159d88db57ebb4399233dff2bae079ba99bca/data/Greece/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0c8740d752200c465997ca28a76f131b1cb46313/data/Greece/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       17th Hellenic Parliament: From 2015-09-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/43bf83827624050cc2876c08b7088e1e1337b4ab/data/Greece/Parliament/term-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0c8740d752200c465997ca28a76f131b1cb46313/data/Greece/Parliament/term-17.csv
     format: csv
   - name: >-
       16th Hellenic Parliament: 2015-01-25 to 2015-08-28
@@ -74,7 +74,7 @@ resources:
   - name: >-
       6th Hellenic Parliament: 1989-11-05 to 1990-03-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/43bf83827624050cc2876c08b7088e1e1337b4ab/data/Greece/Parliament/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0c8740d752200c465997ca28a76f131b1cb46313/data/Greece/Parliament/term-6.csv
     format: csv
   - name: >-
       5th Hellenic Parliament: 1989-06-18 to 1989-10-12
@@ -110,7 +110,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-01T06:06:25
+last_modified: 2018-10-04T11:44:23
 license: ''
 category:
   - Greece

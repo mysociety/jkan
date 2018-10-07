@@ -14,37 +14,37 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b757f5d643c6e2be1bd878de6e9b455aaf168165/data/Germany/Bundestag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/ep-popolo-v1.0.json
     format: json
   - name: >-
       19th Bundestag: From 2017-10-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b757f5d643c6e2be1bd878de6e9b455aaf168165/data/Germany/Bundestag/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-19.csv
     format: csv
   - name: >-
       18th Bundestag: 2013-10-22 to 2017-10-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-18.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-18.csv
     format: csv
   - name: >-
       17th Bundestag: 2009-10-27 to 2013-10-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-17.csv
     format: csv
   - name: >-
       16th Bundestag: 2005-10-18 to 2009-10-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-16.csv
     format: csv
   - name: >-
       15th Bundestag: 2002-10-17 to 2005-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-15.csv
     format: csv
   - name: >-
       14th Bundestag: 1998-10-26 to 2002-10-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-14.csv
     format: csv
   - name: >-
       13th Bundestag: 1994-11-10 to 1998-10-26
@@ -74,17 +74,17 @@ resources:
   - name: >-
       8th Bundestag: 1976-12-14 to 1980-11-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-8.csv
     format: csv
   - name: >-
       7th Bundestag: 1972-12-13 to 1976-12-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-7.csv
     format: csv
   - name: >-
       6th Bundestag: 1969-10-20 to 1972-12-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9e04b4a2785a49500db17e906d662279379bbcfa/data/Germany/Bundestag/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/term-6.csv
     format: csv
   - name: >-
       5th Bundestag: 1965-10-19 to 1969-10-20
@@ -120,7 +120,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-25T15:03:32
+last_modified: 2018-10-02T09:25:40
 license: ''
 category:
   - Germany
