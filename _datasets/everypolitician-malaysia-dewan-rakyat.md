@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d847516087c460825a31693006a1581d7ca478bd/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/336f5074cab2b548ec4008c8604fc07ca330f7a6/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Malaysian Parliament: 2013-06-24 to 2018-04-07
@@ -39,22 +39,22 @@ resources:
   - name: >-
       9th Malaysian Parliament: 1995-06-07 to 1999-11-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d0d92eb26a34c81baf58dee88fd8f480b9b90ecc/data/Malaysia/Dewan_Rakyat/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/adca07d668ec9c2c73345e5144580003db0e06a7/data/Malaysia/Dewan_Rakyat/term-9.csv
     format: csv
   - name: >-
       8th Malaysian Parliament: 1990-12-03 to 1995-04-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8bef8de0dae79d681db7bbd1b5bbbae1558eb049/data/Malaysia/Dewan_Rakyat/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/adca07d668ec9c2c73345e5144580003db0e06a7/data/Malaysia/Dewan_Rakyat/term-8.csv
     format: csv
   - name: >-
       7th Malaysian Parliament: 1986-10-06 to 1990-10-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8bef8de0dae79d681db7bbd1b5bbbae1558eb049/data/Malaysia/Dewan_Rakyat/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/adca07d668ec9c2c73345e5144580003db0e06a7/data/Malaysia/Dewan_Rakyat/term-7.csv
     format: csv
   - name: >-
       6th Malaysian Parliament: 1982-06-14 to 1986-07-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9b392d89d77c4643e20d63e009abf26e49703184/data/Malaysia/Dewan_Rakyat/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/adca07d668ec9c2c73345e5144580003db0e06a7/data/Malaysia/Dewan_Rakyat/term-6.csv
     format: csv
   - name: >-
       5th Malaysian Parliament: 1978-07-31 to 1982-03-29
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-02T07:39:58
+last_modified: 2018-10-08T12:04:15
 license: ''
 category:
   - Malaysia
