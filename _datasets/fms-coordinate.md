@@ -2,8 +2,7 @@
 schema: default
 title: FixMyStreet Geographic Counts
 organization: mySociety
-notes: >-
-	Coordinate-level data is avaliable on request from the mySociety research team. See the data release documentation below. 
+notes: Coordinate-level data is avaliable on request from the mySociety research team. See the data release documentation below. 
 resources:
   - name: Enail the researh team
     url: 'mailto:research@mysociety.org'
