@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/39e95fd6eeb58f746fe942c1fb8df78fa04e4a03/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1e69aff8450aaebe98b02a6ccdd77e90cf3d990/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: >-
       Eduskunta 37: From 2015-04-28
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-08T07:00:01
+last_modified: 2018-10-09T14:27:29
 license: ''
 category:
   - Finland

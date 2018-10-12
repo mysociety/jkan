@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/484d923512c61857bd013e42e08edcc9e30e7a9d/data/Spain/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7522cf73bd1c2648aeb8c691aed329ceada9e097/data/Spain/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th legislature of Spain: 2016-01-13 to 2016-05-03
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-09T02:03:31
+last_modified: 2018-10-10T04:43:48
 license: ''
 category:
   - Spain

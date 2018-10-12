@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/37300d3f18421e391838f11921ce5cefd8dbb6f3/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/065b499a1e809ea4f99753d2134e65ae7b06c212/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Assembly: From 2017-03-03
@@ -55,7 +55,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-07T11:46:41
+last_modified: 2018-10-11T14:23:07
 license: ''
 category:
   - Northern Ireland

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8ef85465cc2954aff73718828c8755971f0463b/data/Morocco/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ae0e40b61e53db229fff0fc840048f60b61fd098/data/Morocco/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Legislature: From 2016-10-07
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-26T20:23:37
+last_modified: 2018-10-10T06:09:51
 license: ''
 category:
   - Morocco
