@@ -17,9 +17,9 @@ resources:
     url: 'https://data.mysociety.org/datasets/fms-geographic/'
 license: ''
 category:
-  - geodata
-  - united-kingdom
-  - fixmystreet
+  - FixMyStreet
+  - Geodata
+  - United Kingdom
 maintainer: Research Team
 maintainer_email: alex.parsons@mysociety.org
 last_modified: ''
