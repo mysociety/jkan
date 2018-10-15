@@ -2,7 +2,7 @@
 schema: default
 title: FixMyStreet Coordinate Data
 organization: mySociety
-notes: Coordinate-level data is avaliable on request from the mySociety research team. See the data release documentation below. 
+notes: Coordinate-level data is avaliable for research purposes from the mySociety research team. See the data release documentation below and get in touch. 
 resources:
   - name: Enail the research team
     url: 'mailto:research@mysociety.org'
