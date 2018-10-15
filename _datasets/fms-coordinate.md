@@ -16,10 +16,6 @@ resources:
   - name: FMS Geographic Count Data
     url: 'https://data.mysociety.org/datasets/fms-geographic/'
 license: ''
-category:
-  - FixMyStreet
-  - Geodata
-  - United Kingdom
 maintainer: Research Team
 maintainer_email: alex.parsons@mysociety.org
 last_modified: ''
