@@ -19,10 +19,6 @@ resources:
     url: 'https://github.com/mysociety/fms_meta_categories'
     format: csv
 license: ''
-category:
-  - FixMyStreet
-  - Geodata
-  - United Kingdom
 maintainer: Research Team
 maintainer_email: alex.parsons@mysociety.org
 last_modified: ''
