@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/92ff0a5ed0e2ae64eb2bc682a0ee5cc13fab77d1/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0604b04786523708dfa8b6624e065d3266323325/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Convocation of the National Assembly of Azerbaijan: From 2015-12-01
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-11T09:36:49
+last_modified: 2018-10-13T15:31:57
 license: ''
 category:
   - Azerbaijan

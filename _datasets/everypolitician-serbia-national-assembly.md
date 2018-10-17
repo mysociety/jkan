@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3cfd91f842ffa44839c4ff2783abf74701da8fa7/data/Serbia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/58c0c75fd0c8ea17348bb77382055fa0471acb70/data/Serbia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Convocation of the National Assembly of the Republic of Serbia: From 2016-06-03
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-07T09:49:45
+last_modified: 2018-10-12T06:46:01
 license: ''
 category:
   - Serbia
