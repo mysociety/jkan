@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6aeef1abd95a200d57bcc7615f43e8ef888a5dcd/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2ba64eeaa33fcf49202725c012d0285b530df4f2/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: >-
       37th Parliament of Finland: From 2015-04-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/581c6ab89c62d547c79dac90358bfbdde7540435/data/Finland/Eduskunta/term-37.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e801cd0425b64ed7dbc789483f0012d751341051/data/Finland/Eduskunta/term-37.csv
     format: csv
   - name: >-
       36th Parliament of Finland: 2011-04-20 to 2015-03-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bc2f2f9c557267d8e72e52eff8fca1baa12cb6d8/data/Finland/Eduskunta/term-36.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e801cd0425b64ed7dbc789483f0012d751341051/data/Finland/Eduskunta/term-36.csv
     format: csv
   - name: >-
       35th Parliament of Finland: 2007-03-21 to 2011-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bc2f2f9c557267d8e72e52eff8fca1baa12cb6d8/data/Finland/Eduskunta/term-35.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e801cd0425b64ed7dbc789483f0012d751341051/data/Finland/Eduskunta/term-35.csv
     format: csv
   - name: >-
       34th Parliament of Finland: 2003-03-19 to 2007-03-20
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-17T04:45:05
+last_modified: 2018-11-18T19:17:31
 license: ''
 category:
   - Finland

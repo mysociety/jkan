@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a4efa5b76e4277a5bfb36a220e84d8edb09466ef/data/Greenland/Inatsisartut/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d90e8006378420cf11be13e0eb3426dfd5c6d39/data/Greenland/Inatsisartut/ep-popolo-v1.0.json
     format: json
   - name: >-
       Inatsisartut 12: From 2014-11-28
@@ -24,32 +24,32 @@ resources:
   - name: >-
       Inatsisartut 11: 2013-03-12 to 2014-11-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c0d407fcbc6f51c9b89517e82d163b97cd324628/data/Greenland/Inatsisartut/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d90e8006378420cf11be13e0eb3426dfd5c6d39/data/Greenland/Inatsisartut/term-11.csv
     format: csv
   - name: >-
       Inatsisartut 10: 2009-06-02 to 2013-03-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab68272e9c69984e9891854cde86e8d3365c3123/data/Greenland/Inatsisartut/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d90e8006378420cf11be13e0eb3426dfd5c6d39/data/Greenland/Inatsisartut/term-10.csv
     format: csv
   - name: >-
       Landsting: 2005-11-15 to 2009-06-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab68272e9c69984e9891854cde86e8d3365c3123/data/Greenland/Inatsisartut/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d90e8006378420cf11be13e0eb3426dfd5c6d39/data/Greenland/Inatsisartut/term-9.csv
     format: csv
   - name: >-
       Landsting: 2002-12-03 to 2005-11-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab68272e9c69984e9891854cde86e8d3365c3123/data/Greenland/Inatsisartut/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d90e8006378420cf11be13e0eb3426dfd5c6d39/data/Greenland/Inatsisartut/term-8.csv
     format: csv
   - name: >-
       Landsting: 1999-02-16 to 2002-12-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab68272e9c69984e9891854cde86e8d3365c3123/data/Greenland/Inatsisartut/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d90e8006378420cf11be13e0eb3426dfd5c6d39/data/Greenland/Inatsisartut/term-7.csv
     format: csv
   - name: >-
       Landsting: 1995-03-04 to 1999-02-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab68272e9c69984e9891854cde86e8d3365c3123/data/Greenland/Inatsisartut/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d90e8006378420cf11be13e0eb3426dfd5c6d39/data/Greenland/Inatsisartut/term-6.csv
     format: csv
   - name: >-
       Landsting: 1991-03-05 to 1995-03-03
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-17T08:22:50
+last_modified: 2018-11-19T08:17:56
 license: ''
 category:
   - Greenland

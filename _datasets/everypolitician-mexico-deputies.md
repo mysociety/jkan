@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1412288b0397e6f6da94c511c33aea4c0b78fa56/data/Mexico/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ee742724a1d46064d111320320c528c362a63fbc/data/Mexico/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       LXIII Legislature of the Mexican Congress: 2015-09-01 to 2018-08-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1412288b0397e6f6da94c511c33aea4c0b78fa56/data/Mexico/Deputies/term-63.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/faf2aabc9e3cd25ea6f6df2b6df33f6f2a378f14/data/Mexico/Deputies/term-63.csv
     format: csv
   - name: >-
       LXII Legislature of the Mexican Congress: 2012-09-01 to 2015-08-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/10a22c40c4d6fc1571a97ddb595bd14d1954fff3/data/Mexico/Deputies/term-62.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/faf2aabc9e3cd25ea6f6df2b6df33f6f2a378f14/data/Mexico/Deputies/term-62.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-12T14:16:52
+last_modified: 2018-10-26T12:12:38
 license: ''
 category:
   - Mexico

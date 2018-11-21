@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/829348dd5103240c104598deb277ee3c5c6c035a/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/047eaabc312392556aac520c776718f71c0b77e1/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Portuguese Assembly: From 2015-10-23
@@ -32,7 +32,7 @@ resources:
       https://cdn.rawgit.com/everypolitician/everypolitician-data/df0fcae064d9f22b7bca43a2f783bf132ed6e663/data/Portugal/Assembly/term-11.csv
     format: csv
   - name: >-
-      10th Portuguese Assembly: 2005-03-10 to 2009-09-14
+      10th Portuguese Assembly: 2005-03-10 to 2009-10-14
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/df0fcae064d9f22b7bca43a2f783bf132ed6e663/data/Portugal/Assembly/term-10.csv
     format: csv
@@ -47,7 +47,7 @@ resources:
       https://cdn.rawgit.com/everypolitician/everypolitician-data/df0fcae064d9f22b7bca43a2f783bf132ed6e663/data/Portugal/Assembly/term-8.csv
     format: csv
   - name: >-
-      7th Portuguese Assembly: 1995-10-27 to 1999-10-14
+      7th Portuguese Assembly: 1995-10-27 to 1999-10-24
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0d4406e071dbf936904759f90a39614a8302ce22/data/Portugal/Assembly/term-7.csv
     format: csv
@@ -72,9 +72,9 @@ resources:
       https://cdn.rawgit.com/everypolitician/everypolitician-data/0d4406e071dbf936904759f90a39614a8302ce22/data/Portugal/Assembly/term-3.csv
     format: csv
   - name: >-
-      2nd Portuguese Assembly: 1980-01-03 to 1983-05-30
+      2nd Portuguese Assembly: 1980-11-13 to 1983-05-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d4406e071dbf936904759f90a39614a8302ce22/data/Portugal/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/047eaabc312392556aac520c776718f71c0b77e1/data/Portugal/Assembly/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-16T06:29:25
+last_modified: 2018-11-19T14:43:26
 license: ''
 category:
   - Portugal

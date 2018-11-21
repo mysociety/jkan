@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a25fde4309aa61cea73d6bc8827a72254b4b4ee7/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/aa9695ccf85bbfe00e8ee164f529461ec63ee72b/data/Japan/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       48th House of Representatives: From 2017-11-01
@@ -24,7 +24,7 @@ resources:
   - name: >-
       47th House of Representatives: 2014-12-14 to 2017-09-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4997157b33f4f09b9480b278a32c64a18ee029e4/data/Japan/House_of_Representatives/term-47.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d13a9a26fe79eedfd9da3fb1490b183d76cd99ab/data/Japan/House_of_Representatives/term-47.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-17T01:55:09
+last_modified: 2018-11-18T08:03:38
 license: ''
 category:
   - Japan
