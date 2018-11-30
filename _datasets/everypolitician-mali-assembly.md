@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ff62140613bddf35fe1be7fb271ff1f916d4fcb/data/Mali/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/980ac64235372064223ae8da06bb11575e412688/data/Mali/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Legislature: From 2014-01-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Mali/Assembly/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/980ac64235372064223ae8da06bb11575e412688/data/Mali/Assembly/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-17T02:27:46
+last_modified: 2018-11-25T17:16:48
 license: ''
 category:
   - Mali

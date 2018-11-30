@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/12b149ff99ee953506e2cd42b89bc860ca76f07f/data/Ecuador/Asamblea/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/69ea92eda904baf88d14f06862edc79d97e3522f/data/Ecuador/Asamblea/ep-popolo-v1.0.json
     format: json
   - name: >-
       2nd Legislative Assembly of Ecuador: 2013-05-14 to 2017-05-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/12b149ff99ee953506e2cd42b89bc860ca76f07f/data/Ecuador/Asamblea/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7f23530631a345599437d7fb89ee5cfcdf830bc7/data/Ecuador/Asamblea/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T23:17:05
+last_modified: 2018-11-27T05:47:25
 license: ''
 category:
   - Ecuador

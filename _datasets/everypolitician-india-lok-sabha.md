@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2d17c26a678d220185ddf37e907a48d5b99902fd/data/India/Lok_Sabha/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0ba6ef8e324fb7eb0b0b07fcfd09a7c7d9cf3894/data/India/Lok_Sabha/ep-popolo-v1.0.json
     format: json
   - name: >-
       16th Lok Sabha: From 2014-05-26
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T00:05:50
+last_modified: 2018-11-26T23:26:02
 license: ''
 category:
   - India

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f2e070d30723a4327c66aa77cde8b529a702b077/data/Uganda/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/57725800fb48504ec118c3866edf9d79e967f101/data/Uganda/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2016-05-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8fe0eae2b1725df7bf14be16394672187336c7e3/data/Uganda/Parliament/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/57725800fb48504ec118c3866edf9d79e967f101/data/Uganda/Parliament/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2011-05-16 to 2016-05-13
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T04:02:57
+last_modified: 2018-11-27T01:41:40
 license: ''
 category:
   - Uganda

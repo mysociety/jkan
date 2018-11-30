@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e153dcc30e1f3d37c247af81a6e8009bf8dc3b8c/data/Romania/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c35e5c709196142468f08b40e204e5a4eb1abece/data/Romania/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–2020 legislature of the Romanian Parliament: From 2016-12-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/06ccb84dfb9ff003a55152f4f80802f1d748b403/data/Romania/Deputies/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c35e5c709196142468f08b40e204e5a4eb1abece/data/Romania/Deputies/term-8.csv
     format: csv
   - name: >-
       2012–2016 legislature of the Romanian Parliament: 2012-12-12 to 2016-12-10
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-18T12:26:55
+last_modified: 2018-11-27T08:51:11
 license: ''
 category:
   - Romania

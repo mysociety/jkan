@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/65f97d1d9a83c0e2f48fb266fb2308958f1d61ad/data/Turkey/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fe16fc811c42baa4080726e30eee8e0753ce1a6/data/Turkey/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       26th Parliament: From 2015-11-17
@@ -155,7 +155,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-25T13:49:34
+last_modified: 2018-11-22T20:38:34
 license: ''
 category:
   - Turkey

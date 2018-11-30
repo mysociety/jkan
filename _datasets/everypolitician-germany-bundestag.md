@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/225837259784522f5fcc4c246ddebea943f85947/data/Germany/Bundestag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fe16fc811c42baa4080726e30eee8e0753ce1a6/data/Germany/Bundestag/ep-popolo-v1.0.json
     format: json
   - name: >-
       19th Bundestag: From 2017-10-24
@@ -120,7 +120,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-02T09:25:40
+last_modified: 2018-11-22T20:38:34
 license: ''
 category:
   - Germany

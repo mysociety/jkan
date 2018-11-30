@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c45d5230227e8cb2e5233813986e31385593455/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6a6f079e295ecec691df714929fd326996faf9e0/data/Czech_Republic/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       7. volební období: From 2013-10-26
@@ -34,12 +34,12 @@ resources:
   - name: >-
       4. volební období: 2002-06-15 to 2006-06-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f49374e334785fafae05192530996c29d9a191da/data/Czech_Republic/Deputies/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/63028eda73892c22eddb3bb8a8624b8d25d3cfdc/data/Czech_Republic/Deputies/term-4.csv
     format: csv
   - name: >-
       3. volební období: 1998-06-20 to 2002-06-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f49374e334785fafae05192530996c29d9a191da/data/Czech_Republic/Deputies/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/63028eda73892c22eddb3bb8a8624b8d25d3cfdc/data/Czech_Republic/Deputies/term-3.csv
     format: csv
   - name: >-
       2. volební období: 1996-06-01 to 1998-06-19
@@ -60,7 +60,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-20T01:19:38
+last_modified: 2018-11-26T13:16:21
 license: ''
 category:
   - Czech Republic

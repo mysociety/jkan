@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/710e179caf3c27cc751556e1c4fbbadf94a55aa5/data/Bahamas/House_of_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/aeadfd687e665c42491ae903bbc8d725e035a69b/data/Bahamas/House_of_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012-05-08
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-18T17:26:55
+last_modified: 2018-11-23T03:33:14
 license: ''
 category:
   - Bahamas

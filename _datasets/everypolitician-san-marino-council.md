@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d3e8c6904812d959fbe4ffa06729e69005594d95/data/San_Marino/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fe16fc811c42baa4080726e30eee8e0753ce1a6/data/San_Marino/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       Council 2016–: From 2016-11-20
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-16T15:18:49
+last_modified: 2018-11-22T20:38:34
 license: ''
 category:
   - San Marino

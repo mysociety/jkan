@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f8229b37dea6589490e110b7a6e587430b3ffb50/data/Singapore/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3626aa9fc8da9417e14037dc2dd9614f3965c9e2/data/Singapore/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament: From 2016-01-15
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T06:30:15
+last_modified: 2018-11-27T13:57:37
 license: ''
 category:
   - Singapore

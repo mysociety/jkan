@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/220b4f1d294e654421da6866e8de1928bf5bb435/data/Argentina/Senado/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d37829ba7a88f22954f04a1f59c81225ba168c86/data/Argentina/Senado/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017: 2017-03-01 to 2017-11-30
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T05:10:24
+last_modified: 2018-11-25T07:41:31
 license: ''
 category:
   - Argentina

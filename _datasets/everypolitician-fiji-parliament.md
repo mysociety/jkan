@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1418f01854cc0745f90fe6a98e9d0b4925b36285/data/Fiji/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8ab757e67c88fd8386b8c32ca3f8cc8726265803/data/Fiji/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014: From 2014-10-06
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-16T12:46:15
+last_modified: 2018-11-25T08:49:35
 license: ''
 category:
   - Fiji

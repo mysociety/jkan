@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/48343330b9aa9cdbd82138768f96913521ccbb7f/data/Russia/Duma/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a0feb4b1bf31ac31c3d8210f0c148e940e4737d/data/Russia/Duma/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th State Duma of the Russian Federation: From 2016-10-05
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-20T03:56:24
+last_modified: 2018-11-27T07:11:55
 license: ''
 category:
   - Russia

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e1c9f16ec71d8f9ad0640c534d67f39cc42046cf/data/Moldova/Parlamentul/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4428a011d8cd128ee3d04af841752e6cf691b80/data/Moldova/Parlamentul/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislatura XX: From 2014-12-29
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-15T00:41:32
+last_modified: 2018-11-26T16:34:38
 license: ''
 category:
   - Moldova

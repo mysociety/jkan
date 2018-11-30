@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9cf8eceb75f18f30692787af47d6d813f88a5ba3/data/Algeria/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a351051db91419991a4c6d9645cd3b7c5fe0a7e4/data/Algeria/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th National Assembly: From 2012-05-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Algeria/Majlis/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a351051db91419991a4c6d9645cd3b7c5fe0a7e4/data/Algeria/Majlis/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T13:53:49
+last_modified: 2018-11-27T09:37:26
 license: ''
 category:
   - Algeria

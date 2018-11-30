@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a9d217f70ff03943cd0ace74b1baf3d9c669ad4c/data/Sweden/Riksdag/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b37e7c3b807b36516bad237f32947c199b3743f9/data/Sweden/Riksdag/ep-popolo-v1.0.json
     format: json
   - name: >-
       2018–2022: From 2018-09-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e00b20bd1b4b782297735306c0588e5e538fd904/data/Sweden/Riksdag/term-2018.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b37e7c3b807b36516bad237f32947c199b3743f9/data/Sweden/Riksdag/term-2018.csv
     format: csv
   - name: >-
       2014–2018: 2014-09-29 to 2018-09-24
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T07:53:12
+last_modified: 2018-11-27T12:32:41
 license: ''
 category:
   - Sweden

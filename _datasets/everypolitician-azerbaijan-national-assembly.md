@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b9b89f1d33c748a7bffa91fdb79ec1e631374366/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8013fb3188dca8212f3d300836943b091509cb7e/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Convocation of the National Assembly of Azerbaijan: From 2015-12-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/31115c456bcb73abc03be86de8cf3a3b1d46993a/data/Azerbaijan/National_Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8013fb3188dca8212f3d300836943b091509cb7e/data/Azerbaijan/National_Assembly/term-5.csv
     format: csv
   - name: >-
       4th Convocation of the National Assembly of Azerbaijan: 2010-01-01 to 2015-01-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/31115c456bcb73abc03be86de8cf3a3b1d46993a/data/Azerbaijan/National_Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/474b53a583e2ebb77909ca753295579258ddac6f/data/Azerbaijan/National_Assembly/term-4.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T01:29:42
+last_modified: 2018-11-25T14:55:54
 license: ''
 category:
   - Azerbaijan
