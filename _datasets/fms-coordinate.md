@@ -19,4 +19,7 @@ license: ''
 maintainer: Research Team
 maintainer_email: alex.parsons@mysociety.org
 last_modified: ''
+category:
+  - FixMyStreet
+  - Geodata
 ---
