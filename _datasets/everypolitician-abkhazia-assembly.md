@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cf11b55647763c753fd01f981acf8bd7a858cab1/data/Abkhazia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d7eaaf3e82392443cbfcb028097cdb14d6aad7c4/data/Abkhazia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Convocation: From 2012-04-03
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-16T23:30:19
+last_modified: 2019-01-15T11:12:24
 license: ''
 category:
   - Abkhazia

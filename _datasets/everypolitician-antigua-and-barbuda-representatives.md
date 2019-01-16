@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/be84b76a737a231ae7b6a324f10d5a9edeb58c7e/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ebbd3817a5b554e7a3723ea968a900d3f9fac097/data/Antigua_and_Barbuda/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–2019: From 2014-06-25
@@ -44,12 +44,12 @@ resources:
   - name: >-
       1989–1994: 1989 to 1994
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Antigua_and_Barbuda/Representatives/term-1989.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ebbd3817a5b554e7a3723ea968a900d3f9fac097/data/Antigua_and_Barbuda/Representatives/term-1989.csv
     format: csv
   - name: >-
       1984–1989: 1984 to 1989
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Antigua_and_Barbuda/Representatives/term-1984.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ebbd3817a5b554e7a3723ea968a900d3f9fac097/data/Antigua_and_Barbuda/Representatives/term-1984.csv
     format: csv
   - name: >-
       1980–1984: 1980 to 1984
@@ -75,7 +75,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-24T10:42:18
+last_modified: 2019-01-15T13:26:15
 license: ''
 category:
   - Antigua and Barbuda
