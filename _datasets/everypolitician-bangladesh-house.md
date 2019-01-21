@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/101797e61c6856f9269c618e1133b90f67d5347b/data/Bangladesh/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1e1ad01a6564b0050c3765300a9a85e770788aec/data/Bangladesh/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2014-01-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8d332475935317d5d800f3ddd78c9e8cfc5648c/data/Bangladesh/House/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1e1ad01a6564b0050c3765300a9a85e770788aec/data/Bangladesh/House/term-10.csv
     format: csv
   - name: >-
       9th Parliament: 2009-01-25 to 2014-01-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8d332475935317d5d800f3ddd78c9e8cfc5648c/data/Bangladesh/House/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb6cbfb141f0a793299e4c0e2e415030f1d76ec/data/Bangladesh/House/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-12-02T18:26:14
+last_modified: 2019-01-16T12:40:09
 license: ''
 category:
   - Bangladesh

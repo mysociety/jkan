@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fb1a0754351616e66afd85973e4a538820547aef/data/Micronesia/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2f883989f62e1e0eee9692d228258fb8dd466def/data/Micronesia/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       19th Congress: From 2015-05-11
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-17T13:27:06
+last_modified: 2019-01-16T09:59:02
 license: ''
 category:
   - Micronesia

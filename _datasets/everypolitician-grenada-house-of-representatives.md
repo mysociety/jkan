@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ed3152efe621825e730a24e34b06400f5e11f26c/data/Grenada/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/96d43e50c19484aaf69839d9db8d613e6865d691/data/Grenada/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013: From 2013-03-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Grenada/House_of_Representatives/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/96d43e50c19484aaf69839d9db8d613e6865d691/data/Grenada/House_of_Representatives/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-09-20T13:35:11
+last_modified: 2019-01-16T11:59:03
 license: ''
 category:
   - Grenada

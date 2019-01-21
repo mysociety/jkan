@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/418d8fa0dacc32003d7ebd10e3b84167c4556a0e/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b090105f07e9e7a9289cab697665b0d50a5d46fe/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       IX Legislatura: From 2016-04-20
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-02T01:26:54
+last_modified: 2019-01-18T05:18:37
 license: ''
 category:
   - Cabo Verde

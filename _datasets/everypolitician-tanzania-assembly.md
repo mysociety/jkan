@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/723363bc7ae3dc87156cb122f652de5242560d02/data/Tanzania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b9ad315c6fae112f57235129b94961a2f71b2522/data/Tanzania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament of Tanzania: From 2015-11-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e54e042b376aea0bb3777bbaab4a4d605ef387ef/data/Tanzania/Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8c8a54262bb4a664fa3fef0cc3db3b89acfb1d9/data/Tanzania/Assembly/term-11.csv
     format: csv
   - name: >-
       10th Parliament of Tanzania: 2010-10-31 to 2015-06-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e54e042b376aea0bb3777bbaab4a4d605ef387ef/data/Tanzania/Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b8c8a54262bb4a664fa3fef0cc3db3b89acfb1d9/data/Tanzania/Assembly/term-10.csv
     format: csv
   - name: >-
       9th Parliament of Tanzania: 2005-10-30 to 2010-10-30
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-27T19:25:08
+last_modified: 2019-01-17T22:31:50
 license: ''
 category:
   - Tanzania

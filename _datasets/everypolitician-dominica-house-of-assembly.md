@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0a7523ef20764a895d694fc6269d371de6d38934/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8a7920a9f67b8e4022e10c4c16460504494e03cb/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-23T09:45:38
+last_modified: 2019-01-16T06:07:25
 license: ''
 category:
   - Dominica

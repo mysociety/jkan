@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f8b6bf07c63e81776db4c66b34bf0d5585375ab1/data/Armenia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e0a862fc00b2d8aa961b6d2310e5916a31247662/data/Armenia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Convocation: From 2017-05-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2741c99e06977634b526fd0a0cb8129ee41007c9/data/Armenia/Assembly/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e0a862fc00b2d8aa961b6d2310e5916a31247662/data/Armenia/Assembly/term-6.csv
     format: csv
   - name: >-
       5th Convocation: 2012-05-31 to 2017-03-02
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-12-03T00:18:29
+last_modified: 2019-01-16T11:11:55
 license: ''
 category:
   - Armenia

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21f2e52820998fdf0a86603d6b879837e9de7555/data/Niue/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d963811facb5e04f631b15a9e132670c37912e58/data/Niue/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       16th Assembly: From 2017-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21f2e52820998fdf0a86603d6b879837e9de7555/data/Niue/Assembly/term-16.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d963811facb5e04f631b15a9e132670c37912e58/data/Niue/Assembly/term-16.csv
     format: csv
   - name: >-
       15th Assembly: 2014-04-23 to 2017-05-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21f2e52820998fdf0a86603d6b879837e9de7555/data/Niue/Assembly/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d963811facb5e04f631b15a9e132670c37912e58/data/Niue/Assembly/term-15.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-15T16:47:10
+last_modified: 2019-01-16T10:09:50
 license: ''
 category:
   - Niue

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8cdee3011452eb4364dda5848732424f97d99902/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1cafbafccf93963c63e815aaea994a57572a5265/data/Sint_Maarten/Estates/ep-popolo-v1.0.json
     format: json
   - name: >-
       4th Estates: From 2018-02-26
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-19T08:40:00
+last_modified: 2019-01-16T14:46:27
 license: ''
 category:
   - Sint Maarten

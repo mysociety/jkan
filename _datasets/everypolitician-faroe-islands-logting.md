@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/734ce565a16f223226a160607128bbefa74fe2f2/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bb64b4d4d2793cd94753cb865ff7db1da6a01ee/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
     format: json
   - name: >-
       Løgting 2015–: From 2015-09-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/66e89162aa3b6b30193c685bb88de06a2de007ff/data/Faroe_Islands/Logting/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bb64b4d4d2793cd94753cb865ff7db1da6a01ee/data/Faroe_Islands/Logting/term-2015.csv
     format: csv
   - name: >-
       Løgting 2011–2015: 2011-10-29 to 2015-09-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Faroe_Islands/Logting/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bb64b4d4d2793cd94753cb865ff7db1da6a01ee/data/Faroe_Islands/Logting/term-2011.csv
     format: csv
   - name: >-
       Løgting 2008–2011: 2008-01-19 to 2011-10-29
@@ -39,7 +39,7 @@ resources:
   - name: >-
       Løgting 2002–2004: 2002 to 2004
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Faroe_Islands/Logting/term-2002.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bb64b4d4d2793cd94753cb865ff7db1da6a01ee/data/Faroe_Islands/Logting/term-2002.csv
     format: csv
   - name: >-
       Løgting 1998–2002: 1998 to 2002
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-27T17:44:15
+last_modified: 2019-01-17T06:47:59
 license: ''
 category:
   - Faroe Islands

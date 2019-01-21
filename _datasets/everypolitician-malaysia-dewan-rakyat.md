@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4008a16116eedf8d2e14d15c535a8f348b2faaa6/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c5fa73cab9955d7ccde49c420ef112e85676b8e5/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Malaysian Parliament: 2013-06-24 to 2018-04-07
@@ -24,12 +24,12 @@ resources:
   - name: >-
       12th Malaysian Parliament: 2008-04-28 to 2013-04-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/695771d3b7d621c97483a9430ec0226167bae6be/data/Malaysia/Dewan_Rakyat/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bd292556d572b7de92fc6a262a2047dd139449c8/data/Malaysia/Dewan_Rakyat/term-12.csv
     format: csv
   - name: >-
       11th Malaysian Parliament: 2004-05-17 to 2008-02-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/695771d3b7d621c97483a9430ec0226167bae6be/data/Malaysia/Dewan_Rakyat/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bd292556d572b7de92fc6a262a2047dd139449c8/data/Malaysia/Dewan_Rakyat/term-11.csv
     format: csv
   - name: >-
       10th Malaysian Parliament: 1999-12-20 to 2004-03-04
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-12-03T07:10:37
+last_modified: 2019-01-17T03:46:07
 license: ''
 category:
   - Malaysia
