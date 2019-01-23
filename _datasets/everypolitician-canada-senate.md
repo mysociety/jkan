@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b7a5fe9ed431f6dd3b5bd4c89ca4180439756276/data/Canada/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31c75a5d8352195c5a94694a6130c6fddf4ec03d/data/Canada/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       42nd Parliament: From 2015-12-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cbc38c140c4ff61ea8909d402f610c31ad0cdd71/data/Canada/Senate/term-42.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31c75a5d8352195c5a94694a6130c6fddf4ec03d/data/Canada/Senate/term-42.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-14T23:56:55
+last_modified: 2019-01-21T18:24:15
 license: ''
 category:
   - Canada

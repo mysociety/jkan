@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fe16fc811c42baa4080726e30eee8e0753ce1a6/data/Kosovo/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/15b65ab378c4af2d736ce452d9ae621a9310ac40/data/Kosovo/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Fifth Legislative Period: 2014-07-17 to 2017-05-10
@@ -50,7 +50,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-22T20:38:34
+last_modified: 2019-01-21T12:46:28
 license: ''
 category:
   - Kosovo

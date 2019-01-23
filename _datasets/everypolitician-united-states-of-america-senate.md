@@ -14,10 +14,10 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1c98fbdd10c48e0e6932c385bc0d71255532229d/data/United_States_of_America/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ff4a8752a14d5d5103def85fa91b86f28790d1d4/data/United_States_of_America/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
-      115th Congress: From 2017-01-03
+      115th Congress: 2017-01-03 to 2019-01-03
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/5d45092705c2ac36f34e4519c717953c49d29c46/data/United_States_of_America/Senate/term-115.csv
     format: csv
@@ -120,7 +120,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-12-03T04:27:48
+last_modified: 2019-01-22T02:14:37
 license: ''
 category:
   - United States of America

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/34eb4a1673c35c6606163baa85253bd5f9095b31/data/Greenland/Inatsisartut/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a1cd752cde7dbbbfbdca66b92f5ecc0fd9741331/data/Greenland/Inatsisartut/ep-popolo-v1.0.json
     format: json
   - name: >-
       Inatsisartut 12: From 2014-11-28
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-15T07:00:13
+last_modified: 2019-01-21T19:46:40
 license: ''
 category:
   - Greenland

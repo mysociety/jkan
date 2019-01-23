@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/795194ee708f8703c3f5a74baa94547826457f06/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f659596833bc1be46140ca5ba1a7331ec379054/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       3rd Territorial Council: From 2017-03-19
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-14T23:07:11
+last_modified: 2019-01-21T21:25:17
 license: ''
 category:
   - Saint Pierre and Miquelon

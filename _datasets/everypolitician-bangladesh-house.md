@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1e1ad01a6564b0050c3765300a9a85e770788aec/data/Bangladesh/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/179891ea485acd511da17dc1b7cb4ebdc0387966/data/Bangladesh/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2014-01-29
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T12:40:09
+last_modified: 2019-01-22T01:57:34
 license: ''
 category:
   - Bangladesh

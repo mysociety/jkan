@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d0b7d84043b9a2cb986c9559ab46f27467cfcf5/data/Aland/Lagting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d6c012693c2f1c8d78a729f33c1a2543bd0634f/data/Aland/Lagting/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–2019: From 2015-11-02
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T07:01:18
+last_modified: 2019-01-21T11:48:18
 license: ''
 category:
   - Åland

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bb64b4d4d2793cd94753cb865ff7db1da6a01ee/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/baecd3446a11a5ab0efdeef398edda3c1ffd3837/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
     format: json
   - name: >-
       Løgting 2015–: From 2015-09-01
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-17T06:47:59
+last_modified: 2019-01-22T13:12:35
 license: ''
 category:
   - Faroe Islands

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b6d8eee434e922cd99ffc054a87bb29ce6a1421b/data/New_Zealand/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1f609d4cd5681313ac47fd9176ee6eec75c5c76a/data/New_Zealand/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       52nd New Zealand Parliament: From 2017-10-12
@@ -50,7 +50,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-17T17:36:30
+last_modified: 2019-01-21T09:25:04
 license: ''
 category:
   - New Zealand

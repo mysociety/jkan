@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fb33833ae63952d6f4aa483ccd8125ce490816cc/data/Kenya/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/775fb0c5bad6023f4c724021b76dc46ca0cfa24e/data/Kenya/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament: From 2013-03-28
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T12:10:00
+last_modified: 2019-01-22T06:17:00
 license: ''
 category:
   - Kenya

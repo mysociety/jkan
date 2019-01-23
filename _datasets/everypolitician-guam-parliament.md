@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/099bd1b9fc7fff72730ecb1904a57a7af278cda8/data/Guam/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5c3318c9a472bd43423d3d0aeb9d6431113c6a10/data/Guam/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       33rd Guam Legislature: From 2015-02-16
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-15T12:30:05
+last_modified: 2019-01-20T10:56:09
 license: ''
 category:
   - Guam

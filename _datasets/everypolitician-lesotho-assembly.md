@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/55543fe8c5023134ba91395ec1a4a9d7073c37a3/data/Lesotho/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e8b391595fa35f71de2d6dd32f8753139ce97f00/data/Lesotho/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament: From 2017-06-12
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T05:53:00
+last_modified: 2019-01-22T03:09:44
 license: ''
 category:
   - Lesotho
