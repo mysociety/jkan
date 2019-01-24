@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/43504c7e3d57a675e837f83f6242d69b2cfeba15/data/Benin/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5aa28d59b93df6443160a182e825adf622f952ec/data/Benin/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       7è législature: From 2015-04-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/43504c7e3d57a675e837f83f6242d69b2cfeba15/data/Benin/National_Assembly/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5aa28d59b93df6443160a182e825adf622f952ec/data/Benin/National_Assembly/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-10-07T15:53:22
+last_modified: 2019-01-23T13:14:17
 license: ''
 category:
   - Benin

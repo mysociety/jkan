@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/707098029a9268244269f2e407d746e0debb221d/data/Poland/Sejm/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/09f080e12c20e6b86e56e906a808498795ec1b5b/data/Poland/Sejm/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th Polish Sejm: From 2015-11-12
@@ -39,12 +39,12 @@ resources:
   - name: >-
       4th Polish Sejm: 2001-10-19 to 2005-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c95eba4feccc412543fcb8259f1d7e4cddd26526/data/Poland/Sejm/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/09f080e12c20e6b86e56e906a808498795ec1b5b/data/Poland/Sejm/term-4.csv
     format: csv
   - name: >-
       3rd Polish Sejm: 1997-10-20 to 2001-10-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/48d09de4c16014ab16a8556252c442627ec9c617/data/Poland/Sejm/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/09f080e12c20e6b86e56e906a808498795ec1b5b/data/Poland/Sejm/term-3.csv
     format: csv
   - name: >-
       2nd Polish Sejm: 1993-09-19 to 1997-10-19
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-21T11:04:24
+last_modified: 2019-01-23T10:20:07
 license: ''
 category:
   - Poland

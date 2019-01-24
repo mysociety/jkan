@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Yemen/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0173cf2afa2e19eea89fd86b911108c786552943/data/Yemen/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       2003–: From 2003-05-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Yemen/Majlis/term-2003.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0173cf2afa2e19eea89fd86b911108c786552943/data/Yemen/Majlis/term-2003.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2019-01-23T15:36:10
 license: ''
 category:
   - Yemen

@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Iran/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/df69950c26016f9f847e3b62365d087e6a0d2697/data/Iran/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Assembly: From 2016-05-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Iran/Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/df69950c26016f9f847e3b62365d087e6a0d2697/data/Iran/Assembly/term-10.csv
     format: csv
   - name: >-
       9th Assembly: 2012-05-27 to 2016-05-26
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Iran/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/df69950c26016f9f847e3b62365d087e6a0d2697/data/Iran/Assembly/term-9.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2019-01-23T12:04:56
 license: ''
 category:
   - Iran

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/20273d565031c60bc5af0a235004430207b18588/data/Somalia/Lower/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eeaec80de6ba4f3761cf8581f39a674ceb6182ee/data/Somalia/Lower/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012-08-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/475a3a7b0fbf499c9959e5915ebc206790b6eaf5/data/Somalia/Lower/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/eeaec80de6ba4f3761cf8581f39a674ceb6182ee/data/Somalia/Lower/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-21T13:05:46
+last_modified: 2019-01-23T15:56:02
 license: ''
 category:
   - Somalia
