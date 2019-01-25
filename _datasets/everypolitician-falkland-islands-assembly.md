@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5ffc7f6f10ffdd04191f95c6c7f757173d116f52/data/Falkland_Islands/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/565888fbe01166ba3257951dd0712231ead5e6db/data/Falkland_Islands/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–2017: 2013-11-07 to 2017
@@ -75,7 +75,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-08-24T08:13:40
+last_modified: 2019-01-24T01:39:50
 license: ''
 category:
   - Falkland Islands

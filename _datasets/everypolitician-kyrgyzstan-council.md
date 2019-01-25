@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d071e8d863625e4ba46441e78416b40987f42fe/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/38cafcfd3f22b023d89aac4fb9ac59cea14eaa19/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Convocation: From 2015-10-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/95a68797bcc3d229c870f944c14e1b9adb34a76f/data/Kyrgyzstan/Council/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6d07e0a41f0df87ec58f0e1b748e0191f38fa85e/data/Kyrgyzstan/Council/term-6.csv
     format: csv
   - name: >-
       5th Convocation: 2010 to 2015-10-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ee548b0f039ba65a1f85d0795b0f58d81f03451c/data/Kyrgyzstan/Council/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/371aa20e35d9609f5e5d76ff52179d93df63a6f4/data/Kyrgyzstan/Council/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-14T15:05:20
+last_modified: 2019-01-24T07:30:45
 license: ''
 category:
   - Kyrgyzstan
