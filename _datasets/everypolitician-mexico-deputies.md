@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7a328f7e47fcbeb1da57a0f9b0dd24382bd8bec0/data/Mexico/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/73c53e7bb3e26e4f476826d348b81726c38b05a3/data/Mexico/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       LXIII Legislature of the Mexican Congress: 2015-09-01 to 2018-08-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7a328f7e47fcbeb1da57a0f9b0dd24382bd8bec0/data/Mexico/Deputies/term-63.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/73c53e7bb3e26e4f476826d348b81726c38b05a3/data/Mexico/Deputies/term-63.csv
     format: csv
   - name: >-
       LXII Legislature of the Mexican Congress: 2012-09-01 to 2015-08-31
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-24T10:22:15
+last_modified: 2019-01-25T09:42:39
 license: ''
 category:
   - Mexico

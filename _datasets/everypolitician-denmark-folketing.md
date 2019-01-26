@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3ebe373ece3ee32fbab692fcb3a972a2b566b724/data/Denmark/Folketing/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/494477b53c04f0b1a8c26ad33436153b07e4ee3c/data/Denmark/Folketing/ep-popolo-v1.0.json
     format: json
   - name: >-
       Folketing 2015–: From 2015-06-20
@@ -54,7 +54,7 @@ resources:
   - name: >-
       Folketing 1990–1994: 1990-12-12 to 1994-09-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a4d9e13e9d73969459a99dcc94763c99433b177f/data/Denmark/Folketing/term-1990.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/494477b53c04f0b1a8c26ad33436153b07e4ee3c/data/Denmark/Folketing/term-1990.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-24T12:09:25
+last_modified: 2019-01-25T14:18:28
 license: ''
 category:
   - Denmark

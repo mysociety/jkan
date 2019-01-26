@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/41e650364303456e94d0f7c4af1fd175816f0eca/data/Tunisia/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/585b59b3e47ba3b3a72eeed611f191bd2b50e094/data/Tunisia/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       1st Assembly of the Representatives of the People: From 2014-12-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1d7348ba7ed1cd10594ea3637883699abcbc3ede/data/Tunisia/Majlis/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/585b59b3e47ba3b3a72eeed611f191bd2b50e094/data/Tunisia/Majlis/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-26T14:07:04
+last_modified: 2019-01-25T09:05:58
 license: ''
 category:
   - Tunisia
