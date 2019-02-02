@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b090105f07e9e7a9289cab697665b0d50a5d46fe/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6b886e489d4dee225392b1a07c583b1cc186b023/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       IX Legislatura: From 2016-04-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Cabo_Verde/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6b886e489d4dee225392b1a07c583b1cc186b023/data/Cabo_Verde/Assembly/term-9.csv
     format: csv
   - name: >-
       VIII Legislatura: 2011-03-11 to 2016-03-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Cabo_Verde/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6b886e489d4dee225392b1a07c583b1cc186b023/data/Cabo_Verde/Assembly/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-18T05:18:37
+last_modified: 2019-01-31T13:39:05
 license: ''
 category:
   - Cabo Verde

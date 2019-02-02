@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea2336d3c7c0e8e5fc46c52db7bfeb5c201d1122/data/Gibraltar/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/289f3291c3dbebbf9ab5656af837a07e1015308d/data/Gibraltar/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       Twelfth Gibraltar Parliament: 2011-12-21 to 2015-10-20
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-18T10:20:10
+last_modified: 2019-01-28T09:31:42
 license: ''
 category:
   - Gibraltar

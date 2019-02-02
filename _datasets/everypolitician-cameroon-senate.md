@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Cameroon/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ddd7c35c50306fb305d65eaa34c4311a21c8c32f/data/Cameroon/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       9e législature: From 2013
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2019-01-31T11:44:49
 license: ''
 category:
   - Cameroon

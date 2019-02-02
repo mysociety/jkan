@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d3e1cc1ce14a84dbd996f8d6cd078741a6bf78f3/data/Croatia/Sabor/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/46145fbe3cd3d3d365b47af9186dc96e4e4c5ce7/data/Croatia/Sabor/ep-popolo-v1.0.json
     format: json
   - name: >-
       9th Sabor: From 2016-10-14
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-22T02:09:34
+last_modified: 2019-01-28T07:47:23
 license: ''
 category:
   - Croatia

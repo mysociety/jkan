@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Uzbekistan/Legislative_Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b33dcf5272ade37ae5dd6627787e2c418953cd1/data/Uzbekistan/Legislative_Chamber/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Convocation: From 2015-01-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Uzbekistan/Legislative_Chamber/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b33dcf5272ade37ae5dd6627787e2c418953cd1/data/Uzbekistan/Legislative_Chamber/term-5.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2019-01-31T15:17:37
 license: ''
 category:
   - Uzbekistan

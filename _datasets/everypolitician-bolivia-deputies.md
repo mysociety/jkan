@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/615cdd0cc5efd4f81b8fe9a555ae049b72365eb0/data/Bolivia/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f0007c9a2bb781c61b003a4eae35886becbc3bd3/data/Bolivia/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-01-21
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-24T05:34:46
+last_modified: 2019-02-01T14:47:32
 license: ''
 category:
   - Bolivia

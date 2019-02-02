@@ -14,22 +14,22 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d6c012693c2f1c8d78a729f33c1a2543bd0634f/data/Aland/Lagting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8862e4d2d7d66d8cee83d2aefc97172f26ac594/data/Aland/Lagting/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–2019: From 2015-11-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/55e3ee76bf4ceabe9168f8b055cc18cac551c322/data/Aland/Lagting/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8862e4d2d7d66d8cee83d2aefc97172f26ac594/data/Aland/Lagting/term-2015.csv
     format: csv
   - name: >-
       2011–2015: 2011 to 2015
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/19351eb2ca9dd7ae3c19f22663ff23bcb73a7a64/data/Aland/Lagting/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8862e4d2d7d66d8cee83d2aefc97172f26ac594/data/Aland/Lagting/term-2011.csv
     format: csv
   - name: >-
       2007–2011: 2007 to 2011
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/19351eb2ca9dd7ae3c19f22663ff23bcb73a7a64/data/Aland/Lagting/term-2007.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d8862e4d2d7d66d8cee83d2aefc97172f26ac594/data/Aland/Lagting/term-2007.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-21T11:48:18
+last_modified: 2019-01-31T13:40:28
 license: ''
 category:
   - Åland

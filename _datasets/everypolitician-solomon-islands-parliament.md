@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/947c7a34f903b2ddefdafc6571d3733b9c25e0fa/data/Solomon_Islands/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b5650cb44347b423acfdea6dee7b05264f4a152a/data/Solomon_Islands/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th Parliament of the Solomon Islands: From 2014-12-09
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T00:47:42
+last_modified: 2019-01-27T13:25:00
 license: ''
 category:
   - Solomon Islands

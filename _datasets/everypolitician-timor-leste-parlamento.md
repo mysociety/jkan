@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2fe16fc811c42baa4080726e30eee8e0753ce1a6/data/Timor_Leste/Parlamento/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/83892fec9316ab3c208bccbddeca91891c6b0d2d/data/Timor_Leste/Parlamento/ep-popolo-v1.0.json
     format: json
   - name: >-
       3rd Parliament: From 2012-07-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Timor_Leste/Parlamento/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/83892fec9316ab3c208bccbddeca91891c6b0d2d/data/Timor_Leste/Parlamento/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-11-22T20:38:34
+last_modified: 2019-01-31T13:25:36
 license: ''
 category:
   - Timor Leste

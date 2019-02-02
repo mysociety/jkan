@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d84ab82f3875356b526d709c51b97af37655e9c4/data/Ghana/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/11e8972c0827d6f670b294ffe088ef3e8ec64b47/data/Ghana/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       Seventh Parliament of the Fourth Republic: From 2017-01-07
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T05:33:36
+last_modified: 2019-01-31T01:43:05
 license: ''
 category:
   - Ghana

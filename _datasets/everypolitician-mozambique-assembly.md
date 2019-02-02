@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2b52b6e7c43503edb1a0de39b9a3a20d915cd454/data/Mozambique/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e84b931d606d69132e18e46f031419d74977eab7/data/Mozambique/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIII Legislature: From 2015-01-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2b52b6e7c43503edb1a0de39b9a3a20d915cd454/data/Mozambique/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e84b931d606d69132e18e46f031419d74977eab7/data/Mozambique/Assembly/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-23T11:54:16
+last_modified: 2019-01-31T14:49:16
 license: ''
 category:
   - Mozambique

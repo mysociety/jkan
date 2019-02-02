@@ -14,37 +14,37 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/faccdc0bb41d4c45b3c9aff3a434255fd5b97ee0/data/United_States_of_America/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e45a7b713250a0ae95ff5254161a10ae8c7a5257/data/United_States_of_America/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       116th Congress: From 2019-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/20f98ecf007fc28cd7da4389ca912c1f7d342051/data/United_States_of_America/Senate/term-116.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60dd96b81549636691e81df5b1b8d82d1a2ab8fa/data/United_States_of_America/Senate/term-116.csv
     format: csv
   - name: >-
       115th Congress: 2017-01-03 to 2019-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c4d0df44483255ba33a5bb5b000e9c0dfe6f4dd/data/United_States_of_America/Senate/term-115.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60dd96b81549636691e81df5b1b8d82d1a2ab8fa/data/United_States_of_America/Senate/term-115.csv
     format: csv
   - name: >-
       114th Congress: 2015-01-06 to 2017-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c4d0df44483255ba33a5bb5b000e9c0dfe6f4dd/data/United_States_of_America/Senate/term-114.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60dd96b81549636691e81df5b1b8d82d1a2ab8fa/data/United_States_of_America/Senate/term-114.csv
     format: csv
   - name: >-
       113th Congress: 2013-01-06 to 2015-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c4d0df44483255ba33a5bb5b000e9c0dfe6f4dd/data/United_States_of_America/Senate/term-113.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60dd96b81549636691e81df5b1b8d82d1a2ab8fa/data/United_States_of_America/Senate/term-113.csv
     format: csv
   - name: >-
       112th Congress: 2011-01-06 to 2013-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c4d0df44483255ba33a5bb5b000e9c0dfe6f4dd/data/United_States_of_America/Senate/term-112.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60dd96b81549636691e81df5b1b8d82d1a2ab8fa/data/United_States_of_America/Senate/term-112.csv
     format: csv
   - name: >-
       111th Congress: 2009-01-06 to 2011-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c4d0df44483255ba33a5bb5b000e9c0dfe6f4dd/data/United_States_of_America/Senate/term-111.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/60dd96b81549636691e81df5b1b8d82d1a2ab8fa/data/United_States_of_America/Senate/term-111.csv
     format: csv
   - name: >-
       110th Congress: 2007-01-06 to 2009-01-03
@@ -125,7 +125,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-24T17:09:32
+last_modified: 2019-02-01T05:16:04
 license: ''
 category:
   - United States of America

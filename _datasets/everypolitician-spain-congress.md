@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b441c8d01940693bc3b4386bb4b2b0820d3c6c3f/data/Spain/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/44454dd33899649c6a33d52e90cf93c6184c4cd9/data/Spain/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th legislature of Spain: 2016-01-13 to 2016-05-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e1f2308ce847f3abb81988abba57c964d9aacf5/data/Spain/Congress/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/315928f2ff043fbde91a04bd7e0d6620abbf8e91/data/Spain/Congress/term-11.csv
     format: csv
   - name: >-
       10th legislature of Spain: 2011-12-13 to 2015-10-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b441c8d01940693bc3b4386bb4b2b0820d3c6c3f/data/Spain/Congress/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/315928f2ff043fbde91a04bd7e0d6620abbf8e91/data/Spain/Congress/term-10.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-24T04:44:03
+last_modified: 2019-02-01T14:31:17
 license: ''
 category:
   - Spain
