@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d93e369d545909a4fce75b3596a36486d3fd79b/data/Saint_Helena/Legislative_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/181db9201cc688ae080f882893d3ae4bdc5ec06e/data/Saint_Helena/Legislative_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–: From 2013-07-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saint_Helena/Legislative_Council/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/181db9201cc688ae080f882893d3ae4bdc5ec06e/data/Saint_Helena/Legislative_Council/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:52:31
+last_modified: 2019-02-02T14:55:32
 license: ''
 category:
   - Saint Helena

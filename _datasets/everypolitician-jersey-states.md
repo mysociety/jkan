@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Jersey/States/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a193372c71ecea6d3ab10cc84a682548e96ba1a8/data/Jersey/States/ep-popolo-v1.0.json
     format: json
   - name: >-
       Assembly 2014–: From 2014-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Jersey/States/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a193372c71ecea6d3ab10cc84a682548e96ba1a8/data/Jersey/States/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2019-02-02T14:45:17
 license: ''
 category:
   - Jersey

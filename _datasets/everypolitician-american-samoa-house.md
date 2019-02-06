@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58f0051e9f3cbc89bd2f5832fc287ed4aa17fd21/data/American_Samoa/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a8ffe76bdcbc7ca1229ffb42640d052093c26470/data/American_Samoa/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015–: From 2015-01-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/58f0051e9f3cbc89bd2f5832fc287ed4aa17fd21/data/American_Samoa/House/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a8ffe76bdcbc7ca1229ffb42640d052093c26470/data/American_Samoa/House/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-31T09:58:39
+last_modified: 2019-02-02T14:31:06
 license: ''
 category:
   - American Samoa

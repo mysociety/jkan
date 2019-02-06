@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Liberia/House/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f3b996999b04c34e2aa39137fd474f820eb640f/data/Liberia/House/ep-popolo-v1.0.json
     format: json
   - name: >-
       53rd Session: From 2012-01-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Liberia/House/term-53.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f3b996999b04c34e2aa39137fd474f820eb640f/data/Liberia/House/term-53.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-06-07T16:00:24
+last_modified: 2019-02-02T14:47:24
 license: ''
 category:
   - Liberia

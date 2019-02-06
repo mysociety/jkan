@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/364e676330d0d7b3a27318a82cb87d305a4d3baa/data/Saudi_Arabia/Shura/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6b80ece9fb0aee5953f7c37e90f5f16c88b54a43/data/Saudi_Arabia/Shura/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Shura: From 2013-02-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saudi_Arabia/Shura/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/6b80ece9fb0aee5953f7c37e90f5f16c88b54a43/data/Saudi_Arabia/Shura/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:52:34
+last_modified: 2019-02-02T12:26:20
 license: ''
 category:
   - Saudi Arabia

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6da03e57220db9157f36e0d5665db26b33c508e8/data/Brazil/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/10112b9958e506d9cc95b856c00e139c9629cbce/data/Brazil/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       55th legislature of the National Congress of Brazil: 2015-02-01 to 2019-01-31
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-01T08:50:42
+last_modified: 2019-02-02T05:45:51
 license: ''
 category:
   - Brazil

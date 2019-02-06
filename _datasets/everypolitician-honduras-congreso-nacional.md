@@ -19,7 +19,7 @@ resources:
   - name: >-
       VIII Legislatura: 2014-01-21 to 2018
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Honduras/Congreso_Nacional/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31148fd69b6e281a9257de1628b8d922c014e259/data/Honduras/Congreso_Nacional/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
