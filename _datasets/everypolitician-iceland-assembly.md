@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7f1a222b740d91a76dfaa1ddfeaa261f6a59f754/data/Iceland/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bdf97c1462b69c0ffa99394396b42800bdf13913/data/Iceland/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Alþingi 2017–: From 2017-12-14
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-04T02:12:32
+last_modified: 2019-02-27T12:37:30
 license: ''
 category:
   - Iceland

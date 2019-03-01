@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4ed9de2360f4694b098c9d6d4aacd92fa425958d/data/Switzerland/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f51bb4acca077c0d433fd2c8a7f6db2c414e2a70/data/Switzerland/National_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       50. Legislatur: From 2015-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a25cc9f0f70f5364a9ac8c03260f4b0d1a20521e/data/Switzerland/National_Council/term-50.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c70d5d7f0c1d88f55d9e438d7d2be849aea632b2/data/Switzerland/National_Council/term-50.csv
     format: csv
   - name: >-
       49. Legislatur: 2011-12-05 to 2015-11-29
@@ -34,22 +34,22 @@ resources:
   - name: >-
       47. Legislatur: 2003-12-01 to 2007-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c3bdc2d1f99933ccc430f47dfe1ef25f329aa9e/data/Switzerland/National_Council/term-47.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c00b66b0cbc70f4275559509b0ba1dfe953fac4/data/Switzerland/National_Council/term-47.csv
     format: csv
   - name: >-
       46. Legislatur: 1999-12-06 to 2003-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c3bdc2d1f99933ccc430f47dfe1ef25f329aa9e/data/Switzerland/National_Council/term-46.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c00b66b0cbc70f4275559509b0ba1dfe953fac4/data/Switzerland/National_Council/term-46.csv
     format: csv
   - name: >-
       45. Legislatur: 1995-12-04 to 1999-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a25cc9f0f70f5364a9ac8c03260f4b0d1a20521e/data/Switzerland/National_Council/term-45.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c00b66b0cbc70f4275559509b0ba1dfe953fac4/data/Switzerland/National_Council/term-45.csv
     format: csv
   - name: >-
       44. Legislatur: 1991-11-25 to 1995-12-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a25cc9f0f70f5364a9ac8c03260f4b0d1a20521e/data/Switzerland/National_Council/term-44.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2c00b66b0cbc70f4275559509b0ba1dfe953fac4/data/Switzerland/National_Council/term-44.csv
     format: csv
   - name: >-
       43. Legislatur: 1987-11-30 to 1991-11-24
@@ -95,7 +95,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-30T09:06:25
+last_modified: 2019-02-26T01:44:27
 license: ''
 category:
   - Switzerland

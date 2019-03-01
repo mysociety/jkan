@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/198e8c043de6e6700b0503720ab80cc423eeb948/data/Israel/Knesset/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/811506d0572a4bc72751e0a78160962b58f5bc7f/data/Israel/Knesset/ep-popolo-v1.0.json
     format: json
   - name: >-
       Knesset 20: 2015-03-31 to 2016-06-01
@@ -24,17 +24,17 @@ resources:
   - name: >-
       Knesset 19: 2013-02-05 to 2015-03-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1cf269a3b797b31c7f16777899b24417772deeb6/data/Israel/Knesset/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9769bae38fc6490a0646b753be3bc871fe008e7/data/Israel/Knesset/term-19.csv
     format: csv
   - name: >-
       Knesset 18: 2009-02-24 to 2013-02-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3e2cb422e5aa4d83fad5377a25dbb4e64772b127/data/Israel/Knesset/term-18.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9769bae38fc6490a0646b753be3bc871fe008e7/data/Israel/Knesset/term-18.csv
     format: csv
   - name: >-
       Knesset 17: 2006-04-17 to 2009-02-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/90b95bde3d3f0ebbb027b42f21accf015ace78bf/data/Israel/Knesset/term-17.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e9769bae38fc6490a0646b753be3bc871fe008e7/data/Israel/Knesset/term-17.csv
     format: csv
   - name: >-
       Knesset 16: 2003-02-17 to 2006-04-17
@@ -125,7 +125,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-05T06:12:16
+last_modified: 2019-02-24T21:57:16
 license: ''
 category:
   - Israel

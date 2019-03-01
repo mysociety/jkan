@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e30eddf4be3507f32fdf06754fef1a743036ea2f/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5a32bfc6ee6ca9fa5896d7e30cbbe093f5cfdfa6/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       44th National Assembly: From 2017-04-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/94c442acad125663e9e086681b1a2cce66963c5a/data/Bulgaria/National_Assembly/term-44.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f346b46813e3a6395d0300d85e2a430a56ccd619/data/Bulgaria/National_Assembly/term-44.csv
     format: csv
   - name: >-
       43rd National Assembly: 2014-10-27 to 2017-01-26
@@ -39,12 +39,12 @@ resources:
   - name: >-
       40th National Assembly: 2005-07-11 to 2009-06-25
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/94c442acad125663e9e086681b1a2cce66963c5a/data/Bulgaria/National_Assembly/term-40.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f346b46813e3a6395d0300d85e2a430a56ccd619/data/Bulgaria/National_Assembly/term-40.csv
     format: csv
   - name: >-
       39th National Assembly: 2001-07-05 to 2005-06-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7cde2f76d1f55b5202d8cc1910f3999579bb0702/data/Bulgaria/National_Assembly/term-39.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f346b46813e3a6395d0300d85e2a430a56ccd619/data/Bulgaria/National_Assembly/term-39.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -55,7 +55,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-01T15:45:38
+last_modified: 2019-02-14T06:42:29
 license: ''
 category:
   - Bulgaria

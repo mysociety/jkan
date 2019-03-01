@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/57b3df3243a64af8b85e5e6d7352c5c36aa64a41/data/Kazakhstan/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c6063c8c01ecb3125f5852c96e26ea98e09c307f/data/Kazakhstan/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       Sixth Convocation: From 2016-03-25
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-03T18:48:04
+last_modified: 2019-02-27T07:41:43
 license: ''
 category:
   - Kazakhstan

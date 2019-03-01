@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7431f723b938534a061d40d14f40135a38c4b92b/data/Chile/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e180fbbfe3626ddbda59693c8c1539a4f6c33e12/data/Chile/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       Legislativo 2014-2018: 2014-03-11 to 2018-03-10
@@ -34,22 +34,22 @@ resources:
   - name: >-
       Legislativo 2002-2006: 2002-03-11 to 2006-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f02ffd4e425d677548e55e14a4be72fd3cb0b932/data/Chile/Deputies/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dbf7399032e415a35140d31724532c8a82aade30/data/Chile/Deputies/term-4.csv
     format: csv
   - name: >-
       Legislativo 1998-2002: 1998-03-11 to 2002-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9847122eaf8ab1d95118211d906ed018d6d3bd80/data/Chile/Deputies/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e180fbbfe3626ddbda59693c8c1539a4f6c33e12/data/Chile/Deputies/term-3.csv
     format: csv
   - name: >-
       Legislativo 1994-1998: 1994-03-11 to 1998-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9847122eaf8ab1d95118211d906ed018d6d3bd80/data/Chile/Deputies/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e180fbbfe3626ddbda59693c8c1539a4f6c33e12/data/Chile/Deputies/term-2.csv
     format: csv
   - name: >-
       Legislativo 1990-1994: 1990-03-11 to 1994-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9847122eaf8ab1d95118211d906ed018d6d3bd80/data/Chile/Deputies/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e180fbbfe3626ddbda59693c8c1539a4f6c33e12/data/Chile/Deputies/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -60,7 +60,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-02T01:14:06
+last_modified: 2019-02-26T00:13:11
 license: ''
 category:
   - Chile

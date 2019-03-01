@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ff58f8f5b1c935138b61d28af6b7575b0cf981ca/data/Italy/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad775179412639dde2daa5e9b2a0f0a088deefe5/data/Italy/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       18th Legislature of Italy: From 2018-03-23
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-01T20:47:44
+last_modified: 2019-02-08T03:53:24
 license: ''
 category:
   - Italy

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/703230eff3e471678e39e2e53eda480574722962/data/Costa_Rica/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f5cbe4c66202803f8c958c1c54689a2ff4167253/data/Costa_Rica/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014-2018 legislative period: 2014-05-01 to 2018-04-30
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-27T12:12:36
+last_modified: 2019-02-26T09:32:51
 license: ''
 category:
   - Costa Rica

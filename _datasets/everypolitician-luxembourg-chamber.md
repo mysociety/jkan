@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/98569c899ee3ff0dac53e83b81e3369f74759069/data/Luxembourg/Chamber/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/40f8efe3536313987d012476e7a4e8dd11528ab6/data/Luxembourg/Chamber/ep-popolo-v1.0.json
     format: json
   - name: >-
       2018–2023 Chamber of Deputies: From 2018-10-30
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-03T23:51:09
+last_modified: 2019-02-27T04:55:30
 license: ''
 category:
   - Luxembourg

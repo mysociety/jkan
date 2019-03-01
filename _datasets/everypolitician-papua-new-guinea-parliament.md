@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/fc9d3bee211dd0494251d4a43923316b4c100f64/data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b51666b0a23fc4155ed86a034bc91c64ff69e1a2/data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012-2017: From 2012-08-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Papua_New_Guinea/Parliament/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b51666b0a23fc4155ed86a034bc91c64ff69e1a2/data/Papua_New_Guinea/Parliament/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-27T15:39:36
+last_modified: 2019-02-08T15:38:34
 license: ''
 category:
   - Papua New Guinea

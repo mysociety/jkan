@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea002b32a332326224a40ae086b5ed5a04442005/data/Ghana/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a62a6490747223ec8b685fe091e1a13dd3ab6ce8/data/Ghana/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       Seventh Parliament of the Fourth Republic: From 2017-01-07
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ea002b32a332326224a40ae086b5ed5a04442005/data/Ghana/Parliament/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a62a6490747223ec8b685fe091e1a13dd3ab6ce8/data/Ghana/Parliament/term-7.csv
     format: csv
   - name: >-
       Sixth Parliament of the Fourth Republic: 2013-01-07 to 2017-01-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/078a15832d9a990740b955ca7e45794152b6af01/data/Ghana/Parliament/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a62a6490747223ec8b685fe091e1a13dd3ab6ce8/data/Ghana/Parliament/term-6.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-04T16:20:08
+last_modified: 2019-02-18T07:49:53
 license: ''
 category:
   - Ghana

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e678e9ffe4df26b9b871bddadf86eef9bbcb65c2/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/95699bf3f85fbfcc9eda69a575f772be6b2dc8ad/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2013–2017: From 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Cayman_Islands/Legislative_Assembly/term-2013.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/375d40187c55afb7022605c5249385734dd5ef79/data/Cayman_Islands/Legislative_Assembly/term-2013.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-17T14:41:41
+last_modified: 2019-02-08T12:22:37
 license: ''
 category:
   - Cayman Islands

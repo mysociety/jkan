@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/baecd3446a11a5ab0efdeef398edda3c1ffd3837/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8289e84f8854a042dfae0bdda3798d6aa5745e9a/data/Faroe_Islands/Logting/ep-popolo-v1.0.json
     format: json
   - name: >-
       Løgting 2015–: From 2015-09-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bb64b4d4d2793cd94753cb865ff7db1da6a01ee/data/Faroe_Islands/Logting/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a71a21ada840a4d22467ab10ab670a02aba26da7/data/Faroe_Islands/Logting/term-2015.csv
     format: csv
   - name: >-
       Løgting 2011–2015: 2011-10-29 to 2015-09-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2bb64b4d4d2793cd94753cb865ff7db1da6a01ee/data/Faroe_Islands/Logting/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a71a21ada840a4d22467ab10ab670a02aba26da7/data/Faroe_Islands/Logting/term-2011.csv
     format: csv
   - name: >-
       Løgting 2008–2011: 2008-01-19 to 2011-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Faroe_Islands/Logting/term-2008.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a71a21ada840a4d22467ab10ab670a02aba26da7/data/Faroe_Islands/Logting/term-2008.csv
     format: csv
   - name: >-
       Løgting 2004–2008: 2004 to 2008-01-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Faroe_Islands/Logting/term-2004.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a71a21ada840a4d22467ab10ab670a02aba26da7/data/Faroe_Islands/Logting/term-2004.csv
     format: csv
   - name: >-
       Løgting 2002–2004: 2002 to 2004
@@ -65,7 +65,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-22T13:12:35
+last_modified: 2019-02-26T23:43:10
 license: ''
 category:
   - Faroe Islands

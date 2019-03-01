@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/91c3d9cf469c20011a3aa5b9472d070d4e58c243/data/Belgium/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ec0b37628a8416c70a5b9965d21073658cd4b29/data/Belgium/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       54e législature: From 2014-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/99cc9ee49e13e66d1d9c35e0eac9dcaa5b1eb84c/data/Belgium/Representatives/term-54.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d0fcf74bb01dcf9c120a9fe2eadd8148acb091e9/data/Belgium/Representatives/term-54.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-01T06:00:13
+last_modified: 2019-02-18T13:00:01
 license: ''
 category:
   - Belgium

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/adb9b24137c6952919b9a47243d868e900e3775a/data/Tunisia/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/635f1f62dd3b95f6f30aab8e63062468a6c934b4/data/Tunisia/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       1st Assembly of the Representatives of the People: From 2014-12-02
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-01T06:02:46
+last_modified: 2019-02-15T06:57:23
 license: ''
 category:
   - Tunisia

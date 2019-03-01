@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f4d54edc9f414ee7dc48c121ea40daeaddfe7774/data/Andorra/General_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/57cb0ffd7ff42c63bfe451f13356e893c899f93e/data/Andorra/General_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015: From 2015-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Andorra/General_Council/term-2015.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/57cb0ffd7ff42c63bfe451f13356e893c899f93e/data/Andorra/General_Council/term-2015.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-14T19:28:34
+last_modified: 2019-02-22T08:27:59
 license: ''
 category:
   - Andorra

@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/44f76c10b936ef073fb886336e9f112a0a703708/data/Maldives/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7a9b55f190aad60a94d2756e1f1b64606345428f/data/Maldives/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014: From 2014-05-28
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/44f76c10b936ef073fb886336e9f112a0a703708/data/Maldives/Majlis/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/84d0e0e9f7abe9416353584d9b31594bd70894d3/data/Maldives/Majlis/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-01T07:47:11
+last_modified: 2019-02-28T05:57:04
 license: ''
 category:
   - Maldives

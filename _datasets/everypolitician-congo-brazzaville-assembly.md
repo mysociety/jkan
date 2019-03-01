@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c2e716ad2e2b6a74ebd0662cdbc300498c941404/data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/58532f510339c70f3ec5f1dd6c1846c5d42eca45/data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13ème législature: From 2012-09-05
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T11:48:54
+last_modified: 2019-02-11T02:39:37
 license: ''
 category:
   - Congo-Brazzaville

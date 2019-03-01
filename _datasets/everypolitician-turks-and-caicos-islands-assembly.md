@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cebb7e6c7c2eee7bdddf5ac98e587c73c179e2d2/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/25017da54e96d74dcdc305e3711de70d1ccce93f/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       3rd Assembly: From 2016-12-15
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-16T05:14:13
+last_modified: 2019-02-25T01:39:07
 license: ''
 category:
   - Turks and Caicos Islands
