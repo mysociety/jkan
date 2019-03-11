@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e9a67ea9d96cede669c12b3ded8f992f4bb73a4/data/Nepal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ccaea0d92a00dd21a1424a50e8f8dc99780a14/data/Nepal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2nd Constituent Assembly: From 2014-01-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8e9a67ea9d96cede669c12b3ded8f992f4bb73a4/data/Nepal/Assembly/term-ca2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/55ccaea0d92a00dd21a1424a50e8f8dc99780a14/data/Nepal/Assembly/term-ca2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-28T13:16:28
+last_modified: 2019-03-04T12:05:58
 license: ''
 category:
   - Nepal

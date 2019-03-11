@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/302a10d4665701df57917f95833df66981a3894b/data/Zambia/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a690210424f0bde936c045558d85c77cf8f2d99a/data/Zambia/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       12th Assembly: From 2016-09-23
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-26T04:15:03
+last_modified: 2019-02-28T16:11:44
 license: ''
 category:
   - Zambia

@@ -17,7 +17,7 @@ resources:
       https://cdn.rawgit.com/everypolitician/everypolitician-data/c5793e37bebbacb64205ca14f7d50ff90cd1e047/data/Alderney/States/ep-popolo-v1.0.json
     format: json
   - name: >-
-      2017-2018: From 2017-01-01
+      2017-2018: 2017-01-01 to 2018-12-31
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Alderney/States/term-2017.csv
     format: csv

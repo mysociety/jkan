@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0c28942c22dc578341e68b4a467719439474cb4b/data/Northern_Cyprus/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/47f09d6f3bad4389a301310c24ea75e5ed59236a/data/Northern_Cyprus/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th Parliament: From 2013-08-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/85ab9dd26d0d61c6c33c486f2a3e2fa2e5b1012d/data/Northern_Cyprus/Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/47f09d6f3bad4389a301310c24ea75e5ed59236a/data/Northern_Cyprus/Assembly/term-14.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-26T07:39:11
+last_modified: 2019-03-07T07:03:27
 license: ''
 category:
   - Northern Cyprus

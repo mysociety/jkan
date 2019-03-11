@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21ef2d5547e739d0d4f849fae2930dab634955fb/data/Malta/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/820a89a161f8ee7cfca3bf642e91cf35a54846fe/data/Malta/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament: From 2017-06-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bddf723929029362890352be0a98dec0803f002f/data/Malta/Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ed664a79e124172db6cc3833760fe05463946425/data/Malta/Assembly/term-13.csv
     format: csv
   - name: >-
       12th Parliament: 2013-04-06 to 2017-05-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/bddf723929029362890352be0a98dec0803f002f/data/Malta/Assembly/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/820a89a161f8ee7cfca3bf642e91cf35a54846fe/data/Malta/Assembly/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-18T10:22:14
+last_modified: 2019-03-08T14:44:44
 license: ''
 category:
   - Malta

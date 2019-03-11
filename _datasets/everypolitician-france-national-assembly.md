@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1d4ff9764576c3bd1ecaced4d383785c2a53278a/data/France/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/23e75808a85142f49794aa714451e2f4d0166af9/data/France/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       XVe législature de la Ve République: From 2017-06-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/604940ee2d1eece0e39373b632a0542d4a1ed80c/data/France/National_Assembly/term-15.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d7adaa00c975843499acd20f49b4b3642294fd1/data/France/National_Assembly/term-15.csv
     format: csv
   - name: >-
       XIVe législature de la Ve République: 2012-06-20 to 2017-06-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/604940ee2d1eece0e39373b632a0542d4a1ed80c/data/France/National_Assembly/term-14.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d7adaa00c975843499acd20f49b4b3642294fd1/data/France/National_Assembly/term-14.csv
     format: csv
   - name: >-
       XIIIe législature de la Ve République: 2007-06-20 to 2012-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/604940ee2d1eece0e39373b632a0542d4a1ed80c/data/France/National_Assembly/term-13.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d7adaa00c975843499acd20f49b4b3642294fd1/data/France/National_Assembly/term-13.csv
     format: csv
   - name: >-
       XIIe législature de la Ve République: 2002-06-19 to 2007-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/604940ee2d1eece0e39373b632a0542d4a1ed80c/data/France/National_Assembly/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d7adaa00c975843499acd20f49b4b3642294fd1/data/France/National_Assembly/term-12.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-22T07:12:06
+last_modified: 2019-03-06T22:38:28
 license: ''
 category:
   - France

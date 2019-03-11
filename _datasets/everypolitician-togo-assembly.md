@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5bce6aa0af55043a794176bb2fa88237f469f71b/data/Togo/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7ae1fd544a70ec4a8ad0eb71d1cc45226fff2f2b/data/Togo/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2018–: From 2018-12-21
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-24T12:39:18
+last_modified: 2019-03-03T22:17:48
 license: ''
 category:
   - Togo

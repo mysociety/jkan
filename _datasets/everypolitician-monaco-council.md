@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/571be99865bd48643b2847d77175e12559f62a65/data/Monaco/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5f591e94e4718dffa9c59ab5c2a53f968e4453da/data/Monaco/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2018-2023: From 2018-02-22
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-18T14:14:35
+last_modified: 2019-03-07T14:30:14
 license: ''
 category:
   - Monaco

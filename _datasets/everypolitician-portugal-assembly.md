@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f932dcb444fe25a27073f6bb226547da65498b1/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d6da8ca8989519fd3493f4481dee26aff0a987d5/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Portuguese Assembly: From 2015-10-23
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-26T08:27:58
+last_modified: 2019-03-07T10:19:49
 license: ''
 category:
   - Portugal

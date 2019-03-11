@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1c17373db0f62821fd5ae1702ed832b607f80c89/data/Somalia/Lower/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9a06bc181fd346631fa689944822a04abce3286b/data/Somalia/Lower/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012-08-20
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-26T23:56:34
+last_modified: 2019-03-08T11:18:47
 license: ''
 category:
   - Somalia

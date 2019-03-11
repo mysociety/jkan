@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/14139c7614d4599b2515831a3d297ae7824c8c08/data/Vatican_City/Pontifical_Commission/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e08159b2aa5d49c8a9d1e8e0ece4c3926c56cf9a/data/Vatican_City/Pontifical_Commission/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–: From 2016-06-11
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-03T22:34:42
+last_modified: 2019-03-08T10:52:00
 license: ''
 category:
   - Vatican City
