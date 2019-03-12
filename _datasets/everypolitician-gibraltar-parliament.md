@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7850c5b89a32c2e4d6ef217520c5d8f28c350d27/data/Gibraltar/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bdd51475551d7b9feaad5433e7f6f72d892a8a31/data/Gibraltar/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
-      Twelfth Gibraltar Parliament: 2011-12-21 to 2015-10-20
+      Second Gibraltar Parliament: 2011-12-21 to 2015-10-20
     url: >-
       https://cdn.rawgit.com/everypolitician/everypolitician-data/7850c5b89a32c2e4d6ef217520c5d8f28c350d27/data/Gibraltar/Parliament/term-12.csv
     format: csv
   - name: >-
-      Eleventh Gibraltar Parliament: 2007-11-08 to 2011-11-03
+      First Gibraltar Parliament: 2007-11-08 to 2011-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7850c5b89a32c2e4d6ef217520c5d8f28c350d27/data/Gibraltar/Parliament/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bdd51475551d7b9feaad5433e7f6f72d892a8a31/data/Gibraltar/Parliament/term-11.csv
     format: csv
   - name: >-
       Tenth House of Assembly: 2003-12-18 to 2007-09-07
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-07T14:06:25
+last_modified: 2019-03-11T08:17:22
 license: ''
 category:
   - Gibraltar

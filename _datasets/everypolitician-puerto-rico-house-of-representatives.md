@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/59cac8cf2fc8ad585d34b36935607cdecf639567/data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d06502a1a9cdb073d02622b446abdca64ca8ed89/data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       30th House of Representatives of Puerto Rico: From 2017-01-02
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-27T09:58:32
+last_modified: 2019-03-10T15:11:56
 license: ''
 category:
   - Puerto Rico

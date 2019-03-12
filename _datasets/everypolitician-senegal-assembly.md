@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a65f06c784b5a33f891f219bf7963f9fbe3fd3e8/data/Senegal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f0f06fee4ec4e8fe2ac34177624bf1fa7bd0e690/data/Senegal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012-07-30
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-07T18:42:44
+last_modified: 2019-03-10T07:14:24
 license: ''
 category:
   - Senegal

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4836fe3aad02495eefef816e55ea1abc6c44adff/data/Paraguay/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/93c6c4195eeaebe60baf675f91eccc9e3d614b58/data/Paraguay/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       2018–: From 2018-04-22
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-27T07:28:09
+last_modified: 2019-03-10T00:28:01
 license: ''
 category:
   - Paraguay

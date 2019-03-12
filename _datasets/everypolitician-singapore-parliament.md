@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/a7a456419dd51702325fb42e9e1979484439bea4/data/Singapore/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Parliament: From 2016-01-15
@@ -39,47 +39,47 @@ resources:
   - name: >-
       9th Parliament: 1997-05-26 to 2001-10-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/79ef17a81bf23d8548faf308924ff83d6c7d8365/data/Singapore/Parliament/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-9.csv
     format: csv
   - name: >-
       8th Parliament: 1992-01-06 to 1996-12-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/79ef17a81bf23d8548faf308924ff83d6c7d8365/data/Singapore/Parliament/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-8.csv
     format: csv
   - name: >-
       7th Parliament: 1989-01-09 to 1991-08-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/79ef17a81bf23d8548faf308924ff83d6c7d8365/data/Singapore/Parliament/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-7.csv
     format: csv
   - name: >-
       6th Parliament: 1985-02-25 to 1988-08-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/79ef17a81bf23d8548faf308924ff83d6c7d8365/data/Singapore/Parliament/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-6.csv
     format: csv
   - name: >-
       5th Parliament: 1981-02-03 to 1984-12-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Singapore/Parliament/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-5.csv
     format: csv
   - name: >-
       4th Parliament: 1977-02-07 to 1980-12-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Singapore/Parliament/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-4.csv
     format: csv
   - name: >-
       3rd Parliament: 1972-10-12 to 1976-12-06
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Singapore/Parliament/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-3.csv
     format: csv
   - name: >-
       2nd Parliament: 1968-05-06 to 1972-08-16
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Singapore/Parliament/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-2.csv
     format: csv
   - name: >-
       1st Parliament: 1965-12-08 to 1968-02-08
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Singapore/Parliament/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/4621709b8c8643286154d5b7a48f7f8e858da151/data/Singapore/Parliament/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-08T13:39:56
+last_modified: 2019-03-11T07:49:16
 license: ''
 category:
   - Singapore

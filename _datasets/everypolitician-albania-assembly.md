@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/47a8dccfc6e1f2110f490def461d95cb661e5f70/data/Albania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8334bcfd700df4d6f99b0bdde969fa7b76957ee3/data/Albania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       IX Pluralist Legislature: From 2017-09-09
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-07T14:10:57
+last_modified: 2019-03-11T01:35:48
 license: ''
 category:
   - Albania
