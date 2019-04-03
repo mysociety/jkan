@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1414454aeb92be594da1213a0951e7905f503af3/data/Australia/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab3fc2cafc82ee27971fb225d0c8892ec11adea3/data/Australia/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       45th Parliament: From 2016-07-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/78f133ea4d9a9aa0a5991ecf2f7083d8b340c328/data/Australia/Senate/term-45.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ab3fc2cafc82ee27971fb225d0c8892ec11adea3/data/Australia/Senate/term-45.csv
     format: csv
   - name: >-
       44th Parliament: 2013-09-07 to 2016-05-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/73e935f3fd52e1cc75b72bff65e1e37311f8a148/data/Australia/Senate/term-44.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1c02968440df70c5a2b49d130c0da7893b125a48/data/Australia/Senate/term-44.csv
     format: csv
   - name: >-
       43rd Parliament: 2010-08-21 to 2013-09-07
@@ -80,7 +80,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-08T04:43:38
+last_modified: 2019-04-02T14:26:07
 license: ''
 category:
   - Australia

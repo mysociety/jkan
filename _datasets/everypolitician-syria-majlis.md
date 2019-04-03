@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e64e323da868c461c8f6c31cf6369600c31e4096/data/Syria/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5dfd4a8e85b6cfd0ae2a61a396f97940ebdfa9b3/data/Syria/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       People's Council of Syria, 2012: 2012-05-24 to 2016-04-12
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-21T10:42:36
+last_modified: 2019-04-01T15:36:29
 license: ''
 category:
   - Syria

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b9ac6dbc6cf91960735260dcbc1ea44c0de532df/data/Laos/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/2f0367cc4e76a15ef8dec3d612a90d2f51e3ec1b/data/Laos/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–: From 2016-04-20
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2018-03-06T02:36:23
+last_modified: 2019-04-01T15:52:12
 license: ''
 category:
   - Laos

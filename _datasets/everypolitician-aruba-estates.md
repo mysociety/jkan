@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/df906e305085483d4ad963e45cf6d180a07db473/data/Aruba/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/07f3522c40fefc7c9700ef1dcff17c28467231f1/data/Aruba/Estates/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th Aruban Estates: From 2013
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Aruba/Estates/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c7b22b88e4bce07fdb067e8275c7ddd33cb839d0/data/Aruba/Estates/term-7.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2017-01-22T06:50:51
+last_modified: 2019-04-01T11:39:25
 license: ''
 category:
   - Aruba

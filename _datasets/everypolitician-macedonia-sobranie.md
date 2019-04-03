@@ -1,10 +1,10 @@
 ---
 schema: default
 title: >-
-  Politician Data: Macedonia — Sobranie
+  Politician Data: North Macedonia — Sobranie
 organization: EveryPolitician
 notes: >-
-  Data on the people within the Sobranie legislature of Macedonia.
+  Data on the people within the Sobranie legislature of North Macedonia.
 resources:
   - name: How To Use The Data
     url: 'http://docs.everypolitician.org/use_the_data.html'
@@ -14,12 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b7b0b720531341dfb386c6e5ffe4fd4ebd836a0/data/Macedonia/Sobranie/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b140041c3609c999c320f9b961881a20a17cbc4d/data/Macedonia/Sobranie/ep-popolo-v1.0.json
     format: json
+  - name: >-
+      Sobranie 2016-2020: From 2016-12-30
+    url: >-
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b140041c3609c999c320f9b961881a20a17cbc4d/data/Macedonia/Sobranie/term-2016.csv
+    format: csv
   - name: >-
       Sobranie 2014-2016: 2014-05-10 to 2016-10-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8b7b0b720531341dfb386c6e5ffe4fd4ebd836a0/data/Macedonia/Sobranie/term-2014.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3de77d0c5cb421732dffb3ce2149c01fc83314c5/data/Macedonia/Sobranie/term-2014.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,10 +35,10 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-27T18:55:56
+last_modified: 2019-04-01T08:24:09
 license: ''
 category:
-  - Macedonia
+  - North Macedonia
   - People
   - Groups & Bodies
 maintainer: EveryPolitician

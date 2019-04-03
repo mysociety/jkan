@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/942b275328d4bf8cc7f74083a1dd9fc041f6ef6a/data/United_States_of_America/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/58a9b0724b81bb1da7f817485287adf81795a38e/data/United_States_of_America/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       116th Congress: From 2019-01-03
@@ -125,7 +125,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-11T08:20:57
+last_modified: 2019-04-02T03:56:23
 license: ''
 category:
   - United States of America

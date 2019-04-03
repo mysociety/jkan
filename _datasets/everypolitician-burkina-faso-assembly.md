@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/33afde2c6ab1b7d8e55886fb3f76ea64fb5d29a8/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/73ac3e4a5f31c8900b3258cde66154f6d172e9a2/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       VIIe législature: From 2015-12-30
@@ -50,7 +50,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-07T11:47:30
+last_modified: 2019-04-01T08:06:00
 license: ''
 category:
   - Burkina Faso

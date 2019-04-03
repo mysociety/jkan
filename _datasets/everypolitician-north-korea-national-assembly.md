@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3419f7d931eff63b3554db0f30b2b6015294e67a/data/North_Korea/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/01c42f0a189329fdfcaa1fb9d738992bddd33c89/data/North_Korea/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Assembly: From 2014-03-09
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-06T00:01:17
+last_modified: 2019-04-01T12:54:26
 license: ''
 category:
   - North Korea

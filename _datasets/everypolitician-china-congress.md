@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/99d840652c45b5cd45f45abcc14cf582b47de828/data/China/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/156ba54d74afdc9052eb67329db9f03c88761e51/data/China/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       12th National People’s Congress: From 2013-03-05
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-26T01:09:12
+last_modified: 2019-04-02T07:52:39
 license: ''
 category:
   - China

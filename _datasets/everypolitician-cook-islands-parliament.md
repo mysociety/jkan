@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2b8ebfb490d9ffe35c48e6d8a0a5ae330726bba4/data/Cook_Islands/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d4be831764d6c0fd3b504784c8f794430d3e32e/data/Cook_Islands/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       14th Parliament: 2014-10-08 to 2018-06-14
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-08T10:54:21
+last_modified: 2019-04-02T13:37:56
 license: ''
 category:
   - Cook Islands

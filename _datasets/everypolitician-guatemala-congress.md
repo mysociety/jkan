@@ -19,7 +19,7 @@ resources:
   - name: >-
       8th legislature of Guatemala: From 2016-01-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8f9d5bb62948d2504adb7ce7c8c2196ddaadddb9/data/Guatemala/Congress/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/dddf7d0b99f4d6f281806f9768f5c06cd5ebdfff/data/Guatemala/Congress/term-8.csv
     format: csv
   - name: >-
       7th legislature of Guatemala: 2012-01-14 to 2016-01-14

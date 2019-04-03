@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/65aec6e5f9ae6ad974ae00433ae272cbfcfa66fa/data/Oman/Majlis/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/de8207d6e0ba139ba191fdb34070af42b6f08cbd/data/Oman/Majlis/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th Period: 2011-10-31 to 2015-10-28
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-08T11:29:00
+last_modified: 2019-04-01T23:29:08
 license: ''
 category:
   - Oman

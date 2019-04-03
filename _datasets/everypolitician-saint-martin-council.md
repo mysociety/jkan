@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/77ea5071e8297441cc430a126b1c4b66e5482328/data/Saint_Martin/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/aa2dbe9e89a5a5f2e878f0eb17cb93e863ab9844/data/Saint_Martin/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2012–: From 2012
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/cc827fd1ee8a5e7d3e76e1ef1a04daa1a8d440c0/data/Saint_Martin/Council/term-2012.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/aa2dbe9e89a5a5f2e878f0eb17cb93e863ab9844/data/Saint_Martin/Council/term-2012.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-04T09:16:51
+last_modified: 2019-04-02T09:41:12
 license: ''
 category:
   - Saint Martin

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/711acdf8c2672facdd2ea053de4c17138b413dce/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/83c52805b426d0327d37d5a4a159ffa2a4a42a14/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       Sixth Legislative Council: From 2016-10-01
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-11T07:13:42
+last_modified: 2019-04-02T13:59:29
 license: ''
 category:
   - Hong Kong

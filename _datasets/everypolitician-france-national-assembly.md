@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/23e75808a85142f49794aa714451e2f4d0166af9/data/France/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8fcc85f264580a0d6b619233eeb1c78091ff91e5/data/France/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       XVe législature de la Ve République: From 2017-06-21
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-06T22:38:28
+last_modified: 2019-04-02T12:58:20
 license: ''
 category:
   - France

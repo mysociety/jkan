@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/21037c5640d653e20dfe98675ec37ddcfc6979b8/data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1e0b79c49fe3bf6e8d03af06cc2b83b234931e3f/data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2017–: From 2017-03-26
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-12T04:11:52
+last_modified: 2019-03-27T01:20:05
 license: ''
 category:
   - Wallis and Futuna

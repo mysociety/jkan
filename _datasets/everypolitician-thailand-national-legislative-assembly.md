@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/6d1c6bc748adc4cf9ca9404f649d12b16578ae5a/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/b61a6a3461b822d25bbba1158a2605f7e922bf9a/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       2557 (NCPO): From 2014-08-07
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-28T12:45:23
+last_modified: 2019-04-02T06:17:26
 license: ''
 category:
   - Thailand

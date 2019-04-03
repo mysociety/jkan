@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1c15d90f8d0c43177ec132a9445c3acdf70f1b97/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ffca5e6edc772096f03b6ca302655f3440ee8e64/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–2021: From 2016-09-27
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-08T10:13:13
+last_modified: 2019-03-25T03:17:23
 license: ''
 category:
   - Isle of Man

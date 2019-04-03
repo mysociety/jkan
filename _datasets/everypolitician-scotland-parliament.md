@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/50cde833392632153d7fdd2e6f4d8c0636663c58/data/Scotland/Parliament/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e804e2ead81ddd72d08720f69c77590c49e11560/data/Scotland/Parliament/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th Parliament: From 2016-05-05
@@ -24,7 +24,7 @@ resources:
   - name: >-
       4th Parliament: 2011-05-06 to 2016-03-24
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d0576a258d5c7e5fa101022578ad881b4e93e15b/data/Scotland/Parliament/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e804e2ead81ddd72d08720f69c77590c49e11560/data/Scotland/Parliament/term-4.csv
     format: csv
   - name: >-
       3rd Parliament: 2007-05-03 to 2011-05-04
@@ -34,12 +34,12 @@ resources:
   - name: >-
       2nd Parliament: 2003-05-01 to 2007-04-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/28f298805437200eaf2f711cec3795a0abbd1409/data/Scotland/Parliament/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e804e2ead81ddd72d08720f69c77590c49e11560/data/Scotland/Parliament/term-2.csv
     format: csv
   - name: >-
       1st Parliament: 1999-05-06 to 2003-03-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/28f298805437200eaf2f711cec3795a0abbd1409/data/Scotland/Parliament/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e804e2ead81ddd72d08720f69c77590c49e11560/data/Scotland/Parliament/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -50,7 +50,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-07T10:14:56
+last_modified: 2019-04-01T12:39:16
 license: ''
 category:
   - Scotland
