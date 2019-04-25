@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/83fcbedac7d49faa3da5987ef5372c42a82e070a/data/New_Caledonia/Congress/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/3dfab7da3830986061d13a273343c7da767b710b/data/New_Caledonia/Congress/ep-popolo-v1.0.json
     format: json
   - name: >-
       4e mandat: From 2014
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e5dbf86fe3e86a5d58a6e1e3923339ed7744bf25/data/New_Caledonia/Congress/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/14fd56912463bb50c519c8d711c0dbe2969f1802/data/New_Caledonia/Congress/term-4.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-25T04:25:50
+last_modified: 2019-04-23T10:53:54
 license: ''
 category:
   - New Caledonia

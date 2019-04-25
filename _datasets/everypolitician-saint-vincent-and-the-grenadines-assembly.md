@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5f8e2fce225f47825158a3a3ecfb5ac431ec2495/data/Saint_Vincent_and_the_Grenadines/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/669f24054b0c2a397c41f2ea3f7e7ad64085c1f3/data/Saint_Vincent_and_the_Grenadines/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       9th Vincentian Assembly: From 2015-12-30
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-01-27T11:12:20
+last_modified: 2019-04-09T17:04:13
 license: ''
 category:
   - Saint Vincent and the Grenadines

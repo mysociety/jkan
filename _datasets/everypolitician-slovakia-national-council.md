@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/86b28a90181c17c2a136f3d912befb6de7b103e2/data/Slovakia/National_Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/79f928af09c3dccee02eceb76dd4239d954f04c4/data/Slovakia/National_Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th Národná rada: From 2016-03-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/c9129fd9114417114e431267771dcae4500a22b5/data/Slovakia/National_Council/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5973445dfef508c27b802d012d4d86793df6a96e/data/Slovakia/National_Council/term-7.csv
     format: csv
   - name: >-
       6th Národná rada: 2012-03-11 to 2016-02-12
@@ -55,7 +55,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-02T11:00:11
+last_modified: 2019-04-08T10:11:44
 license: ''
 category:
   - Slovakia

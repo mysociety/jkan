@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ffca5e6edc772096f03b6ca302655f3440ee8e64/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b221723be4465e7577a5beaa0debb7c10ab9fd9/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–2021: From 2016-09-27
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/1c62f65a117b8edb3aa9ed8928fd8c83e8b7755d/data/Isle_of_Man/House_of_Keys/term-2016.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b221723be4465e7577a5beaa0debb7c10ab9fd9/data/Isle_of_Man/House_of_Keys/term-2016.csv
     format: csv
   - name: >-
       2011–2016: 2011-10-04 to 2016-09-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/0e60668299962c46a623e2a3993136125c6f8b6c/data/Isle_of_Man/House_of_Keys/term-2011.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7b221723be4465e7577a5beaa0debb7c10ab9fd9/data/Isle_of_Man/House_of_Keys/term-2011.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-25T03:17:23
+last_modified: 2019-04-08T07:18:00
 license: ''
 category:
   - Isle of Man

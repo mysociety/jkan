@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/b93e448706a12d9d165043b14973cfc025bcd9ba/data/Sark/Chief_Pleas/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/7d84c04cf461fc77e83b87f83d001293fa5fa1a0/data/Sark/Chief_Pleas/ep-popolo-v1.0.json
     format: json
   - name: >-
       2015-2016: 2015-01-01 to 2016-12-31
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-02-27T21:16:25
+last_modified: 2019-04-09T10:11:30
 license: ''
 category:
   - Sark

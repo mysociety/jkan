@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5dfe1408ebaedbb15c2b437b15ae91253e204e78/data/Indonesia/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/354cefa005d1f2a094a7c5f195f70c78306054a7/data/Indonesia/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–2019 Council: From 2014-10-01
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-02T11:12:44
+last_modified: 2019-04-23T07:14:31
 license: ''
 category:
   - Indonesia

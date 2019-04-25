@@ -14,12 +14,12 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8d52cb2b18c3df2533163fbf810c0490ffb31d11/data/Botswana/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/5dc4e4c9863c8fa153c141385e31b57a6865a184/data/Botswana/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament of Botswana: From 2014-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/8d52cb2b18c3df2533163fbf810c0490ffb31d11/data/Botswana/Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/f188c89b9d17ecd166dae389d42b0d4f981042ff/data/Botswana/Assembly/term-11.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-02T08:37:23
+last_modified: 2019-04-23T04:03:09
 license: ''
 category:
   - Botswana
