@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/16aab69df0f2546b3a359244a1fae4ec2e94dd1e/data/Myanmar/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/fdd0c8dd11b20ffe667c658a245c09312365cce1/data/Myanmar/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       1st Pyithu Hluttaw: 2011-01-31 to 2016-01-31
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-04T10:45:03
+last_modified: 2019-04-25T04:57:54
 license: ''
 category:
   - Myanmar
