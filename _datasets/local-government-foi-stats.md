@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Local Government FOI Statistics
-organization: EveryPolitician
+organization: mySociety
 notes: >-
   Data release to accompany 2019 research report Freedom of Information in Local Government.
   These csvs contain the collective information obtained via FOI (on WhatDoTheyKnow.com) on FOI statistics and administration of local authorities in the UK.
