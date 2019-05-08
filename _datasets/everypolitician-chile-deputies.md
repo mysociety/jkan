@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/75af2e4a54f5e998d97d0e6027c9aa66aa774cfc/data/Chile/Deputies/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31d718a17a8572eb30b7a92b969917d1dc98c416/data/Chile/Deputies/ep-popolo-v1.0.json
     format: json
   - name: >-
       54th Legislature: 2014-03-11 to 2018-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7683c073437d42e3643a2c1fbba93139ec9d67ee/data/Chile/Deputies/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31d718a17a8572eb30b7a92b969917d1dc98c416/data/Chile/Deputies/term-8.csv
     format: csv
   - name: >-
       53rd Legislature: 2010-03-11 to 2014-03-10
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/7683c073437d42e3643a2c1fbba93139ec9d67ee/data/Chile/Deputies/term-6.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/31d718a17a8572eb30b7a92b969917d1dc98c416/data/Chile/Deputies/term-6.csv
     format: csv
   - name: >-
       52nd Legislature: 2006-03-11 to 2010-03-10
@@ -60,7 +60,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-09T09:16:00
+last_modified: 2019-04-25T10:53:31
 license: ''
 category:
   - Chile

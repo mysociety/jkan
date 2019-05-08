@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/60c55ca68bf73b0d324c62d30b5982842ab90975/data/Israel/Knesset/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/ep-popolo-v1.0.json
     format: json
   - name: >-
       Knesset 20: 2015-03-31 to 2016-06-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/54c79884967331dfd7dffd06e9eef75478c7e38c/data/Israel/Knesset/term-20.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/43fa47b41ae05e51668d455ca69ceeb6431638df/data/Israel/Knesset/term-20.csv
     format: csv
   - name: >-
       Knesset 19: 2013-02-05 to 2015-03-31
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/54c79884967331dfd7dffd06e9eef75478c7e38c/data/Israel/Knesset/term-19.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/43fa47b41ae05e51668d455ca69ceeb6431638df/data/Israel/Knesset/term-19.csv
     format: csv
   - name: >-
       Knesset 18: 2009-02-24 to 2013-02-05
@@ -64,7 +64,7 @@ resources:
   - name: >-
       Knesset 11: 1984-08-13 to 1988-11-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3e2cb422e5aa4d83fad5377a25dbb4e64772b127/data/Israel/Knesset/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-11.csv
     format: csv
   - name: >-
       Knesset 10: 1981-07-20 to 1984-08-13
@@ -74,17 +74,17 @@ resources:
   - name: >-
       Knesset 9: 1977-06-13 to 1981-07-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/47781cc3ccf6c67f7b872451f0e8c4dcc5a3a26f/data/Israel/Knesset/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-9.csv
     format: csv
   - name: >-
       Knesset 8: 1974-01-21 to 1977-06-13
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/47781cc3ccf6c67f7b872451f0e8c4dcc5a3a26f/data/Israel/Knesset/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-8.csv
     format: csv
   - name: >-
       Knesset 7: 1969-11-17 to 1974-01-21
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f8feed436f04301815018683566cc7df431e625/data/Israel/Knesset/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-7.csv
     format: csv
   - name: >-
       Knesset 6: 1965-11-22 to 1969-11-17
@@ -94,27 +94,27 @@ resources:
   - name: >-
       Knesset 5: 1961-09-04 to 1965-11-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/f1521d24009507e81b04948930a759838418b468/data/Israel/Knesset/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-5.csv
     format: csv
   - name: >-
       Knesset 4: 1959-11-30 to 1961-09-04
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f8feed436f04301815018683566cc7df431e625/data/Israel/Knesset/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-4.csv
     format: csv
   - name: >-
       Knesset 3: 1955-08-15 to 1959-11-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f8feed436f04301815018683566cc7df431e625/data/Israel/Knesset/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-3.csv
     format: csv
   - name: >-
       Knesset 2: 1951-08-20 to 1955-08-15
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f8feed436f04301815018683566cc7df431e625/data/Israel/Knesset/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-2.csv
     format: csv
   - name: >-
       Knesset 1: 1949-02-14 to 1951-08-20
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/9f8feed436f04301815018683566cc7df431e625/data/Israel/Knesset/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ad2afb8f520ea66ca3de817dc25c3c801167ab75/data/Israel/Knesset/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -125,7 +125,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-10T13:56:52
+last_modified: 2019-04-29T06:25:53
 license: ''
 category:
   - Israel

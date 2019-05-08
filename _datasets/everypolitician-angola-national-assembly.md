@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/2209f7a572d235727bda89dc32b33d5a6063c63f/data/Angola/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/673f351eccb6239df9fda1a3ff9b32ac0092e79c/data/Angola/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       4th National Assembly: From 2017-08-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/801e590ab2fd01c00adda80ea36241b3df2a2ee1/data/Angola/National_Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/673f351eccb6239df9fda1a3ff9b32ac0092e79c/data/Angola/National_Assembly/term-4.csv
     format: csv
   - name: >-
       3rd National Assembly: 2012-09-27 to 2017-08-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/63e5c3a482a60bf54e39381d10df011d980e1078/data/Angola/National_Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/673f351eccb6239df9fda1a3ff9b32ac0092e79c/data/Angola/National_Assembly/term-3.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-03-28T14:59:15
+last_modified: 2019-04-29T07:43:41
 license: ''
 category:
   - Angola

@@ -14,27 +14,27 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/5b1b2c1602f4ee85ada94441dc29afc6af3302a5/data/Tanzania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9257bed5d27ad042bfdb93af3b8bc5b9bfeeb9d/data/Tanzania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament of Tanzania: From 2015-11-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/52a9fbb538f5cf853639e47f7e64b4664f37461f/data/Tanzania/Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9257bed5d27ad042bfdb93af3b8bc5b9bfeeb9d/data/Tanzania/Assembly/term-11.csv
     format: csv
   - name: >-
       10th Parliament of Tanzania: 2010-10-31 to 2015-06-18
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/52a9fbb538f5cf853639e47f7e64b4664f37461f/data/Tanzania/Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9257bed5d27ad042bfdb93af3b8bc5b9bfeeb9d/data/Tanzania/Assembly/term-10.csv
     format: csv
   - name: >-
       9th Parliament of Tanzania: 2005-10-30 to 2010-10-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/577633694dd779ed67958c2b3eb2cb4af32715af/data/Tanzania/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9257bed5d27ad042bfdb93af3b8bc5b9bfeeb9d/data/Tanzania/Assembly/term-9.csv
     format: csv
   - name: >-
       8th Parliament of Tanzania: 2000-10-29 to 2005-10-29
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/577633694dd779ed67958c2b3eb2cb4af32715af/data/Tanzania/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9257bed5d27ad042bfdb93af3b8bc5b9bfeeb9d/data/Tanzania/Assembly/term-8.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-23T03:57:51
+last_modified: 2019-04-30T07:12:24
 license: ''
 category:
   - Tanzania

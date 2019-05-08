@@ -14,17 +14,17 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/446a3b2ea816dab7d8d8793eefd3c885d6416cde/data/Turkey/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       26th Parliament: From 2015-11-17
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/446a3b2ea816dab7d8d8793eefd3c885d6416cde/data/Turkey/Assembly/term-26.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-26.csv
     format: csv
   - name: >-
       25th Parliament: 2015-06-23 to 2015-11-01
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/446a3b2ea816dab7d8d8793eefd3c885d6416cde/data/Turkey/Assembly/term-25.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-25.csv
     format: csv
   - name: >-
       24th Parliament: 2011-06-28 to 2015-06-23
@@ -39,7 +39,7 @@ resources:
   - name: >-
       22nd Parliament: 2002-11-14 to 2007-07-23
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/977fdb969b547870bb0f63839bfc01f336dc7cfb/data/Turkey/Assembly/term-22.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-22.csv
     format: csv
   - name: >-
       21st Parliament: 1999-04-18 to 2002-11-14
@@ -104,17 +104,17 @@ resources:
   - name: >-
       9th Parliament: 1950-05-22 to 1954-05-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/446a3b2ea816dab7d8d8793eefd3c885d6416cde/data/Turkey/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-9.csv
     format: csv
   - name: >-
       8th Parliament: 1946-08-05 to 1950-05-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/977fdb969b547870bb0f63839bfc01f336dc7cfb/data/Turkey/Assembly/term-8.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-8.csv
     format: csv
   - name: >-
       7th Parliament: 1943-03-08 to 1946-08-05
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/977fdb969b547870bb0f63839bfc01f336dc7cfb/data/Turkey/Assembly/term-7.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-7.csv
     format: csv
   - name: >-
       6th Parliament: 1939-04-03 to 1943-03-08
@@ -139,12 +139,12 @@ resources:
   - name: >-
       2nd Parliament: 1923-08-11 to 1927-08-02
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/977fdb969b547870bb0f63839bfc01f336dc7cfb/data/Turkey/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-2.csv
     format: csv
   - name: >-
       1st Parliament: 1920-04-23 to 1923-08-11
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/977fdb969b547870bb0f63839bfc01f336dc7cfb/data/Turkey/Assembly/term-1.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/8c4013e1de432dd5024daa49e6e7ec2a41ba7bcd/data/Turkey/Assembly/term-1.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -155,7 +155,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-10T09:31:51
+last_modified: 2019-04-26T06:14:56
 license: ''
 category:
   - Turkey
