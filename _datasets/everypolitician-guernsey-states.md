@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/4d13677c24c20545870b9557a48de5a996e627bc/data/Guernsey/States/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/bb716afcc900798648752015535ef349bbcf3815/data/Guernsey/States/ep-popolo-v1.0.json
     format: json
   - name: >-
       2016–: From 2016-04-27
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-09T09:43:19
+last_modified: 2019-05-08T04:00:22
 license: ''
 category:
   - Guernsey

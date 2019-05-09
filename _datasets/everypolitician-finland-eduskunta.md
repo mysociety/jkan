@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d1b65283ea938aea1faab343a0a876f0c3649df2/data/Finland/Eduskunta/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/9c398726b6c9baee3aa7ce20751d0c5b1f89d62f/data/Finland/Eduskunta/ep-popolo-v1.0.json
     format: json
   - name: >-
       37th Parliament of Finland: From 2015-04-28
@@ -90,7 +90,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-28T08:05:15
+last_modified: 2019-05-07T17:38:28
 license: ''
 category:
   - Finland

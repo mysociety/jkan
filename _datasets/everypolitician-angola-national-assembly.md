@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/673f351eccb6239df9fda1a3ff9b32ac0092e79c/data/Angola/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/13068a5292a24483c2ff54653036ec0e0bd41861/data/Angola/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       4th National Assembly: From 2017-08-23
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-29T07:43:41
+last_modified: 2019-05-07T06:25:41
 license: ''
 category:
   - Angola

@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d73e3298290be55c7b852d93a93e2de1da5dc6c7/data/Cambodia/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/ecb3c8996ce0dff16e3bef6561245cdd77be0e42/data/Cambodia/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       5th National Assembly: 2013-09-23 to 2018-07-29
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-03T19:59:32
+last_modified: 2019-05-07T07:10:21
 license: ''
 category:
   - Cambodia

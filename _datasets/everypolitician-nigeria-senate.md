@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e6cbcacde88813a8ef0adef8534b9aa5ebbb6bca/data/Nigeria/Senate/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/e6d691ab5efe52c8cc866a37f175d7f67ea985f9/data/Nigeria/Senate/ep-popolo-v1.0.json
     format: json
   - name: >-
       8th National Assembly of Nigeria: From 2015-06-09
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-29T08:19:27
+last_modified: 2019-05-07T16:50:03
 license: ''
 category:
   - Nigeria

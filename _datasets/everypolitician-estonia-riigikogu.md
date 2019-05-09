@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/871d986e5d4244f11c201457310144519dac9f45/data/Estonia/Riigikogu/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/748961827ccf0b8a86e837238298fffd5f3deacb/data/Estonia/Riigikogu/ep-popolo-v1.0.json
     format: json
   - name: >-
       14th Riigikogu: From 2019-04-04
@@ -40,7 +40,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-05-07T05:20:34
+last_modified: 2019-05-07T19:34:11
 license: ''
 category:
   - Estonia

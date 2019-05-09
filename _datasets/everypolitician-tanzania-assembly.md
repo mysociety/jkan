@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d9257bed5d27ad042bfdb93af3b8bc5b9bfeeb9d/data/Tanzania/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c4be64df8ae21b1ac56b6ce870ad253a087c4054/data/Tanzania/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament of Tanzania: From 2015-11-17
@@ -45,7 +45,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-30T07:12:24
+last_modified: 2019-05-07T05:52:11
 license: ''
 category:
   - Tanzania
