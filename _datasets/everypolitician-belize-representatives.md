@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/dbcaaaeb6cbd47a93163ba96f8d44bc5efddd813/data/Belize/Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/1bbf30f61d19c97f2106a00f13a17c3801c10935/data/Belize/Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       10th House of Representatives: From 2015-11-13
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-08T05:57:09
+last_modified: 2019-05-08T07:46:22
 license: ''
 category:
   - Belize
