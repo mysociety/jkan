@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/e67ce193f5d20f0bf97ef75e0b29d0a3cf5bcc9e/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/829394692cfdf0c74c6ca3ffd8888d47ca201aaa/data/Kyrgyzstan/Council/ep-popolo-v1.0.json
     format: json
   - name: >-
       6th Convocation: From 2015-10-28
@@ -35,7 +35,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-05-07T23:15:28
+last_modified: 2019-05-12T09:28:54
 license: ''
 category:
   - Kyrgyzstan

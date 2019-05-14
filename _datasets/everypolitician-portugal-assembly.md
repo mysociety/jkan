@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/07dc0f246c76445fd8c232aa472b18b82785c90f/data/Portugal/Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       13th Portuguese Assembly: From 2015-10-23
@@ -24,22 +24,22 @@ resources:
   - name: >-
       12th Portuguese Assembly: 2011-06-20 to 2015-10-22
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-12.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-12.csv
     format: csv
   - name: >-
       11th Portuguese Assembly: 2009-10-15 to 2011-06-19
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-11.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-11.csv
     format: csv
   - name: >-
       10th Portuguese Assembly: 2005-03-10 to 2009-10-14
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-10.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-10.csv
     format: csv
   - name: >-
       9th Portuguese Assembly: 2002-04-05 to 2005-03-09
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-9.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-9.csv
     format: csv
   - name: >-
       8th Portuguese Assembly: 1999-10-25 to 2002-04-04
@@ -59,22 +59,22 @@ resources:
   - name: >-
       5th Portuguese Assembly: 1987-08-13 to 1991-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-5.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-5.csv
     format: csv
   - name: >-
       4th Portuguese Assembly: 1985-11-04 to 1987-08-12
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-4.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-4.csv
     format: csv
   - name: >-
       3rd Portuguese Assembly: 1983-05-31 to 1985-11-03
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-3.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-3.csv
     format: csv
   - name: >-
       2nd Portuguese Assembly: 1980-11-13 to 1983-05-30
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/d4cd4080bdb190f52bf325fe2aa2ca83ead7099a/data/Portugal/Assembly/term-2.csv
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/c3df021b27106763885b0fa005bb7738c4ca0c20/data/Portugal/Assembly/term-2.csv
     format: csv
   - name: Python
     url: 'https://github.com/everypolitician/everypolitician-popolo-python'
@@ -85,7 +85,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-05-08T13:00:33
+last_modified: 2019-05-13T06:22:55
 license: ''
 category:
   - Portugal
