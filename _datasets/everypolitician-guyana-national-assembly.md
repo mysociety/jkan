@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ae3d3004aa20b756833cd971769b8481349d311e/data/Guyana/National_Assembly/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/a22e85b2c9d6f5013fc23ed31b403172e7199300/data/Guyana/National_Assembly/ep-popolo-v1.0.json
     format: json
   - name: >-
       11th Parliament: From 2015-06-10
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-05-08T02:38:09
+last_modified: 2019-05-13T12:09:13
 license: ''
 category:
   - Guyana

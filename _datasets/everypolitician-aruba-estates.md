@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/3ffd4faf5806a4e65a11e22975077565cb0b848e/data/Aruba/Estates/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/14c1b36eb1d14b1ae93935886a63eb7684e8faec/data/Aruba/Estates/ep-popolo-v1.0.json
     format: json
   - name: >-
       7th Aruban Estates: From 2013
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-12T05:16:14
+last_modified: 2019-05-15T02:27:18
 license: ''
 category:
   - Aruba

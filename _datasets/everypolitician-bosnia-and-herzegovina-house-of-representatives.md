@@ -14,7 +14,7 @@ resources:
     format: info
   - name: All Data as Popolo JSON
     url: >-
-      https://cdn.rawgit.com/everypolitician/everypolitician-data/ffd75d9a9ede613bcacaa29b27e29b0a65222004/data/Bosnia_and_Herzegovina/House_of_Representatives/ep-popolo-v1.0.json
+      https://cdn.rawgit.com/everypolitician/everypolitician-data/0d86ca8aab760f0ba7240511fea0c3e7bc43365b/data/Bosnia_and_Herzegovina/House_of_Representatives/ep-popolo-v1.0.json
     format: json
   - name: >-
       2014–: From 2014-12-09
@@ -30,7 +30,7 @@ resources:
   - name: R
     url: 'https://github.com/ajparsons/everypoliticianR'
     format: library
-last_modified: 2019-04-02T07:19:52
+last_modified: 2019-05-13T06:06:29
 license: ''
 category:
   - Bosnia and Herzegovina
