@@ -7,14 +7,10 @@ notes: >-
   them under various coding systems. Use to combine data published by different
   sources. 
 resources:
-  - name: Local Authority Names and Codes
+  - name: Data package with links to multiple formats.
     url: >-
-      https://raw.githubusercontent.com/ajparsons/uk_local_authority_names_and_codes/master/uk_local_authorities.csv
-    format: csv
-  - name: Messy Names Lookup
-    url: >-
-      https://raw.githubusercontent.com/ajparsons/uk_local_authority_names_and_codes/master/uk_local_authority_messy_lookup.csv
-    format: csv
+      https://mysociety.github.io/uk_local_authority_names_and_codes/
+    format: web
 license: ''
 category:
   - Groups & Bodies
