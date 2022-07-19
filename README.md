@@ -41,3 +41,4 @@ This isn't directly supported by Github Jekyll, so you can generate the markdown
     $ ruby script/generate_categories.rb
     
 Or manually create the file when creating/modifying categories. 
+
