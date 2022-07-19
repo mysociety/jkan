@@ -1,1 +1,4 @@
+#!/bin/bash 
+bundle update --bundler
+bundle install
 bundle exec jekyll serve --incremental --host 0.0.0.0

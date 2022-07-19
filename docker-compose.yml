@@ -1,0 +1,9 @@
+services:
+  app:
+    image: mysociety/jkan:${TAG:-latest}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /workspaces/jkan      
+    volumes:
+      - ./:/workspaces/jkan/

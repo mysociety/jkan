@@ -1,0 +1,2 @@
+#!/bin/sh
+[ ! -d "theme/server" ] && git submodule update --init || echo "Already exists"

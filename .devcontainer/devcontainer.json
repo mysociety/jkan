@@ -1,0 +1,37 @@
+{
+	"name": "jkan",
+	"dockerComposeFile": "../docker-compose.yml",
+	"service": "app",
+	"initializeCommand": [
+		".devcontainer/initializeCommand"
+	],
+	"overrideCommand": true,
+	"postCreateCommand": "",
+	"workspaceFolder": "/workspaces/jkan",
+	"extensions": [
+		"ms-vscode.test-adapter-converter",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"ms-azuretools.vscode-docker",
+		"valentjn.vscode-ltex"
+	],
+	"customizations": {
+		"codespaces": {
+			"repositories": {
+				"mysociety/mysociety-docs-theme": {
+					"permissions": {
+						"contents": "write",
+						"actions": "write",
+						"deployments": "write",
+						"issues": "write",
+						"packages": "read",
+						"pull_requests": "write",
+						"repository_projects": "write",
+						"statuses": "write",
+						"workflows": "write"
+					}
+				}
+			}
+		}
+	}
+}
